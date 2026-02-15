@@ -534,6 +534,10 @@
                 {
                     "name": "lunaria_enigma",
                     "displayName": "Lunaria Enigma"
+                },
+                {
+                    "name": "qingfengruhuai",
+                    "displayName": "Breezy Embrace"
                 }
             ]
         },
@@ -614,6 +618,10 @@
                 {
                     "name": "daughter_of_fraser_city",
                     "displayName": "Daughter Of Fraser City"
+                },
+                {
+                    "name": "yanseweisheng",
+                    "displayName": "Veil of Flame"
                 }
             ]
         },
@@ -744,6 +752,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "fanghuoanquanxiaoketang",
+                    "displayName": "Fire Safety Tips"
                 }
             ]
         },
@@ -864,6 +876,20 @@
             ]
         },
         {
+            "name": "helga",
+            "displayName": "Helga",
+            "rank": "A",
+            "libram": "FAMINE",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
             "name": "hella",
             "displayName": "Hella",
             "rank": "B",
@@ -912,6 +938,10 @@
                 {
                     "name": "lambent_wishbearer",
                     "displayName": "Lambent Wishbearer"
+                },
+                {
+                    "name": "yehuohuanghun",
+                    "displayName": "Dusk Aglow"
                 }
             ]
         },{
@@ -943,6 +973,10 @@
                 {
                     "name": "limit_breaker",
                     "displayName": "Limit Breaker"
+                },
+                {
+                    "name": "tianyacishi",
+                    "displayName": "Abiding Moment"
                 }
             ]
         },
@@ -957,6 +991,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "yeyinjinqiang",
+                    "displayName": "Crepuscular Bloom"
                 }
             ]
         },
@@ -1043,6 +1081,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "roufengyeying",
+                    "displayName": "Gossamer Sway"
                 }
             ]
         },
@@ -1439,6 +1481,20 @@
             ]
         },
         {
+            "name": "margaret",
+            "displayName": "Margaret",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
             "name": "matilda",
             "displayName": "Matilda",
             "rank": "A",
@@ -1709,6 +1765,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "guiyishalong",
+                    "displayName": "Salon Rose"
                 }
             ]
         },
@@ -1901,6 +1961,20 @@
             ]
         },
         {
+            "name": "rust",
+            "displayName": "Rust",
+            "rank": "S",
+            "libram": "TREACHERY",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }   
+            ]
+        },
+        {
             "name": "serpent",
             "displayName": "Serpent",
             "rank": "S",
@@ -1973,6 +2047,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "xingjizhiyong",
+                    "displayName": "Stellar Embrace"
                 }
             ]
         },
@@ -2272,6 +2350,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "xuanhumuke",
+                    "displayName": "Verdant Apothecary"
                 }
             ]
         },
@@ -2340,6 +2422,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "wenjiyaotai",
+                    "displayName": "Celestial Augury"
                 }
             ]
         },
@@ -2398,6 +2484,10 @@
                 {
                     "name": "supreme_negotiation",
                     "displayName": "Supreme Negotiation"
+                },
+                {
+                    "name": "bingfengwangzuo",
+                    "displayName": "Lord of Rimehowl"
                 }
             ]
         },
