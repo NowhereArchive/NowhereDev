@@ -109,18 +109,18 @@
             "title": "Level Up",
             "filename": "File:vo_mess_levelup_002.aac",
             "text": "Craftsmanship upgraded!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_mess_jointeam_001.aac",
-            "text": "Hahaha... Fight! Fight!"
         }
     ],
     "mystic_pawnshop": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_mess_wuqidiandang_cacha_001.aac",
             "text": "Visiting my shop at such a late hour... Do you have something good that you're eager to pawn? Or do you want to trade something? ...Hehe, I can do both, as long as you're sure you won't regret it. After all, you can't redeem what's pawned here."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mess_wuqidiandang_levelup_001.aac",
+            "text": "This is in decent condition, I'll take it."
         },
         {
             "title": "Greeting",
@@ -129,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_mess_wuqidiandang_talk_001.aac",
+            "filename": "File:vo_mess_wuqidiandang_talk1_001.aac",
             "text": "Hey, don't touch it! This paper octopus only likes its owner, and it's got a bad temper... Pawnshop rule No.1: keep your hands and questions to yourself. Don't ask what you shouldn't ask, and don't touch what you shouldn't touch. If you accidentally provoke something, I \"can\" guarantee your safety~"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_mess_wuqidiandang_talk_002.aac",
+            "filename": "File:vo_mess_wuqidiandang_talk1_002.aac",
             "text": "Hmm? For me? ...What! Garlic chips?! Ahhh, don't come any closer! Are you trying to please me or hurt me?! Ahhh... You're definitely doing this on purpose!"
         },
         {
@@ -143,19 +143,14 @@
             "text": "It's fine to wander around in the hall, but don't go behind the counter. You won't like what's there. I'm warning you: curiosity killed the cats."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_mess_wuqidiandang_specialattention_001.aac",
-            "text": "From the moment you walked in, you've laid your eyes only on me. If you really want to take something out from the pawnshop, pick up the ritual sword on the ground and subdue me!"
-        },
-        {
-            "title": "Level Up",
-            "filename": "File:vo_mess_wuqidiandang_levelup_001.aac",
-            "text": "This is in decent condition, I'll take it."
-        },
-        {
             "title": "Annoyed",
             "filename": "File:vo_mess_wuqidiandang_clicking_001.aac",
             "text": "Oh? You want to peel off this yellow paper? Hehe, I don't know what will happen either, why not give it a try?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mess_wuqidiandang_specialattention_001.aac",
+            "text": "From the moment you walked in, you've laid your eyes only on me. If you really want to take something out from the pawnshop, pick up the ritual sword on the ground and subdue me!"
         }
     ]
 }

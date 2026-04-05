@@ -21,7 +21,7 @@
             "text": "What's that over there? It's moving! Come on, let's have a closer look!"
         },
         {
-            "title": "Win Battles",
+            "title": "Victory",
             "filename": "File:vo_yanyan_battlewin_001.aac",
             "text": "Where do you guys come from? Where will you go after I defeat you? Your weapons... Hey! I haven't finished my questions, why are they running so fast?"
         },
@@ -58,12 +58,12 @@
         {
             "title": "Conversation 3",
             "filename": "File:vo_yanyan_talk1_003.aac",
-            "text": "When the Sun Crow descends, the day will never end. The last drop of water will evaporate, and the vegetation will wither on the scorched earth... Huh? Why are you making that face? Oh, They must have spoken through me again. Hehe, you'll get used to it, I wouldn't be alive today without Them."
+            "text": "When the Sun Crow descends, the day will never end. The last drop of water will evaporate, and the vegetation will wither on the scorched earth... Huh? Why are you making that face? Oh, <i>They</i> must have spoken through me again. Hehe, you'll get used to it, I wouldn't be alive today without <i>Them</i>."
         },
         {
             "title": "Special Conversation 1",
             "filename": "File:vo_yanyan_talk2_001.aac",
-            "text": "My grandmother said that I am a chosen and blessed child, and pursuing the gods is my destiny... I really saw Them! They must be hiding somewhere in this vast world! If I can't find Them today, I'll keep looking for Them tomorrow; if I can't find Them here, I'll go somewhere else... I've got a whole life in front of me, I'm sure we'll meet one day!"
+            "text": "My grandmother said that I am a chosen and blessed child, and pursuing the gods is my destiny... I really saw <i>Them</i>! <i>They</i> must be hiding somewhere in this vast world! If I can't find <i>Them</i> today, I'll keep looking for <i>Them</i> tomorrow; if I can't find <i>Them</i> here, I'll go somewhere else... I've got a whole life in front of me, I'm sure we'll meet one day!"
         },
         {
             "title": "Special Conversation 2",
@@ -91,6 +91,11 @@
             "text": "No, no, no! That's not how you use the Dragon Seeking Ruler! You have to hold the handle, then think about what you want to find in your heart, and it will start to spin by itself... Huh? How was the mechanism designed? Uh... Design... Mechanism... Th-the mechanism is a secret! Yes, a secret! How can I casually tell you the tricks of the mysterious Eastern power!"
         },
         {
+            "title": "Special Attention",
+            "filename": "File:vo_yanyan_specialattention_001.aac",
+            "text": "...Ha, I get it! You must want to have a staring contest with me, right! Hehe, bring it on, I'm really good at this. The first one to blink can't ask questions for three days!"
+        },
+        {
             "title": "Dispatch",
             "filename": "File:vo_yanyan_dispatch_001.aac",
             "text": "Heaven and Earth, the vast universe. The compass turns, and the good luck returns! ...Ahem, the compass points to the North, it must be that way!"
@@ -101,61 +106,51 @@
             "text": "Ah...? Is it time to go back already...? I haven't had enough fun yet..."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_yanyan_specialattention_001.aac",
-            "text": "...Ha, I get it! You must want to have a staring contest with me, right! Hehe, bring it on, I'm really good at this. The first one to blink can't ask questions for three days!"
-        },
-        {
             "title": "Level Up",
             "filename": "File:vo_yanyan_levelup_002.aac",
             "text": "Tell me more folklore about this place, myths, legends, whatever it may be, tell me more, tell me more!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_yanyan_jointeam_001.aac",
-            "text": "Oh! Are we going to beat up the bad guys?! Surely I'll give those baddies a taste of fire!"
         }
     ],
     "wafting_whimsy": [
         {
-            "title": "Level Up",
-            "text": "You've got to have at least one winning move to sail through the world of martial arts.",
-            "filename": "File:vo_yanyan_wafting_whimsy_levelup_001.aac"
+            "title": "Attire Obtained",
+            "filename": "File:vo_yanyan_qingyanrushi_cacha_001.aac",
+            "text": "\"Yanyan's Guide to Traveling Down the Mountain\": first, watch your step; second, eat on time; third, keep an eye on the donkey; fourth, don't talk to strangers... Hey there! Are you a local? All alone? Great! How about we travel together?"
         },
         {
-            "title": "Obtain Attire",
-            "text": "Yanyan's Guide to Traveling Down the Mountain. First, watch your step. Second, eat on time. Third, keep an eye on the donkey. Fourth, don't talk to strangers. Huh? Hey there! Are you a local? All alone? Great! How about we travel together?",
-            "filename": "File:vo_yanyan_wafting_whimsy_cacha_001.aac"
+            "title": "Level Up",
+            "filename": "File:vo_yanyan_qingyanrushi_levelup_001.aac",
+            "text": "You've got to have at least one winning move to sail through the world of martial arts!"
         },
         {
             "title": "Greeting",
-            "text": "Hmm. Got my novels, comic books, martial art manuals, maps, dried fruits snacks, and grandma's (?). Perfect! We're all set to go. Let's hit the road!",
-            "filename": "File:vo_yanyan_wafting_whimsy_greeting_001.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_greeting_001.aac",
+            "text": "Got my novels, comic books, martial art manuals, maps, dried fruit snacks, and Grandma's thermo gourd—perfect! We're all set to go! Let's hit the road!"
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "There are so many places I want to explore. The marketplace I read in the book, the pain and Pleasure Boat, the (?), the acrobat you mentioned, a little tea house, and that, uh, what was it called again? M-M-B-C-C, or was it M-C-B-B?",
-            "filename": "File:vo_yanyan_wafting_whimsy_talk_001.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_talk_001.aac",
+            "text": "There are so many places I want to explore! The marketplace I read in the book, the painted pleasure boat, that dim sum place, the acrobat you mentioned, the little teahouse, and that... what was it called again? M...MBCC? Or was it MCBB?"
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "No worries. They're just a bunch of bandits. I'll take care of them in no time and return what they've taken to the villagers. Huh? A hero? Me? Oh, not at all! Grandma always says, a true hero acts for the country and the people. But I don't really get it yet. She told me I'd understand once I see more of the world down the mountain.",
-            "filename": "File:vo_yanyan_wafting_whimsy_talk_002.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_talk_002.aac",
+            "text": "No worries! They're just a bunch of bandits. I'll take care of them in no time and return what they've taken to the villagers! Huh...? A hero? Me? Hehe, not at all! Grandma always says a true hero acts for the country and the people, but I don't really get it yet. She told me I'd understand once I see more of the world down the mountain!"
         },
         {
             "title": "Idle",
-            "text": "Wow, what a view! The lush mountains and clear waters are just amazing! Okay, it's decided. I'll rest here for a bit and let my little donkey have a drink!",
-            "filename": "File:vo_yanyan_wafting_whimsy_idle_001.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_idle_001.aac",
+            "text": "Wow, what a view! The lush mountains and clear waters are just amazing. Okay, it's decided. I'll rest here for a bit and let my little donkey have a drink."
         },
         {
             "title": "Annoyed",
-            "text": "Oh, it's you! Oh, I'm so sorry. I didn't mean to hurt you. It was just my instinct as a martial artist. Oh, does it hurt? Let me blow on it for you.",
-            "filename": "File:vo_yanyan_wafting_whimsy_clicking_001.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_clicking_001.aac",
+            "text": "Oh, it's you! I'm so sorry! I didn't mean to hurt you—it was just my instinct as a martial artist... Does it hurt? Ohhh, let me blow on it for you."
         },
         {
             "title": "Special Attention",
-            "text": "You want to hear stories about my life on the mountain, and I want to explore the world down here. I guess that makes us perfect partners!",
-            "filename": "File:vo_yanyan_wafting_whimsy_specialattention_001.aac"
+            "filename": "File:vo_yanyan_qingyanrushi_specialattention_001.aac",
+            "text": "You want to hear stories about my life on the mountain, and I want to explore the world down here... Hehe, I guess that makes us perfect partners!"
         }
     ]
 }

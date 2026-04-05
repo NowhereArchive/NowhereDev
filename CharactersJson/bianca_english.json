@@ -21,7 +21,7 @@
             "text": "Camera is ready! Come on, give us a smile!"
         },
         {
-            "title": "Win Battles",
+            "title": "Victory",
             "filename": "File:vo_bianca_battlewin_001.aac",
             "text": "Guess what I caught on camera? Ta-da! It's the moment they got blown to smithereens! Cool, huh? I'm going to frame it and hang it above my bed."
         },
@@ -114,104 +114,100 @@
             "title": "Pat Head",
             "filename": "File:vo_bianca_head_001.aac",
             "text": "I once caught someone doing the same thing at a crime scene. This suspect put their hand on their enemy's neck, and then... Snap! I've got a high-definition video here. Wanna watch it with me?"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_bianca_jointeam_001.aac",
-            "text": "Ready? We're going on TV now!"
         }
     ],
-    "in_cider_scoop": [
+    "in-cider_scoop": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
+            "text": "Hehe, Chief, with the two of us invincible inspectors on this case, we'll de-definitely dig up something super-dooper juicy at this party! It's just... I didn't expect the cider here would be soooo tasty!"
+        },
         {
             "title": "Level Up",
-            "text": "Woohoo! Gimme another one!",
-            "filename": "File:vo_bianca_in_cider_scoop_levelup_001.aac"
-        },
-        {
-            "title": "Pat Head",
-            "text": "Hmm? What? Something wrong with my head? Wait... Is it... a twig growing on my head?! Oh, I'm \"twigging,\" hahaha! ...Hey, you could... water it if you want—it'll grow bigger~",
-            "filename": "File:vo_bianca_in_cider_scoop_head_001.aac"
-        },
-        {
-            "title": "Obtain Attire",
-            "text": "Hehe, Chief, with the two of us invincible inspectors on this case, we'll de-definitely dig up something super-dooper juicy at this party! It's just... I didn't expect the cider here would be soooo tasty!",
-            "filename": "File:vo_bianca_in_cider_scoop_cacha_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_levelup_002.aac",
+            "text": "Woohoo! Gimme another one!"
         },
         {
             "title": "Greeting",
-            "text": "Whoa! Ashy, you're here! You've gotta try this! Fermented apple juice, 100% organic! No wonder it's Eastside-exclusive. Fancy stuff, huh?",
-            "filename": "File:vo_bianca_in_cider_scoop_greeting_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_greeting_001.aac",
+            "text": "Whoa! Ashy, you're here! You've gotta try this! Fermented apple juice, 100% organic! No wonder it's Eastside-exclusive. Fancy stuff, huh?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_head_001.aac",
+            "text": "Hmm? What? Something wrong with my head? Wait... Is it... a twig growing on my head?! Oh, I'm \"twigging,\" hahaha! ...Hey, you could... water it if you want—it'll grow bigger~"
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "Listen, in a vanity fair like this, you must keep your head clear of all the \"vanity\" and \"luxury\"... Behind it all lie illegal crimes and dirty deals... That's why we're here! My eyes are the best HD lenses—no one escapes the Journalist of Justice!",
-            "filename": "File:vo_bianca_in_cider_scoop_talk_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_talk1_001.aac",
+            "text": "Listen, in a vanity fair like this, you must keep your head clear of all the \"vanity\" and \"luxury\"... Behind it all lie illegal crimes and dirty deals... That's why we're here! My eyes are the best HD lenses—no one escapes the Journalist of Justice!"
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "Hehe, I wasn’t just out there drinking juice. I've got some scoop! First hand, hot off the press! Wanna hear? Come closer, Ashy, I'll tell ya~",
-            "filename": "File:vo_bianca_in_cider_scoop_talk_002.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_talk1_002.aac",
+            "text": "Hehe, I wasn’t just out there drinking juice. I've got some scoop! First hand, hot off the press! Wanna hear? Come closer, Ashy, I'll tell ya~"
         },
         {
             "title": "Ordinary Contact 3",
-            "text": "Ohh, the crimson delight, the forbidden fruit, the crystal of wisdom, and the key to all desires... You, aren't you curious about what it tastes like? Come on, take a bite, live a little!",
-            "filename": "File:vo_bianca_in_cider_scoop_hand_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_hand_001.aac",
+            "text": "Ohh, the crimson delight, the forbidden fruit, the crystal of wisdom, and the key to all desires... You, aren't you curious about what it tastes like? Come on, take a bite, live a little!"
         },
         {
             "title": "Ordinary Contact 4",
-            "text": "Ahh, I fell down. I'm stuck! I'm forever imprisoned by this giant, evil couch. Oh no, don't you save me, my friend! ...Unless, we're heading out to dig up something big out there!",
-            "filename": "File:vo_bianca_in_cider_scoop_leg_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_leg_001.aac",
+            "text": "Ahh, I fell down. I'm stuck! I'm forever imprisoned by this giant, evil couch. Oh no, don't you save me, my friend! ...Unless, we're heading out to dig up something big out there!"
         },
         {
             "title": "Idle",
-            "text": "Twinkle, twinkle, little camera, capturing stories near and far~",
-            "filename": "File:vo_bianca_in_cider_scoop_idle_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_idle_001.aac",
+            "text": "Twinkle, twinkle, little camera, capturing stories near and far~"
         },
         {
             "title": "Special Attention",
-            "text": "Whoa, are you recording? Ahem—zoom in on me, please! Bon dinner party, everyone! I, Bianca, the most legendary journalist in DisCity, am here to bring you the breaking news of tonight! Stay tuned!",
-            "filename": "File:vo_bianca_in_cider_scoop_specialattention_001.aac"
+            "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_specialattention_001.aac",
+            "text": "Whoa, are you recording? Ahem—zoom in on me, please! Bon dinner party, everyone! I, Bianca, the most legendary journalist in DisCity, am here to bring you the breaking news of tonight! Stay tuned!"
         }
     ],
-    "tantiaotuokata": [{
-            "title": "Level Up",
-            "filename": "File:vo_bianca_tantiaotuokata_levelup_001.aac",
-            "text": ""
+    "bouncing_toccata": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
+            "text": "Let me see... Wow! It's absolutely packed in here, the stands are about to overflow! Heh heh, star reporter Bianca isn't just here to blow the crowd away with my keyboard skills, I'm also documenting this musical feast myself. Now that's what I call an exclusive!"
         },
         {
-            "title": "Obtain Attire",
-            "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
-            "text": ""
+            "title": "Level Up",
+            "filename": "File:vo_bianca_tantiaotuokata_levelup_001.aac",
+            "text": "Eastside's most dazzling reporter/musician takes the stage!"
         },
         {
             "title": "Greeting",
             "filename": "File:vo_bianca_tantiaotuokata_greeting_001.aac",
-            "text": ""
+            "text": "Oh hey, perfect timing! I just composed a new song—\"Miss Apple's Justice Heart Club,\" come listen to it with me!"
         },
         {
             "title": "Ordinary Contact 1",
             "filename": "File:vo_bianca_tantiaotuokata_talk1_001.aac",
-            "text": ""
+            "text": "A great reporter must be fearless on the frontlines, bold on the stage, steady with the camera, and brilliant on the keyboard!"
         },
         {
             "title": "Ordinary Contact 2",
             "filename": "File:vo_bianca_tantiaotuokata_talk1_002.aac",
-            "text": ""
+            "text": "This atmosphere, these screams, these lights! It's electrifying! I've got music pulsing through my veins! We have to crack open the biggest bottles at the after-party! Anything less than drinking ourselves silly would be a disservice to this night of pure ecstasy!"
         },
         {
             "title": "Idle",
             "filename": "File:vo_bianca_tantiaotuokata_idle_001.aac",
-            "text": ""
+            "text": "...Which chord progression would work better for this chorus section?"
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_bianca_tantiaotuokata_clicking_001.aac",
-            "text": ""
+            "text": "You there in the audience! Please stop distracting the musicians. If they mess up their solo because of you, it'll be a disaster!"
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_bianca_tantiaotuokata_specialattention_001.aac",
-            "text": ""
+            "text": "Heh heh, pretty impressive, right? Surprised? Bet you're seeing me in a whole new light now! But don't be too amazed just yet, I'm going to show you some truly jaw-dropping moments later! \"Lightning Ivory\" and I haven't even busted out our real showstoppers—prepare to have your mind blown!"
         }
     ]
 }

@@ -114,16 +114,11 @@
             "title": "Pat Head",
             "filename": "File:vo_raven_head_001.aac",
             "text": "That's not a scar... It's my medal, my medal for becoming a wacko."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_raven_jointeam_001.aac",
-            "text": "Who put a glass and roses on my grave?"
         }
     ],
     "arnheim_athenaeum": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_raven_aenhaimuzhiguan_cacha_001.aac",
             "text": "Oh my, are you the end of my thousand-year-long waiting, the observer who adores me? Want my autograph?"
         },
@@ -165,44 +160,44 @@
     ],
     "raven_in_the_box": [
         {
-            "title": "Level Up",
-            "text": "Thanks, but no matter how much you butter me up, I’m not giving you this plush.",
-            "filename": "File:vo_raven_raven_in_the_box_levelup_001.aac"
+            "title": "Attire Obtained",
+            "filename": "File:vo_raven_kehoujingxi_cacha_001.aac",
+            "text": "I knew they were up to something with all the secrecy. Here, isn't this toy just cute? Oh, you're not jealous, are you?"
         },
         {
-            "title": "Obtain Attire",
-            "text": "I knew they were up to something with all the secrecy. Here, isn't this toy just cute? Oh, you're not jealous, are you?",
-            "filename": "File:vo_raven_raven_in_the_box_cacha_001.aac"
+            "title": "Level Up",
+            "filename": "File:vo_raven_kehoujingxi_levelup_001.aac",
+            "text": "Thanks, but no matter how much you butter me up, I’m not giving you this plush."
         },
         {
             "title": "Greeting",
-            "text": "Oh, what took you so long, the celebration is all over now. But luckily, you still get to have a good look at the best gift my students got me.",
-            "filename": "File:vo_raven_raven_in_the_box_greeting_001.aac"
+            "filename": "File:vo_raven_kehoujingxi_greeting_001.aac",
+            "text": "Oh, what took you so long, the celebration is all over now. But luckily, you still get to have a good look at the best gift my students got me."
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "I was expecting a Jack-in-the-Box sort of jumpscare, who knew it would turn out to be a decent gift. But, do I really look like this horse-faced, round-headed dummy in their eyes?",
-            "filename": "File:vo_raven_raven_in_the_box_talk_001.aac"
+            "filename": "File:vo_raven_kehoujingxi_talk_001.aac",
+            "text": "I was expecting a Jack-in-the-Box sort of jumpscare, who knew it would turn out to be a decent gift. But, do I really look like this horse-faced, round-headed dummy in their eyes?"
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "When after a hot, exhausting day... and thought no more about the morrow— How true these words ring. With this gift in my hand and the smiles on your faces, this fleeting moment is the very epitome of happiness—so simple, yet so invaluable.",
-            "filename": "File:vo_raven_raven_in_the_box_talk_002.aac"
+            "filename": "File:vo_raven_kehoujingxi_talk_002.aac",
+            "text": "\"When after a hot, exhausting day... and thought no more about the morrow—\" How true these words ring. With this gift in my hand and the smiles on your faces, this fleeting moment is the very epitome of happiness—so simple, yet so invaluable."
         },
         {
             "title": "Idle",
-            "text": "They went all out of their way for this little gathering. Kids surely have endless energy to burn... Hmph, might as well put it to better use. Hey, you girls perching on the windowsill, why don't you come in and give the classroom a proper cleaning?",
-            "filename": "File:vo_raven_raven_in_the_box_idle_001.aac"
+            "filename": "File:vo_raven_kehoujingxi_idle_001.aac",
+            "text": "They went all out of their way for this little gathering. Kids surely have endless energy to burn... Hmph, might as well put it to better use. Hey, you girls perching on the windowsill, why don't you come in and give the classroom a proper cleaning?"
         },
         {
             "title": "Annoyed",
-            "text": "Hey, stop fiddling with it. It's from my precious students!",
-            "filename": "File:vo_raven_raven_in_the_box_clicking_001.aac"
+            "filename": "File:vo_raven_kehoujingxi_clicking_001.aac",
+            "text": "Hey, stop fiddling with it. It's from my precious students!"
         },
         {
             "title": "Special Attention",
-            "text": "Why the look? Oh, is this teacher-fit I specially chose eye candy for you? Well, in that case, admire all you want.",
-            "filename": "File:vo_raven_raven_in_the_box_specialattention_001.aac"
+            "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
+            "text": "Why the look? Oh, is this teacher-fit I specially chose eye candy for you? Well, in that case, admire all you want."
         }
     ]
 }

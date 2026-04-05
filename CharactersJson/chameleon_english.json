@@ -109,16 +109,11 @@
             "title": "Level Up",
             "filename": "File:vo_chameleon_levelup_002.aac",
             "text": "Look, the abyss is even closer now..."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_chameleon_jointeam_001.aac",
-            "text": "That's right... You are the strongest of sinners... All of you."
         }
     ],
     "message_in_dreams": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
             "text": "\"Knowledge,\" \"greed,\" \"love\"... Seduced by them, you have finally come to see me."
         },
@@ -158,9 +153,9 @@
             "text": "\"Know thyself\"—a seemingly simple riddle, yet it has stumped generations of brave warriors, and now... it's finally your turn."
         }
     ],
-    "dream_s_ephemera": [
+    "dream's_ephemera": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",
             "text": "You followed the guidance of dreams to my realm. Are you here to break the shackles in your heart?"
         },
@@ -181,22 +176,22 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_chameleon_xiaomengfusheng_talk_001.aac",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_001.aac",
             "text": "What you see with your eyes may not necessarily be the truth."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_chameleon_xiaomengfusheng_talk_002.aac",
+            "filename": "File:vo_chameleon_xiaomengfusheng_body_002.aac",
             "text": "Tell me, is it more unfortunate to never wake up from a dream or to never dream?"
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_chameleon_xiaomengfusheng_hand_001.aac",
+            "filename": "File:vo_chameleon_xiaomengfusheng_lefthand_001.aac",
             "text": "Here, I can take you back to the past and make up for those unforgettable regrets... Will you abandon yourself to the dream eternally?"
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_chameleon_xiaomengfusheng_leg_001.aac",
+            "filename": "File:vo_chameleon_xiaomengfusheng_background_001.aac",
             "text": "Want your dream to come true instantly? It's simple, just stop the time at the moment you make your wish to me, and make it flow again when your dream is achieved. Brilliant, isn't it?"
         },
         {

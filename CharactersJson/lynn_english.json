@@ -41,6 +41,26 @@
             "text": "I don't... want to... experience it again!"
         },
         {
+            "title": "Greeting",
+            "filename": "File:vo_lynn_greeting_001.aac",
+            "text": "Chief... I made some crafts today to give them to you. I hope you can be in a good mood all day..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_lynn_talk1_001.aac",
+            "text": "Um... These are all... photos that I took before... but I'm not great at taking photos of people. Huh? You want to take photos, too, Chief? ...I-I will try my best!"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_lynn_talk1_002.aac",
+            "text": "Ch-chief... That was from before, when I was really nervous... I couldn't help but dig a hole in the room... I was thinking I could hide in it or something..."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_lynn_talk1_003.aac",
+            "text": "Will Mommy and Daddy come to find me... I... I shouldn't think about it. I'll only cause them trouble..."
+        },
+        {
             "title": "Special Conversation 1",
             "filename": "File:vo_lynn_talk2_001.aac",
             "text": "Huh...? Are there Eastsiders here, too?... They won't do anything out of line... right, Chief?"
@@ -61,31 +81,6 @@
             "text": "The world is so much clearer and prettier without my helmet... Thank you so much for giving me the courage to accept and control my power... I... I won't run away anymore! But... can I rely on you a bit more? I'm still not that great at fighting..."
         },
         {
-            "title": "Level Up",
-            "filename": "File:vo_lynn_levelup_002.aac",
-            "text": "I'm fine the way I am! I... I don't need to get any stronger..."
-        },
-        {
-            "title": "Conversation 1",
-            "filename": "File:vo_lynn_talk1_001.aac",
-            "text": "Um... These are all... photos that I took before... but I'm not great at taking photos of people. Huh? You want to take photos, too, Chief? ...I-I will try my best!"
-        },
-        {
-            "title": "Conversation 2",
-            "filename": "File:vo_lynn_talk1_002.aac",
-            "text": "Ch-chief... That was from before, when I was really nervous... I couldn't help but dig a hole in the room... I was thinking I could hide in it or something..."
-        },
-        {
-            "title": "Conversation 3",
-            "filename": "File:vo_lynn_talk1_003.aac",
-            "text": "Will Mommy and Daddy come to find me... I... I shouldn't think about it. I'll only cause them trouble..."
-        },
-        {
-            "title": "Greeting",
-            "filename": "File:vo_lynn_greeting_001.aac",
-            "text": "Chief... I made some crafts today to give them to you. I hope you can be in a good mood all day..."
-        },
-        {
             "title": "Idle",
             "filename": "File:vo_lynn_idle_001.aac",
             "text": "Hehe... I captured another amazing scene! Look, Chief... Ahh... Sorry... I'm a bit too excited..."
@@ -94,6 +89,11 @@
             "title": "Annoyed",
             "filename": "File:vo_lynn_clicking_001.aac",
             "text": "Hey... ahhh! That... that... helmet is very dirty..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lynn_specialattention_001.aac",
+            "text": "Um... right! Please don't... keep staring at me like that... It's making me nervous..."
         },
         {
             "title": "Dispatch",
@@ -106,26 +106,21 @@
             "text": "Ah... Thank goodness everything turned out fine..."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_lynn_specialattention_001.aac",
-            "text": "Um... right! Please don't... keep staring at me like that... It's making me nervous..."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_lynn_jointeam_001.aac",
-            "text": "There must be a better way to solve this than fighting, right?"
+            "title": "Level Up",
+            "filename": "File:vo_lynn_levelup_002.aac",
+            "text": "I'm fine the way I am! I... I don't need to get any stronger..."
         }
     ],
     "skittish_star": [
         {
+            "title": "Attire Obtained",
+            "filename": "File:vo_lynn_ouxiangdubai_cacha_001.aac",
+            "text": "Ah! Chief... I-I'm fine. I just... accidentally got entangled in the wires and fell down..."
+        },
+        {
             "title": "Level Up",
             "filename": "File:vo_lynn_ouxiangdubai_levelup_001.aac",
             "text": "Hehehe... I'm getting better at this."
-        },
-        {
-            "title": "Obtain the Sinner",
-            "filename": "File:vo_lynn_ouxiangdubai_cacha_001.aac",
-            "text": "Ah! Chief... I-I'm fine. I just... accidentally got entangled in the wires and fell down..."
         },
         {
             "title": "Greeting",
@@ -134,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_lynn_ouxiangdubai_talk_001.aac",
+            "filename": "File:vo_lynn_ouxiangdubai_talk1_001.aac",
             "text": "Can I... really do well on stage? Back in school, I used to watch the bands shine on stage, and I always thought they were so cool... Do you think... I could be like that too?"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_lynn_ouxiangdubai_talk_002.aac",
+            "filename": "File:vo_lynn_ouxiangdubai_talk1_002.aac",
             "text": "...My costumes for the performance are cute? Thank you! I made all the decorations myself by referring to comic books. I look quite like an idol in it, right? Hehehe ..."
         },
         {

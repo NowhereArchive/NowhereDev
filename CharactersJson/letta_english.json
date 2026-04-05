@@ -16,11 +16,6 @@
             "text": "Hehe, I'm not the innocent lady you think I am, dear Chief."
         },
         {
-            "title": "Level Up",
-            "filename": "File:vo_letta_levelup_002.aac",
-            "text": "The light has gotten warmer..."
-        },
-        {
             "title": "Level Start",
             "filename": "File:vo_letta_battlebegin_001.aac",
             "text": "Deep inside the fog... What will I find in there?"
@@ -44,6 +39,11 @@
             "title": "Die in Battles",
             "filename": "File:bt_letta_dead_001.aac",
             "text": "I want to... go home..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_letta_greeting_001.aac",
+            "text": "Hmm... (Stretches her back) I hope you'll have... an amazing day... Hehe..."
         },
         {
             "title": "Conversation 1",
@@ -81,11 +81,6 @@
             "text": "Been here, been there too... Now, where should we explore next? Hehe, no matter where we go, even if it's a place I've already been to, I'm sure I'll have the most exciting experience with you around! ...You've still got work? Hmm... Alright, I can wait! After all... we've still got the whole night!"
         },
         {
-            "title": "Greeting",
-            "filename": "File:vo_letta_greeting_001.aac",
-            "text": "Hmm... (Stretches her back) I hope you'll have... an amazing day... Hehe..."
-        },
-        {
             "title": "Idle",
             "filename": "File:vo_letta_idle_001.aac",
             "text": "I can't eat them all... Hehe..."
@@ -94,6 +89,11 @@
             "title": "Annoyed",
             "filename": "File:vo_letta_clicking_001.aac",
             "text": "Ow... Ow... Stop making biscuits on me, little kitty..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_letta_specialattention_001.aac",
+            "text": "Shh... Care to look for some fun in the foggy DisCity with me tonight?"
         },
         {
             "title": "Dispatch",
@@ -106,26 +106,21 @@
             "text": "Hehe... As always, it was a fun trip to an interesting place."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_letta_specialattention_001.aac",
-            "text": "Shh... Care to look for some fun in the foggy DisCity with me tonight?"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_letta_jointeam_001.aac",
-            "text": "It's getting foggy! Let me see... Where should I go have fun today?"
+            "title": "Level Up",
+            "filename": "File:vo_letta_levelup_002.aac",
+            "text": "The light has gotten warmer..."
         }
     ],
     "spectral_shenanigans": [
         {
+            "title": "Attire Obtained",
+            "filename": "File:vo_letta_gubaoyouying_cacha_001.aac",
+            "text": "Hmm... Another adventurer, huh... Since you woke me up from my slumber, how about... you play a game with me! If you refuse... you can forget about ever leaving!"
+        },
+        {
             "title": "Level Up",
             "filename": "File:vo_letta_gubaoyouying_levelup_001.aac",
             "text": "Hehe, I'm feeling super energetic now. I can play with you all night long!"
-        },
-        {
-            "title": "Obtain Attire",
-            "filename": "File:vo_letta_gubaoyouying_cacha_001.aac",
-            "text": "Hmm... Another adventurer, huh... Since you woke me up from my slumber, how about... you play a game with me! If you refuse... you can forget about ever leaving!"
         },
         {
             "title": "Greeting",

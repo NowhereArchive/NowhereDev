@@ -109,16 +109,11 @@
             "title": "Level Up",
             "filename": "File:vo_wendy_levelup_002.aac",
             "text": "Ah... the sound of a churning chainsaw is music to my ears!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_wendy_jointeam_001.aac",
-            "text": "Hmm? How come the dead can talk?"
         }
     ],
     "chainsaw_nightmare": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_wendy_lianjujinghunye_cacha_001.aac",
             "text": "Scream and cower in fear, traitors! Enjoy your last moments—\"Chainsaw Wendy\" is here! You can't get away from me!"
         },
@@ -134,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_wendy_lianjujinghunye_talk_001.aac",
+            "filename": "File:vo_wendy_lianjujinghunye_talk1_001.aac",
             "text": "What's so scary about the killers in horror flicks? People are much more dangerous in real life."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_wendy_lianjujinghunye_talk_002.aac",
+            "filename": "File:vo_wendy_lianjujinghunye_talk1_002.aac",
             "text": "A lot of people don't realize that life should never be taken for granted... I'll teach them that lesson."
         },
         {
@@ -160,7 +155,7 @@
     ],
     "elegy_of_the_rust": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_wendy_xiuhewange_cacha_001.aac",
             "text": "Come, say hi to my old friends."
         },
@@ -181,22 +176,22 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_wendy_xiuhewange_talk_001.aac",
+            "filename": "File:vo_wendy_xiuhewange_body_001.aac",
             "text": "Not a single person will come and chill by the Rust. There are only Corruptors and monsters around here... Hehe, and a weirdo who keeps the Undertaker company."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_wendy_xiuhewange_talk_002.aac",
+            "filename": "File:vo_wendy_xiuhewange_body_002.aac",
             "text": "The dark cape can hide the filth and can be simply discarded. Who'll give a disposable lapdog an expensive leash?"
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_wendy_xiuhewange_hand_001.aac",
+            "filename": "File:vo_wendy_xiuhewange_lefthand_001.aac",
             "text": "I must keep these names safe. This way, at least somebody will remember us... Is there really a place where the Undertakers belong?"
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_wendy_xiuhewange_leg_001.aac",
+            "filename": "File:vo_wendy_xiuhewange_background_001.aac",
             "text": "My friends are all asleep. One day, I'll lie beside them and rest in this filthy home of ours... When the day comes, will you bring me flowers too?"
         },
         {

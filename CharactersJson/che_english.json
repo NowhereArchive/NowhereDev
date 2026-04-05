@@ -78,7 +78,7 @@
         {
             "title": "Full Compliance",
             "filename": "File:vo_che_obeyfull_001.aac",
-            "text": "I'm surprised that you, as the Chief, with that face, didn't go suck up to those high officials instead of hanging out with a bunch of Sinners all day. You are an interesting one... Don't get me wrong. I didn't mean anything by that."
+            "text": "I'm surprised that you, as the Chief, with such a face, didn't go suck up to those high officials instead of hanging out with a bunch of Sinners all day. You are an interesting one... Don't get me wrong. I didn't mean anything by that."
         },
         {
             "title": "Idle",
@@ -87,8 +87,8 @@
         },
         {
             "title": "Annoyed",
-            "filename": "File:vo_che_clicking_001.aac",
-            "text": "Umm... Bro/Sis, what's your problem?"
+            "filename": "File:vo_che_clicking_001_01.aac",
+            "text": "Umm... Bro, what's your problem?"
         },
         {
             "title": "Special Attention",
@@ -109,16 +109,11 @@
             "title": "Level Up",
             "filename": "File:vo_che_levelup_002.aac",
             "text": "Tsk, what a pain."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_che_jointeam_001.aac",
-            "text": "Ah... My eyes... They hurt... I'm gonna turn blind. Do you still want me to go like this? Geez."
         }
     ],
     "unexpected_guest": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_che_busuzhike_cacha_001.aac",
             "text": "Oh? It's just you. I'm working here. Whitestone just took on a debt collection job, and K.K. is in the middle of something else, so I had to come. I'm wearing this to look more like a badass. It's Bai Yi's idea, not mine."
         },
@@ -134,18 +129,18 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_che_busuzhike_talk_001.aac",
+            "filename": "File:vo_che_busuzhike_body_001.aac",
             "text": "Ugh, out of all the jobs they could've picked, they had to go for this debt collection gig, and of course, they forced me to do it... Well, if I can't get it done, so be it. It won't be the first job Whitestone couldn't finish anyway."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_che_busuzhike_talk_002.aac",
+            "filename": "File:vo_che_busuzhike_body_002.aac",
             "text": "If I keep sitting here, I'll be seen as their security guy. The only good thing here is free tea and snacks. Hey, you really not gonna have some?"
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_che_busuzhike_specialattention_001.aac",
-            "text": "What brings you here? Well, not like it's any of my business. If you have nothing better to do, it's good to sit here and get some vitamin D from the sun too."
+            "title": "Idle",
+            "filename": "File:vo_che_busuzhike_idle_001.aac",
+            "text": "Hey~ You don't seem so busy. Why not join us in the back to play mahjong? Don't worry, the boss here is my buddy, he won't charge us."
         },
         {
             "title": "Annoyed",
@@ -153,9 +148,9 @@
             "text": "Don't rub it. It's not a tattoo, it's just a sleeve. Why would I want to sting myself with some colorful needles?"
         },
         {
-            "title": "Idle",
-            "filename": "File:vo_che_busuzhike_idle_001.aac",
-            "text": "Hey~ You don't seem so busy. Why not join us in the back to play mahjong? Don't worry, the boss here is my buddy, he won't charge us."
+            "title": "Special Attention",
+            "filename": "File:vo_che_busuzhike_specialattention_001.aac",
+            "text": "What brings you here? Well, not like it's any of my business. If you have nothing better to do, it's good to sit here and get some vitamin D from the sun too."
         }
     ]
 }

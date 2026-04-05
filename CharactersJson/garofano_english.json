@@ -38,7 +38,7 @@
         {
             "title": "Die in Battles",
             "filename": "File:bt_garofano_dead_001.aac",
-            "text": "It's fine. I can finally... be with you guys again"
+            "text": "It's fine. I can finally... be with you guys again..."
         },
         {
             "title": "Greeting",
@@ -48,7 +48,7 @@
         {
             "title": "Conversation 1",
             "filename": "File:vo_garofano_talk1_001.aac",
-            "text": "Mmm, maybe I'm just used to taking care of people. I really enjoy being relied on ... because in this way, no one would ever want to leave me."
+            "text": "Mmm, maybe I'm just used to taking care of people. I really enjoy being relied on... because in this way, no one would ever want to leave me."
         },
         {
             "title": "Conversation 2",
@@ -83,12 +83,12 @@
         {
             "title": "Idle",
             "filename": "File:vo_garofano_idle_001.aac",
-            "text": "You're so adorable when you're asleep... I just want to hold you in my arms forever. Chief."
+            "text": "You're so adorable when you're asleep... I just want to hold you in my arms forever, Chief..."
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_garofano_clicking_001.aac",
-            "text": "If you want to get closer to me, you can just tell me upfront. Don't sneak up on me like that ... I don't want my needles to pierce you by accident."
+            "text": "If you want to get closer to me, you can just tell me upfront. Don't sneak up on me like that... I don't want my needles to pierce you by accident."
         },
         {
             "title": "Special Attention",
@@ -109,63 +109,58 @@
             "title": "Level Up",
             "filename": "File:vo_garofano_levelup_002.aac",
             "text": "I will gladly accept everything you give me."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_garofano_jointeam_001.aac",
-            "text": "All right. I'll stay with you."
         }
     ],
     "in_the_veiled_grove": [
         {
-            "title": "Obtain Attire",
-            "filename": "File:vo_garofano_in_the_veiled_grove_cacha_001.aac",
+            "title": "Attire Obtained",
+            "filename": "File:vo_garofano_yuyewulin_cacha_001.aac",
             "text": "Ah, we're trapped here together, Chief... It's as if we've been stitched together by these rain threads."
         },
         {
             "title": "Level Up",
-            "filename": "File:vo_garofano_in_the_veiled_grove_levelup_001.aac",
+            "filename": "File:vo_garofano_yuyewulin_levelup_001.aac",
             "text": "The aroma of flowers, dampened by the rain, seemed stronger."
         },
         {
             "title": "Greeting",
-            "filename": "File:vo_garofano_in_the_veiled_grove_greeting_001.aac",
+            "filename": "File:vo_garofano_yuyewulin_greeting_001.aac",
             "text": "Please stay closer to me, Chief. I'll shield you from the wind and rain."
         },
         {
+            "title": "Pat Head",
+            "filename": "File:vo_garofano_yuyewulin_head_001.aac",
+            "text": "This carnation you attached to my hair will remain my most treasured possession even after the sun shines again after rain."
+        },
+        {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_garofano_in_the_veiled_grove_talk_001.aac",
-            "text": "Be careful! Don't move... Your clothes have snagged in the twigs. If you struggle, they will get tangled up even more. (Chuckles) Don't worry. I'll take care of it."
+            "filename": "File:vo_garofano_yuyewulin_body_001.aac",
+            "text": "Be careful! Don't move... Your clothes have snagged in the twigs. If you struggle, they will get tangled up even more. Don't worry. I'll take care of it."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_garofano_in_the_veiled_grove_talk_002.aac",
+            "filename": "File:vo_garofano_yuyewulin_body_002.aac",
             "text": "If you feel tired, you can lean against me and rest for a while. Don't worry. I'll stay by your side."
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_garofano_in_the_veiled_grove_hand_001.aac",
+            "filename": "File:vo_garofano_yuyewulin_hand_001.aac",
             "text": "Oh, your hands are ice cold... No need to be nervous. I'm just trying to warm them up for you."
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_garofano_in_the_veiled_grove_leg_001.aac",
+            "filename": "File:vo_garofano_yuyewulin_background_001.aac",
             "text": "You are getting closer to me... as if you can't wait to become one of my possessions. Heh, I know that you simply want to keep us warm on this cold rainy night, right?"
         },
         {
             "title": "Idle",
-            "filename": "File:vo_garofano_in_the_veiled_grove_idle_001.aac",
-            "text": "The task you assigned me has been accomplished. Now, let's just stay here, and make here a temporaty, little shelter that's only for us... until the rain stops."
+            "filename": "File:vo_garofano_yuyewulin_idle_001.aac",
+            "text": "The task you assigned me has been accomplished. Now, let's just stay here, and make it a temporary, little shelter that's only for us... until the rain stops."
         },
         {
             "title": "Special Attention",
-            "filename": "File:vo_garofano_in_the_veiled_grove_specialattention_001.aac",
+            "filename": "File:vo_garofano_yuyewulin_specialattention_001.aac",
             "text": "To me, your gaze is like a warm light on this rainy night, impossible to ignore..."
-        },
-        {
-            "title": "Pat Head",
-            "filename": "File:vo_garofano_in_the_veiled_grove_head_001.aac",
-            "text": "This carnation you attached to my hair will remain my most treasured possession even after the sun shines again after rain."
         }
     ]
 }

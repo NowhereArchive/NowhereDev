@@ -58,7 +58,7 @@
         {
             "title": "Conversation 3",
             "filename": "File:vo_enfer_talk1_003.aac",
-            "text": "Only when you're most frightened will you follow your most primal instincts... Those are the true colors of humans."
+            "text": "Only when you're most frightened will you follow your most primal instincts... That's the true colors of humans."
         },
         {
             "title": "Special Conversation 1",
@@ -111,21 +111,21 @@
             "text": "Hmm! It's carved perfectly."
         },
         {
-            "title": "Deploy",
-            "filename": "File:bt_enfer_jointeam_001.aac",
-            "text": "Do you want my mark?"
-        },
-        {
             "title": "Pat Head",
             "filename": "File:vo_enfer_head_001.aac",
             "text": "What? Do you want to nurture some artsy vibe as well?"
         }
     ],
-    "sculptor_s_nest": [
+    "sculptor's_nest": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_enfer_zankezhezhichao_cacha_001.aac",
             "text": "Welcome to the sculptor's nest, my most secret garden. Herein lies fears and struggles, distortions and pain... as well as boundless love."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_zankezhezhichao_levelup_002.aac",
+            "text": "With a flash of lightning and a speeding heart, Venus is born from my hands."
         },
         {
             "title": "Greeting",
@@ -133,23 +133,28 @@
             "text": "As soon as I prayed to the sculpture to meet you, you appeared before my eyes. Do I have a unique power of making wishes come true?"
         },
         {
+            "title": "Pat Head",
+            "filename": "File:vo_enfer_zankezhezhichao_head_001.aac",
+            "text": "Did the artist make the hat special, or did the hat become the symbol of the artist?"
+        },
+        {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_enfer_zankezhezhichao_talk_001.aac",
+            "filename": "File:vo_enfer_zankezhezhichao_talk1_001.aac",
             "text": "It's the greatest joy to carve out the imagination with my own hands."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_enfer_zankezhezhichao_talk_002.aac",
+            "filename": "File:vo_enfer_zankezhezhichao_talk1_002.aac",
             "text": "Fix your gaze on the sculptures. If you can't look fear in the eye, you might get crushed by it..."
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_enfer_zankezhezhichao_hand_001.aac",
+            "filename": "File:vo_enfer_zankezhezhichao_leg_001.aac",
             "text": "For convenience's sake, I added many practical little pockets on my clothes to hold carving tools."
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_enfer_zankezhezhichao_leg_001.aac",
+            "filename": "File:vo_enfer_zankezhezhichao_hand_001.aac",
             "text": "Why is this work unfinished? Hehe... Maybe \"she\" needs someone who loves \"her\" to make up for the missing half of her heart..."
         },
         {
@@ -161,23 +166,18 @@
             "title": "Special Attention",
             "filename": "File:vo_enfer_zankezhezhichao_specialattention_001.aac",
             "text": "I can't work properly if you keep staring at me like this... Hmm? Do you want to model for me or something?"
-        },
-        {
-            "title": "Pat Head",
-            "filename": "File:vo_enfer_zankezhezhichao_head_001.aac",
-            "text": "Did the artist make the hat special, or did the hat become the symbol of the artist?"
-        },
-        {
-            "title": "Level Up",
-            "filename": "File:vo_enfer_zankezhezhichao_levelup_001.aac",
-            "text": "With a flash of lightning and a speeding heart, Venus is born from my hands."
         }
     ],
     "virtuoso_of_jade": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.aac",
             "text": "The jade emits warm haze, its body transparent. Your emotions and thoughts live through the carved jade. What do you seek from me, young carver?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_puyuzhuozhuo_levelup_001.aac",
+            "text": "You're developing an eye for good rough stones. Keep it up~"
         },
         {
             "title": "Greeting",
@@ -186,12 +186,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_enfer_puyuzhuozhuo_talk_001.aac",
+            "filename": "File:vo_enfer_puyuzhuozhuo_body_001.aac",
             "text": "Raw jade born under the moon is always hidden in rubble. Ordinary carvers often overlook its true value. Will you become a skilled carver with such acumen?"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_enfer_puyuzhuozhuo_talk_002.aac",
+            "filename": "File:vo_enfer_puyuzhuozhuo_body_002.aac",
             "text": "A gentleman's character is often compared to the quality of jade. People wear limpid jade accessories to demonstrate their virtue and good manners... Hmm, judging by your demeanor and skills, you'll be a piece of pure jade."
         },
         {
@@ -200,19 +200,14 @@
             "text": "These discarded raw stones are good for carving a few simple accessories to ease this boredom."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_enfer_puyuzhuozhuo_specialattention_001.aac",
-            "text": "Have you decided? What kind of ornament do you want me to carve this jade into?"
-        },
-        {
-            "title": "Level Up",
-            "filename": "File:vo_enfer_puyuzhuozhuo_levelup_001.aac",
-            "text": "You're developing an eye for good rough stones. Keep it up~"
-        },
-        {
             "title": "Annoyed",
             "filename": "File:vo_enfer_puyuzhuozhuo_clicking_001.aac",
             "text": "Never pass jade with your hands. I won't remind you again."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_puyuzhuozhuo_specialattention_001.aac",
+            "text": "Have you decided? What kind of ornament do you want me to carve this jade into?"
         }
     ]
 }

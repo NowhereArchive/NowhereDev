@@ -21,7 +21,7 @@
             "text": "Yes, I heard you. No detours this time, I promise."
         },
         {
-            "title": "Win Battles",
+            "title": "Victory",
             "filename": "File:vo_thistle_battlewin_001.aac",
             "text": "This way, the Mentor will be proud of me too, right?"
         },
@@ -51,14 +51,14 @@
             "text": "Don't think that just because you've earned the trust of the Mentor, we'll all bow down to you! I'll be watching you for any missteps!"
         },
         {
-            "title": "Conversation 3",
-            "filename": "File:vo_thistle_talk1_003.aac",
-            "text": "The Mentor says no flower is born to be bent and trampled. But there are always people who ruin others' lives for their own despicable greed... They deserve to be burned in blazing fire."
-        },
-        {
             "title": "Conversation 2",
             "filename": "File:vo_thistle_talk1_002.aac",
             "text": "Hmph, so the Chief of the MBCC runs on just a sandwich for a whole day? One without lettuce, no less? Irregular meals and unbalanced nutrition... No wonder you're all skin and bones... What are you tearing up for? I'm not worrying about you!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_thistle_talk1_003.aac",
+            "text": "The Mentor says no flower is born to be bent and trampled. But there are always people who ruin others' lives for their own despicable greed... They deserve to be burned in blazing fire."
         },
         {
             "title": "Special Conversation 1",
@@ -109,54 +109,48 @@
             "title": "Level Up",
             "filename": "File:vo_thistle_levelup_002.aac",
             "text": "Through a century of slashes, the blade's purpose emerges."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_thistle_jointeam_001.aac",
-            "text": "No need to come along, I'll handle it."
         }
     ],
     "oneiric_flexagon": [
         {
-            "title": "Level Up",
-            "text": "Look! Another little paper crane with a letter!",
-            "filename": "File:vo_thistle_oneiric_flexagon_levelup_001.aac"
+            "title": "Attire Obtained",
+            "filename": "File:vo_thistle_huaxintianmeng_cacha_001.aac",
+            "text": "Ha! Bet you didn't expect your mystery gift to be an elf doll—complete with her own garden, no less! Hey! What's with that look? The gift's already unpacked, so no returns! Just graciously accept it!"
         },
         {
-            "title": "Obtain Attire",
-            "text": "Ha! Bet you didn't expect your mystery gift to be an elf doll—complete with her own garden, no less! Hey! What's with that look? The gift's already unpacked, so no returns! Just graciously accept it!",
-            "filename": "File:vo_thistle_oneiric_flexagon_cacha_001.aac"
+            "title": "Level Up",
+            "filename": "File:vo_thistle_huaxintianmeng_levelup_001.aac",
+            "text": "Look! Another little paper crane with a letter!"
         },
         {
             "title": "Greeting",
-            "text": "In the garden... full of flowers... growing so fast... reaching the sky... Hmm... and I could fly to the sky...",
-            "filename": "File:vo_thistle_oneiric_flexagon_greeting_001.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_greeting_001.aac",
+            "text": "In the garden... full of flowers... growing so fast... reaching the sky... Hmm... and I could fly to the sky..."
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "Nice to meet me? Hmph! Unlike you busy types who just stuff dolls into bookcases and forget about them, I watch you every day! When you leave the window open, when you're too lazy to make your bed—I know all your little secrets!",
-            "filename": "File:vo_thistle_oneiric_flexagon_talk_001.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_body_001.aac",
+            "text": "Nice to meet me? Hmph! Unlike you busy types who just stuff dolls into bookcases and forget about them, I watch you every day! When you leave the window open, when you're too lazy to make your bed—I know all your little secrets!"
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "Oh, gee, y-you do have *some* good qualities. Like... um... hmm... Oh, I know! At least you're better than those giants who dress up their dolls 7 or 8 times a day, take pictures, and just leave everything in a mess!",
-            "filename": "File:vo_thistle_oneiric_flexagon_talk_002.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_body_002.aac",
+            "text": "Oh, gee, y-you do have <i>some</i> good qualities. Like... um... hmm... Oh, I know! At least you're better than those giants who dress up their dolls 7 or 8 times a day, take pictures, and just leave everything in a mess!"
         },
         {
             "title": "Idle",
-            "text": "...Hardy, heat-resistant, prefers sandy loam... Wow, this book is amazing! Not only are the paper flowers so life-like, but it also explains planting methods so clearly! I mean... it almost makes me feel like even I could take care of the flowers we just planted.",
-            "filename": "File:vo_thistle_oneiric_flexagon_idle_001.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_idle_001.aac",
+            "text": "...Hardy, heat-resistant, prefers sandy loam... Wow, this book is amazing! Not only are the paper flowers so life-like, but it also explains planting methods so clearly! I mean... it almost makes me feel like even I could take care of the flowers we just planted."
         },
         {
             "title": "Annoyed",
-            "text": "Touching me with just one finger... quite gentle. Maybe you are a decent giant after all!",
-            "filename": "File:vo_thistle_oneiric_flexagon_clicking_001.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_clicking_001.aac",
+            "text": "Touching me with just one finger... quite gentle. Maybe you are a decent giant after all!"
         },
         {
             "title": "Special Attention",
-            "text": "Wh—why are you looking at me like that? You're not going to play dress-up, are you?",
-            "filename": "File:vo_thistle_oneiric_flexagon_specialattention_001.aac"
+            "filename": "File:vo_thistle_huaxintianmeng_specialattention_001.aac",
+            "text": "Wh—why are you looking at me like that? You're not going to play dress-up, are you?"
         }
     ]
-
 }

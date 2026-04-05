@@ -28,7 +28,7 @@
         {
             "title": "Lose Battles",
             "filename": "File:vo_hella_battlelose_001.aac",
-            "text": "Sigh, I can still..."
+            "text": "Ugh, I can still..."
         },
         {
             "title": "Ultimate Skill",
@@ -108,19 +108,19 @@
         {
             "title": "Level Up",
             "filename": "File:vo_hella_levelup_002.aac",
-            "text": "Great!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_hella_jointeam_001.aac",
-            "text": "Hmm? You really like being with me, don't you?"
+            "text": "Yay!"
         }
     ],
     "queen_of_hearts": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_hella_hongxinnvwang_cacha_001.aac",
-            "text": "Who the hell is interrupting my nap time again? Kneel at once! Eh... If it's not Chief? (Giggles) Awesome! Now my croquet match can go as scheduled!"
+            "text": "Who the hell is interrupting my nap time again? Kneel at once! Eh... If it's not Chief? Hehe, awesome! Now my croquet match can go as scheduled!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_hongxinnvwang_levelup_001.aac",
+            "text": "Ah! What's with these little animals? They've been giving me trouble the whole day! You're lucky you guys are cute, or I would have..."
         },
         {
             "title": "Greeting",
@@ -148,62 +148,93 @@
             "text": "Try that a few more times, and you should worry about your head... Chief!"
         },
         {
-            "title": "Level Up",
-            "filename": "File:vo_hella_hongxinnvwang_levelup_001.aac",
-            "text": "Ah! What's with these little animals? They've been giving me trouble the whole day! You're lucky you guys are cute, or I would have..."
-        },
-        {
             "title": "Special Attention",
             "filename": "File:vo_hella_hongxinnvwang_specialattention_001.aac",
             "text": "Ahem, to keep our relationship fair and equal, as the Queen, I order you to... Hey! You're trying some funny business with the shackles again!?"
         }
     ],
+    "food_tour": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hella_meishizhilv_cacha_001.aac",
+            "text": "Hey, hey, it's so easy to order food over here, just look at the picture! *civilized Deus* Why are you looking at me with that look, huh? ...... For your information, I know quite a few words now! Don't move to bring it up!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_meishizhilv_levelup_001.aac",
+            "text": "...... It was quite tasty."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_meishizhilv_greeting_001.aac",
+            "text": "I was worried that I would have to come out and fight with some monsters again, but it turned out that all of them were fried chicken fries, and you said that this would not be a trap for the dead soldiers to confuse us! ...... Forget about it! It would be nice if the black ring was like this every time--"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hella_meishizhilv_talk_001.aac",
+            "text": "Wouldn't it be better than that bitter stuff in your office? Tell you what, it wouldn't be impossible to give you a taste ...... if you begged me."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hella_meishizhilv_talk_002.aac",
+            "text": "I don t know why that guy Ninety Nine only likes to eat grilled meat, obviously the burger is also quite good ...... When I have the opportunity next time, I will definitely bring her here to try it!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_meishizhilv_idle_001.aac",
+            "text": "Hey, let me ask you, is there something special about Thursdays over here? Why is it that every time this day comes, the people who come here to eat are saying strange things? What ...... would they say even if they don't come? It's weird ...... can't figure out this place ......"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_meishizhilv_clicking_001.aac",
+            "text": "What for? Don't talk to me while you're eating! You want ketchup on your fries, not sweet and sour sauce? Ah...... don't listen to the Director's recitation!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_meishizhilv_specialattention_001.aac",
+            "text": "How about that, isn't that a handsome fork! And ...... most importantly, it was given to me directly after those people took my picture! Heck, free stuff is always the best!"
+        }
+    ],
     "northward_to_whitesands": [
-      {
-        "title": "Level Up",
-        "filename": "File:vo_hella_shahaiqilv_levelup_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Obtain Attire",
-        "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Greeting",
-        "filename": "File:vo_hella_shahaiqilv_greeting_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Ordinary Contact 1",
-        "filename": "File:vo_hella_shahaiqilv_talk_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Ordinary Contact 2",
-        "filename": "File:vo_hella_shahaiqilv_talk_002.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Idle",
-        "filename": "File:vo_hella_shahaiqilv_idle_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Annoyed",
-        "filename": "File:vo_hella_shahaiqilv_clicking_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Special Attention",
-        "filename": "File:vo_hella_shahaiqilv_specialattention_001.aac",
-        "text": "Text not available yet but you can still listen"
-      },
-      {
-        "title": "Pat Head",
-        "filename": "File:vo_hella_shahaiqilv_head_001.aac",
-        "text": "Text not available yet but you can still listen"
-      }
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",
+            "text": "Compass pointing due north, destination: the heart of WhiteSands! Make way, everyone! Hella is about to set sail on the grandest adventure!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_shahaiqilv_levelup_001.aac",
+            "text": "Wow, adventure funds? More, give me more!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_shahaiqilv_greeting_001.aac",
+            "text": "Hey! The sun's perfect right now. Let's hit the road! Treasure's waiting for us up ahead!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hella_shahaiqilv_talk_001.aac",
+            "text": "Earlier I ran into a bunch of thugs trying to threaten me for money. I went straight at them with my pipe and beat them till they were ******* writhing and howling in pain! Took them all down by myself! Hehe, aren't I the coolest?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hella_shahaiqilv_talk_002.aac",
+            "text": "I read this story in Hecate's book: Legend says deep in the desert, there's a cave hidden by some legendary desert bandit called Bali...baba? or something. It's filled with so much treasure that the whole DisCity couldn't spend it all in a lifetime! Ahem, so I figured while I'm out exploring, I might as well check it out. I mean... what if the story is true? Hehe..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_shahaiqilv_idle_001.aac",
+            "text": "Good thing I <i>advanced</i> myself a few months of allowance from Chief's pocket before I set out. Never thought money would run out so quickly out here... Hmm, wonder what that dummy Chief and Hecate are up to right now..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_shahaiqilv_clicking_001.aac",
+            "text": "What? Want to shake hands with the legendary adventurer Hella? Two hundred up front per shake, got it?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_shahaiqilv_specialattention_001.aac",
+            "text": "My adventures are way more exciting than those stupid fairy tales! I've written everything down in my journal. You can all take turns reading it when I get back. But just so we're clear—no pointing out spelling mistakes this time!"
+        }
     ]
-  
 }

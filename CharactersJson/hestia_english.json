@@ -21,9 +21,9 @@
             "text": "It's too dark... I'll start a fire here."
         },
         {
-            "title": "Win Battles",
+            "title": "Victory",
             "filename": "File:vo_hestia_battlewin_001.aac",
-            "text": "(Relieved exhale)... It wasn't that scary after all..."
+            "text": "...It wasn't that scary after all..."
         },
         {
             "title": "Lose Battles",
@@ -48,7 +48,7 @@
         {
             "title": "Conversation 1",
             "filename": "File:vo_hestia_talk1_001.aac",
-            "text": "My eyes are blind to what you see, but they see what you can not... They see the rising red moon, they see the descending illusion... If you wish to get out of here alive, you must follow my guidance. Do you hear me?"
+            "text": "My eyes are blind to what you see, but they see what you cannot... They see the rising red moon, they see the descending illusion... If you wish to get out of here alive, you must follow my guidance. Do you hear me?"
         },
         {
             "title": "Conversation 2",
@@ -78,7 +78,7 @@
         {
             "title": "Full Compliance",
             "filename": "File:vo_hestia_obeyfull_001.aac",
-            "text": "It's all your fault... Because of you, I forgot how to survive on my own... Being left alone in a place like this, it was terrifying... Stay with me. Don't leave me again. I don't want to be left alone anymore..."
+            "text": "It's all your fault... Because of you, I forgot how to survive on my own... Being left alone in a place like that was terrifying... Stay with me. Don't leave me again. I don't want to be left alone anymore..."
         },
         {
             "title": "Idle",
@@ -88,12 +88,12 @@
         {
             "title": "Annoyed",
             "filename": "File:vo_hestia_clicking_001.aac",
-            "text": "You... you bully! (Sounds as if about to cry)"
+            "text": "You... you bully!"
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_hestia_specialattention_001.aac",
-            "text": "Once again, you ventured into the darkness and found me. (Pleased) I knew you would; it was predestined. I knew that no matter how long it took, you would find your way back to me..."
+            "text": "Once again, you ventured into the darkness and found me. I knew you would; it was predestined. I knew that no matter how long it took, you would find your way back to me..."
         },
         {
             "title": "Dispatch",
@@ -114,106 +114,100 @@
             "title": "Pat Head",
             "filename": "File:vo_hestia_head_001.aac",
             "text": "Stop...! You must not... defile the priestess!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_hestia_jointeam_001.aac",
-            "text": "There is nothing to fear. I'm here to show you the way..."
         }
     ],
     "lambent_wishbearer": [
         {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
+            "text": "Haste not, wish maker. The ritual is about to begin and the flame of wishes shall soon be kindled."
+        },
+        {
             "title": "Level Up",
-            "text": "The lanterns of wishes are floating high...",
-            "filename": "File:vo_hestia_lambent_wishbearer_levelup_001.aac"
-        },
-        {
-            "title": "Pat Head",
-            "text": "I-is this how mortals show affections?",
-            "filename": "File:vo_hestia_lambent_wishbearer_head_001.aac"
-        },
-        {
-            "title": "Obtain Attire",
-            "text": "Haste not, wish maker. The ritual is about to begin and the flame of wishes shall soon be kindled.",
-            "filename": "File:vo_hestia_lambent_wishbearer_cacha_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_levelup_001.aac",
+            "text": "The lanterns of wishes are floating high..."
         },
         {
             "title": "Greeting",
-            "text": "Finally made it, did you? Worry not, there's still time... Is this your carefully made lantern... Well, despite its rather \"unique\" structure, it'll fly high into the sky. I'll help you.",
-            "filename": "File:vo_hestia_lambent_wishbearer_greeting_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_greeting_001.aac",
+            "text": "Finally made it, did you? Worry not, there's still time... Is this your carefully made lantern... Well, despite its rather \"unique\" structure, it'll fly high into the sky. I'll help you."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hestia_qiandengyinyuan_head_001.aac",
+            "text": "I-is this how mortals show affections?"
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "Back on my first trial in the mortal realm, I struggled to find my way... But despite my blindness, I was able to see with my heart the care and love the villagers had for me... Perhaps that's what the Divine Emperor intended for me to understand...",
-            "filename": "File:vo_hestia_lambent_wishbearer_talk_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_body_001.aac",
+            "text": "Back on my first trial in the mortal realm, I struggled to find my way... But despite my blindness, I was able to see with my heart the care and love the villagers had for me... Perhaps that's what the Divine Emperor intended for me to understand..."
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "Mortals possess unwieldy bodies, vulnerable to poison and destined to age, as frail as this light. Yet, they can warm others with their flickering flames, even someone as strange and blind as me. Therefore, I do not wish for their light to fade...",
-            "filename": "File:vo_hestia_lambent_wishbearer_talk_002.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_body_002.aac",
+            "text": "Mortals possess unwieldy bodies, vulnerable to poison and destined to age, as frail as this light. Yet, they can warm others with their flickering flames, even someone as strange and blind as me. Therefore, I do not wish for their light to fade..."
         },
         {
             "title": "Ordinary Contact 3",
-            "text": "These lanterns are handmade by the villagers, each wish carefully written, stroke by stroke. Hung on the wisteria tree year after year, their heartfelt devotion alone is enough to lift them into the sky—even without my \"extra help\"...",
-            "filename": "File:vo_hestia_lambent_wishbearer_hand_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_hand_001.aac",
+            "text": "These lanterns are handmade by the villagers, each wish carefully written, stroke by stroke. Hung on the wisteria tree year after year, their heartfelt devotion alone is enough to lift them into the sky—even without my \"extra help\"..."
         },
         {
             "title": "Ordinary Contact 4",
-            "text": "The light flickers—sometimes bright, sometimes dim. The lanterns, too, come in all shapes: some delicate, some rough. Yet the vibrant festivity of this once-a-year event and the people's devotion to their wishes always shine through. Perhaps that's what it means when they say, \"Our days are numbered, but our hearts remember...\"",
-            "filename": "File:vo_hestia_lambent_wishbearer_leg_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_background_001.aac",
+            "text": "The light flickers—sometimes bright, sometimes dim. The lanterns, too, come in all shapes: some delicate, some rough. Yet the vibrant festivity of this once-a-year event and the people's devotion to their wishes always shine through. Perhaps that's what it means when they say, \"Our days are numbered, but our hearts remember...\""
         },
         {
             "title": "Idle",
-            "text": "Fear not... The flame will not burn you. Instead, it will bring warmth and carry you to the place your creator's heart intended for you to go...",
-            "filename": "File:vo_hestia_lambent_wishbearer_idle_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_idle_001.aac",
+            "text": "Fear not... The flame will not burn you. Instead, it will bring warmth and carry you to the place your creator's heart intended for you to go..."
         },
         {
             "title": "Special Attention",
-            "text": "Your gaze ignites more fiercely than the lantern... resembling a bonfire or a blazing torch. It's like a mortal flame so captivating that even immortals can't bear to look away.",
-            "filename": "File:vo_hestia_lambent_wishbearer_specialattention_001.aac"
+            "filename": "File:vo_hestia_qiandengyinyuan_specialattention_001.aac",
+            "text": "Your gaze ignites more fiercely than the lantern... resembling a bonfire or a blazing torch. It's like a mortal flame so captivating that even immortals can't bear to look away."
         }
     ],
-    "yehuohuanghun": [
+    "dusk_aglow": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",
-            "text": ""
+            "text": "I am the priestess for the god of the Hearth, keeper of the sacred flame within this temple. Come, entrust your lost wishes to me, and I shall use the divine firelight to illuminate your path forward."
         },
         {
             "title": "Level Up",
             "filename": "File:vo_hestia_yehuohuanghun_levelup_001.aac",
-            "text": ""
+            "text": "May their divine will shine through this place."
         },
         {
             "title": "Greeting",
             "filename": "File:vo_hestia_yehuohuanghun_greeting_001.aac",
-            "text": ""
+            "text": "Whenever you come near, I hear the torch crackle and pop. That's the sound of the sparks dancing with joy. It means the god's holy fire enjoys your presence here... and so do I."
         },
         {
             "title": "Ordinary Contact 1",
             "filename": "File:vo_hestia_yehuohuanghun_talk_001.aac",
-            "text": ""
+            "text": "I will remain at the temple, praying day and night for that world of legends to return—a world where children worry about nothing and aren't forced to be brave in desperate situations, a world where adults protect children and allow them to grow up safely!"
         },
         {
             "title": "Ordinary Contact 2",
             "filename": "File:vo_hestia_yehuohuanghun_talk_002.aac",
-            "text": ""
+            "text": "I can't actually see the holy fire clearly, but I can feel its warmth. I imagine... it's a radiant gold, just like the sun. Perhaps the holy fire sometimes transforms into tiny golden wisps, helping me spread the god's blessings to others."
         },
         {
             "title": "Idle",
             "filename": "File:vo_hestia_yehuohuanghun_idle_001.aac",
-            "text": ""
+            "text": "Why so quiet? Have you fallen asleep? ...I wonder if a dignified and majestic priestess has made an appearance in your dreams?"
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_hestia_yehuohuanghun_clicking_001.aac",
-            "text": ""
+            "text": "Th-th-these are... hands consecrated for holy worship! You shouldn't touch them so casually... ah!"
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_hestia_yehuohuanghun_specialattention_001.aac",
-            "text": ""
+            "text": "I hear footsteps in the corridor... are you standing beside me? If you don't speak up, I'll just assume you want to stay and keep me company after the sun sets."
         }
     ]
-
 }

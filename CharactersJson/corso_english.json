@@ -109,18 +109,18 @@
             "title": "Level Up",
             "filename": "File:vo_corso_levelup_002.aac",
             "text": "Yeah, just like that! Fight! Keep fighting!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_corso_jointeam_001.aac",
-            "text": "It's finally my turn on the battlefield!"
         }
     ],
-    "suit_up_outlaw": [
+    "suit-up_outlaw": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.aac",
             "text": "You've got some nerve, treating a gladiator like a guard dog. And just make sure to keep a tight grip on that leash of yours, or else... I might bite someone you'd rather I didn't."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_002.aac",
+            "text": "That's not enough. I need a few more reckless fools to sharpen my teeth on!"
         },
         {
             "title": "Greeting",
@@ -129,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_001.aac",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_body_001.aac",
             "text": "This outfit's so uncomfortable. It barely has any room for anything... Seems like those scaredy-cat rich folks do have a brain after all. But this little trick won't stop me... I've never tried using diamonds to fight before, let's see if these rich folks' trinkets are up to the task of being my props!"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_002.aac",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_body_002.aac",
             "text": "See that guy over there? He's got a weird stench on him. I bet he's got poison with him. And that one, he's the type to hit first, and ask later. But his buddy won't agree... How do I know all this? Ha, don't play dumb. You brought me along because of my keen nose and sharp ears, didn't you?"
         },
         {
@@ -143,19 +143,14 @@
             "text": "We need to make a quick getaway? This route is the shortest. There are people in the way... That path ahead is blocked... Damn, planning an escape before the fight even starts is a new low for me... But this is an exception. Don't even think about making me do this ever again!"
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.aac",
-            "text": "No need to keep such a close eye on me... I won't run, and I won't cause any trouble. After all, you're the one holding the leash... What are you worried about?"
-        },
-        {
-            "title": "Level Up",
-            "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_001.aac",
-            "text": "That's not enough. I need a few more reckless fools to sharpen my teeth on!"
-        },
-        {
             "title": "Annoyed",
             "filename": "File:vo_corso_zhengzhuangkuangtu_clicking_001.aac",
             "text": "Hey, hey, hey, you're all flustered just from loosening a collar. You can't even handle this? Hey, you big oaf! Which hand did you touch my boss with? You don't want to keep it anymore!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.aac",
+            "text": "No need to keep such a close eye on me... I won't run, and I won't cause any trouble. After all, you're the one holding the leash... What are you worried about?"
         }
     ]
 }

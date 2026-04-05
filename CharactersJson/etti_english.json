@@ -114,16 +114,11 @@
             "title": "Pat Head",
             "filename": "File:vo_etti_head_001.aac",
             "text": "You like my horn, too? Let me tell you about it! It was during a harsh, cold winter... Hey! Where are you going?"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_etti_jointeam_001.aac",
-            "text": "I'll show you a good game."
         }
     ],
     "noctivagation": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
             "text": "As night falls, ghostly lanterns flicker to life. The ancient castle of the dragon will reopen its dusty gates, beckoning the chosen warriors with its secrets and treasures... Hehe, how's that? Immersive enough?"
         },
@@ -139,12 +134,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_etti_guiyeqilv_talk_001.aac",
+            "filename": "File:vo_etti_guiyeqilv_talk1_001.aac",
             "text": "These pumpkins are too cute? Umm, maybe they do look a little... Hold on! The game we're playing today is horror themed! They are obviously appalling! How can they be cute!"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_etti_guiyeqilv_talk_002.aac",
+            "filename": "File:vo_etti_guiyeqilv_talk1_002.aac",
             "text": "Hmm? Candy? D-don't think you can buy me off with a measly two pieces of candy! I'm a demon, and demons are meant to cause trouble! You know that, right?"
         },
         {
@@ -165,44 +160,44 @@
     ],
     "dances_&_dragons": [
         {
-            "title": "Level Up",
-            "text": "See my gown swirl with grace? Let's dance wild",
-            "filename": "File:vo_etti_dances_&_dragons_levelup_001.aac"
+            "title": "Attire Obtained",
+            "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
+            "text": "You stand in the presence of Etti the Dragon of Domination—rightful ruler of the plundered Grandeur Palace, ever-reveling Queen of the Ravening Realm, dancing Avatar of cursed Love and Fury, and mighty Lord of all gold-filled caves... Countless warriors met afoul of me yet survived not. But I know... a Prophetic One shall come, and waltz with me in battle!"
         },
         {
-            "title": "Obtain Attire",
-            "text": "You stand in the presence of Etti the Dragon of Domination—rightful ruler of the plundered Grandeur Palace, ever-reveling Queen of the Ravening Realm, dancing Avatar of cursed Love and Fury, and mighty Lord of all gold-filled caves... Countless warriors met afoul of me yet survived not. But I know... a Prophetic One shall come, and waltz with me in battle!",
-            "filename": "File:vo_etti_dances_&_dragons_cacha_001.aac"
+            "title": "Level Up",
+            "filename": "File:vo_etti_longyuyuanwuqu_levelup_001.aac",
+            "text": "See my gown swirl with grace. Let's dance wild!"
         },
         {
             "title": "Greeting",
-            "text": "Oh, looks like someone is waiting to take my hand. So, Sir Armour, guess it's time for you to stand down. Off you go!",
-            "filename": "File:vo_etti_dances_&_dragons_greeting_001.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_greeting_001.aac",
+            "text": "Oh, looks like someone is waiting to take my hand. So, Sir Armour, guess it's time for you to stand down. Off you go!"
         },
         {
             "title": "Ordinary Contact 1",
-            "text": "I admire those brave souls who fall before dragons. Noble hearts, drawing their swords against giant dragons even in fear, just to protect what they hold dear. You too have the \"scent\"! Hmm... wanna know what you smell like? A knight, or a dragon?",
-            "filename": "File:vo_etti_dances_&_dragons_talk_001.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_body_001.aac",
+            "text": "I admire those brave souls who fall before dragons. Noble hearts, drawing their swords against giant dragons even in fear, just to protect what they hold dear. You too have the \"scent\"! Hmm... wanna know what you smell like? A knight, or a dragon?"
         },
         {
             "title": "Ordinary Contact 2",
-            "text": "Twirl, sway, and spin! Wow, you can really dance! Wait, hold your shackles. It's been centuries since a mortal graced my cave. How about you dance with me to my heart's content before we cross blades, my Prophetic One?",
-            "filename": "File:vo_etti_dances_&_dragons_talk_002.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_body_002.aac",
+            "text": "Twirl, sway, and spin! Wow, you can really dance! Wait, hold your shackles. It's been centuries since a mortal graced my cave. How about you dance with me to my heart's content before we cross blades, my Prophetic One?"
         },
         {
             "title": "Idle",
-            "text": "Falling asleep? Hehe, let me tell you something: never drop your guard around me, whether on the battlefield or at a ball. I am, and always will be, your dearest enemy~",
-            "filename": "File:vo_etti_dances_&_dragons_idle_001.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_idle_001.aac",
+            "text": "Falling asleep? Hehe, let me tell you something: never drop your guard around me, whether on the battlefield or at a ball. I am, and always will be, your dearest enemy~"
         },
         {
             "title": "Annoyed",
-            "text": "Hehe, admiring my dragon horns, are you? If you like them that much, how about you grow your own?",
-            "filename": "File:vo_etti_dances_&_dragons_clicking_001.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_clicking_001.aac",
+            "text": "Hehe, admiring my dragon horns, are you? If you like them that much, how about you grow your own?"
         },
         {
             "title": "Special Attention",
-            "text": "I love seeing myself in your eyes—it's like drowning in the molten lava that gave birth to me... Perhaps, the prophecy will eventually come true! Your eyes will slit, your spine will sprout wings, your arms become claws, and your stomach begets raging fire... Through our eternal dance, the warrior who fights dragons shall become the dragon itself.",
-            "filename": "File:vo_etti_dances_&_dragons_specialattention_001.aac"
+            "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
+            "text": "I love seeing myself in your eyes—it's like drowning in the molten lava that gave birth to me... Perhaps, the prophecy will eventually come true! Your eyes will slit, your spine will sprout wings, your arms become claws, and your stomach begets raging fire... Through our eternal dance, the warrior who fights dragons shall become the dragon itself."
         }
     ]
 }

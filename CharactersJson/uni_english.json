@@ -93,7 +93,7 @@
         {
             "title": "Special Attention",
             "filename": "File:vo_uni_specialattention_001.aac",
-            "text": "Why...? Am I the most special one in your eyes?"
+            "text": "Am I the most special one in your eyes?"
         },
         {
             "title": "Dispatch",
@@ -109,16 +109,11 @@
             "title": "Level Up",
             "filename": "File:vo_uni_levelup_002.aac",
             "text": "That's all? This is just some cheap stuff."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_uni_jointeam_001.aac",
-            "text": "You've got some nerve to show me all those hideous things."
         }
     ],
     "guise_into_life": [
         {
-            "title": "Obtain Attire",
+            "title": "Attire Obtained",
             "filename": "File:vo_uni_zhuanggumoying_cacha_001.aac",
             "text": "What sort of face are you looking for? One that launches a thousand ships? Name your heart's desire. I shall fulfill it."
         },
@@ -134,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_uni_zhuanggumoying_talk_001.aac",
+            "filename": "File:vo_uni_zhuanggumoying_body_001.aac",
             "text": "To become a great skin painter, one must have seen beauty and ugliness in their endless variations, and touched countless bones with their infinite details. Otherwise, you can't fool the discerning eyes of shrewd mortals and will thwart the fulfillment of your customer's obsession."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_uni_zhuanggumoying_talk_002.aac",
+            "filename": "File:vo_uni_zhuanggumoying_body_002.aac",
             "text": "Here is my rule: I paint all the features on the skin, except for the eyes. You use your own when you're back in the world of the living, however beautiful the other features I've created are. Ah, they have it right when they say that eyes are the window to the soul. What I wouldn't give for a pair of eyes like yours! So rare and so pure they are..."
         },
         {

@@ -114,53 +114,90 @@
             "title": "Pat Head",
             "filename": "File:vo_owo_head_001.aac",
             "text": "Doesn't this lion's head look beautiful? Isn't it grand? Isn't it majestic? Don't you want to touch it? Haha... In your dreams!"
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_owo_jointeam_001.aac",
-            "text": "Haha, tremble before me, you fiends! The queen of lion dancing is here!"
         }
     ],
-    "serendipity_poem": [
+    "king_of_lion_dance": [
         {
-            "title": "Obtain Attire",
-            "filename": "File:vo_owo_serendipity_poem_cacha_001.aac",
-            "text": "Hey, here, over here! Heads up! The world's greatest, happiest, and baddest residential land dances about to begin! Listen up everyone! I wish you health and wealth and happiness every day!"
+            "title": "Attire Obtained",
+            "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
+            "text": "One bite of a burger!"
         },
         {
             "title": "Level Up",
-            "filename": "File:vo_owo_serendipity_poem_levelup_001.aac",
-            "text": "Hey, you're roarsome! Come on! Let's roar and roll!"
+            "filename": "File:vo_owo_wushizhiwang_levelup_001.aac",
+            "text": "Awwww - big bite of meat! Body awesome!"
         },
         {
             "title": "Greeting",
-            "filename": "File:vo_owo_serendipity_poem_greeting_001.aac",
-            "text": "I, OwO, the unparalleled door god, will protect everyone for the whole new year. With OwO here, all evil doers will be swept out of my way."
+            "filename": "File:vo_owo_wushizhiwang_greeting_001.aac",
+            "text": "Deesman, hurry up and help Ouch move this store back to the MBCC cafeteria! The fries here are so good, I have to eat them every day!"
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_owo_serendipity_poem_talk_001.aac",
-            "text": "The gongs and drums made drown out my voice. The firecrackers might outshine my hello. So, right this moment, I'm going to wish you a year of peaceful sleep and fine food every day."
+            "filename": "File:vo_owo_wushizhiwang_talk_001.aac",
+            "text": "I'm the Forbidden Owl, I've been affected by the Black Circle Rift and am now homeless, in order to eradicate the Black Circle and maintain peace in the world, please v me 50 to eat a big meal or else I won't be able to fight the death service!"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_owo_serendipity_poem_talk_002.aac",
-            "text": "Wow! Look at those lanterns! The fireworks! Are they prepared for me? Good job, you dispaz! Rest assured, I'll never let you down! OwO and her lion are gonna throw a show to everyone everywhere!"
+            "filename": "File:vo_owo_wushizhiwang_talk_002.aac",
+            "text": "Camera! Must have been used to film me! Hmph, I didn't realize that my reputation as the world's number one invincible breakdancing lion cub genius had actually spread here! You guys wait, I'll come to the show after I finish gnawing on this chicken leg!"
         },
         {
             "title": "Idle",
-            "filename": "File:vo_owo_serendipity_poem_idle_001.aac",
-            "text": "I practiced on the plum blossom pillars, popping on your gate is just easy peasy. I could never fall- Oh, my, that was close."
+            "filename": "File:vo_owo_wushizhiwang_idle_001.aac",
+            "text": "......! Ketchup is dripping onto the skirt! ...... Dees Man! You hurry up and come help Owl wipe it off!"
         },
         {
             "title": "Annoyed",
-            "filename": "File:vo_owo_serendipity_poem_clicking_001.aac",
-            "text": "Oy you DisCity chump, dare you touch the armor of the door god? Alright, today's a lucky day, so I might spare you just this once, and I grant you permission to touch it now, just for once."
+            "filename": "File:vo_owo_wushizhiwang_clicking_001.aac",
+            "text": "No can do! It's Owl's burger! Eat your own! You're too old to be taking food from people. Shame on you! Hmph! If I get mad, I'll bite you like a big burger!"
         },
         {
             "title": "Special Attention",
-            "filename": "File:vo_owo_serendipity_poem_specialattention_001.aac",
-            "text": "This is the new costume OwO prepare for the show. And this is the new lion head the folks at Drifter Camp made with me. There there, DisPal. You can flatter me now."
+            "filename": "File:vo_owo_wushizhiwang_specialattention_001.aac",
+            "text": "Burger, fries, chicken wings, egg tart, all of them again! ...... Why are you looking at me like that? I can eat a lot more! Don't underestimate me!"
+        }
+    ],
+    "auspicious_prancer": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
+            "text": "Hey here—Over here! Heads up! The world's greatest, happiest, and baddest residential lion dance is about to begin! Listen up, everyone, I wish you health and wealth, and happiness every day!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_owo_xishiyingmen_levelup_001.aac",
+            "text": "Hey, you're roar-some! Come on, let's roar and roll!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_owo_xishiyingmen_greeting_001.aac",
+            "text": "I, OwO, the unparalleled Door God, will protect everyone for the whole new year! With OwO here, all evildoers will be swept out of my way!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_owo_xishiyingmen_talk_001.aac",
+            "text": "The gongs and drums might drown out my voice; the firecrackers might outshine my hilloa. So, right this moment, I'm going to wish you a year of peaceful sleep and fine food every day!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_owo_xishiyingmen_talk_002.aac",
+            "text": "Wow, look at those laterns, the fireworks—are they prepared for me? Good job, you Dis-spaz! Rest assured, I'll never let you down! OwO and her lion are gonna throw a show to everyone everywhere!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_owo_xishiyingmen_idle_001.aac",
+            "text": "I practiced on the plum-blossom pillars! Hopping on your gate is just easy-peasy! I could never fall—ohhhh! My, that was close!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_owo_xishiyingmen_clicking_001.aac",
+            "text": "Oi, you DisCity chump! Dare you touch the armor of the Door God? Alright, today's a Lucky Day, so I might spare you just this once... And I grant you permission to touch it now, just for once!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
+            "text": "This, is the new custome OwO prepared for the show; and this, is the new lion head the folks at Drifter Camp made with me. There, there, Dis-pal, you can flatter me now~"
         }
     ]
 }

@@ -16,11 +16,6 @@
             "text": "What do you see in the center of the vortex?"
         },
         {
-            "title": "Level Up",
-            "filename": "File:vo_lamia_levelup_002.aac",
-            "text": "The more you offer, the more you will receive. Now, show me how sincere you are."
-        },
-        {
             "title": "Level Start",
             "filename": "File:vo_lamia_battlebegin_001.aac",
             "text": "Come here, step into my trap."
@@ -44,6 +39,11 @@
             "title": "Die in Battles",
             "filename": "File:bt_lamia_dead_001.aac",
             "text": "I can't die here... I've got to, got to live..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lamia_greeting_001.aac",
+            "text": "Are you here to look for the answers to your questions? ...Why are you being so cautious? I don't bite."
         },
         {
             "title": "Conversation 1",
@@ -81,11 +81,6 @@
             "text": "I construct traps from lies and illusions, and lay them all around me to ensnare whoever gets near. Sincerity is a commodity that is of no use to me. But why? Why the waters parted and the thorn thicket made way for you to come through and see behind the walls that I've erected around me?"
         },
         {
-            "title": "Greeting",
-            "filename": "File:vo_lamia_greeting_001.aac",
-            "text": "Are you here to look for the answers to your questions? ...Why are you being so cautious? I don't bite."
-        },
-        {
             "title": "Idle",
             "filename": "File:vo_lamia_idle_001.aac",
             "text": "I'm a bit tired. I think I'll have a bath..."
@@ -94,6 +89,11 @@
             "title": "Annoyed",
             "filename": "File:vo_lamia_clicking_001.aac",
             "text": "You want to know what happened to those eager souls who came to me for help? What do you think happened to them? Of course I gave them what they wanted and made them live happily ever after."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lamia_specialattention_001.aac",
+            "text": "Yeah, you're getting the hang of it now... Don't devert your eyes. Can you feel yourself being enveloped by the waves? Okay, let them wash away your pain, bring you serenity, cleanse you of all your sins."
         },
         {
             "title": "Dispatch",
@@ -106,26 +106,21 @@
             "text": "Hmm, more seafarers have received the blessing."
         },
         {
-            "title": "Special Attention",
-            "filename": "File:vo_lamia_specialattention_001.aac",
-            "text": "Yeah, you're getting the hang of it now... Don't devert your eyes. Can you feel yourself being enveloped by the waves? Okay, let them wash away your pain, bring you serenity, cleanse you of all your sins."
-        },
-        {
-            "title": "Deploy",
-            "filename": "File:bt_lamia_jointeam_001.aac",
-            "text": "Whatever wishes you have... You can tell me."
+            "title": "Level Up",
+            "filename": "File:vo_lamia_levelup_002.aac",
+            "text": "The more you offer, the more you will receive. Now, show me how sincere you are."
         }
     ],
     "hushed_tides": [
         {
+            "title": "Attire Obtained",
+            "filename": "File:vo_lamia_chaoximiyu_cacha_001.aac",
+            "text": "Please don't be afraid. I... I am... uh... a mermaid who just owned my legs... Yes, I was captured by some merchant seamen and smuggled here. I managed to escape with your help. I'm not gonna hurt you, nor do I have the strength to do so. If you don't believe me, you can take the pearls that my teardrops turn into when I cry... as long as you agree to help me."
+        },
+        {
             "title": "Level Up",
             "filename": "File:vo_lamia_chaoximiyu_levelup_001.aac",
             "text": "Thank you for freeing me from entanglement."
-        },
-        {
-            "title": "Obtain Attire",
-            "filename": "File:vo_lamia_chaoximiyu_cacha_001.aac",
-            "text": "Please don't be afraid. I... I am... uh... a mermaid who just owned my legs... Yes, I was captured by some merchant seamen and smuggled here. I managed to escape with your help. I'm not gonna hurt you, nor do I have the strength to do so. If you don't believe me, you can take the pearls that my teardrops turn into when I cry... as long as you \nagree to help me."
         },
         {
             "title": "Greeting",
@@ -134,12 +129,12 @@
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_lamia_chaoximiyu_talk_001.aac",
+            "filename": "File:vo_lamia_chaoximiyu_body_001.aac",
             "text": "The elders warned me against greedy humans who would harm me for my appearance, tears, and flesh. But I know there are also good people like you in this world, pure in body and spirit, who must taste... Ah, I mean, who should be blessed with all the luck they need in their endeavors."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_lamia_chaoximiyu_talk_002.aac",
+            "filename": "File:vo_lamia_chaoximiyu_body_002.aac",
             "text": "When you fulfill your dream of becoming a great sailor, please do visit me at my home. We live in the depths of Mother Sea, in a palace adorned with coral and gems, where music is played with conches and turtles... The undercurrents and whirlpools safeguarding us may be a bit dangerous. Nevertheless, I don't think they will pose much of a challenge to you."
         },
         {
@@ -159,46 +154,45 @@
         }
     ],
     "drowning_lurve": [
-    {
-      "title": "Level Up",
-      "filename": "File:vo_lamia_fangkehou_levelup_001.aac",
-      "text": "Thank you for resuscitating me."
-    },
-    {
-      "title": "Obtain Attire",
-      "filename": "File:vo_lamia_fangkehou_cacha_001.aac",
-      "text": "You there, I'm trapped by the plants at the bottom of the pool. Could you help me? I think I'm... I'm about to drown."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_lamia_fangkehou_greeting_001.aac",
-      "text": "Kind friend, please come closer. I've been trapped for so long, and I'm so cold."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_lamia_fangkehou_body_001.aac",
-      "text": "Cleaning this abandoned pool is such a thankless back-breaking work. Whenever it's time for cleaning duty, everyone else finds a way to avoid it. Well, someone has to do it, and I'm willing to take on the job myself. Though I do tend to get hurt when I'm working alone. Fortunately, this time you were here for me."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_lamia_fangkehou_body_002.aac",
-      "text": "You see, though shadows at the bottom of the pool? Once they were just like you, a student who wanted to save me."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_lamia_fangkehou_idle_001.aac",
-      "text": "Little fishies, don't be so eager. In this empty campus after school we've got all the time in the world."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_lamia_fangkehou_clicking_001.aac",
-      "text": "So this is your scent. It's mouth watering. Oh, I mean, the soap fragrance on you, it smells so refreshing."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_lamia_fangkehou_specialattention_001.aac",
-      "text": "Why are you looking at me so suspiciously? Could it be... You've seen through me already? Hehe, if that's the case, then stay here with me forever, my delicious darling."
-    }
-  ]
-
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_lamia_fangkehou_cacha_001.aac",
+            "text": "Y-you there! I'm trapped by the plants at the bottom of the pool... Ugh! Could you help me... I think I'm... I'm about to drown..."
+        },
+        {
+            "title": "Upgrade",
+            "filename": "File:vo_lamia_fangkehou_levelup_001.aac",
+            "text": "Hmm... Thank you for resuscitating me."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lamia_fangkehou_greeting_001.aac",
+            "text": "...Kind friend, please come closer. I've been trapped for so long, and I'm so cold..."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_lamia_fangkehou_body_001.aac",
+            "text": "Cleaning this abandoned pool is such thankless, back-breaking work. Whenever it's time for cleaning duty, everyone else finds a way to avoid it... Well, someone has to do it, and I'm willing to take on the job myself. Though I do tend to get hurt when I'm working alone... Fortunately, this time, you were here for me."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_lamia_fangkehou_body_002.aac",
+            "text": "You see... those shadows at the bottom of the pool... once, they were just like you, a student who wanted to save me."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lamia_fangkehou_idle_001.aac",
+            "text": "Little fishies, don't be so eager. In this empty campus after school, we've got all the time in the world..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_lamia_fangkehou_clicking_001.aac",
+            "text": "So this is your scent... it's mouth-watering—Oh, I mean, the soap fragrance on you. It smells... so refreshing."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lamia_fangkehou_specialattention_001.aac",
+            "text": "Why are you looking at me so suspiciously? Could it be... you've seen through me already? If that's the case, then stay here with me forever... my delicious darling..."
+        }
+    ]
 }

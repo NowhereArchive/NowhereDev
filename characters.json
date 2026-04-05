@@ -27,7 +27,7 @@
             "libram": "SLOTH",
             "tendency": "Endura",
             "category": "Sinners",
-            "note": "Pretty sure the KFC collab attire voicelines are just placeholders that were perhaps machine translated",
+            "note": "The KFC collab voicelines are taken from the game aswell. They seem a little off perhaps because they are meant to be placeholders.",
             "attires": [
                 {
                     "name": "default",
@@ -380,6 +380,7 @@
             "libram": "LOVE",
             "tendency": "Umbra",
             "category": "Sinners",
+            "note": "The KFC collab voicelines are taken from the game aswell. They seem a little off perhaps because they are meant to be placeholders.",
             "attires": [
                 {
                     "name": "default",
@@ -1379,7 +1380,7 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "nino_sama:_schoolgoing",
+                    "name": "nino_sama_schoolgoing",
                     "displayName": "Nino Sama: Schoolgoing"
                 }
             ]
@@ -2537,6 +2538,7 @@
             "libram": "VIOLENCE",
             "tendency": "Fury",
             "category": "Sinners",
+            "note": "The KFC collab voicelines are taken from the game aswell. They seem a little off perhaps because they are meant to be placeholders.",
             "attires": [
                 {
                     "name": "default",
