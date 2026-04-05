@@ -1,422 +1,8 @@
 {
     "characters": [
         {
-            "name": "adela",
-            "displayName": "Adela",
-            "rank": "S",
-            "libram": "SLOTH",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "candlelit_turret",
-                    "displayName": "Candlelit Turret"
-                },
-                {
-                    "name": "woodland_wanderer",
-                    "displayName": "Woodland Wanderer"
-                }
-            ]
-        },
-        {
-            "name": "angell",
-            "displayName": "Angell",
-            "rank": "S",
-            "libram": "PESTILENCE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "lurking_lotusblade",
-                    "displayName": "Lurking Lotusblade"
-                },
-                {
-                    "name": "chenxiang",
-                    "displayName": "Thunder Beat"
-                }
-            ]
-        },
-        {
-            "name": "anne",
-            "displayName": "Anne",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "steamy_night_chat",
-                    "displayName": "Steamy Night Chat"
-                },
-                {
-                    "name": "glistening_raindrops",
-                    "displayName": "Glistening Raindrops"
-                }
-            ]
-        },
-        {
-            "name": "ariel",
-            "displayName": "Ariel",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "silent_nocturne",
-                    "displayName": "Silent Nocturne"
-                },
-                {
-                    "name": "cageling",
-                    "displayName": "Cageling"
-                }
-            ]
-        }, {
-            "name": "ark",
-            "displayName": "Ark",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [{
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        }, {
-            "name": "augustus",
-            "displayName": "Augustus",
-            "rank": "S",
-            "libram": "WAR",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [{
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "bai_yi",
-            "displayName": "Bai Yi",
-            "rank": "S",
-            "libram": "TREACHERY",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "blade_of_night",
-                    "displayName": "Blade Of Night"
-                },
-                {
-                    "name": "wave_rider",
-                    "displayName": "Wave Rider"
-                },
-                {
-                    "name": "aeons_vanguard",
-                    "displayName": "Aeons Vanguard"
-                }
-            ]
-        },
-        {
-            "name": "bianca",
-            "displayName": "Bianca",
-            "rank": "S",
-            "libram": "PESTILENCE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "in_cider_scoop",
-                    "displayName": "In Cider Scoop"
-                },
-                {
-                    "name": "tantiaotuokata",
-                    "displayName": "Bouncing Toccata"
-                }
-            ]
-        },
-        {
-            "name": "cabernet",
-            "displayName": "Cabernet",
-            "rank": "S",
-            "libram": "SLOTH",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "bacchanal_reverie",
-                    "displayName": "Bacchanal Reverie"
-                },
-                {
-                    "name": "intoxication_a_deux",
-                    "displayName": "Intoxication a Deux"
-                }
-            ]
-        },
-        {
-            "name": "cassia",
-            "displayName": "Cassia",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default_old",
-                    "displayName": "Default Old"
-                },
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "aromas_in_bloom",
-                    "displayName": "Aromas In Bloom"
-                }
-            ]
-        },
-        {
-            "name": "cassian",
-            "displayName": "Cassian",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        }, {
-            "name": "ceto",
-            "displayName": "Ceto",
-            "rank": "S",
-            "libram": "WAR",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [{
-                "name": "default",
-                "displayName": "Default"
-            }]
-        },
-        {
-            "name": "chameleon",
-            "displayName": "Chameleon",
-            "rank": "A",
-            "libram": "HERESY",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "message_in_dreams",
-                    "displayName": "Message In Dreams"
-                },
-                {
-                    "name": "dream_s_ephemera",
-                    "displayName": "Dream's Ephemera"
-                }
-            ]
-        },
-        {
-            "name": "che",
-            "displayName": "Che",
-            "rank": "B",
-            "libram": "LIMBO",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "unexpected_guest",
-                    "displayName": "Unexpected Guest"
-                }
-            ]
-        },
-        {
-            "name": "chelsea",
-            "displayName": "Chelsea",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "moonlight_rendezvous",
-                    "displayName": "Moonlight Rendezvous"
-                },
-                {
-                    "name": "lake_of_mythos",
-                    "displayName": "Lake Of Mythos"
-                }
-            ]
-        },
-        {
-            "name": "christina",
-            "displayName": "Christina",
-            "rank": "A",
-            "libram": "ANGER",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "sunrise_express",
-                    "displayName": "Sunrise Express"
-                }
-            ]
-        },
-        {
-            "name": "cinnabar",
-            "displayName": "Cinnabar",
-            "rank": "A",
-            "libram": "TREACHERY",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "special_escort",
-                    "displayName": "Special Escort"
-                },
-                {
-                    "name": "courteous_call",
-                    "displayName": "Courteous Call"
-                }
-            ]
-        },
-        {
-            "name": "coquelic",
-            "displayName": "Coquelic",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "blossom",
-                    "displayName": "Blossom"
-                },
-                {
-                    "name": "crimson_hunt",
-                    "displayName": "Crimson Hunt"
-                }
-            ]
-        },
-        {
-            "name": "corso",
-            "displayName": "Corso",
-            "rank": "A",
-            "libram": "VIOLENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "suit_up_outlaw",
-                    "displayName": "Suit Up Outlaw"
-                }
-            ]
-        },
-        {
-            "name": "crache",
-            "displayName": "Crache",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "eternal_night_hunt",
-                    "displayName": "Eternal Night Hunt"
-                },
-                {
-                    "name": "lucida_mystica",
-                    "displayName": "Lucida Mystica"
-                },
-                {
-                    "name": "anlv",
-                    "displayName": "Shadow Groove"
-                }
-            ]
-        },
-        {
-            "name": "demolia",
-            "displayName": "Demolia",
-            "rank": "B",
-            "libram": "LIMBO",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "gritty_detour",
-                    "displayName": "Gritty Detour"
-                }
-            ]
-        },
-        {
-            "name": "demon",
+            "name": "dimeng",
+            "slug": "demon",
             "displayName": "Demon",
             "rank": "S",
             "libram": "ANGER",
@@ -429,1293 +15,13 @@
                 },
                 {
                     "name": "under_the_neon_lights",
-                    "displayName": "Under The Neon Lights"
-                }
-            ]
-        },
-        {
-            "name": "deren",
-            "displayName": "Deren",
-            "rank": "S",
-            "libram": "FRAUD",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "eclat_eminence",
-                    "displayName": "Eclat Eminence"
-                }
-            ]
-        },
-        {
-            "name": "dolly",
-            "displayName": "Dolly",
-            "rank": "A",
-            "libram": "VIOLENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "donald",
-            "displayName": "Donald",
-            "rank": "S",
-            "libram": "TREACHERY",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "good_old_days",
-                    "displayName": "Good Old Days"
-                }
-            ]
-        },
-        {
-            "name": "dove",
-            "displayName": "Dove",
-            "rank": "A",
-            "libram": "FAMINE",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "dreya",
-            "displayName": "Dreya",
-            "rank": "S",
-            "libram": "IMMORTAL",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "cosmic_escapist",
-                    "displayName": "Cosmic Escapist"
-                },
-                {
-                    "name": "seastral_stralight",
-                    "displayName": "Seastral Stralight"
-                }
-            ]
-        },
-        {
-            "name": "du_ruo",
-            "displayName": "Du Ruo",
-            "rank": "S",
-            "libram": "FRAUD",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "lunaria_enigma",
-                    "displayName": "Lunaria Enigma"
-                },
-                {
-                    "name": "qingfengruhuai",
-                    "displayName": "Breezy Embrace"
-                }
-            ]
-        },
-        {
-            "name": "dudu",
-            "displayName": "Dudu",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "unsung_maestro",
-                    "displayName": "Unsung Maestro"
-                },
-                {
-                    "name": "bewitching_piper",
-                    "displayName": "Bewitching Piper"
-                }
-            ]
-        },
-        {
-            "name": "emp",
-            "displayName": "EMP",
-            "rank": "B",
-            "libram": "TREACHERY",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "backstreet_overlord",
-                    "displayName": "Backstreet Overlord"
-                },
-                {
-                    "name": "hail_from_the_otaku_world",
-                    "displayName": "Hail From The Otaku World"
-                }
-            ]
-        },
-        {
-            "name": "echo",
-            "displayName": "Echo",
-            "rank": "A",
-            "libram": "FRAUD",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "eirene",
-            "displayName": "Eirene",
-            "rank": "S",
-            "libram": "GREED",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "seaside_sunrise",
-                    "displayName": "Seaside Sunrise"
-                },
-                {
-                    "name": "daughter_of_fraser_city",
-                    "displayName": "Daughter Of Fraser City"
-                },
-                {
-                    "name": "yanseweisheng",
-                    "displayName": "Veil of Flame"
-                }
-            ]
-        },
-        {
-            "name": "eleven",
-            "displayName": "Eleven",
-            "rank": "S",
-            "libram": "SLOTH",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "rippling_heartthrobs",
-                    "displayName": "Rippling Heartthrobs"
-                }
-            ]
-        },
-        {
-            "name": "enfer",
-            "displayName": "Enfer",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "sculptor_s_nest",
-                    "displayName": "Sculptor's Nest"
-                },
-                {
-                    "name": "virtuoso_of_jade",
-                    "displayName": "Virtuoso Of Jade"
-                }
-            ]
-        },
-        {
-            "name": "ermes_costello",
-            "displayName": "Ermes Costello",
-            "rank": "S",
-            "libram": "INFINITE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "etti",
-            "displayName": "Etti",
-            "rank": "S",
-            "libram": "FRAUD",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "noctivagation",
-                    "displayName": "Noctivagation"
-                },
-                {
-                    "name": "dances_&_dragons",
-                    "displayName": "Dances & Dragons"
-                }
-            ]
-        },
-        {
-            "name": "eureka",
-            "displayName": "Eureka",
-            "rank": "A",
-            "libram": "LIMBO",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "eureka_in_meowingtons",
-                    "displayName": "Eureka In Meowingtons"
-                }
-            ]
-        },
-        {
-            "name": "eve",
-            "displayName": "Eve",
-            "rank": "S",
-            "libram": "LOVE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "eerie_fables",
-                    "displayName": "Eerie Fables"
-                },
-                {
-                    "name": "frostling_whisper",
-                    "displayName": "Frostling Whisper"
-                }
-            ]
-        },
-        {
-            "name": "flora",
-            "displayName": "Flora",
-            "rank": "B",
-            "libram": "TREACHERY",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "fanghuoanquanxiaoketang",
-                    "displayName": "Fire Safety Tips"
-                }
-            ]
-        },
-        {
-            "name": "garofano",
-            "displayName": "Garofano",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "in_the_veiled_grove",
-                    "displayName": "In The Veiled Grove"
-                }
-            ]
-        },
-        {
-            "name": "gekkabijin",
-            "displayName": "Gekkabijin",
-            "rank": "B",
-            "libram": "LOVE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "golan",
-            "displayName": "Golan",
-            "rank": "A",
-            "libram": "PESTILENCE",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "rooftop_reckoning",
-                    "displayName": "Rooftop Reckoning"
-                }
-            ]
-        },
-        {
-            "name": "graves",
-            "displayName": "Graves",
-            "rank": "S",
-            "libram": "DEATH",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "youtingmeiying",
-                    "displayName": "Reverie Belle"
-                }
-            ]
-        },
-        {
-            "name": "hamel",
-            "displayName": "Hamel",
-            "rank": "S",
-            "libram": "LOVE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "joyful_tune",
-                    "displayName": "Joyful Tune"
-                },
-                {
-                    "name": "odile",
-                    "displayName": "Odile"
-                },
-                {
-                    "name": "azure_waltz_in_solace",
-                    "displayName": "Azure Waltz In Solace"
-                }
-            ]
-        },
-        {
-            "name": "hecate",
-            "displayName": "Hecate",
-            "rank": "A",
-            "libram": "LIMBO",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "yesterday_revisits",
-                    "displayName": "Yesterday Revisits"
-                },
-                {
-                    "name": "travellers_tale",
-                    "displayName": "Travellers Tale"
-                }
-            ]
-        },
-        {
-            "name": "helga",
-            "displayName": "Helga",
-            "rank": "A",
-            "libram": "FAMINE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "hella",
-            "displayName": "Hella",
-            "rank": "B",
-            "libram": "VIOLENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "queen_of_hearts",
-                    "displayName": "Queen Of Hearts"
-                },
-                {
-                    "name": "northward_to_whitesands",
-                    "displayName": "Northward To Whitesands"
-                }
-            ]
-        }, {
-            "name": "hellasp",
-            "displayName": "Necresta Hella",
-            "rank": "S",
-            "libram": "FAMINE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [{
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "hestia",
-            "displayName": "Hestia",
-            "rank": "S",
-            "libram": "IMMORTAL",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "lambent_wishbearer",
-                    "displayName": "Lambent Wishbearer"
-                },
-                {
-                    "name": "yehuohuanghun",
-                    "displayName": "Dusk Aglow"
-                }
-            ]
-        },{
-            "name": "hilda",
-            "displayName": "Hilda",
-            "rank": "S",
-            "libram": "ANGER",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "horo",
-            "displayName": "Horo",
-            "rank": "A",
-            "libram": "ANGER",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "limit_breaker",
-                    "displayName": "Limit Breaker"
-                },
-                {
-                    "name": "tianyacishi",
-                    "displayName": "Abiding Moment"
-                }
-            ]
-        },
-        {
-            "name": "hypatia",
-            "displayName": "Hypatia",
-            "rank": "S",
-            "libram": "FAMINE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "yeyinjinqiang",
-                    "displayName": "Crepuscular Bloom"
-                }
-            ]
-        },
-        {
-            "name": "ignis",
-            "displayName": "Ignis",
-            "rank": "A",
-            "libram": "HERESY",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "warm_flame",
-                    "displayName": "Warm Flame"
-                },
-                {
-                    "name": "caramel_starwish",
-                    "displayName": "Caramel Starwish"
-                }
-            ]
-        },
-        {
-            "name": "iron",
-            "displayName": "Iron",
-            "rank": "A",
-            "libram": "ANGER",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "dr__ironstein",
-                    "displayName": "Dr Ironstein"
-                }
-            ]
-        },
-        {
-            "name": "irrheia",
-            "displayName": "Irrheia",
-            "rank": "S",
-            "libram": "FRAUD",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "jane",
-            "displayName": "Jane",
-            "rank": "A",
-            "libram": "VIOLENCE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "off-duty_summer_civvies",
-                    "displayName": "Off-duty Summer Civvies"
-                }
-            ]
-        },
-        {
-            "name": "jasmine",
-            "displayName": "Jasmine",
-            "rank": "S",
-            "libram": "WAR",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "roufengyeying",
-                    "displayName": "Gossamer Sway"
-                }
-            ]
-        },
-        {
-            "name": "jelena",
-            "displayName": "Jelena",
-            "rank": "S",
-            "libram": "FAMINE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "scorched_lullaby",
-                    "displayName": "Scorched Lullaby"
-                }
-            ]
-        },
-        {
-            "name": "joan",
-            "displayName": "Joan",
-            "rank": "B",
-            "libram": "ANGER",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "backstage_break",
-                    "displayName": "Backstage Break"
-                }
-            ]
-        },
-        {
-            "name": "jolyne_cujoh",
-            "displayName": "Jolyne Cujoh",
-            "rank": "S",
-            "libram": "INFINITE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "kk",
-            "displayName": "K.K.",
-            "rank": "B",
-            "libram": "VIOLENCE",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "undercover_fill_in",
-                    "displayName": "Undercover Fill In"
-                }
-            ]
-        },
-        {
-            "name": "kawa-kawa",
-            "displayName": "Kawa-kawa",
-            "rank": "A",
-            "libram": "HERESY",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "down_the_rabbit_hole",
-                    "displayName": "Down The Rabbit Hole"
-                }
-            ]
-        },
-        {
-            "name": "kelvin",
-            "displayName": "Kelvin",
-            "rank": "B",
-            "libram": "TREACHERY",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "chilling_hideaway",
-                    "displayName": "Chilling Hideaway"
-                }
-            ]
-        },
-        {
-            "name": "korryn",
-            "displayName": "Korryn",
-            "rank": "S",
-            "libram": "FAMINE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "aureate_ambush",
-                    "displayName": "Aureate Ambush"
-                }
-            ]
-        },
-        {
-            "name": "kujo_jotaro",
-            "displayName": "Kujo Jotaro",
-            "rank": "S",
-            "libram": "INFINITE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "ll",
-            "displayName": "L.L.",
-            "rank": "S",
-            "libram": "PESTILENCE",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "astral_rhapsody",
-                    "displayName": "Astral Rhapsody"
-                }
-            ]
-        },
-        {
-            "name": "labyrinth",
-            "displayName": "Labyrinth",
-            "rank": "B",
-            "libram": "ANGER",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "fortune_and_prosperity",
-                    "displayName": "Fortune And Prosperity"
-                }
-            ]
-        },
-        {
-            "name": "lady_pearl",
-            "displayName": "Lady Pearl",
-            "rank": "S",
-            "libram": "SLOTH",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "aftershow_brilliance",
-                    "displayName": "Aftershow Brilliance"
-                }
-            ]
-        },
-        {
-            "name": "lamia",
-            "displayName": "Lamia",
-            "rank": "A",
-            "libram": "HERESY",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "hushed_tides",
-                    "displayName": "Hushed Tides"
-                },
-                {
-                    "name": "drowning_lurve",
-                    "displayName": "Drowning Lurve"
-                }
-            ]
-        },
-        {
-            "name": "langley",
-            "displayName": "Langley",
-            "rank": "S",
-            "libram": "TREACHERY",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "banquet_guest",
-                    "displayName": "Banquet Guest"
-                },
-                {
-                    "name": "madame_maelstrom",
-                    "displayName": "Madame Maelstrom"
-                }
-            ]
-        },
-        {
-            "name": "letta",
-            "displayName": "Letta",
-            "rank": "A",
-            "libram": "FRAUD",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "spectral_shenanigans",
-                    "displayName": "Spectral Shenanigans"
-                }
-            ]
-        },
-        {
-            "name": "levy",
-            "displayName": "Levy",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "twilight_thrills",
-                    "displayName": "Twilight Thrills"
-                }
-            ]
-        },
-        {
-            "name": "lisa",
-            "displayName": "Lisa",
-            "rank": "B",
-            "libram": "LIMBO",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "trail_of_butterfly",
-                    "displayName": "Trail Of Butterfly"
-                }
-            ]
-        },
-        {
-            "name": "luminita",
-            "displayName": "Luminita",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "luvia_ray",
-            "displayName": "Luvia Ray",
-            "rank": "A",
-            "libram": "LIMBO",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "glittering_stars",
-                    "displayName": "Glittering Stars"
-                },
-                {
-                    "name": "beach_frolic",
-                    "displayName": "Beach Frolic"
-                }
-            ]
-        },
-        {
-            "name": "lynn",
-            "displayName": "Lynn",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "skittish_star",
-                    "displayName": "Skittish Star"
-                }
-            ]
-        },
-        {
-            "name": "lysandra",
-            "displayName": "Lysandra",
-            "rank": "A",
-            "libram": "VIOLENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "macchiato",
-            "displayName": "Macchiato",
-            "rank": "B",
-            "libram": "HERESY",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "beguiled_heart",
-                    "displayName": "Beguiled Heart"
-                }
-            ]
-        },
-        {
-            "name": "mantis",
-            "displayName": "Mantis",
-            "rank": "S",
-            "libram": "IMMORTAL",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "sylvan_silhouette",
-                    "displayName": "Sylvan Silhouette"
-                }
-            ]
-        },
-        {
-            "name": "margaret",
-            "displayName": "Margaret",
-            "rank": "S",
-            "libram": "DEATH",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "matilda",
-            "displayName": "Matilda",
-            "rank": "A",
-            "libram": "SLOTH",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "elfin_siesta",
-                    "displayName": "Elfin Siesta"
-                }
-            ]
-        },
-        {
-            "name": "mcqueen",
-            "displayName": "McQueen",
-            "rank": "A",
-            "libram": "TREACHERY",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "inferno_of_deception",
-                    "displayName": "Inferno Of Deception"
-                },
-                {
-                    "name": "whimsical_theater",
-                    "displayName": "Whimsical Theater"
-                }
-            ]
-        },
-        {
-            "name": "mess",
-            "displayName": "Mess",
-            "rank": "A",
-            "libram": "HERESY",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "mystic_pawnshop",
-                    "displayName": "Mystic Pawnshop"
-                }
-            ]
-        },
-        {
-            "name": "milly",
-            "displayName": "Milly",
-            "rank": "S",
-            "libram": "DEATH",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "mira",
-            "displayName": "Mira",
-            "rank": "A",
-            "libram": "FAMINE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "moore",
-            "displayName": "Moore",
-            "rank": "S",
-            "libram": "PESTILENCE",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "eternal_bliss",
-                    "displayName": "Eternal Bliss"
-                }
-            ]
-        },
-        {
-            "name": "mrfox",
-            "displayName": "Mr. Fox",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "twilight_game",
-                    "displayName": "Twilight Game"
-                }
-            ]
-        },
-        {
-            "name": "nox",
-            "displayName": "NOX",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "ashen_prayer",
-                    "displayName": "Ashen Prayer"
-                },
-                {
-                    "name": "gloom_of_daybreak",
-                    "displayName": "Gloom Of Daybreak"
-                }
-            ]
-        },
-        {
-            "name": "ninety-nine",
-            "displayName": "Ninety-Nine",
-            "rank": "A",
-            "libram": "VIOLENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "chaotic_restraint",
-                    "displayName": "Chaotic Restraint"
-                }
-            ]
-        },
-        {
-            "name": "nino",
-            "displayName": "Nino",
-            "rank": "A",
-            "libram": "LIMBO",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "nino_sama_schoolgoing",
-                    "displayName": "Nino Sama Schoolgoing"
-                }
-            ]
-        },
-        {
-            "name": "oak_casket",
-            "displayName": "Oak Casket",
-            "rank": "S",
-            "libram": "SLOTH",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "forest_of_enthrallment",
-                    "displayName": "Forest Of Enthrallment"
-                },
-                {
-                    "name": "sepulchral_ride",
-                    "displayName": "Sepulchral Ride"
-                }
-            ]
-        },
-        {
-            "name": "oliver",
-            "displayName": "Oliver",
-            "rank": "A",
-            "libram": "TREACHERY",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "haloed_refrain",
-                    "displayName": "Haloed Refrain"
+                    "displayName": "Under the Neon Lights"
                 }
             ]
         },
         {
             "name": "owo",
+            "slug": "owo",
             "displayName": "OwO",
             "rank": "S",
             "libram": "SLOTH",
@@ -1727,143 +33,18 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "serendipity_poem",
-                    "displayName": "Serendipity Poem"
-                }
-            ]
-        },
-        {
-            "name": "pacassi",
-            "displayName": "Pacassi",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
+                    "name": "king_of_lion_dance",
+                    "displayName": "King of Lion Dance"
                 },
                 {
-                    "name": "winter_night",
-                    "displayName": "Winter Night"
-                },
-                {
-                    "name": "frostforged_maiden",
-                    "displayName": "Frostforged Maiden"
-                }
-            ]
-        },
-        {
-            "name": "parfait",
-            "displayName": "Parfait",
-            "rank": "S",
-            "libram": "DEATH",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "guiyishalong",
-                    "displayName": "Salon Rose"
-                }
-            ]
-        },
-        {
-            "name": "peggy",
-            "displayName": "Peggy",
-            "rank": "B",
-            "libram": "GREED",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "jifeiyinlang",
-                    "displayName": "Sensory Hyperwave"
-                }
-            ]
-        },
-        {
-            "name": "pepper",
-            "displayName": "Pepper",
-            "rank": "B",
-            "libram": "GREED",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "peppy_shepherdess",
-                    "displayName": "Peppy Shepherdess"
-                }
-            ]
-        },
-        {
-            "name": "pine",
-            "displayName": "Pine",
-            "rank": "A",
-            "libram": "PESTILENCE",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "pricilla",
-            "displayName": "Pricilla",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "night_of_petals",
-                    "displayName": "Night Of Petals"
-                },
-                {
-                    "name": "private_mischief",
-                    "displayName": "Private Mischief"
-                }
-            ]
-        },
-        {
-            "name": "pylgia",
-            "displayName": "Pylgia",
-            "rank": "S",
-            "libram": "IMMORTAL",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "shackled_dream_in_aqua",
-                    "displayName": "Shackled Dream In Aqua"
+                    "name": "auspicious_prancer",
+                    "displayName": "Auspicious Prancer"
                 }
             ]
         },
         {
             "name": "rahu",
+            "slug": "rahu",
             "displayName": "Rahu",
             "rank": "S",
             "libram": "ANGER",
@@ -1885,83 +66,69 @@
             ]
         },
         {
-            "name": "raven",
-            "displayName": "Raven",
+            "name": "vanilla",
+            "slug": "vanilla",
+            "displayName": "Vanilla",
             "rank": "S",
-            "libram": "FRAUD",
-            "tendency": "Arcane",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "arnheim_athenaeum",
-                    "displayName": "Arnheim Athenaeum"
-                },
-                {
-                    "name": "raven_in_the_box",
-                    "displayName": "Raven In The Box"
-                }
-            ]
-        },
-        {
-            "name": "rise",
-            "displayName": "Rise",
-            "rank": "A",
-            "libram": "PESTILENCE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "nebula_sentinel",
-                    "displayName": "Nebula Sentinel"
-                }
-            ]
-        },
-        {
-            "name": "roulecca",
-            "displayName": "Roulecca",
-            "rank": "A",
-            "libram": "ANGER",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "seaside_dessert_stand",
-                    "displayName": "Seaside Dessert Stand"
-                },
-                {
-                    "name": "puerile_maniac",
-                    "displayName": "Puerile Maniac"
-                }
-            ]
-        },
-        {
-            "name": "rumina",
-            "displayName": "Rumina",
-            "rank": "A",
-            "libram": "LOVE",
+            "libram": "IMMORTAL",
             "tendency": "Endura",
             "category": "Sinners",
             "attires": [
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "vanilla_-_initial",
+                    "displayName": "Vanilla - Initial"
+                },
+                {
+                    "name": "aether_runner",
+                    "displayName": "Aether Runner"
+                }
+            ]
+        },
+        {
+            "name": "moore",
+            "slug": "moore",
+            "displayName": "Moore",
+            "rank": "S",
+            "libram": "PESTILENCE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "ensnaring_eclipse",
+                    "displayName": "Ensnaring Eclipse"
+                }
+            ]
+        },
+        {
+            "name": "yugu",
+            "slug": "yugu",
+            "displayName": "Yugu",
+            "rank": "S",
+            "libram": "FRAUD",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "celestial_augury",
+                    "displayName": "Celestial Augury"
                 }
             ]
         },
         {
             "name": "rust",
+            "slug": "rust",
             "displayName": "Rust",
             "rank": "S",
             "libram": "TREACHERY",
@@ -1971,11 +138,242 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                }   
+                }
             ]
         },
         {
-            "name": "serpent",
+            "name": "zoya",
+            "slug": "zoya",
+            "displayName": "Zoya",
+            "rank": "S",
+            "libram": "VIOLENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "wolves_strike_soon",
+                    "displayName": "Wolves Strike Soon"
+                },
+                {
+                    "name": "supreme_negotiation",
+                    "displayName": "Supreme Negotiation"
+                },
+                {
+                    "name": "lord_of_rimehowl",
+                    "displayName": "Lord of Rimehowl"
+                }
+            ]
+        },
+        {
+            "name": "nuokesi",
+            "slug": "nox",
+            "displayName": "NOX",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "ashen_prayer",
+                    "displayName": "Ashen Prayer"
+                },
+                {
+                    "name": "gloom_of_daybreak",
+                    "displayName": "Gloom of Daybreak"
+                },
+                {
+                    "name": "into_the_tinted_dawn",
+                    "displayName": "Into the Tinted Dawn"
+                }
+            ]
+        },
+        {
+            "name": "deren",
+            "slug": "deren",
+            "displayName": "Deren",
+            "rank": "S",
+            "libram": "FRAUD",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "eclat_eminence",
+                    "displayName": "Eclat Eminence"
+                },
+                {
+                    "name": "butterfly_shadow",
+                    "displayName": "Butterfly Shadow"
+                }
+            ]
+        },
+        {
+            "name": "don",
+            "slug": "donald",
+            "displayName": "Donald",
+            "rank": "S",
+            "libram": "TREACHERY",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "good_old_days",
+                    "displayName": "Good Old Days"
+                }
+            ]
+        },
+        {
+            "name": "yao",
+            "slug": "yao",
+            "displayName": "Yao",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "yao_-_initial",
+                    "displayName": "Yao - Initial"
+                },
+                {
+                    "name": "fireborne_offering",
+                    "displayName": "Fireborne Offering"
+                }
+            ]
+        },
+        {
+            "name": "pylgia",
+            "slug": "pylgia",
+            "displayName": "Pylgia",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "shackled_dream_in_aqua",
+                    "displayName": "Shackled Dream in Aqua"
+                }
+            ]
+        },
+        {
+            "name": "jasmine",
+            "slug": "jasmine",
+            "displayName": "Jasmine",
+            "rank": "S",
+            "libram": "WAR",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "gossamer_sway",
+                    "displayName": "Gossamer Sway"
+                }
+            ]
+        },
+        {
+            "name": "synex",
+            "slug": "synex",
+            "displayName": "Synex",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "street_striker",
+                    "displayName": "Street Striker"
+                }
+            ]
+        },
+        {
+            "name": "linglan",
+            "slug": "bai_yi",
+            "displayName": "Bai Yi",
+            "rank": "S",
+            "libram": "TREACHERY",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "blade_of_night",
+                    "displayName": "Blade of Night"
+                },
+                {
+                    "name": "wave_rider",
+                    "displayName": "Wave Rider"
+                },
+                {
+                    "name": "aeon's_vanguard",
+                    "displayName": "Aeon's Vanguard"
+                }
+            ]
+        },
+        {
+            "name": "crache",
+            "slug": "crache",
+            "displayName": "Crache",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "eternal_night_hunt",
+                    "displayName": "Eternal Night Hunt"
+                },
+                {
+                    "name": "lucida_mystica",
+                    "displayName": "Lucida Mystica"
+                },
+                {
+                    "name": "shadow_groove",
+                    "displayName": "Shadow Groove"
+                }
+            ]
+        },
+        {
+            "name": "snake",
+            "slug": "serpent",
             "displayName": "Serpent",
             "rank": "S",
             "libram": "LOVE",
@@ -1988,16 +386,269 @@
                 },
                 {
                     "name": "awake_from_slumber",
-                    "displayName": "Awake From Slumber"
+                    "displayName": "Awake from Slumber"
+                },
+                {
+                    "name": "source_of_happiness",
+                    "displayName": "Source of Happiness"
                 },
                 {
                     "name": "elixir_of_euphoria",
-                    "displayName": "Elixir Of Euphoria"
+                    "displayName": "Elixir of Euphoria"
+                }
+            ]
+        },
+        {
+            "name": "adela",
+            "slug": "adela",
+            "displayName": "Adela",
+            "rank": "S",
+            "libram": "SLOTH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "candlelit_turret",
+                    "displayName": "Candlelit Turret"
+                },
+                {
+                    "name": "woodland_wanderer",
+                    "displayName": "Woodland Wanderer"
+                }
+            ]
+        },
+        {
+            "name": "mantis",
+            "slug": "mantis",
+            "displayName": "Mantis",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "sylvan_silhouette",
+                    "displayName": "Sylvan Silhouette"
+                }
+            ]
+        },
+        {
+            "name": "angel",
+            "slug": "angell",
+            "displayName": "Angell",
+            "rank": "S",
+            "libram": "PESTILENCE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "lurking_lotusblade",
+                    "displayName": "Lurking Lotusblade"
+                },
+                {
+                    "name": "thunder_beat",
+                    "displayName": "Thunder Beat"
+                }
+            ]
+        },
+        {
+            "name": "zero",
+            "slug": "000",
+            "displayName": "000",
+            "rank": "S",
+            "libram": "PESTILENCE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "xenospace_pythoness",
+                    "displayName": "Xenospace Pythoness"
+                },
+                {
+                    "name": "amped_frenzy",
+                    "displayName": "Amped Frenzy"
+                }
+            ]
+        },
+        {
+            "name": "graves",
+            "slug": "graves",
+            "displayName": "Graves",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "reverie_belle",
+                    "displayName": "Reverie Belle"
+                }
+            ]
+        },
+        {
+            "name": "hellasp",
+            "slug": "necrestahella",
+            "displayName": "Necresta·Hella",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "ceto",
+            "slug": "ceto",
+            "displayName": "Ceto",
+            "rank": "S",
+            "libram": "WAR",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "hitomi",
+            "slug": "kisugi_hitomi",
+            "displayName": "Kisugi Hitomi",
+            "rank": "S",
+            "libram": "INFINITE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "neon_raindrops",
+                    "displayName": "Neon Raindrops"
+                }
+            ]
+        },
+        {
+            "name": "xiayin",
+            "slug": "summer",
+            "displayName": "Summer",
+            "rank": "S",
+            "libram": "HERESY",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "desert_delusions",
+                    "displayName": "Desert Delusions"
+                },
+                {
+                    "name": "luminous_night",
+                    "displayName": "Luminous Night"
+                }
+            ]
+        },
+        {
+            "name": "lanli",
+            "slug": "langley",
+            "displayName": "Langley",
+            "rank": "S",
+            "libram": "TREACHERY",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "banquet_guest",
+                    "displayName": "Banquet Guest"
+                },
+                {
+                    "name": "madame_maelstrom",
+                    "displayName": "Madame Maelstrom"
+                }
+            ]
+        },
+        {
+            "name": "oak",
+            "slug": "oak_casket",
+            "displayName": "Oak Casket",
+            "rank": "S",
+            "libram": "SLOTH",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "forest_of_enthrallment",
+                    "displayName": "Forest of Enthrallment"
+                },
+                {
+                    "name": "sepulchral_ride",
+                    "displayName": "Sepulchral Ride"
+                }
+            ]
+        },
+        {
+            "name": "dreya",
+            "slug": "dreya",
+            "displayName": "Dreya",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "cosmic_escapist",
+                    "displayName": "Cosmic Escapist"
+                },
+                {
+                    "name": "seastral_starlight",
+                    "displayName": "Seastral Starlight"
                 }
             ]
         },
         {
             "name": "shalom",
+            "slug": "shalom",
             "displayName": "Shalom",
             "rank": "S",
             "libram": "SLOTH",
@@ -2019,29 +670,12 @@
             ]
         },
         {
-            "name": "shawn",
-            "displayName": "Shawn",
-            "rank": "A",
-            "libram": "FRAUD",
-            "tendency": "Catalyst",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "digital_fauxmance",
-                    "displayName": "Digital Fauxmance"
-                }
-            ]
-        },
-        {
-            "name": "shin",
-            "displayName": "Shin",
+            "name": "pearl",
+            "slug": "lady_pearl",
+            "displayName": "Lady Pearl",
             "rank": "S",
-            "libram": "IMMORTAL",
-            "tendency": "Catalyst",
+            "libram": "SLOTH",
+            "tendency": "Reticle",
             "category": "Sinners",
             "attires": [
                 {
@@ -2049,17 +683,22 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "xingjizhiyong",
-                    "displayName": "Stellar Embrace"
+                    "name": "lady_pearl_-_initial",
+                    "displayName": "Lady Pearl - Initial"
+                },
+                {
+                    "name": "glorious_spectacle_unfolds",
+                    "displayName": "Glorious Spectacle Unfolds"
                 }
             ]
         },
         {
-            "name": "shrooma",
-            "displayName": "Shrooma",
-            "rank": "A",
+            "name": "bianca",
+            "slug": "bianca",
+            "displayName": "Bianca",
+            "rank": "S",
             "libram": "PESTILENCE",
-            "tendency": "Umbra",
+            "tendency": "Reticle",
             "category": "Sinners",
             "attires": [
                 {
@@ -2067,25 +706,98 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "whimsy_escape",
-                    "displayName": "Whimsy Escape"
+                    "name": "in-cider_scoop",
+                    "displayName": "In-Cider Scoop"
+                },
+                {
+                    "name": "bouncing_toccata",
+                    "displayName": "Bouncing Toccata"
                 }
             ]
-        }, {
-            "name": "siglinde",
-            "displayName": "Siglinde",
-            "rank": "A",
-            "libram": "WAR",
-            "tendency": "Endura",
+        },
+        {
+            "name": "korryn",
+            "slug": "korryn",
+            "displayName": "Korryn",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Reticle",
             "category": "Sinners",
-            "attires": [{
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "aureate_ambush",
+                    "displayName": "Aureate Ambush"
+                }
+            ]
+        },
+        {
+            "name": "hypatia",
+            "slug": "hypatia",
+            "displayName": "Hypatia",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "crepuscular_bloom",
+                    "displayName": "Crepuscular Bloom"
+                }
+            ]
+        },
+        {
+            "name": "augustus",
+            "slug": "augustus",
+            "displayName": "Augustus",
+            "rank": "S",
+            "libram": "WAR",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
                     "name": "default",
                     "displayName": "Default"
                 }
             ]
         },
         {
-            "name": "stargazer",
+            "name": "heli",
+            "slug": "eirene",
+            "displayName": "Eirene",
+            "rank": "S",
+            "libram": "GREED",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "seaside_sunrise",
+                    "displayName": "Seaside Sunrise"
+                },
+                {
+                    "name": "daughter_of_fraser_city",
+                    "displayName": "Daughter of Fraser City"
+                },
+                {
+                    "name": "veil_of_flame",
+                    "displayName": "Veil of Flame"
+                }
+            ]
+        },
+        {
+            "name": "anarkia",
+            "slug": "stargazer",
             "displayName": "Stargazer",
             "rank": "S",
             "libram": "HERESY",
@@ -2107,110 +819,35 @@
             ]
         },
         {
-            "name": "sumire",
-            "displayName": "Sumire",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "flower_of_fantasy",
-                    "displayName": "Flower Of Fantasy"
-                },
-                {
-                    "name": "moonrise_fondness",
-                    "displayName": "Moonrise Fondness"
-                }
-            ]
-        },
-        {
-            "name": "summer",
-            "displayName": "Summer",
+            "name": "etti",
+            "slug": "etti",
+            "displayName": "Etti",
             "rank": "S",
-            "libram": "HERESY",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "desert_delusions",
-                    "displayName": "Desert Delusions"
-                },
-                {
-                    "name": "luminous_night",
-                    "displayName": "Luminous Night"
-                }
-            ]
-        }, {
-            "name": "synex",
-            "displayName": "Synex",
-            "rank": "S",
-            "libram": "FAMINE",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [{
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        },
-        {
-            "name": "tetra",
-            "displayName": "Tetra",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "edge_of_nightfall",
-                    "displayName": "Edge Of Nightfall"
-                }
-            ]
-        },
-        {
-            "name": "thalia",
-            "displayName": "Thalia",
-            "rank": "A",
-            "libram": "GREED",
-            "tendency": "Reticle",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                }
-            ]
-        }, {
-            "name": "thani",
-            "displayName": "Thani",
-            "rank": "A",
-            "libram": "FAMINE",
+            "libram": "FRAUD",
             "tendency": "Arcane",
             "category": "Sinners",
-            "attires": [{
-                "name": "default",
-                "displayName": "Default"
-            }]
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "noctivagation",
+                    "displayName": "Noctivagation"
+                },
+                {
+                    "name": "dances_&_dragons",
+                    "displayName": "Dances & Dragons"
+                }
+            ]
         },
         {
-            "name": "thistle",
-            "displayName": "Thistle",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Umbra",
+            "name": "raven",
+            "slug": "raven",
+            "displayName": "Raven",
+            "rank": "S",
+            "libram": "FRAUD",
+            "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
                 {
@@ -2218,17 +855,22 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "oneiric_flexagon",
-                    "displayName": "Oneiric Flexagon"
+                    "name": "arnheim_athenaeum",
+                    "displayName": "Arnheim Athenaeum"
+                },
+                {
+                    "name": "raven_in_the_box",
+                    "displayName": "Raven in the Box"
                 }
             ]
         },
         {
-            "name": "uni",
-            "displayName": "Uni",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Endura",
+            "name": "eleven",
+            "slug": "eleven",
+            "displayName": "Eleven",
+            "rank": "S",
+            "libram": "SLOTH",
+            "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
                 {
@@ -2236,34 +878,21 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "guise_into_life",
-                    "displayName": "Guise Into Life"
+                    "name": "rippling_heartthrobs",
+                    "displayName": "Rippling Heartthrobs"
+                },
+                {
+                    "name": "trickling_heartstream",
+                    "displayName": "Trickling Heartstream"
                 }
             ]
         },
         {
-            "name": "vanilla",
-            "displayName": "Vanilla",
+            "name": "hestia",
+            "slug": "hestia",
+            "displayName": "Hestia",
             "rank": "S",
             "libram": "IMMORTAL",
-            "tendency": "Endura",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "aether_runner",
-                    "displayName": "Aether Runner"
-                }
-            ]
-        },
-        {
-            "name": "victoria",
-            "displayName": "Victoria",
-            "rank": "A",
-            "libram": "LIMBO",
             "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
@@ -2272,17 +901,18 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "good_morning__medison",
-                    "displayName": "Good Morning Medison"
+                    "name": "lambent_wishbearer",
+                    "displayName": "Lambent Wishbearer"
                 },
                 {
-                    "name": "cocooned_serenade",
-                    "displayName": "Cocooned Serenade"
+                    "name": "dusk_aglow",
+                    "displayName": "Dusk Aglow"
                 }
             ]
         },
         {
             "name": "vautour",
+            "slug": "vautour_bleu",
             "displayName": "Vautour Bleu",
             "rank": "S",
             "libram": "FAMINE",
@@ -2295,12 +925,569 @@
                 },
                 {
                     "name": "languor_en_bleu",
-                    "displayName": "Languor En Bleu"
+                    "displayName": "Languor en Bleu"
+                },
+                {
+                    "name": "vin_nocturne",
+                    "displayName": "Vin Nocturne"
+                }
+            ]
+        },
+        {
+            "name": "yingying",
+            "slug": "yingying",
+            "displayName": "Yingying",
+            "rank": "S",
+            "libram": "LOVE",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "fluttered_heartstrings",
+                    "displayName": "Fluttered Heartstrings"
+                }
+            ]
+        },
+        {
+            "name": "milly",
+            "slug": "milly",
+            "displayName": "Milly",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "timeless_silhouette",
+                    "displayName": "Timeless Silhouette"
+                }
+            ]
+        },
+        {
+            "name": "hilda",
+            "slug": "hilda",
+            "displayName": "Hilda",
+            "rank": "S",
+            "libram": "SEQUESTER",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "rui",
+            "slug": "kisugi_rui",
+            "displayName": "Kisugi Rui",
+            "rank": "S",
+            "libram": "INFINITE",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "tipsy_nocturne",
+                    "displayName": "Tipsy Nocturne"
+                }
+            ]
+        },
+        {
+            "name": "hameier",
+            "slug": "hamel",
+            "displayName": "Hamel",
+            "rank": "S",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "joyful_tune",
+                    "displayName": "Joyful Tune"
+                },
+                {
+                    "name": "odile",
+                    "displayName": "Odile"
+                },
+                {
+                    "name": "azure_waltz_in_solace",
+                    "displayName": "Azure Waltz in Solace"
+                }
+            ]
+        },
+        {
+            "name": "enfer",
+            "slug": "enfer",
+            "displayName": "Enfer",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "sculptor's_nest",
+                    "displayName": "Sculptor's Nest"
+                },
+                {
+                    "name": "virtuoso_of_jade",
+                    "displayName": "Virtuoso of Jade"
+                }
+            ]
+        },
+        {
+            "name": "cab",
+            "slug": "cabernet",
+            "displayName": "Cabernet",
+            "rank": "S",
+            "libram": "SLOTH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "bacchanal_reverie",
+                    "displayName": "Bacchanal Reverie"
+                },
+                {
+                    "name": "intoxication_à_deux",
+                    "displayName": "Intoxication à Deux"
+                },
+                {
+                    "name": "crimson_prologue",
+                    "displayName": "Crimson Prologue"
+                }
+            ]
+        },
+        {
+            "name": "coquelicot",
+            "slug": "coquelic",
+            "displayName": "Coquelic",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "blossom",
+                    "displayName": "Blossom"
+                },
+                {
+                    "name": "crimson_hunt",
+                    "displayName": "Crimson Hunt"
+                }
+            ]
+        },
+        {
+            "name": "eve",
+            "slug": "eve",
+            "displayName": "Eve",
+            "rank": "S",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "agleam_escapade",
+                    "displayName": "Agleam Escapade"
+                },
+                {
+                    "name": "frostling_whisper",
+                    "displayName": "Frostling Whisper"
+                }
+            ]
+        },
+        {
+            "name": "duruo",
+            "slug": "du_ruo",
+            "displayName": "Du Ruo",
+            "rank": "S",
+            "libram": "FRAUD",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "du_ruo_-_initial",
+                    "displayName": "Du Ruo - Initial"
+                },
+                {
+                    "name": "lunaria_enigma",
+                    "displayName": "Lunaria Enigma"
+                },
+                {
+                    "name": "breezy_embrace",
+                    "displayName": "Breezy Embrace"
+                }
+            ]
+        },
+        {
+            "name": "ll",
+            "slug": "ll",
+            "displayName": "L.L.",
+            "rank": "S",
+            "libram": "PESTILENCE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "astral_rhapsody",
+                    "displayName": "Astral Rhapsody"
+                }
+            ]
+        },
+        {
+            "name": "jelena",
+            "slug": "jelena",
+            "displayName": "Jelena",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "scorched_lullaby",
+                    "displayName": "Scorched Lullaby"
+                }
+            ]
+        },
+        {
+            "name": "parfait",
+            "slug": "parfait",
+            "displayName": "Parfait",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "salon_rosé",
+                    "displayName": "Salon Rosé"
+                }
+            ]
+        },
+        {
+            "name": "shin",
+            "slug": "shin",
+            "displayName": "Shin",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "stellar_embrace",
+                    "displayName": "Stellar Embrace"
+                }
+            ]
+        },
+        {
+            "name": "irrheia",
+            "slug": "irrheia",
+            "displayName": "Irrheia",
+            "rank": "S",
+            "libram": "FRAUD",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "margaret",
+            "slug": "margaret",
+            "displayName": "Margaret",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "fupo",
+            "slug": "countess_chelsea",
+            "displayName": "Countess Chelsea",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "moonlight_rendezvous",
+                    "displayName": "Moonlight Rendezvous"
+                },
+                {
+                    "name": "lake_of_mythos",
+                    "displayName": "Lake of Mythos"
+                }
+            ]
+        },
+        {
+            "name": "beisefenni",
+            "slug": "cinnabar",
+            "displayName": "Cinnabar",
+            "rank": "A",
+            "libram": "TREACHERY",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "special_escort",
+                    "displayName": "Special Escort"
+                },
+                {
+                    "name": "courteous_call",
+                    "displayName": "Courteous Call"
+                }
+            ]
+        },
+        {
+            "name": "kavakava",
+            "slug": "kawa-kawa",
+            "displayName": "Kawa-kawa",
+            "rank": "A",
+            "libram": "HERESY",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "down_the_rabbit_hole",
+                    "displayName": "Down the Rabbit Hole"
+                }
+            ]
+        },
+        {
+            "name": "levy",
+            "slug": "levy",
+            "displayName": "Levy",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "twilight_thrills",
+                    "displayName": "Twilight Thrills"
+                }
+            ]
+        },
+        {
+            "name": "uni",
+            "slug": "uni",
+            "displayName": "Uni",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "guise_into_life",
+                    "displayName": "Guise into Life"
+                }
+            ]
+        },
+        {
+            "name": "nino",
+            "slug": "nino",
+            "displayName": "Nino",
+            "rank": "A",
+            "libram": "LIMBO",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "nino_sama:_schoolgoing",
+                    "displayName": "Nino Sama: Schoolgoing"
+                }
+            ]
+        },
+        {
+            "name": "golem",
+            "slug": "golan",
+            "displayName": "Golan",
+            "rank": "A",
+            "libram": "PESTILENCE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "rooftop_reckoning",
+                    "displayName": "Rooftop Reckoning"
+                }
+            ]
+        },
+        {
+            "name": "dove",
+            "slug": "dove",
+            "displayName": "Dove",
+            "rank": "A",
+            "libram": "FAMINE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "luminita",
+            "slug": "luminita",
+            "displayName": "Luminita",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "siglinde",
+            "slug": "siglinde",
+            "displayName": "Siglinde",
+            "rank": "A",
+            "libram": "WAR",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "rumina",
+            "slug": "rumina",
+            "displayName": "Rumina",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "jiushijiu",
+            "slug": "ninety-nine",
+            "displayName": "Ninety-Nine",
+            "rank": "A",
+            "libram": "VIOLENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "chaotic_restraint",
+                    "displayName": "Chaotic Restraint"
+                },
+                {
+                    "name": "new_world",
+                    "displayName": "New World"
                 }
             ]
         },
         {
             "name": "wendy",
+            "slug": "wendy",
             "displayName": "Wendy",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -2317,12 +1504,443 @@
                 },
                 {
                     "name": "elegy_of_the_rust",
-                    "displayName": "Elegy Of The Rust"
+                    "displayName": "Elegy of the Rust"
                 }
             ]
         },
         {
-            "name": "wolverine",
+            "name": "pajiaxi",
+            "slug": "pacassi",
+            "displayName": "Pacassi",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "winter_night",
+                    "displayName": "Winter Night"
+                },
+                {
+                    "name": "frostforged_maiden",
+                    "displayName": "Frostforged Maiden"
+                }
+            ]
+        },
+        {
+            "name": "duoli",
+            "slug": "dolly",
+            "displayName": "Dolly",
+            "rank": "A",
+            "libram": "VIOLENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "sunset_swing",
+                    "displayName": "Sunset Swing"
+                }
+            ]
+        },
+        {
+            "name": "mojila",
+            "slug": "horo",
+            "displayName": "Horo",
+            "rank": "A",
+            "libram": "ANGER",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "limit_breaker",
+                    "displayName": "Limit Breaker"
+                },
+                {
+                    "name": "abiding_moment",
+                    "displayName": "Abiding Moment"
+                }
+            ]
+        },
+        {
+            "name": "mess",
+            "slug": "mess",
+            "displayName": "Mess",
+            "rank": "A",
+            "libram": "HERESY",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "mystic_pawnshop",
+                    "displayName": "Mystic Pawnshop"
+                }
+            ]
+        },
+        {
+            "name": "corso",
+            "slug": "corso",
+            "displayName": "Corso",
+            "rank": "A",
+            "libram": "VIOLENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "suit-up_outlaw",
+                    "displayName": "Suit-up Outlaw"
+                }
+            ]
+        },
+        {
+            "name": "christina",
+            "slug": "christina",
+            "displayName": "Christina",
+            "rank": "A",
+            "libram": "ANGER",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "sunrise_express",
+                    "displayName": "Sunrise Express"
+                }
+            ]
+        },
+        {
+            "name": "rise",
+            "slug": "rise",
+            "displayName": "Rise",
+            "rank": "A",
+            "libram": "PESTILENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "nebula_sentinel",
+                    "displayName": "Nebula Sentinel"
+                }
+            ]
+        },
+        {
+            "name": "mira",
+            "slug": "mira",
+            "displayName": "Mira",
+            "rank": "A",
+            "libram": "FAMINE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "lysandra",
+            "slug": "lysandra",
+            "displayName": "Lysandra",
+            "rank": "A",
+            "libram": "VIOLENCE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "ark",
+            "slug": "ark",
+            "displayName": "Ark",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "xinxiya",
+            "slug": "iron",
+            "displayName": "Iron",
+            "rank": "A",
+            "libram": "ANGER",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "dr._ironstein",
+                    "displayName": "Dr. Ironstein"
+                }
+            ]
+        },
+        {
+            "name": "tetra",
+            "slug": "tetra",
+            "displayName": "Tetra",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "edge_of_nightfall",
+                    "displayName": "Edge of Nightfall"
+                }
+            ]
+        },
+        {
+            "name": "jin",
+            "slug": "sumire",
+            "displayName": "Sumire",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "flower_of_fantasy",
+                    "displayName": "Flower of Fantasy"
+                },
+                {
+                    "name": "moonrise_fondness",
+                    "displayName": "Moonrise Fondness"
+                }
+            ]
+        },
+        {
+            "name": "mcqueen",
+            "slug": "mcqueen",
+            "displayName": "McQueen",
+            "rank": "A",
+            "libram": "TREACHERY",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "inferno_of_deception",
+                    "displayName": "Inferno of Deception"
+                },
+                {
+                    "name": "whimsical_theater",
+                    "displayName": "Whimsical Theater"
+                }
+            ]
+        },
+        {
+            "name": "lynn",
+            "slug": "lynn",
+            "displayName": "Lynn",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "skittish_star",
+                    "displayName": "Skittish Star"
+                }
+            ]
+        },
+        {
+            "name": "garofano",
+            "slug": "garofano",
+            "displayName": "Garofano",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "in_the_veiled_grove",
+                    "displayName": "In the Veiled Grove"
+                }
+            ]
+        },
+        {
+            "name": "eureka",
+            "slug": "eureka",
+            "displayName": "Eureka",
+            "rank": "A",
+            "libram": "LIMBO",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "eureka_in_meowingtons",
+                    "displayName": "Eureka in Meowingtons"
+                }
+            ]
+        },
+        {
+            "name": "thistle",
+            "slug": "thistle",
+            "displayName": "Thistle",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "thistle_-_initial",
+                    "displayName": "Thistle - Initial"
+                },
+                {
+                    "name": "oneiric_flexagon",
+                    "displayName": "Oneiric Flexagon"
+                }
+            ]
+        },
+        {
+            "name": "shrooma",
+            "slug": "shrooma",
+            "displayName": "Shrooma",
+            "rank": "A",
+            "libram": "PESTILENCE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "whimsy_escape",
+                    "displayName": "Whimsy Escape"
+                }
+            ]
+        },
+        {
+            "name": "poffy",
+            "slug": "poffy",
+            "displayName": "Poffy",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "peggi",
+            "slug": "pricilla",
+            "displayName": "Pricilla",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "night_of_petals",
+                    "displayName": "Night of Petals"
+                },
+                {
+                    "name": "private_mischief",
+                    "displayName": "Private Mischief"
+                }
+            ]
+        },
+        {
+            "name": "kuangdu",
+            "slug": "roulecca",
+            "displayName": "Roulecca",
+            "rank": "A",
+            "libram": "ANGER",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "seaside_dessert_stand",
+                    "displayName": "Seaside Dessert Stand"
+                },
+                {
+                    "name": "puerile_maniac",
+                    "displayName": "Puerile Maniac"
+                }
+            ]
+        },
+        {
+            "name": "langhuan",
+            "slug": "wolverine",
             "displayName": "Wolverine",
             "rank": "A",
             "libram": "VIOLENCE",
@@ -2340,11 +1958,12 @@
             ]
         },
         {
-            "name": "wuhuanzi",
-            "displayName": "Wuhuanzi",
+            "name": "matilda",
+            "slug": "matilda",
+            "displayName": "Matilda",
             "rank": "A",
             "libram": "SLOTH",
-            "tendency": "Arcane",
+            "tendency": "Reticle",
             "category": "Sinners",
             "attires": [
                 {
@@ -2352,13 +1971,14 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "xuanhumuke",
-                    "displayName": "Verdant Apothecary"
+                    "name": "elfin_siesta",
+                    "displayName": "Elfin Siesta"
                 }
             ]
         },
         {
             "name": "yanyan",
+            "slug": "yanyan",
             "displayName": "Yanyan",
             "rank": "A",
             "libram": "HERESY",
@@ -2370,17 +1990,22 @@
                     "displayName": "Default"
                 },
                 {
+                    "name": "yanyan_-_initial",
+                    "displayName": "Yanyan - Initial"
+                },
+                {
                     "name": "wafting_whimsy",
                     "displayName": "Wafting Whimsy"
                 }
             ]
         },
         {
-            "name": "yao",
-            "displayName": "Yao",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Fury",
+            "name": "jane",
+            "slug": "jane",
+            "displayName": "Jane",
+            "rank": "A",
+            "libram": "VIOLENCE",
+            "tendency": "Reticle",
             "category": "Sinners",
             "attires": [
                 {
@@ -2388,16 +2013,62 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "fireborne_offering",
-                    "displayName": "Fireborne Offering"
+                    "name": "off-duty_summer_civvies",
+                    "displayName": "Off-Duty Summer Civvies"
                 }
             ]
         },
         {
-            "name": "yingying",
-            "displayName": "Yingying",
-            "rank": "S",
-            "libram": "LOVE",
+            "name": "pine",
+            "slug": "pine",
+            "displayName": "Pine",
+            "rank": "A",
+            "libram": "PESTILENCE",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "thalia",
+            "slug": "thalia",
+            "displayName": "Thalia",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "heerjia",
+            "slug": "helga",
+            "displayName": "Helga",
+            "rank": "A",
+            "libram": "FAMINE",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "bai",
+            "slug": "victoria",
+            "displayName": "Victoria",
+            "rank": "A",
+            "libram": "LIMBO",
             "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
@@ -2406,17 +2077,137 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "xiaoxianchushang",
-                    "displayName": "Fluttered Heartstrings"
+                    "name": "good_morning,_medison",
+                    "displayName": "Good Morning, Medison"
+                },
+                {
+                    "name": "cocooned_serenade",
+                    "displayName": "Cocooned Serenade"
                 }
             ]
         },
         {
-            "name": "yugu",
-            "displayName": "Yugu",
-            "rank": "S",
+            "name": "eagle",
+            "slug": "ignis",
+            "displayName": "Ignis",
+            "rank": "A",
+            "libram": "HERESY",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "warm_flame",
+                    "displayName": "Warm Flame"
+                },
+                {
+                    "name": "caramel_starwish",
+                    "displayName": "Caramel Starwish"
+                }
+            ]
+        },
+        {
+            "name": "luweiyalei",
+            "slug": "luvia_ray",
+            "displayName": "Luvia Ray",
+            "rank": "A",
+            "libram": "LIMBO",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "glittering_stars",
+                    "displayName": "Glittering Stars"
+                },
+                {
+                    "name": "beach_frolic",
+                    "displayName": "Beach Frolic"
+                }
+            ]
+        },
+        {
+            "name": "hekadi",
+            "slug": "hecate",
+            "displayName": "Hecate",
+            "rank": "A",
+            "libram": "LIMBO",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "yesterday_revisits",
+                    "displayName": "Yesterday Revisits"
+                },
+                {
+                    "name": "traveler's_tale",
+                    "displayName": "Traveler's Tale"
+                },
+                {
+                    "name": "darkwing_eclipse",
+                    "displayName": "Darkwing Eclipse"
+                }
+            ]
+        },
+        {
+            "name": "olivier",
+            "slug": "oliver",
+            "displayName": "Oliver",
+            "rank": "A",
+            "libram": "TREACHERY",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "haloed_refrain",
+                    "displayName": "Haloed Refrain"
+                }
+            ]
+        },
+        {
+            "name": "lamia",
+            "slug": "lamia",
+            "displayName": "Lamia",
+            "rank": "A",
+            "libram": "HERESY",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "hushed_tides",
+                    "displayName": "Hushed Tides"
+                },
+                {
+                    "name": "drowning_lurve",
+                    "displayName": "Drowning Lurve"
+                }
+            ]
+        },
+        {
+            "name": "echo",
+            "slug": "echo",
+            "displayName": "Echo",
+            "rank": "A",
             "libram": "FRAUD",
-            "tendency": "Endura",
+            "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
                 {
@@ -2424,17 +2215,18 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "wenjiyaotai",
-                    "displayName": "Celestial Augury"
+                    "name": "echo_-_initial",
+                    "displayName": "Echo - Initial"
                 }
             ]
         },
         {
-            "name": "000",
-            "displayName": "000",
-            "rank": "S",
-            "libram": "PESTILENCE",
-            "tendency": "Umbra",
+            "name": "wuhuanzi",
+            "slug": "wuhuanzi",
+            "displayName": "Wuhuanzi",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Arcane",
             "category": "Sinners",
             "attires": [
                 {
@@ -2442,17 +2234,197 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "xenospace_pythoness",
-                    "displayName": "Xenospace Pythoness"
+                    "name": "verdant_apothecary",
+                    "displayName": "Verdant Apothecary"
+                }
+            ]
+        },
+        {
+            "name": "thani",
+            "slug": "thani",
+            "displayName": "Thani",
+            "rank": "A",
+            "libram": "FAMINE",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "airuier",
+            "slug": "ariel",
+            "displayName": "Ariel",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
                 },
                 {
-                    "name": "chaopinkuangchao",
-                    "displayName": "Amped Frenzy"
+                    "name": "silent_nocturne",
+                    "displayName": "Silent Nocturne"
+                },
+                {
+                    "name": "cageling",
+                    "displayName": "Cageling"
+                }
+            ]
+        },
+        {
+            "name": "chameleon",
+            "slug": "chameleon",
+            "displayName": "Chameleon",
+            "rank": "A",
+            "libram": "HERESY",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "message_in_dreams",
+                    "displayName": "Message In Dreams"
+                },
+                {
+                    "name": "dream's_ephemera",
+                    "displayName": "Dream's Ephemera"
+                }
+            ]
+        },
+        {
+            "name": "tuoqier",
+            "slug": "anne",
+            "displayName": "Anne",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "steamy_night_chat",
+                    "displayName": "Steamy Night Chat"
+                },
+                {
+                    "name": "glistening_raindrops",
+                    "displayName": "Glistening Raindrops"
+                }
+            ]
+        },
+        {
+            "name": "kaier",
+            "slug": "mr_fox",
+            "displayName": "Mr. Fox",
+            "rank": "A",
+            "libram": "GREED",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "twilight_game",
+                    "displayName": "Twilight Game"
+                }
+            ]
+        },
+        {
+            "name": "dudu",
+            "slug": "dudu",
+            "displayName": "Dudu",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "unsung_maestro",
+                    "displayName": "Unsung Maestro"
+                },
+                {
+                    "name": "bewitching_piper",
+                    "displayName": "Bewitching Piper"
+                }
+            ]
+        },
+        {
+            "name": "letta",
+            "slug": "letta",
+            "displayName": "Letta",
+            "rank": "A",
+            "libram": "FRAUD",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "spectral_shenanigans",
+                    "displayName": "Spectral Shenanigans"
+                }
+            ]
+        },
+        {
+            "name": "cassia",
+            "slug": "cassia",
+            "displayName": "Cassia",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "aromas_in_bloom",
+                    "displayName": "Aromas in Bloom"
+                }
+            ]
+        },
+        {
+            "name": "shawn",
+            "slug": "shawn",
+            "displayName": "Shawn",
+            "rank": "A",
+            "libram": "FRAUD",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "digital_fauxmance",
+                    "displayName": "Digital Fauxmance"
                 }
             ]
         },
         {
             "name": "zephyr",
+            "slug": "zephyr",
             "displayName": "Zephyr",
             "rank": "A",
             "libram": "LOVE",
@@ -2466,9 +2438,101 @@
             ]
         },
         {
-            "name": "zoya",
-            "displayName": "Zoya",
-            "rank": "S",
+            "name": "cassian",
+            "slug": "cassian",
+            "displayName": "Cassian",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "ai",
+            "slug": "kisugi_ai",
+            "displayName": "Kisugi Ai",
+            "rank": "A",
+            "libram": "INFINITE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "tender_signal",
+                    "displayName": "Tender Signal"
+                }
+            ]
+        },
+        {
+            "name": "kk",
+            "slug": "kk",
+            "displayName": "K.K.",
+            "rank": "B",
+            "libram": "VIOLENCE",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "undercover_fill-in",
+                    "displayName": "Undercover Fill-in"
+                }
+            ]
+        },
+        {
+            "name": "atlant",
+            "slug": "demolia",
+            "displayName": "Demolia",
+            "rank": "B",
+            "libram": "LIMBO",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "gritty_detour",
+                    "displayName": "Gritty Detour"
+                }
+            ]
+        },
+        {
+            "name": "qiao",
+            "slug": "peggy",
+            "displayName": "Peggy",
+            "rank": "B",
+            "libram": "GREED",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "sensory_hyperwave",
+                    "displayName": "Sensory Hyperwave"
+                }
+            ]
+        },
+        {
+            "name": "hella",
+            "slug": "hella",
+            "displayName": "Hella",
+            "rank": "B",
             "libram": "VIOLENCE",
             "tendency": "Fury",
             "category": "Sinners",
@@ -2478,30 +2542,206 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "wolves_strike_soon",
-                    "displayName": "Wolves Strike Soon"
+                    "name": "queen_of_hearts",
+                    "displayName": "Queen of Hearts"
                 },
                 {
-                    "name": "supreme_negotiation",
-                    "displayName": "Supreme Negotiation"
+                    "name": "food_tour",
+                    "displayName": "Food Tour"
                 },
                 {
-                    "name": "bingfengwangzuo",
-                    "displayName": "Lord of Rimehowl"
+                    "name": "northward_to_whitesands",
+                    "displayName": "Northward to WhiteSands"
                 }
             ]
         },
         {
-            "name": "faye",
-            "displayName": "Faye",
-            "rank": "MBCC",
-            "libram": "none",
-            "tendency": "none",
-            "category": "NPCs",
+            "name": "che",
+            "slug": "che",
+            "displayName": "Che",
+            "rank": "B",
+            "libram": "LIMBO",
+            "tendency": "Fury",
+            "category": "Sinners",
             "attires": [
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "unexpected_guest",
+                    "displayName": "Unexpected Guest"
+                }
+            ]
+        },
+        {
+            "name": "jiekuilin",
+            "slug": "pepper",
+            "displayName": "Pepper",
+            "rank": "B",
+            "libram": "GREED",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "peppy_shepherdess",
+                    "displayName": "Peppy Shepherdess"
+                }
+            ]
+        },
+        {
+            "name": "renou",
+            "slug": "labyrinth",
+            "displayName": "Labyrinth",
+            "rank": "B",
+            "libram": "ANGER",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "fortune_and_prosperity",
+                    "displayName": "Fortune and Prosperity"
+                }
+            ]
+        },
+        {
+            "name": "zuoyi",
+            "slug": "gekkabijin",
+            "displayName": "Gekkabijin",
+            "rank": "B",
+            "libram": "LOVE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ]
+        },
+        {
+            "name": "aimiliya",
+            "slug": "emp",
+            "displayName": "EMP",
+            "rank": "B",
+            "libram": "TREACHERY",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "backstreet_overlord",
+                    "displayName": "Backstreet Overlord"
+                },
+                {
+                    "name": "hail_from_the_otaku_world",
+                    "displayName": "Hail from the Otaku World"
+                }
+            ]
+        },
+        {
+            "name": "fuluola",
+            "slug": "flora",
+            "displayName": "Flora",
+            "rank": "B",
+            "libram": "TREACHERY",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "fire_safety_tips",
+                    "displayName": "Fire Safety Tips"
+                }
+            ]
+        },
+        {
+            "name": "dina",
+            "slug": "kelvin",
+            "displayName": "Kelvin",
+            "rank": "B",
+            "libram": "TREACHERY",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "chilling_hideaway",
+                    "displayName": "Chilling Hideaway"
+                }
+            ]
+        },
+        {
+            "name": "geji",
+            "slug": "joan",
+            "displayName": "Joan",
+            "rank": "B",
+            "libram": "ANGER",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "backstage_break",
+                    "displayName": "Backstage Break"
+                }
+            ]
+        },
+        {
+            "name": "aida",
+            "slug": "macchiato",
+            "displayName": "Macchiato",
+            "rank": "B",
+            "libram": "HERESY",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "beguiled_heart",
+                    "displayName": "Beguiled Heart"
+                }
+            ]
+        },
+        {
+            "name": "monalisa",
+            "slug": "lisa",
+            "displayName": "Lisa",
+            "rank": "B",
+            "libram": "HERESY",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "trail_of_butterfly",
+                    "displayName": "Trail of Butterfly"
                 }
             ]
         }
