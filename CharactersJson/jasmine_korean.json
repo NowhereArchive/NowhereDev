@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_jasmine_levelup_002.aac",
             "text": "당신의 선물이라면 자스민은 뭐든 좋아요~"
-        }
-    ],
-    "자스민_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_jasmine_head_001.aac",
             "text": "당신 손, 정말 따뜻해요… 조금만 더 쓰다듬어 주세요. 자스민의 아름다운 춤에 대한 칭찬으로요."
         }
     ],
-    "살랑이는_그림자": [
+    "gossamer_sway": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jasmine_roufengyeying_cacha_001.aac",

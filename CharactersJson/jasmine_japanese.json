@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_jasmine_levelup_002.aac",
             "text": "ご褒美をありがとうございます。ジャスミンはどれも気に入りました～"
-        }
-    ],
-    "ジャスミン-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_jasmine_head_001.aac",
             "text": "あなたの手はとてもあったかいですね～もう少しだけ撫でてください。ジャスミンの美しいダンスへのご褒美として。"
         }
     ],
-    "そよ風曳く影": [
+    "gossamer_sway": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_jasmine_roufengyeying_cacha_001.aac",

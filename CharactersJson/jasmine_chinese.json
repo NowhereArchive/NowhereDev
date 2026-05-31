@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_jasmine_levelup_002.aac",
             "text": "感谢您的赏赐，茉莉都喜欢~"
-        }
-    ],
-    "茉莉-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_jasmine_head_001.aac",
             "text": "您的手，真温暖啊……再多抚摸我一会儿，就当是，表扬茉莉漂亮的舞姿吧。"
         }
     ],
-    "柔风曳影": [
+    "gossamer_sway": [
         {
             "title": "获得装束",
             "filename": "File:vo_jasmine_roufengyeying_cacha_001.aac",
