@@ -91,7 +91,7 @@
             "text": "내가 좀 이뻐해 준다고 선 넘지는 말자? 한 번만 더 그러면… 화원 진흙 속에 누워 있는 사람들 옆에 고이 묻어버릴 거니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_coquelicot_specialattention_001.aac",
             "text": "휴~ 나도 알아 나 이쁜 거, 그러니까 너도 날 계속 보고 싶은 거잖아?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_coquelicot_levelup_002.aac",
             "text": "지금의 나 정도로 만족하지 않는 거야?"
-        },
+        }
+    ],
+    "코쿠리코_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_coquelicot_head_001.aac",
             "text": "이 꽃이 마음에 들어? 아니면… 꽃이 어떻게 붉게 물들었는지 보고 싶은 거야?"
         }
     ],
-    "blossom": [
+    "만개": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "왜? 너도 해보고 싶어? 이리 와, 대신… 네 다리 위가 내 자리로 되는 거야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_coquelicot_shengfang_specialattention_001.aac",
             "text": "새로 만든 화원에는 디스시티에서도 볼 수 없었던 희귀한 꽃들이 있어. 수련, 불보필룸… 응? 개양귀비만 보고 싶다고? 그럼… 날 많이 봐 둬~"
         }
     ],
-    "crimson_hunt": [
+    "붉은_숲의_비밀": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
@@ -195,7 +197,7 @@
             "text": "내 술에 어쩌면 새로운 재료가 필요할지도 모르겠어. 예를 들면 얌전하지 못한 네 손가락이랄까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
             "text": "하… 난 지금 네 눈빛이 좋아. 꾸밈없고 솔직하면서도, 생존과 승리, 그리고 정복에 대한 욕망으로 가득 차 있어… 바깥세상에는 제멋대로인 규칙이 수없이 많지만, 밀림 속에선 그런 속박이 존재하지 않아. 네가 만약 춤을 추고 싶다면, 음악이 나오길 기다릴 필요도 없어."
         }

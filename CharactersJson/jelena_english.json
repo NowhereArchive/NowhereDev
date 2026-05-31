@@ -167,5 +167,47 @@
             "filename": "File:vo_jelena_zhuoyeyaolan_specialattention_001.aac",
             "text": "Your gaze is different from those children who trust Mother completely... Is it because you are braver than they are, or simply because you are more lost?"
         }
+    ],
+    "curtain_of_misty_rain": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",
+            "text": "I still remember when we met in the tender rain, as the crabapple blossoms fell on that broken bridge. You told me your name then, and it's been imprinted in my memory ever since..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jelena_yilianyanyu_levelup_001.aac",
+            "text": "Everything that you've given me—I'll treasure it all for as long as I live."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jelena_yilianyanyu_greeting_001.aac",
+            "text": "The crabapple blossoms in the garden are thriving this year. I managed to pick a few before the rain got heavier... Would you be interested in seeing them with me?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_jelena_yilianyanyu_body_001.aac",
+            "text": "The secrets in people's hearts are like the dewdrops on flowers. Under the night sky, you can see them, approach them, perhaps even find them endearing. But once the sun comes out, they vanish without a trace, never to be found again."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_jelena_yilianyanyu_body_002.aac",
+            "text": "Every time it rains, I think of you... And when I miss you, I would gather fallen petals in the garden, then wash and press them carefully before storing them in my jewelry box... just like how I hide my unspoken longing."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jelena_yilianyanyu_idle_001.aac",
+            "text": "It's fine even if you don't say a word. Just having you by my side like this... I'm content with that."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jelena_yilianyanyu_clicking_001.aac",
+            "text": "Oh my... a fallen petal got caught in my hair. Could you help me get it out?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jelena_yilianyanyu_specialattention_001.aac",
+            "text": "Please, keep your eyes on me—don't turn away, and stay by my side..."
+        }
     ]
 }

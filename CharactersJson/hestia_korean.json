@@ -91,7 +91,7 @@
             "text": "괴… 괴롭히지 마!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hestia_specialattention_001.aac",
             "text": "또다시, 넌 어둠을 뚫고 날 찾아냈어. 이것도 신의 계획이겠지… 얼마나 긴 시간이 지나도 넌 결국 내 곁으로 돌아올 거야…"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_hestia_levelup_002.aac",
             "text": "불꽃이… 더 밝아졌어…"
-        },
+        }
+    ],
+    "헤스티아_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_hestia_head_001.aac",
             "text": "어딜 감히… 성녀를… 모독해선 안 돼!"
         }
     ],
-    "lambent_wishbearer": [
+    "소원의_등불": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "걱정 마… 불꽃은 너를 해치지 않아… 널 따뜻하게 해주고, 머나먼 곳으로 데려가 줄 거야… 네 주인이 원하는 곳으로…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hestia_qiandengyinyuan_specialattention_001.aac",
             "text": "너의 시선은 이 등불보다도 뜨거워… 모닥불과 횃불처럼… 마치 세속에서 왔지만, 신선들도 그리워하게 하는 불씨 같아…"
         }
     ],
-    "dusk_aglow": [
+    "황혼의_불빛": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "이이이이건… 신명을 모시는 손이야! 함부로 만지면 안 돼… 아!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hestia_yehuohuanghun_specialattention_001.aac",
             "text": "복도에서 발소리가 들렸어… 너, 내 옆에 서 있는 거지? 대답하지 않으면, 해가 지고 난 뒤에 나랑 조용히 함께 있고 싶은 거라고 생각할게."
         }

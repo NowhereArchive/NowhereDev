@@ -91,7 +91,7 @@
             "text": "적당한 거리 유지를 부탁드립니다… 이래서는 제가 제대로 직무를 수행할 수가 없습니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_beisefenni_specialattention_001.aac",
             "text": "보디가드가 필요하십니까? 알겠습니다."
         },
@@ -111,7 +111,7 @@
             "text": "안전 등급 상향."
         }
     ],
-    "special_escort": [
+    "특별_경호원": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_beisefenni_texuhuwei_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "호흡이 너무 가빠지셨는데, 뭔가 이상이라도 감지해내신 겁니까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_beisefenni_texuhuwei_specialattention_001.aac",
             "text": "러스트 리버는 확실히 아주 위험합니다. 그래도 제가 국장님이 어떠한 위험도 맞닥뜨리지 않게 할 테니 안심해주시기 바랍니다. 그게 제 책임이니까요."
         }
     ],
-    "courteous_call": [
+    "백마의_기사": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_beisefenni_qianhouzhiyi_cacha_001.aac",
@@ -190,7 +190,7 @@
             "text": "크흠… 장신구를 함부로 만지면 안 됩니다. 착용이 좀 번거로워서요. 연회가 끝나면 떼어드릴 테니까 그때 천천히 보십시오."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_beisefenni_qianhouzhiyi_specialattention_001.aac",
             "text": "이 옷이 제게 잘 어울리나요? 감사합니다… 국장님께서 마음에 드시니 그걸로 됐습니다."
         }

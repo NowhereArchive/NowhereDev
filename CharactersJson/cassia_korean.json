@@ -91,7 +91,7 @@
             "text": "당신도 오늘 내가 뿌린 향수가 마음에 드는 거야?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cassia_specialattention_001.aac",
             "text": "뭔가에 심취한 얼굴인데… 이 향기 때문에 무언가 떠올랐나 봐?"
         },
@@ -111,7 +111,7 @@
             "text": "음, 걸작이라고 할만하네."
         }
     ],
-    "aromas_in_bloom": [
+    "화려한_정원": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cassia_xinyuanqiluo_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "그네를 밀어줄 거면 힘은 조금만 들여도 돼. 너무 높게 날면 향기가 바람을 타고 사라지거든, 꽃들의 독특한 향기가 섞이기라도 하면, 그건 정말 큰 일이지…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cassia_xinyuanqiluo_specialattention_001.aac",
             "text": "정원에 있는 꽃들은 늘 이런 시선으로 나를 바라봐. 난 꽃들이 나의 관심과 사랑을 원한다는 걸 알지만, 아쉽게도 이런 특권은 당신에게만 주고 싶어…"
         }

@@ -91,7 +91,7 @@
             "text": "…이건 생물의 구애 행동 같은 건가요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mantis_specialattention_001.aac",
             "text": "일부러 올 필요 없어요… 당신의 냄새는 기억하고 있으니까, 제가 당신을 찾을 수 있어요."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "반드시… 환경의 변화에 적응해야 해요."
-        },
+        }
+    ],
+    "맨티스_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "그래봤자… 소용없어요… 제 외골격은… 감각이 없거든요…"
         }
     ],
-    "sylvan_silhouette": [
+    "깊은_숲의_그림자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -163,9 +165,51 @@
             "text": "숲속의 날갯짓 소리가 시냇물의 개구리 울음소리와 함께 들려와요… 안심하고 잠드세요… 숲이 좋은 꿈을 꾸게 해주길 바라요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
             "text": "여긴 아무도 없어요. 물에 비친 두 사람의 모습… 그리고… 우리의 마주 보는 눈빛뿐이죠…"
+        }
+    ],
+    "식물_수첩": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",
+            "text": "저기요, 혹시 당신도 식물원에 견학 오신 건가요? …어, 잠깐만요, 저쪽에 벌레들이 줄을 엄청 가지런히 서 있네요. 집단 이동 중인 것 같은데, 같이 가서 볼래요? 마침 함께 관찰 기록도 남길 수 있겠어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_mantis_lvyinbiji_levelup_001.aac",
+            "text": "햇빛과 시간을 충분히 주기만 하면, 씨앗도 큰 나무로 자랄 수 있어요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_mantis_lvyinbiji_greeting_001.aac",
+            "text": "안녕하세요, 오늘도 식물을 관찰하러 오신 건가요? 저쪽에 꽃이 막 피었는데, 어떤 손님들을 불러왔는지 보러 가고 싶어요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_001.aac",
+            "text": "아빠랑 엄마가 예전에 늘 말씀하셨죠. 몸을 낮추고 자세히 들여다보기만 하면, 세상은 전혀 다르게 보인다고요… 이제야 알 것 같아요. 아주 작은 잎사귀 아래에도, 지금 이 순간 수많은 기적이 일어나고 있다는걸요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_002.aac",
+            "text": "보세요, 저기 두 포기의 작은 풀이 바람에 사각사각 소리를 내고 있어요. 어쩌면 서로만 알아들을 수 있는 이야기를 나누고 있는 걸지도 몰라요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_mantis_lvyinbiji_idle_001.aac",
+            "text": "빛이 잎사귀 사이로 스며들면서 색이 초록색, 금색으로 변하는 게, 마치 아름다운 꿈 같아요… 조금만 더 있어요. 아직 좀 더 보고 싶어요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_mantis_lvyinbiji_clicking_001.aac",
+            "text": "아잇, 방해하지 마세요! 작은 벌레들이 놀라서 도망가잖아요. 저 아직 이동 경로를 관찰하고 있단 말이에요…"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_mantis_lvyinbiji_specialattention_001.aac",
+            "text": "왜 계속 저를 보고 계세요? 나비들조차 당신 곁에 오지 못하잖아요… 아마 당신이 사냥 중이라고 생각하는 것 같아요."
         }
     ]
 }

@@ -91,7 +91,7 @@
             "text": "멈춰요… 따개비와 껍데기는… 날카로워서 조심해야 해요… 당신이 다치는 건 싫어요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_pylgia_specialattention_001.aac",
             "text": "당신 때문에… 심연에서 이곳으로 돌아왔어요… 역시… 당신은 절 실망시키지 않았군요…"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_pylgia_levelup_002.aac",
             "text": "더 깊어지고… 더 차가워졌어…"
-        },
+        }
+    ],
+    "필기아_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_pylgia_head_001.aac",
             "text": "부드러운… 촉감이군요… 해초 덩어리가 머리를 스치는 것 같아요… 느낌이 좀… 이상하긴 한데… 싫지는 않아요…"
         }
     ],
-    "shackled_dream_in_aqua": [
+    "암류에_얽매인_꿈": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",
@@ -153,7 +155,7 @@
             "text": "이 투명한 인공 벽은 결코 넘을 수 없는 당신과 저 사이의 거리예요… 바다를 건너 육지에 이르는 것보다 훨씬 더 멀고 아득하죠."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_pylgia_shuixingzhiguan_specialattention_001.aac",
             "text": "오가는 여행객들은 여기저기 둘러보며 마음에 드는 전시품을 골라요. 물론 저희도 그들을 관찰하고 있죠… 참 행운이에요. 저와 당신이 서로를 선택하다니, 어쩌면 이게 바로 당신들이 말하는 '영혼의 공명'일지도 모르겠네요."
         }

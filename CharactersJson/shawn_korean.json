@@ -91,7 +91,7 @@
             "text": "내 피드에 계속 '좋아요'를 누르는 사람들은 보통 내 관심을 끌어서 답장받고 싶어 하는 사람들이야. 넌? 현실에서 계속 날 터치하다니, 내게 바라는 거라도 있어?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_shawn_specialattention_001.aac",
             "text": "이게 바로 랜선 연애가 현실이 된 기분인가? 네 곁에 있으면 긴장해서 목소리가 이상해져."
         },
@@ -111,7 +111,7 @@
             "text": "내 실제 모습이 어떤지 봤는데도 날 떠나지 않네?"
         }
     ],
-    "digital_fauxmance": [
+    "위장_연애의_알림": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shawn_weiliantuisong_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "음, 그거야. 좀 더 가까이 붙어도 괜찮아."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_shawn_weiliantuisong_specialattention_001.aac",
             "text": "스톱, 그렇게 계속 날 보고 있어 봐… 음, 좋아. 이걸로 올려야겠다. 으음… 무슨 멘트를 적을까나… '그대와 함께하는 모든 순간이 반짝반짝 빛나고 있어.'"
         }

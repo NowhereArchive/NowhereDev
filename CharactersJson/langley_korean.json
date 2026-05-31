@@ -91,7 +91,7 @@
             "text": "생각 잘해, 일자리를 잃든 목숨을 잃든, 좋은 일은 아닐 테니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lanli_specialattention_001.aac",
             "text": "날 뚫어져라 쳐다봐도 네가 얻고자 하는 정보는 없어. 어때? 초짜, 고문 기술 좀 가르쳐줄까?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_lanli_levelup_002.aac",
             "text": "타겟 록업~"
-        },
+        }
+    ],
+    "랭글리_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_lanli_head_001.aac",
             "text": "이 모자를 써 보고 싶은 거야, 아니면 내 총알을 맛보고 싶은 거야?"
         }
     ],
-    "banquet_guest": [
+    "파티의_승자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "내 파트너에게 오렌지 주스를 한 잔 부탁하지… 이 녀석은 이렇게 자극적인 음료는 마시지 못하거든."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lanli_yeyanlaike_specialattention_001.aac",
             "text": "모든 정보는 이곳에 모여 있어. 원한다면… 파티가 끝난 후에 나랑 조금 더 있어 주겠나? 물론 정보를 정리하기 위해서 말이야."
         }
     ],
-    "madame_maelstrom": [
+    "오션_데몬": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",
@@ -215,7 +217,7 @@
             "text": "감히 선장 앞에서 게으름을 피우고 졸고 있다니. 우리 일등 항해사가 겁을 상실했나 봐?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
             "text": "나의 일등 항해사, 돌아온 걸 환영해. 저 섬의 상황은 어때? 몇 명이나 주둔 중이지? 화포 개수는? 정찰 업무를 훌륭하게 해냈군. 머지않아 우리의 사냥감이 약점을 드러내겠어."
         }

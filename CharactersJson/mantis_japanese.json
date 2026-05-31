@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "環境の変化に……慣れないと。"
-        },
+        }
+    ],
+    "マンティス-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "でも……これじゃダメだ……キチンの殻で……何も感じない……"
         }
     ],
-    "sylvan_silhouette": [
+    "森に佇む影": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -145,7 +147,7 @@
         {
             "title": "タッチ2",
             "filename": "File:vo_mantis_shenlinbangying_body_002.aac",
-            "text": "この実り豊かなリンゴの枝は……人間をここへ導くための印だよ……受け取って。そうすれば……またワタシを探しに来る時、道に迷ったりしないから……"
+            "text": "この実り豊かなリンゴの枝は……人間をここへ導くための印だよ……受け取って。そうすれば……またアタシを探しに来る時、道に迷ったりしないから……"
         },
         {
             "title": "タッチ3",
@@ -165,7 +167,49 @@
         {
             "title": "お気に入り",
             "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
-            "text": "ここには誰もいない。あるのは、ただ水面に映る二つの影と……交わるワタシたちの視線だけ……"
+            "text": "ここには誰もいない。あるのは、ただ水面に映る二つの影と……交わるアタシたちの視線だけ……"
+        }
+    ],
+    "緑陰ノート": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",
+            "text": "そこの学生さん、キミも植物園の見学に来たの？——あれ、ちょっと待って。あそこの虫、すごく綺麗に並んでる。なんだか集団移動してるみたい。見に行かない？ちょうど一緒に観察記録をつけられるよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mantis_lvyinbiji_levelup_001.aac",
+            "text": "太陽と時間を十分与えれば、種も大きな木に育つんだ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mantis_lvyinbiji_greeting_001.aac",
+            "text": "こんにちは、今日も植物観察に来たの？あそこの花が咲き始めたばかりなんだけど、誰が最初に見に来るか確認したいんだ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_001.aac",
+            "text": "パパとママは昔よくこう言ってた。しゃがんでじっくり見れば、世界は違って見えるって……今なら分かるよ。一枚の小さな葉の裏にも、無数の奇跡が起きてるんだよね。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_002.aac",
+            "text": "見て、あの二本の草。風にさらさら揺れてるね。きっと彼らだけが理解できる言葉を交わしてるんじゃないかな。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mantis_lvyinbiji_idle_001.aac",
+            "text": "光が葉の間から差し込むと、色が緑や金に変わる。まるで綺麗な夢みたい……もう少しここにいよう。もっと眺めていたいな。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mantis_lvyinbiji_clicking_001.aac",
+            "text": "もう、邪魔しないで！虫たちが逃げちゃうよ。まだ彼らの移動ルートを観察してるところなのに……"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mantis_lvyinbiji_specialattention_001.aac",
+            "text": "どうしてずっとアタシを見てるの？蝶も近づけなくなってるよ……きっとキミが獲物を狙ってると思ってるんだね。"
         }
     ]
 }

@@ -91,7 +91,7 @@
             "text": "손이 따뜻하네. 사랑하는 사람의 손길도 이런 온도겠지?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_graves_specialattention_001.aac",
             "text": "난 이제껏 서약을 맺을 때만 이런 눈빛을 받을 수 있을 거라고 생각했어… 날 이렇게 부드러운 눈빛으로 바라봐주는 사람은 네가 처음이야. 마치 내가 무서운 괴물이 아닌, 평범한 사람이 된 것 같아."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "이거 혹시 나에게 주는 예물이야?"
-        },
+        }
+    ],
+    "그레이브_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_graves_head_001.aac",
             "text": "면사포를 걷어내고 내가 얼마나 끔찍하게 생겼는지 봤잖아… 그, 그런데도 나한테 뽀뽀하고 싶다고?"
         }
     ],
-    "reverie_belle": [
+    "정원_속_깊은_잠": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
@@ -163,9 +165,51 @@
             "text": "하암… 바람이 선선하고 햇살도 따스해서 조금 졸리네… 하지만 네가 같이 있어 주니까 눈을 감기가 아까워…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_graves_youtingmeiying_specialattention_001.aac",
             "text": "난 믿어, 너의 시선이 저주로부터 나를 지켜줄 거라는 걸… 계속 나를 바라봐 줘, 용사님."
+        }
+    ],
+    "회랑의_나비": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",
+            "text": "드디어 왔구나. 여긴 길이 복잡해서, 혹시 날 못 찾을까 봐 걱정했는데… 그래도 괜찮아, 오래 기다린 건 아니니까. 게다가 이것 좀 봐, 이렇게 많은 나비가 나랑 같이 있어 줬어~"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_graves_shenlangyindie_levelup_001.aac",
+            "text": "느낄 수 있어… 사랑에 둘러싸여 있다는 걸. 이 나비들도 우리의 약속을 기억해 주겠지?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_graves_shenlangyindie_greeting_001.aac",
+            "text": "아까 말이야, 네가 조금만 더 늦었으면 참지 못하고 회랑을 따라 널 찾으러 갔을지도 몰라. 다행히 지금은 네가 내 곁에 서 있네…"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_graves_shenlangyindie_body_001.aac",
+            "text": "오늘을 위해 특별히 이 옷으로 갈아입었어. 동방 대륙의 서약은 어떻게 말하는지도 배워뒀는데, 널 보니까 또 머릿속이 새하얘졌네… 그렇게 여러 번이나 연습했는데도 말이야…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_graves_shenlangyindie_body_002.aac",
+            "text": "동방 대륙의 이야기책에서 봤어. 마지막에 죽음을 맞이하더라도, 진심으로 사랑하는 사람들은 한 쌍의 나비가 되어 함께 날고, 함께 쉬며, 영원히 떨어지지 않는다고… 정말 낭만적이야…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_graves_shenlangyindie_idle_001.aac",
+            "text": "나 얌전히 있을게, 괜히 움직이지도 않을게. 그러지 않으면 나비가 날아가 버릴 테고, 너도 떠나 버릴지도 모르니까…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_graves_shenlangyindie_clicking_001.aac",
+            "text": "이건… 국장도 아직 오늘 데이트를 끝내고 싶지 않다는 뜻이겠지? 그럼… 조금 더 가까이 가도 될까?"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_graves_shenlangyindie_specialattention_001.aac",
+            "text": "네가 날 바라볼 때면, 온 회랑이 우릴 축복해 주는 것 같아… 나비들도 더 즐겁게 날아오르는 것 같고…"
         }
     ]
 }

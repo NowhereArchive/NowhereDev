@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_nuokesi_levelup_002.aac",
             "text": "又近了一步……"
-        },
+        }
+    ],
+    "诺克斯-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_nuokesi_head_001.aac",
             "text": "不要这么做，这样……会很危险。"
         }
     ],
-    "ashen_prayer": [
+    "苍白之祈": [
         {
             "title": "获得装束",
             "filename": "File:vo_nuokesi_baixiunv_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "你找到了我……是有什么无法实现的愿望吗？别担心，我会为你祈祷的。"
         }
     ],
-    "gloom_of_daybreak": [
+    "破晓之暗": [
         {
             "title": "获得装束",
             "filename": "File:vo_nuokesi_poxiaozhian_cacha_001.aac",
@@ -220,14 +222,14 @@
             "text": "祈求唤不来奇迹，更换不来妖鬼的怜悯……唯有战斗，才能给予我们活下去的权力……命定之人啊，我会成为你手中的利刃，为你，为每一个挣扎求生的人带去最后的希望！"
         }
     ],
-    "into_the_tinted_dawn": [
+    "画中晨曦": [
         {
             "title": "获得装束",
             "filename": "File:vo_nuokesi_huazhongchenxi_cacha_001.aac",
             "text": "我梦到了山坡上的朝阳，满坡的鲜花，还有一位……捧着花的女孩。很在意……所以试着画下来了。你……愿意看看么？"
         },
         {
-            "title": "【有气无力的闷哼】",
+            "title": "升级",
             "filename": "File:vo_nuokesi_huazhongchenxi_levelup_001.aac",
             "text": "我感觉到了……阳光的温度。"
         },

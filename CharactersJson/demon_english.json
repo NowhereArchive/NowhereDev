@@ -157,5 +157,47 @@
             "filename": "File:vo_dimeng_nihongzhixia_specialattention_001.aac",
             "text": "I'll keep you safe and sound so you can complete the mission. I hope you muster enough courage and don't waste too much time."
         }
+    ],
+    "rainy_night_encounter": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_dimeng_yuyetongtu_cacha_001.aac",
+            "text": "Sometimes, you find trouble waiting for you around every corner on rainy days... I'm not talking about you, nor about this little cat. ...If you want, you can bring it back to the Bureau."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dimeng_yuyetongtu_levelup_001.aac",
+            "text": "Even on rainy days, you don't need to worry."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dimeng_yuyetongtu_greeting_001.aac",
+            "text": "It's looking around, as if... it's been waiting for you."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_dimeng_yuyetongtu_body_001.aac",
+            "text": "This fellow keeps mewing and headbutting people. What does it mean?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_dimeng_yuyetongtu_body_002.aac",
+            "text": "It seems more attached to you than me... Maybe it was frightened by the scent of blood on me."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dimeng_yuyetongtu_idle_001.aac",
+            "text": "Don't just stand there in the rain. Come here. This umbrella... is enough to cover you."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dimeng_yuyetongtu_clicking_001.aac",
+            "text": "A bit of rain is nothing. Even without a towel, I'll dry off soon enough."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dimeng_yuyetongtu_specialattention_001.aac",
+            "text": "Even on a humid rainy day like this, I can still sense your gaze. Speak up—as long as you need me, I'll be here."
+        }
     ]
 }

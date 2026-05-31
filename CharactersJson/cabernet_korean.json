@@ -91,7 +91,7 @@
             "text": "교활한 심연의 방문객은 언제나… 얌전하지 못한 그 녀석들을 잡아먹을 기회를 엿보고 있어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cab_specialattention_001.aac",
             "text": "너도 나와의 식사를 기대하나 보군, 그렇지?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_cab_levelup_002.aac",
             "text": "음~ 맛이 좋은걸?"
-        },
+        }
+    ],
+    "카베르네_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_cab_head_001.aac",
             "text": "어떤 음식은 확실히 이 부위가 가장 맛있지. 너도 그렇게 생각해?"
         }
     ],
-    "bacchanal_reverie": [
+    "바카날_레버리": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_mingdingyoumeng_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "걱정하지 마, 재촉하지 않을게. 여긴 배고픔도 갈증도 없으니, 천천히 세세한 부분까지 음미해 보고 결정해도 돼. 가혹한 인간 세상과는 다르게… 이곳의 모든 것은 널 너그럽게 대해 줄 거야~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cab_mingdingyoumeng_specialattention_001.aac",
             "text": "내가 직접 나서길 바라는 거야? 이 아름다운 술과 열매에… 내 체온과 숨결이 더해지길 바라는구나~"
         }
     ],
-    "intoxication_à_deux": [
+    "연회의_품격": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_gongzui_cacha_001.aac",
@@ -205,12 +207,12 @@
             "text": "연회 같은 자리에서는 옷차림이 무척 중요해. 옷 스타일이나 코디 선택으로 연회 참석자의 매너, 교양, 사회적 지위를 알 수 있지. 그래서 내 드레스가 구긴다면, 나 진짜 화낼지도 몰라~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cab_gongzui_specialattention_001.aac",
             "text": "이렇게 날 졸졸 따라다니는 건, 음식에 대한 나의 평가를 믿어서야, 아니면 감독자로서의 책임을 다하기 위해서야? 뒤에서 따라오지만 말고, 내 손을 잡고 내 곁에 있어 줘. 이렇게 하면 내 모든 걸 직접 볼 수 있잖아?"
         }
     ],
-    "crimson_prologue": [
+    "선홍빛_연회": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_yanhongxuyan_cacha_001.aac",
@@ -247,7 +249,7 @@
             "text": "경솔한 손길은 연회에서 가장 흔한 어리석음이지. 하… 하지만 바로 그렇기에, 욕망이 더욱 솔직해 보이는 거야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_cab_yanhongxuyan_specialattention_001.aac",
             "text": "네가 그렇게 바라보니까, 나도 헷갈려지네… 넌 날 감상하고 있는 걸까, 아니면 내가 음미해 주길 갈구하고 있는 걸까?"
         }

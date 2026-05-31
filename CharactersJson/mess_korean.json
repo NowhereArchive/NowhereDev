@@ -91,7 +91,7 @@
             "text": "그만둬! 또 함부로 굴면 용광로에 던져버릴 줄 알아!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mess_specialattention_001.aac",
             "text": "평소엔 부관을 시켜서 주문하더니, 웬일로 직접 온 거야? …설마 너도 드디어 악의로 가득 찬 무기가 필요해진 거야? 후후, 드디어 깨달았구나."
         },
@@ -111,7 +111,7 @@
             "text": "공예 업그레이드!"
         }
     ],
-    "mystic_pawnshop": [
+    "기묘한_전당포": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mess_wuqidiandang_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "어? 정말 이 노란 종이를 떼려고? 하하, 나도 무슨 일이 벌어질지 몰라. 아니면 한번 시험해 볼래?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mess_wuqidiandang_specialattention_001.aac",
             "text": "여기 들어온 이후로 나한테서 시선을 못 떼네~ 전당포 물건을 그렇게 가져가고 싶으면… 바닥에 있는 그 동전검으로 날 굴복시켜 봐~!"
         }

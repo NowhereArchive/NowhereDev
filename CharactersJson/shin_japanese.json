@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_shin_levelup_002.aac",
             "text": "これは私の一部となったわ。"
-        },
+        }
+    ],
+    "シズ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_shin_head_001.aac",
             "text": "こうすれば安心できるというの？……本当にいたずらっ子ね。"
         }
     ],
-    "stellar_embrace": [
+    "星寂の抱擁": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shin_xingjizhiyong_cacha_001.aac",

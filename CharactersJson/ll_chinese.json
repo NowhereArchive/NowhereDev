@@ -96,7 +96,7 @@
             "text": "你真的好喜欢我哦！那就这样一直看着我，好不好？"
         },
         {
-            "title": "它们的不幸，终于结束了。",
+            "title": "派遣",
             "filename": "File:vo_ll_dispatch_001.aac",
             "text": "派小瑶去就可以啦！寻岛任务还是它比较擅长~"
         },
@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_ll_levelup_002.aac",
             "text": "我喜欢你这样对我，再多来点！"
-        },
+        }
+    ],
+    "l.l.-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_ll_head_001.aac",
             "text": "悄悄告诉你，我早就把你囚禁在我的脑海里啦~"
         }
     ],
-    "astral_rhapsody": [
+    "万籁罄音": [
         {
             "title": "获得装束",
             "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",

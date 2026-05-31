@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_jichuan_cacha_001.aac",
+            "text": "朔雪山庄霁川，久闻阁下侠名，今日幸会，愿以病躯领教阁下高招，请君指教。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_jichuan_promotion_001.aac",
+            "text": "我清楚这份力量的代价，天道有恒，我坦然承受。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_jichuan_promotion2_001.aac",
+            "text": "我怀中梅枝名为“折玉”，今日我便引风雪为契，淬花成剑。愿以此一击，换浊世清明。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_jichuan_battlebegin_001.aac",
+            "text": "该请君入瓮了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_jichuan_battlewin_001.aac",
+            "text": "此战赢得侥幸，多谢诸位手下留情了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_jichuan_battlelose_001.aac",
+            "text": "棋逢对手，胜负皆公，霁川心服口服。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_jichuan_uniqueskill_001.aac",
+            "text": "梅折玉碎，天地肃清！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_jichuan_dead_001.aac",
+            "text": "江湖路远……替我走完吧……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jichuan_greeting_001.aac",
+            "text": "你回来得正巧，雪水刚刚煮沸，不妨坐下喝杯热茶，和我讲讲一路的见闻？也好让我借你耳目，观江湖天地。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_jichuan_talk1_001.aac",
+            "text": "小时候我总装病偷闲，如今真如愿困在病榻了，反倒怀念起爱跑爱闹的时光。或许正是那些“求不得”，才最让人牵肠……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_jichuan_talk1_003.aac",
+            "text": "每次下雪，叽甲叽乙就会往我的裘衣里钻，它俩倒是聪明，知道哪里最暖和……你看着我做什么，你也怕冷？咳……"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_jichuan_talk1_005.aac",
+            "text": "总听话本里说什么“善恶有报”，但我亲眼所见的多是恶人长命，而仁义者……不得善终。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_jichuan_talk2_001.aac",
+            "text": "武林皆传我朔雪山庄藏着绝世秘宝，可惜要让这些豪杰们失望了——我这寒舍里只有梅香一缕，病气一身，旧事一桩。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_jichuan_talk2_002.aac",
+            "text": "方才看书时不小心打了个盹，恍惚间听见了风雪压断梅枝的声响——呼，幸好只是做梦，虚惊一场。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_jichuan_talk2_003.aac",
+            "text": "我有一套独门心法，是我毕生所悟，现在传授给你。若你以后觉得前路艰难，就可以在心中默念——『如梅立雪，根固枝轻；外御风寒，内守神明。』希望它能助你在绝境中护住心脉，在动荡中……稳住方寸。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_jichuan_obeyfull_001.aac",
+            "text": "余生虽短，但能与你相逢，也算苍天对我公平一回。我愿将公义之道和未尽光阴一并托付于你。此后无论风霜雨雪、刀山火海，霁川愿奉残焰，无悔相随。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jichuan_idle_001.aac",
+            "text": "今天的药看着就比往日更黑更苦，恐怕十斤蜜饯都压不住——我明白了，它肯定是煎过头了，不能喝啦~"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jichuan_clicking_001.aac",
+            "text": "你、你这成何体统？……我、我突然头好晕啊——哎呀哎呀站不住啦——我先失陪了！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jichuan_specialattention_001.aac",
+            "text": "久望雪色伤眼，久困心事伤神。有什么烦心事不妨和我说说？霁川愿尽绵薄之力一同参详。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_jichuan_dispatch_001.aac",
+            "text": "炉里的汤药温着，请替我看顾一会儿吧，在我回来前可别让它凉了。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_jichuan_dispatch2_001.aac",
+            "text": "此行不负所托。也多亏他们见我体弱，没有为难我。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jichuan_levelup_002.aac",
+            "text": "承蒙襄助。"
+        }
+    ],
+    "霁川-升阶": [
+        {
+            "title": "摸头",
+            "filename": "File:vo_jichuan_head_001.aac",
+            "text": "此举有失风度，下不为例哦~"
+        }
+    ]
+}

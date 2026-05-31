@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "谢谢您这样惦记着我。"
-        },
+        }
+    ],
+    "耶莱娜-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "谢谢你的关心，我还不累。"
         }
     ],
-    "scorched_lullaby": [
+    "灼夜摇篮": [
         {
             "title": "获得装束",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -166,6 +168,48 @@
             "title": "特别关注",
             "filename": "File:vo_jelena_zhuoyeyaolan_specialattention_001.aac",
             "text": "您的眼神很特别，不像那些全心信赖母亲的孩子……是因为您比他们更勇敢，还是更迷茫？"
+        }
+    ],
+    "一帘烟雨": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",
+            "text": "海棠初落，断桥青瓦，我们于缱绻雨中相遇，你告诉了我你的名字，我便一直记到了现在……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_jelena_yilianyanyu_levelup_001.aac",
+            "text": "你送给我的，我会珍藏一辈子……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_jelena_yilianyanyu_greeting_001.aac",
+            "text": "今年园子里的海棠花开得很好，趁雨还没下大，我赶紧折了几枝回来……您要是有兴致，要不要跟我一起去看看？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_jelena_yilianyanyu_body_001.aac",
+            "text": "人心中的秘密就像这花上的露水，漆黑夜里时，你瞧得见它，也能接近它，甚至还觉得可爱，可太阳一出来，就消失无踪，再也找不见了。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_jelena_yilianyanyu_body_002.aac",
+            "text": "每到下雨的日子，我都会想起你……想你的时候，我会去园子里捡拾落花，将它们洗净压好，藏进梳妆盒，就像藏起我那隐蔽又不见光的思念……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_jelena_yilianyanyu_idle_001.aac",
+            "text": "什么都不必说，就这样静静地留在我身边，这样就很好……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_jelena_yilianyanyu_clicking_001.aac",
+            "text": "哎呀……落花夹在发丝里了，可以帮我取出来吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_jelena_yilianyanyu_specialattention_001.aac",
+            "text": "就这样看着我吧，别转身，别离开……"
         }
     ]
 }

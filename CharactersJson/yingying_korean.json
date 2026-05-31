@@ -91,7 +91,7 @@
             "text": "윽?! 살살해, 이렇게 세게 하면 아프단 말이야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_yingying_specialattention_001.aac",
             "text": "헤헤, 눈도 못 마주치고 귀가 빨개졌네…? 날 보고 싶으면 당당하게 봐, 나도 널 이렇게 바라보는 게 좋아. 설마 몰랐던 거야?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_yingying_levelup_002.aac",
             "text": "이것들 전부 나만을 위한 거야?"
-        },
+        }
+    ],
+    "잉잉_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_yingying_head_001.aac",
             "text": "머리카락을 쓰다듬는 걸로 충분한 거야? 눈 감고 있을 테니, 몇 초 동안 허락해 줄게. 어디를 만지고 싶어? 눈썹? 코? 아니면… 입술을 만지고 싶은 거야?"
         }
     ],
-    "fluttered_heartstrings": [
+    "초연의_선율": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "이 화방선이 조용하니, 바람조차 숨을 죽인 것 같아… 때로는 말이야, 소리도 없고 곡조도 없는 것이 연주보다 더 감동적이기도 해. 왜냐하면, 사랑하는 사람이 곁에 있으니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
             "text": "내 스타일링은 옛 그림 속 모습을 따라 한 건데, 자기 눈에는 어때? 응? 왜 쳐다보기만 하고 말을 안 해? 혹시 나한테 홀려서 말을 잃었어? 정말 그런 거라면, 나를 잘 지켜봐야겠네. 안 그러면 그림 속으로 돌아가 버릴지도 몰라!"
         }

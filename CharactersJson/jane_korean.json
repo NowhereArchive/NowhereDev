@@ -91,7 +91,7 @@
             "text": "…간지러워요. 제가 집중하고 있을 땐 이러지 마세요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jane_specialattention_001.aac",
             "text": "제게서 좀 떨어져 주실래요? …아무리 궁금해도 이렇게 가까운 건 좀…"
         },
@@ -111,7 +111,7 @@
             "text": "탄알도 저처럼 강해졌으면 좋겠어요, 방어력이 굉장히 강한 괴변체도 있거든요."
         }
     ],
-    "off-duty_summer_civvies": [
+    "휴일의_경호원": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jane_bianzhuanghuwei_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "정말 여유로운 휴가이긴 한데… 제가 집중하고 있을 땐 이러지 마세요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jane_bianzhuanghuwei_specialattention_001.aac",
             "text": "국장님, 같이 사진 찍을래요? …같이 찍은 사진은 구매센터로 보내지 않고 따로 드릴게요."
         }

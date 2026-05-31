@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_parfait_levelup_002.aac",
             "text": "这是……对我的投资？看来阁下最近的进账颇丰呀。"
-        },
+        }
+    ],
+    "芭·菲-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_parfait_head_001.aac",
             "text": "有眼光，这是上庭都在流行的发型款式，可不是人人都会做的。要不我把那位理发师介绍给您？"
         }
     ],
-    "salon_rosé": [
+    "瑰艺沙龙": [
         {
             "title": "获得装束",
             "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",

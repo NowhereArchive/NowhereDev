@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_shalom_levelup_002.aac",
             "text": "嗯……熟悉的感觉。"
-        },
+        }
+    ],
+    "瑟琳-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_shalom_head_001.aac",
             "text": "怎么，你也想要什么奖励吗？"
         }
     ],
-    "city_never_sleeps": [
+    "夜华如昼": [
         {
             "title": "获得装束",
             "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "你很喜欢和我待在一起吗？嗯……放心，我不会离开的。"
         }
     ],
-    "undawning_nighttide": [
+    "黯夜同行": [
         {
             "title": "获得装束",
             "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
@@ -218,6 +220,48 @@
             "title": "特别关注",
             "filename": "File:vo_shalom_anyetongxing_specialattention_001.aac",
             "text": "无论你前往何处，我将会与你同在——哪怕是世界的尽头。"
+        }
+    ],
+    "兰庭月会": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",
+            "text": "今晚的玉兰开得极美，连月光都在它面前黯然失色……茶水早已备好了，只等你来坐在我身旁，与我一同观赏这夜色与花影。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_shalom_lantingyuehui_levelup_001.aac",
+            "text": "玉兰在盛放。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_shalom_lantingyuehui_greeting_001.aac",
+            "text": "当石板路上响起熟悉的脚步声时，我就知道，是你来了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_001.aac",
+            "text": "玉兰的香气很淡，却能在人心中留下无法驱散的痕迹。就像你一样，总是不声不响地靠近，然后占据我的全部注意。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_002.aac",
+            "text": "假山的形状从不同角度看都不同，人心亦然。你呢？今夜准备好向我展示的，又会是你的哪一面？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_shalom_lantingyuehui_idle_001.aac",
+            "text": "……茶香混着花香，难免让人松懈。放心，我会替你保持清醒。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_shalom_lantingyuehui_clicking_001.aac",
+            "text": "不必着急。你看天上的月，月下的花，杯中的茶，还有我……今夜都会一直在这里，陪伴着你。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_shalom_lantingyuehui_specialattention_001.aac",
+            "text": "你的目光每次都比夜色更早落在我身上。那就别走得太远，这座花影深处的庭院，永远为你留着一盏灯。"
         }
     ]
 }

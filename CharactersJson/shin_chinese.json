@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_shin_levelup_002.aac",
             "text": "它成为了我的一部分。"
-        },
+        }
+    ],
+    "源津-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_shin_head_001.aac",
             "text": "这样会让你感觉安心吗……真是个淘气的孩子。"
         }
     ],
-    "stellar_embrace": [
+    "星寂之拥": [
         {
             "title": "获得装束",
             "filename": "File:vo_shin_xingjizhiyong_cacha_001.aac",

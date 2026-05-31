@@ -91,7 +91,7 @@
             "text": "죽고싶어, 이 자식아?! 지금 어딜 만지는 거야?!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_qiao_specialattention_001.aac",
             "text": "헤이, 내 노래가 듣고 싶은 거야? 아니면 왜 온 거야? 설마… 내가 널 위해 무언가 해줄 거라고 생각하는 거야?"
         },
@@ -111,7 +111,7 @@
             "text": "라임이 한결 부드러워졌어."
         }
     ],
-    "sensory_hyperwave": [
+    "사운드_블레이즈": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_qiao_jifeiyinlang_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "아직 덜 신나? 아직도 부족해? 그럼 더 미쳐볼까! 나와 같이 사람들 사이로 뛰어들고, 파도 타며 다시 무대로 돌아오는 거야. 어때, 이 정도면 짜릿하지?!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_qiao_jifeiyinlang_specialattention_001.aac",
             "text": "어이, 초대석에 계신 그쪽! 그냥 쳐다만 보고 있을 거야? 올라와서 실력을 보여야지?"
         }

@@ -91,7 +91,7 @@
             "text": "저는 이런 손을 원해요. 세상을 아름답게 그려낼 수도 있고, 단호한 명령을 내릴 수도 있는 이런 손을요. 제게 내주실 순 없나요? 아니면… 제가 직접 가져가도 될까요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_margaret_specialattention_001.aac",
             "text": "하, 누가 저를 감시하라고 시켰나요? 제9대대? EDGE? 아니면… 당신의 생각인가요?"
         },
@@ -109,7 +109,9 @@
             "title": "레벨업",
             "filename": "File:vo_margaret_levelup_002.aac",
             "text": "이제 더 많은 수단을 통제할 수 있겠군요."
-        },
+        }
+    ],
+    "마가렛_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_margaret_head_001.aac",

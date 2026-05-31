@@ -91,7 +91,7 @@
             "text": "어이! 적절한 거리를 유지하자고 했잖아!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_duoli_specialattention_001.aac",
             "text": "눈빛 좋은데? 마치 타자가 집중하는 듯한 그런 모습이야!"
         },
@@ -111,7 +111,7 @@
             "text": "…난 충분히 강해!"
         }
     ],
-    "sunset_swing": [
+    "선셋_스윙": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_duoli_riluohuiji_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "뭐 하는 거야? 이건 내가 새로 발명한 타격 자세야. 괴변체를 때려눕힐 때도 힘을 아낄 수 있어. 못 믿겠으면 한 번 해봐!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_duoli_riluohuiji_specialattention_001.aac",
             "text": "봐, 여기 경치 진짜 끝내주지? 매일 녹초가 될 때까지 연습하고, 땀 닦으면서 저녁 바람 쐬고 석양을 바라보면, 마음이 확~ 상쾌해져. 나만 바라보고 있지 마! 해가 곧 떨어진다고!"
         }

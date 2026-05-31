@@ -91,7 +91,7 @@
             "text": "하하~ 나 이거 뭔지 알아! 이거 연인끼리 자주 하는 게임 맞지?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_milly_specialattention_001.aac",
             "text": "당신과 마주 보는 게 이런 기분이었구나… 이 밤이 다 가기 전까지, 계속 이렇게 날 바라봐 줄래?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_milly_levelup_002.aac",
             "text": "당신이 내게 준비한 선물이야말로 세상에서 가장 소중한 선물이야."
-        },
+        }
+    ],
+    "밀리_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_milly_head_001.aac",
             "text": "내 금발 머리, 마음에 들어? 다행이야! 이걸 좋아하는 사람은 많았지만… 당신처럼 다정한 사람은 없었거든."
         }
     ],
-    "timeless_silhouette": [
+    "빛의_윤곽": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "음… 포즈를 너무 많이 취해서 힘들어… 누가 와서 안아주면 좋을 텐데~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_milly_liuguanghuaying_specialattention_001.aac",
             "text": "서두르지 마~ 촬영은 금방 끝나. 그다음은, 우리 둘만의 '프라이빗 타임'이야."
         }

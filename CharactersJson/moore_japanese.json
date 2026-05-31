@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_moore_levelup_002.aac",
             "text": "コーヒーのおかわりはどうですか？"
-        },
+        }
+    ],
+    "ムーア-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_moore_head_001.aac",
             "text": "わわっ……！居眠りはしてないですよ。"
         }
     ],
-    "ensnaring_eclipse": [
+    "遮日の網": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_moore_luowangbiri_cacha_001.aac",

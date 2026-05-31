@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_xiaofeng_cacha_001.aac",
+            "text": "백호의 가호를 바라거든, 그에 맞는 공물을 내놓을 줄 알아야지… 여기 밥은 어디 있어? 얼른 안내해, 멀리까지 왔더니 배가 고파서 쥐가 날 지경이야."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_xiaofeng_promotion_001.aac",
+            "text": "맛있는 거 먹고 좋은 술도 한잔하고, 배가 부르면 온돌 위에 드러눕고, 푹 자고 일어나면 또 뭐 좀 챙겨 먹고, 산속에서 이런 한가로운 생활을 어디 가서 또 누리겠어~"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_xiaofeng_promotion2_001.aac",
+            "text": "백수는 내 명을 따르고, 만산은 내 앞에 굴복한다."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_xiaofeng_battlebegin_001.aac",
+            "text": "얼른 끝내고 돌아가서 고기나 먹자."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_xiaofeng_battlewin_001.aac",
+            "text": "산군께 공물을 바치면, 복이 굴러들어 오지."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_xiaofeng_battlelose_001.aac",
+            "text": "이 녀석, 할퀴는 게 꽤 아프네."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_xiaofeng_uniqueskill_001.aac",
+            "text": "산군이 나타났으니, 모든 짐승은 엎드려라!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_xiaofeng_dead_001.aac",
+            "text": "설마… 여기서 당할 줄이야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_xiaofeng_greeting_001.aac",
+            "text": "아, 왔구나! 가자 가자, 방금 저쪽에서 사람들 싸우는 거 봤어, 우리 얼른 가서 구경하자!"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_xiaofeng_talk1_001.aac",
+            "text": "너희 인간들은 참 번거롭다니까. 내가 보기엔 그냥 괜히 일을 만드는 거야. 옷이니 장신구니 번지르르하게 잔뜩 차려 놓고 말이야. 그래도 이 고기는 확실히 잘 구웠네, 술도 나쁘지 않고. 헤헤, 다 맛봐야지…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_xiaofeng_talk1_002.aac",
+            "text": "'산에 호랑이가 없으면 원숭이가 왕 노릇 한다'고? 농담하지 마, 원숭이가 너희 인간의 반만큼이라도 능력이 있었으면, 맨날 나무에 매달려 '요리조리' 흔들고서 있진 않았겠지."
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_xiaofeng_talk1_003.aac",
+            "text": "나 여기 애들한테 새로운 단어 몇 개 배웠어. 뭐라더라, **, ***, 그리고, ***… 이거 왜 못 쓰게 하는 거야? 얼마나 짜릿한데!"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_xiaofeng_talk2_001.aac",
+            "text": "네 몸에서 나는 이 냄새는 뭐지? 좀 기묘한데. 사람 냄새 같진 않고… 닭볶음탕? 양념 갈비? 곱창 조림…? 다 아닌 것 같은데? 다시 한번 맡아보지…"
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_xiaofeng_talk2_002.aac",
+            "text": "호랑이든 사람이든 일단 배부터 채워야 제대로 힘을 쓸 수 있지. 무림이니 강호니 다 집어치워, 그런 걱정할 한가한 시간에 나랑 술이나 한잔 더 하자! 딸꾹~ 건배!"
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_xiaofeng_talk2_003.aac",
+            "text": "산 아랫사람들이 나한테 자꾸 붉은 실을 매달더라. 복이니 행운이니 빈다나 뭐라나, 많이 달수록 더 영험하나 봐… 너도 하나 매달아 봐. 네 앞날이 순탄하고 평안하게 지낼 수 있게 말이야. 응? 자리가 없다고…? 그럼 내 새끼손가락에 걸어! 움직일 때마다 바로 보이잖아!"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_xiaofeng_obeyfull_001.aac",
+            "text": "몸은 이렇게 약한데 하늘을 뒤집을 만한 큰일을 척척 해내다니, 제법 호랑이 같은 기개가 있네. 언젠가 밖에서 버티기 힘들어지는 날이 오면 산으로 날 찾아와. 평생 밥걱정은 없게 내가 뒤를 봐주지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_xiaofeng_idle_001.aac",
+            "text": "역시 네 자리가 좋네, 시원하고, 살랑살랑 바람까지 부니까… 그냥 누워서 한숨 자고 싶어져… 그르릉…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_xiaofeng_clicking_001.aac",
+            "text": "발톱 집어넣어, 또 만지면 진짜 잘라버릴 거야."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_xiaofeng_specialattention_001.aac",
+            "text": "배불러서 졸리네. 이리 와, 나랑 좀 더 자자."
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_xiaofeng_dispatch_001.aac",
+            "text": "사냥? 좋지, 그건 내가 잘해."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_xiaofeng_dispatch2_001.aac",
+            "text": "얼른 먹어, 더 꾸물거리다간 고기 다 식는다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_xiaofeng_levelup_002.aac",
+            "text": "오, 더 세게 할 수도 있어?"
+        }
+    ],
+    "소풍_-_승급": [
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_xiaofeng_head_001.aac",
+            "text": "그래, 거기야, 거기. 좀 더 긁어 봐… 음, 시원해~"
+        }
+    ]
+}

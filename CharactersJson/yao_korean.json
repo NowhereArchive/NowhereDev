@@ -91,7 +91,7 @@
             "text": "이게 바로 인간의 온도군… 나도 당신을 만질 수 있다면 좋을 텐데."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_yao_specialattention_001.aac",
             "text": "당신인가?... 태양을 똑바로 마주할 수 있는 용기를 가진 이가 또 있을 줄이야…"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_yao_levelup_002.aac",
             "text": "더 광활한 대지를… 비추어라."
-        },
+        }
+    ],
+    "야오_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_yao_head_001.aac",
             "text": "태양의 밝은 빛을 가리지 마!"
         }
     ],
-    "fireborne_offering": [
+    "하늘에_올리는_춤": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
@@ -163,9 +165,61 @@
             "text": "재난을 피하기 위해 이번엔 어떤 이야기를 꾸며낼까… 그래! '돌사자의 붉은 눈은 땅이 무너질 징조'라고 하는 거야. 오늘 밤 제단의 돌사자에 돼지 피를 바르고, 내일 이 이야기를 퍼뜨려야겠군."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
             "text": "신을 기쁘게 하는 나의 춤이 마음에 들어? 그렇다면 음악이 끝날 때까지 나를 바라보고, 나의 길을 따라와 줘!"
+        }
+    ],
+    "설야의_광휘": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",
+            "text": "사람들은 이맘때면 묵은 불이 꺼지고 길성이 떠올라, 온 세상에 복을 내려준다고들 하지. 하지만 난 알아… 오늘 밤의 평안과 기쁨은 백성들이 스스로 쟁취해 낸 것이라는 걸. 난 그저 한 해가 저물어 갈 무렵, 마지막으로 그들 곁을 조금 더 지켜줄 뿐이야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_yao_guangyaochangxiao_levelup_001.aac",
+            "text": "봐, 불꽃이 밤하늘을 밝히고 있어…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_yao_guangyaochangxiao_greeting_001.aac",
+            "text": "한참이나 고개를 들고 바라보더니 결국 올라왔구나… 도시 안은 사람들로 북적이지만 여기는 경치가 정말 좋아. 나만의 비밀 장소지. 오늘은… 당신과 함께 이곳을 나누고 싶어."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_yao_guangyaochangxiao_head_001.aac",
+            "text": "묘회의 밤, 아이들은 신상에 구슬 꽃을 꽂으며 복을 빌지. 당신도… 그런 뜻인가?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_yao_guangyaochangxiao_body_001.aac",
+            "text": "예전에 묘회에서 한 아이를 만났어… 그 아이가 그러더군… 어떤 제사장이 신불 앞에서는 기쁘게 살아야 한다고 말해줬다고. 사람들이 잘 살아갈수록 향불이 끊이지 않아, 신들도 기뻐하며 계속 보살펴 주신다면서… 하, 그 제사장이라는 사람, 거짓말 하나는 정말 번지르르하군."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_yao_guangyaochangxiao_body_002.aac",
+            "text": "사당 안에서 사람들의 공양을 받는 것보다… 난 여기가 더 좋아… 탕후루도 보이고, 바람개비도 보이고, 사람들의 웃는 얼굴도 볼 수 있으니까."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_yao_guangyaochangxiao_hand_001.aac",
+            "text": "이곳 사람들은 흔히 말하지. 금오가 떠나지만 않으면 해마다 평안할 수 있다고, 그래서 자주 제사를 올리고 복을 빌지… 하지만 그들이 모르는 게 있어. 금오를 붙들어 두고 있는 건, 사실 이 인간 세상의 따스한 정이라는 걸."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_yao_guangyaochangxiao_background_001.aac",
+            "text": "폭죽은 한때 방어의 수단이었어. 그 울림은 재앙과 위험을 알리는 신호였지… 그런데 이제는 축하와 화려함의 상징이 되었더군. 정말 다행이야…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_yao_guangyaochangxiao_idle_001.aac",
+            "text": "재앙은 잦아들고, 만 개의 등불이 세상을 밝히는구나. 오늘 밤 나는 지붕 위에 서서 고향의 백성들을 지키며, 내년에는 그 어떤 근심 걱정도 없기를 빌어본다."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_yao_guangyaochangxiao_specialattention_001.aac",
+            "text": "인파가 몰아치고, 화려한 불빛이 가득하여, 지붕 위의 내 빛은 그저 바닷속 한 알 모래에 불과하거늘… 그 와중에도 당신은 단번에 나를 알아봤군… 정말 기뻐."
         }
     ]
 }

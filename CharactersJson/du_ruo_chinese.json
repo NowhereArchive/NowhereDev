@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_duruo_levelup_002.aac",
             "text": "这便是狄斯大邦的技艺吗？"
-        },
+        }
+    ],
+    "杜若-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_duruo_head_001.aac",
             "text": "在我的家乡，随便摸别人的头可是会被……算了，还是不让你知道比较好。"
         }
     ],
-    "lunaria_enigma": [
+    "静夜常羲": [
         {
             "title": "获得装束",
             "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "月亮已经传达了你的祈愿，神明会对忠实的信使降下她的奖励。你可以登上这艘桂舟，聆听来自神明的口谕。"
         }
     ],
-    "breezy_embrace": [
+    "清风入怀": [
         {
             "title": "获得装束",
             "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",

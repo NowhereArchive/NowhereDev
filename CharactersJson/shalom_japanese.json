@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_shalom_levelup_002.aac",
             "text": "うん……懐かしい感覚だ。"
-        },
+        }
+    ],
+    "シャローム-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_shalom_head_001.aac",
             "text": "なんだ、ご褒美でも欲しいのか？"
         }
     ],
-    "city_never_sleeps": [
+    "昼の如き夜光": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "私と一緒にいるのが好きか？うん……安心したまえ。私は離れたりしない。"
         }
     ],
-    "undawning_nighttide": [
+    "暗夜を共に": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
@@ -218,6 +220,48 @@
             "title": "お気に入り",
             "filename": "File:vo_shalom_anyetongxing_specialattention_001.aac",
             "text": "どこへ行こうとも、私はキミと共にいよう——たとえそれが世界の果てであっても。"
+        }
+    ],
+    "風雅な月宴": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",
+            "text": "今宵のハクモクレンは一際美しいな。月光さえその前では色を失うほどだ……お茶はすでに用意してある。キミが私の隣に座り、この夜と花の影を共に眺めるのを待っているよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_shalom_lantingyuehui_levelup_001.aac",
+            "text": "ハクモクレンが咲き誇っている。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_shalom_lantingyuehui_greeting_001.aac",
+            "text": "石畳の道に馴染み深い足音が響いた時、気付いたよ。キミが来たとね。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_001.aac",
+            "text": "ハクモクレンの香りは淡いが、人の心に消えない痕跡を残す。まるでキミのようだ。いつも音もなく近づき、やがて私の注意を全て奪ってしまう。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_002.aac",
+            "text": "石山の形は見る角度によって変わる。人の心もまた然りだが……キミは？今宵、私に見せてくれるのは、キミのどんな一面だろうか？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_shalom_lantingyuehui_idle_001.aac",
+            "text": "……お茶と花の香りが混ざり合うと、人の気を緩めてしまう。だが安心したまえ。私が代わりに正気を保っておこう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_shalom_lantingyuehui_clicking_001.aac",
+            "text": "急ぐ必要はない。見たまえ。空の月、月下の花、杯の中の茶、そして私……今宵はずっと、キミと共にいるのだから。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_shalom_lantingyuehui_specialattention_001.aac",
+            "text": "キミの視線はいつも夜の色よりも早く私に注がれる。だから、あまり遠くへは行かないでほしい。花の影の奥にある庭で、いつまでもキミのために明かりを灯し続けておこう。"
         }
     ]
 }

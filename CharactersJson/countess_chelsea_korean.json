@@ -91,7 +91,7 @@
             "text": "난 아직 돈으로 누군가의 손발을 사 본 적이 없는데, 정말 해보고 싶어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_fupo_specialattention_001.aac",
             "text": "이렇게 정중하게 찾아오다니… 국장, 요즘 돈이 부족해?"
         },
@@ -116,7 +116,7 @@
             "text": "어? 내 턱 안 만져주는 거야? 나도 그릉그릉 소리를 내줄지 몰라."
         }
     ],
-    "moonlight_rendezvous": [
+    "달에_가려진_마음": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_fupo_yueyinsheqing_cacha_001.aac",
@@ -153,12 +153,12 @@
             "text": "국장, 드디어 철이 들었구나? 나를 향한 사랑의 표시라고 생각할게!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_fupo_yueyinsheqing_specialattention_001.aac",
             "text": "커튼을 쳐야겠어. 우리 둘만의 밤을 즐길 수 있도록 말이야."
         }
     ],
-    "lake_of_mythos": [
+    "로스트_레이크": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_fupo_yiluoxinhu_cacha_001.aac",
@@ -205,7 +205,7 @@
             "text": "시트리, 또 호수 바닥에서 보물찾기 놀이를 하고 있었구나. 몇백 년 전의 낡은 물건들을 다 파헤쳐 놨네… 하아, 발톱을 닦아줄 테니까 어서 이리 오렴."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_fupo_yiluoxinhu_specialattention_001.aac",
             "text": "나한테 관심 있으면 그냥 말로 해. 당장이라도 우리 집에 초대할 수 있으니까~ 안심하라고. 호수 밑의 네 방도 다 준비되어 있거든. 특별히 널 위해 진주 커튼과 보석 침대도 마련했어. 분명 마음에 들 거야~"
         }

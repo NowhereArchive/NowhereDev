@@ -91,7 +91,7 @@
             "text": "장난치지 마십시오. 저는 아직 훈련이 남았단 말입니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_fuluola_specialattention_001.aac",
             "text": "당신에게 소방 지식을 알려드리는 것도 제 역할의 일부입니다. 소방 안전 매뉴얼을 첫 페이지로 넘겨주세요!"
         },
@@ -111,7 +111,7 @@
             "text": "또 강해졌어."
         }
     ],
-    "fire_safety_tips": [
+    "화재_안전_수업": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "아이, 제 옷소매 좀 그만 잡아당겨요. 조준을 제대로 할 수가 없잖아요… 어라? 제가 안전핀을 안 뽑았네요? 아하, 그렇군요! 어쩐지 아까부터 아무리 눌러도 반응이 없더라니."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_fuluola_fanghuoanquanxiaoketang_specialattention_001.aac",
             "text": "국장님! 최적의 화재 대피 경로를 작성했어요. 이번 훈련에서는 모두를 안전하게 운동장으로 안내해 보일 테니, 잘 지켜봐 주세요!"
         }

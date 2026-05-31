@@ -91,7 +91,7 @@
             "text": "그만해요~ 제 향로가 귀신이 되어 당신을 삼켜버릴지도 몰라요!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_duruo_specialattention_001.aac",
             "text": "해가 지는 방향으로 세 번 절을 하면 소원이 이루어진다고 해요… 이런, 속지 않는다니, 의외인데요?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_duruo_levelup_002.aac",
             "text": "이게 바로 말로만 듣던 디스의 기술인가요?"
-        },
+        }
+    ],
+    "두약_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_duruo_head_001.aac",
             "text": "제 고향에선 다른 사람의 머리를 함부로 만지면… 아닙니다. 역시 말씀드리지 않는 게 좋겠군요."
         }
     ],
-    "lunaria_enigma": [
+    "달의_축복": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "밝고 맑은 달은 종종 구름에 가려지곤 하죠… 하지만 그것도 잠시일 뿐, 밝은 달은 결국 구름을 뚫고 인간 세상을 비출 테니까요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_duruo_jingyechangxi_specialattention_001.aac",
             "text": "달이 당신의 소원을 제게 전해줬어요. 신은 충실한 사자에게 상을 내릴 거예요. 이제 이 배에 올라 신의 지시를 들어보세요."
         }
     ],
-    "breezy_embrace": [
+    "산들바람의_향기": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",
@@ -215,7 +217,7 @@
             "text": "좋은 차와 좋은 풍경, 본래 더없이 좋은 순간이지만… 이야기를 나눌 사람이 없다면, 뭔가 부족하게 느껴져요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_duruo_qingfengruhuai_specialattention_001.aac",
             "text": "어머, 물이 데워지기도 전에 찻잔이 먼저 따뜻해졌네요? 혹시 누군가의 시선이 너무 뜨거운 건 아닐까요?"
         }

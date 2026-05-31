@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_jiushijiu_levelup_002.aac",
             "text": "おもしろい。"
-        },
+        }
+    ],
+    "ナインティナイン-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_jiushijiu_head_001.aac",
             "text": "それは……わたしを慰めているのか？"
         }
     ],
-    "chaotic_restraint": [
+    "混沌の制約": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_jiushijiu_hundunzhiyue_cacha_001.aac",
@@ -156,6 +158,48 @@
             "title": "お気に入り",
             "filename": "File:vo_jiushijiu_hundunzhiyue_specialattention_001.aac",
             "text": "戦闘のためでないなら、なぜわたしに近づく？わたしに他の使い道があるのか？"
+        }
+    ],
+    "＊": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jiushijiu_xinshijie_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jiushijiu_xinshijie_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jiushijiu_xinshijie_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jiushijiu_xinshijie_body_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jiushijiu_xinshijie_body_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jiushijiu_xinshijie_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jiushijiu_xinshijie_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jiushijiu_xinshijie_specialattention_001.aac",
+            "text": "＊"
         }
     ]
 }

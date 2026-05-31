@@ -91,7 +91,7 @@
             "text": "헉! 구… 국장님… 너무 뜨거워요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dina_specialattention_001.aac",
             "text": "국장님, 저 감시하러 오신 건가요?! 앗… 죄송해요, 저… 몰래 냉장고를 사용하지 않을게요… 정말로요."
         },
@@ -111,7 +111,7 @@
             "text": "…음?! 맛이 약간 느껴지는 것 같아요!"
         }
     ],
-    "chilling_hideaway": [
+    "피서_'성지'": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_dina_bishushengdi_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "와! 국장님 손 진짜 차갑네요, 평소랑 느낌이 달라요! 뭔가… 액체질소의 냉각 효과보다 훨씬 더 좋은 것 같아요! 네? 이게 바로… 족쇄의 힘인가요? 진짜 신기해요!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dina_bishushengdi_specialattention_001.aac",
             "text": "일부러 옷을 가볍게 입었는데, 아무래도 여기 온도를 과소평가했나 봐요, 이러다가 정말… 증발해 버리겠어요…"
         }

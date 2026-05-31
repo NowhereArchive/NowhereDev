@@ -91,7 +91,7 @@
             "text": "그렇게 귀한 시간을 낭비해 가며 저를 이리저리 만지작거려 주시다니, 참으로 영광입니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rust_specialattention_001.aac",
             "text": "그저 바라보는 것만으로는 저를 '붙잡아' 둘 수 없습니다. 저를 얽어매려면 훨씬 더 단단한 것을 쓰셔야지요. 피와 살, 뼈, 혹은… 당신의 족쇄라든가."
         },
@@ -109,7 +109,9 @@
             "title": "레벨업",
             "filename": "File:vo_rust_levelup_002.aac",
             "text": "힘이 제 몸에 스며드는 이 느낌, 잘 알고 있습니다."
-        },
+        }
+    ],
+    "러스트_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_rust_head_001.aac",

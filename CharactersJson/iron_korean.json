@@ -91,7 +91,7 @@
             "text": "당신 이건 도파민 분비 과잉이니 머리를 열어 검사해 봐야 한다. 농담 아니야, 못 믿겠으면… 좀 더 움직여보지?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_xinxiya_specialattention_001.aac",
             "text": "변이되지 않은 사람 중에 날 자주 만나러 오는 자는 당신이 처음이야."
         },
@@ -111,7 +111,7 @@
             "text": "이걸로 만족한다고? 아직 업그레이드할 여지는 많아, 계속해."
         }
     ],
-    "dr._ironstein": [
+    "광기의_의사": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_xinxiya_jinjiguaiyi_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "이 봉합선들은 의료용 잉크로 그린 거야. 호들갑 떨지 마. 그렇게 마음에 들면 다음에 당신도 하나 그려 주지."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_xinxiya_jinjiguaiyi_specialattention_001.aac",
             "text": "금속으로 뇌 조직을 연결해서 뇌를 움직이게 하는 치료법은 존재해. 당신도 한번 시도해 보고 싶어서 날 그렇게 뚫어져라 바라보는 건가?"
         }

@@ -91,7 +91,7 @@
             "text": "히힛, 옆집 할머니네 고양이도 여기 누르는 걸 좋아해요. 다들 부드러운 촉감이 마음에 드나 봐요? 그럼 마음껏 눌러봐요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_moore_specialattention_001.aac",
             "text": "제가 일하는 거 보려고요? 그럼 제가 졸다가 잠에 들어버리면 국장님이 깨워주셔야 해요?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_moore_levelup_002.aac",
             "text": "커피 한 잔 더 할까요?"
-        },
+        }
+    ],
+    "무어_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_moore_head_001.aac",
             "text": "어머? 저 안 졸았어요."
         }
     ],
-    "ensnaring_eclipse": [
+    "하늘을_가리는_그물": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_moore_luowangbiri_cacha_001.aac",
@@ -153,7 +155,7 @@
             "text": "헤헷, 이미 그물에 걸려 몸부림칠 힘도 없으면서 아직도 계속 다가오려 하다니… 당신을 용감하다고 해야 할까요, 아니면 무모하다고 해야 할까요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
             "text": "저는 당신이 교훈을 새기지 않고 무모하게 행동하는 모습이 좋아요… 자, 몇 번이든 상대해 드릴게요."
         }

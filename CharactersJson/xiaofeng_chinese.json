@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_xiaofeng_cacha_001.aac",
+            "text": "既请白虎庇佑，那可要出得起供奉——哎，你们这儿饭搁哪了？麻溜带路，走那么远过来，肚子都要饿抽筋了。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_xiaofeng_promotion_001.aac",
+            "text": "吃的香喝的辣，吃饱了就炕上一躺，睡够了就再整点吃的，哎呀，山里上哪过这种逍遥日子呀~"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_xiaofeng_promotion2_001.aac",
+            "text": "百兽听令，万山归顺。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_xiaofeng_battlebegin_001.aac",
+            "text": "赶紧打完，回去吃肉。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_xiaofeng_battlewin_001.aac",
+            "text": "敬奉山君，得交好运。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_xiaofeng_battlelose_001.aac",
+            "text": "小崽子，挠人还挺疼。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_xiaofeng_uniqueskill_001.aac",
+            "text": "山君在此，众兽皆伏！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_xiaofeng_dead_001.aac",
+            "text": "没想到……栽在这儿了……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_xiaofeng_greeting_001.aac",
+            "text": "哎，你可来了！走走走，我刚看那边有人打起来了，咱们赶快过去瞅两眼！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_xiaofeng_talk1_001.aac",
+            "text": "你们人可真麻烦，要我说就是爱作妖，衣裳首饰一堆花活。但这肉烤得确实挺香，酒也不赖，嘿嘿，咱都尝尝……"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_xiaofeng_talk1_002.aac",
+            "text": "“山中没老虎，猴子当老大”？开玩笑，要是猴能有你们人那一半能耐，也不用天天吊在树上，“柔儿柔儿”地闲晃悠了。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_xiaofeng_talk1_003.aac",
+            "text": "我跟你这儿的小家伙学了好几个新鲜词儿，什么*文明东洲*， *文明东洲*，还有*文明东洲*——这有什么不让说的？多带劲啊！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_xiaofeng_talk2_001.aac",
+            "text": "嗯？你身上这味儿是咋回事？怪邪乎的。闻着不像人，倒像是……烧子鹅、酱大骨、卤肥肠……好像都不对？我再品品……"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_xiaofeng_talk2_002.aac",
+            "text": "老虎要养膘，人也得吃饱。嗨，去他的武林江湖，有那闲工夫操心，不如先陪我再喝两杯！嗝~干！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_xiaofeng_talk2_003.aac",
+            "text": "嗨，山下那些人就爱给我挂红绳，说是求福求好运，挂得越多越灵验——哎，你也可以挂一个，保你日子顺顺溜溜，平安不死。嗯？没位置……哎，那要不挂我小拇指上吧！一动就能瞅着！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_xiaofeng_obeyfull_001.aac",
+            "text": "身板儿这么弱，却能干那么多捅破天的大事儿，倒是有几分老虎的气魄。要是哪天你在外面混不下去了，就来山上找我吧。我罩着，永远有你一口饭吃。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_xiaofeng_idle_001.aac",
+            "text": "还是你这地儿好，凉快，小风一吹……就想躺下眯一觉……呼……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_xiaofeng_clicking_001.aac",
+            "text": "爪子收好，再摸就夸茬给你剁了。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_xiaofeng_specialattention_001.aac",
+            "text": "吃饱了正犯困呢。过来，陪我再睡会儿。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_xiaofeng_dispatch_001.aac",
+            "text": "打猎？行啊，这个我熟。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_xiaofeng_dispatch2_001.aac",
+            "text": "赶紧吃，再墨迹一会儿肉就凉了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_xiaofeng_levelup_002.aac",
+            "text": "嚯，还能更猛点吗？"
+        }
+    ],
+    "啸风-升阶": [
+        {
+            "title": "摸头",
+            "filename": "File:vo_xiaofeng_head_001.aac",
+            "text": "对，就这块，再挠挠——嗯，舒坦~"
+        }
+    ]
+}

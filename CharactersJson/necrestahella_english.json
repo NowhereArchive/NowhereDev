@@ -115,5 +115,57 @@
             "filename": "File:vo_hellasp_head_001.aac",
             "text": "Those folks at the lab say it's some kind of contaminated crystal. Can't get rid of it, but at least it doesn't feel bad when you touch it—ouch! Nicked my finger."
         }
+    ],
+    "starlit_odyssey": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hellasp_xingmengxixing_cacha_001.aac",
+            "text": "I had a long, long dream. This one is different. This time, there was a radiant galaxy, so beautiful it filled me with joy... That's why I want everyone I care about to see it too, so they can feel the same joy!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hellasp_xingmengxixing_levelup_001.aac",
+            "text": "Mmm! I feel powerful enough to vanquish all darkness now!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hellasp_xingmengxixing_greeting_001.aac",
+            "text": "Welcome to Queen Hella's Cosmic Realm! MBCC Chief, please pay the tour guide fee... Hey, hey, don't go yet! If you stay here with Queen Hella, who knows? I might just let you defer the payment if you keep me entertained!"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hellasp_xingmengxixing_head_001.aac",
+            "text": "This flower crown is decorated with star fragments. Pretty, right? H-huh? I crushed a star? Those were just star fragments I picked up along the way! Of course I didn't break a star with my fist!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hellasp_xingmengxixing_body_001.aac",
+            "text": "In this sea of stars, I've seen reflections of countless worlds and people, even reflections of myself. Some have failed, some are lost, and some are still striving forward... But the one that never changes is that dummy who always reaches out to me."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hellasp_xingmengxixing_body_002.aac",
+            "text": "I used to think those lights in the sky were too far away, that I couldn't reach them even if I jumped or flew. But now I understand. If I just keep moving forward, I'll get closer to them little by little, until... I finally touch them."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hellasp_xingmengxixing_leg_001.aac",
+            "text": "You always tell me to take things one step at a time, nice and steady. After everything I've been through, I think... I finally understand what you meant. But still, if I could jump up three steps at once... I wouldn't pass up that chance, hehe!"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hellasp_xingmengxixing_background_001.aac",
+            "text": "I want to be someone who can light up the corners the stars can't reach. That's the person I'm trying to become."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hellasp_xingmengxixing_idle_001.aac",
+            "text": "Hehe, free preview's over! Subscribe to Hella Premium if you want to keep listening."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hellasp_xingmengxixing_specialattention_001.aac",
+            "text": "Ah, you found me? Not bad! With so many beautiful stars around, you still spotted the prettiest one right away! Hmph, I guess that counts as one of your few redeeming qualities!"
+        }
     ]
 }

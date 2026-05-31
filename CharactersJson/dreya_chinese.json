@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_dreya_levelup_002.aac",
             "text": "冲破极限吧。"
-        },
+        }
+    ],
+    "德雷雅-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_dreya_head_001.aac",
             "text": "你也会想要敲开人类最坚硬的保护，窥探他们的秘密吗？"
         }
     ],
-    "cosmic_escapist": [
+    "寰宇迷梦": [
         {
             "title": "获得装束",
             "filename": "File:vo_dreya_huanyumimeng_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "你是在观测这片星海……还是在观测……我？"
         }
     ],
-    "seastral_starlight": [
+    "瀚海星芒": [
         {
             "title": "获得装束",
             "filename": "File:vo_dreya_hanhaixingmang_cacha_001.aac",

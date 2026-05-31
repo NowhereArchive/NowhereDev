@@ -109,7 +109,9 @@
             "title": "Level Up",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "Is this your pledge to me?"
-        },
+        }
+    ],
+    "graves_-_rank_up": [
         {
             "title": "Pat Head",
             "filename": "File:vo_graves_head_001.aac",
@@ -166,6 +168,48 @@
             "title": "Special Attention",
             "filename": "File:vo_graves_youtingmeiying_specialattention_001.aac",
             "text": "I believe your gaze will protect me, shielding me from the curse's influence... Please keep watching over me, my hero."
+        }
+    ],
+    "heartflutter_corridor": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",
+            "text": "You're finally here. This place has such a confusing layout, I was worried you wouldn't be able to find me. Don't worry, I didn't wait too long. And look, I had all these butterflies to keep me company!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_graves_shenlangyindie_levelup_001.aac",
+            "text": "I can feel it... love surrounds me right now. These butterflies have witnessed our promise too, haven't they?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_graves_shenlangyindie_greeting_001.aac",
+            "text": "I was just thinking that if you were any later, I probably would've gone into the corridor to find you. Good thing you're here now..."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_graves_shenlangyindie_body_001.aac",
+            "text": "I changed into this outfit and even asked the Eastian Sinners to teach me how to say Eastian wedding vows, just for today. But my mind went blank the moment I saw you, even though I practiced so many times..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_graves_shenlangyindie_body_002.aac",
+            "text": "I read in Eastian storybooks that even if lovers die, as long as they truly love each other, they become a pair of butterflies—they fly and rest together, never to be separated. How romantic..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_graves_shenlangyindie_idle_001.aac",
+            "text": "I'll stay right here. I'm not going anywhere, otherwise the butterflies will fly away, and you'll leave too..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_graves_shenlangyindie_clicking_001.aac",
+            "text": "Does this mean... you don't want this date to end either? In that case... may I come a little closer?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_graves_shenlangyindie_specialattention_001.aac",
+            "text": "When you look at me, I feel like the entire corridor is blessing us, even the butterflies dance more joyfully..."
         }
     ]
 }

@@ -91,7 +91,7 @@
             "text": "남을 떠보는 방식이 참 뻔하네. 좀 더 자극적인 걸로 해볼래?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_irrheia_specialattention_001.aac",
             "text": "난 이야기 속에서 사람들이 감히 쳐다보지도 못하는 두려운 존재야. 그런데 넌 이렇게 아무렇지도 않게 나를 보네… 마녀가 좋아? 자극적인 게 좋은 거야? 아니면 단순히… 날 좋아하는 거야?"
         },
@@ -109,7 +109,9 @@
             "title": "레벨업",
             "filename": "File:vo_irrheia_levelup_002.aac",
             "text": "고지식한 건 너무 재미없어. 마침 잘됐네, 새로운 변수들이 좀 필요했거든."
-        },
+        }
+    ],
+    "이레이아_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_irrheia_head_001.aac",

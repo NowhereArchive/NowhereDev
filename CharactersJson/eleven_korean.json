@@ -91,7 +91,7 @@
             "text": "이렇게 저와 떨어지기 싫은 거예요…? 괜찮아요. 제가 오늘 밤에… 전화할게요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eleven_specialattention_001.aac",
             "text": "그렇게 긴장할 것 없어요. 전화를 끊지 않을 테니까 당신은 하던 일을 하세요. 제가 곁에 있을게요. 그래도 안심이 안 되면… 노래라도 불러 줄 수 있는데, 어때요?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_eleven_levelup_002.aac",
             "text": "자, 좀 더 다가와 주세요, 더… 가까이."
-        },
+        }
+    ],
+    "일레븐_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_eleven_head_001.aac",
             "text": "제가 당신을 얼마나 그리워했는지 알고 싶나요?"
         }
     ],
-    "rippling_heartthrobs": [
+    "설레는_여름": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "물에 들어갈 수는 없지만, 지금처럼 이렇게 파라솔 밑에 누워 구름을 보고 바람을 쐬며, 파도 소리를 듣는 것도 괜찮지 않아요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eleven_xinchaomanxia_specialattention_001.aac",
             "text": "저만 그렇게 쳐다보지 말아요. 해변에 왔는데 바다를 즐겨 보세요… 정 그렇게 저와 이야기하고 싶다면, 퇴근 후에 저와 함께 해변을 걷는 건 어때요? 하하, 좋아요. 퇴근하면 제가 전화할게요~"
         }
     ],
-    "trickling_heartstream": [
+    "마음의_물결": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",
@@ -215,7 +217,7 @@
             "text": "무슨 생각하세요? 아뇨, 별일은 없어요… 그냥 갑자기 알려주고 싶어서요. 전 항상 당신 곁에 있어요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
             "text": "만약 제가 당신이 잠들기 전에 본 마지막 사람이라면, 오늘 밤 당신의 꿈에 제가 나타나지 않을까요?"
         }

@@ -91,7 +91,7 @@
             "text": "이것이 국장님의 '사랑'인가요? 음… 네… 알겠어요, 적응하도록 노력해 볼게요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bai_specialattention_001.aac",
             "text": "아버지도 날 이렇게 쳐다보곤 했어요! 정말 그립네요, 이런 사랑받는 느낌…"
         },
@@ -111,7 +111,7 @@
             "text": "후우… 한결 편해졌어요."
         }
     ],
-    "good_morning,_medison": [
+    "안녕,_매디슨": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bai_zaoan_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "국장님, 뭘 하시려고요…? 전 방에서 나가기 싫어요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bai_zaoan_specialattention_001.aac",
             "text": "햇빛이 유리와 종이학을 비추면 다채로운 색으로 빛난답니다… 행복하고 아름다운 색깔이에요… 분명 국장님도 아주 좋아하실 거예요!"
         }
     ],
-    "cocooned_serenade": [
+    "고치_속의_노래": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bai_jianzhongge_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "지상의 영혼은 얼룩덜룩, 고치의 꽃은 싱글벙글, 고통스러워도 조급해하지 마, 이 노래가 널 편히 쉬게 해줄 거야…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bai_jianzhongge_specialattention_001.aac",
             "text": "인간의 시선은 원래 이렇게 뜨거운 건가요…? 눈을 감고 노래하는 데도 느낄 수 있는 이 온기와 무게… 신기하네요…"
         }

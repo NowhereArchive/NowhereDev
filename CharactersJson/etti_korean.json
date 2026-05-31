@@ -91,7 +91,7 @@
             "text": "판정도 없이 제멋대로 행동하면… 이 세계가 너에게 벌을 줄 거야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_etti_specialattention_001.aac",
             "text": "내 눈 속에~ 네가 쫓고 있는 보물이 있는 거야?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_etti_levelup_002.aac",
             "text": "기본 속성은 갖거나 버리거나, 선택할 수 있어야 더 재밌는 법이지."
-        },
+        }
+    ],
+    "에티_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_etti_head_001.aac",
             "text": "너도 내 뿔이 좋아? 그럼 이 뿔의 내력을 말해주도록 하지! 이건 어느 추운 겨울날에… 야! 어디 가!"
         }
     ],
-    "noctivagation": [
+    "이상한_밤의_모험": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "아! 내 꼬리 잡아당기지 마! 규칙을 어기고 제멋대로 행동하면 페널티를 받게 될 거야! 내가 네 가이드여도 이건 용서할 수 없어! …어떤 페널티를 받게 되냐고? 흥흥, 어디 한번 맞춰 봐~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_etti_guiyeqilv_specialattention_001.aac",
             "text": "뭘 보고만 있어? 빨리 따라와… 어라? 진짜 놀란 건 아니지? 안심해, 진짜 위험한 상황이 오면 내가 널 위해 특별히 조금 더 도움을 줄게… 하지만 이건 절대 다른 사람한테 말하면 안 돼!"
         }
     ],
-    "dances_&_dragons": [
+    "드래곤과의_왈츠": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",
@@ -195,7 +197,7 @@
             "text": "내 드래곤 뿔 예쁘지?! 멋지지?! 그렇게 마음에 들면 너도 하나 다는 게 어때?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_etti_longyuyuanwuqu_specialattention_001.aac",
             "text": "날 바라보는 네 눈빛이 좋아, 마치 날 잉태한 그 용암과 같아… 어쩌면 그 예언의 뒷부분이 이루어질지도 몰라. 네 동공이 세로로 일그러지고, 등에 날개가 돋치며, 팔이 날카로운 발톱으로 변해, 배에서 뜨거운 불이 솟아나는 거야… 드래곤을 죽이러 온 자가 영원히 멈추지 않는 춤사위와 함께 사악한 드래곤이 되는 거지…"
         }

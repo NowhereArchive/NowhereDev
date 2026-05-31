@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_etti_levelup_002.aac",
             "text": "基础属性要有取舍权衡，才能玩得更开心。"
-        },
+        }
+    ],
+    "爱缇-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_etti_head_001.aac",
             "text": "你也喜欢我的角？那我来跟你说说它的来历吧！那是一个寒冷的冬天……哎哎！干嘛去啊你！"
         }
     ],
-    "noctivagation": [
+    "诡夜奇旅": [
         {
             "title": "获得装束",
             "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "光看着我干嘛？快跟上呀……咦？不会是真的被吓到了吧？哎呀放轻松啦，要是真的遇到了什么危险，我会破例为你提供一些小小的额外帮助……不过这件事可千万不能告诉别人！"
         }
     ],
-    "dances_&_dragons": [
+    "龙与圆舞曲": [
         {
             "title": "获得装束",
             "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",

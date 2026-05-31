@@ -111,7 +111,7 @@
             "text": "セキュリティレベルがアップしました。"
         }
     ],
-    "special_escort": [
+    "特任護衛": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_beisefenni_texuhuwei_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "錆の川は確かに危険です。ですが安心してください。リスクは排除します——それが私の責務ですから。"
         }
     ],
-    "courteous_call": [
+    "騎士の会釈": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_beisefenni_qianhouzhiyi_cacha_001.aac",

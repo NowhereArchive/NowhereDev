@@ -91,7 +91,7 @@
             "text": "국장님, 지금은 아직 근무 시간입니다…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jin_specialattention_001.aac",
             "text": "국장님은 늘 남의 일만 열심히 해주시는데, 당신도 나름의 걱정거리가 있겠지요? 싫지 않으시다면 제가 당신의 걱정을 나누어 드려도 되겠습니까?"
         },
@@ -111,7 +111,7 @@
             "text": "꽃이 피는 시기가… 더 가까워졌어."
         }
     ],
-    "flower_of_fantasy": [
+    "몽견초": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jin_mengjiancao_cacha_001.aac",
@@ -158,12 +158,12 @@
             "text": "보셨어요? 방금 지나간 그 나비, 날개에 꽃잎이 붙어 있었어요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jin_mengjiancao_specialattention_001.aac",
             "text": "계속 저만 보시고 꽃구경은 안 하시네요… 하고 싶은 말이라도 있으신가요?"
         }
     ],
-    "moonrise_fondness": [
+    "깊은_밤의_꽃": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jin_yaoyehuashi_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "바람이 부나요? 좀 더 따뜻하게 입으세요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jin_yaoyehuashi_specialattention_001.aac",
             "text": "달구경을 하다 보면 달의 밝은 빛에 넋이 나가 정작 마음에 드는 경치를 놓칠 수도 있죠~"
         }

@@ -91,7 +91,7 @@
             "text": "어… 아! 그… 그… 헬멧 엄청 더러운데…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lynn_specialattention_001.aac",
             "text": "그… 저기! 그렇게… 계속… 쳐다보지 마세요… 무지 긴장되니까…"
         },
@@ -111,7 +111,7 @@
             "text": "전 사실 이 정도면 돼요! 더… 더 강해질 필요는 없어요…"
         }
     ],
-    "skittish_star": [
+    "아이돌_모놀로그": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lynn_ouxiangdubai_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "죄, 죄송해요! 좀 풀어주실래요… 아…! 왜… 점점 더 꼬이는 거죠…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lynn_ouxiangdubai_specialattention_001.aac",
             "text": "흑… 그렇게 쳐다보지 마세요. 다시… 헬멧을 쓰고 싶어지잖아요…"
         }

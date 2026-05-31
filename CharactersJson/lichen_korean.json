@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_lichen_cacha_001.aac",
+            "text": "저는 어둠 속에서… 점괘로 알았어요. 당신이 바로 이 순간… 저를 향해 걸어오리라는 것을… 이 선택은 하늘의 뜻에 따르고, 사람의 마음에도 맞는 일이니… 제 마음 또한 크게 위안을 얻네요…"
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_lichen_promotion_001.aac",
+            "text": "…죽음을 구한다는 것은… 곧 삶을 구한다는 뜻이죠…"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_lichen_promotion2_001.aac",
+            "text": "천지가 뒤바뀌고, 사계절이 완성되듯, 오직 불로 마른 가지를 모두 태워내야만 새 생명을 얻을 수 있어요!"
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_lichen_battlebegin_001.aac",
+            "text": "불리해도 물러설 이유는 없고, 나아갈 길은 분명하니, 이 전투는… 우리가 마땅히 이길 거예요."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_lichen_battlewin_001.aac",
+            "text": "마음을 늘 맑게 지킬 수 있다면, 천지는 자연히 그를 따르게 되지요."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_lichen_battlelose_001.aac",
+            "text": "아직 돌이킬 수 있어요…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_lichen_uniqueskill_001.aac",
+            "text": "끝에 이르면, 반드시 통하는 법."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_lichen_dead_001.aac",
+            "text": "천명을 기쁘게 받아들일 뿐이지요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lichen_greeting_001.aac",
+            "text": "아… 당신이 길조를 불러온 건가요, 아니면… 당신이 곧 길조인가요?"
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_lichen_talk1_001.aac",
+            "text": "이 조롱박 안에 담긴 것은… 약이 아니라… 천지의 뜻이랍니다…"
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_lichen_talk1_002.aac",
+            "text": "셋이 아니면 점괘가 이루어지지 않아요… 세 번째 동전이 어디로 갔는지… 찾아주시겠어요?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_lichen_talk1_003.aac",
+            "text": "저희가 오가며 탐구해 온 것은, 다름 아닌 천지의 의문을 끊고, 죽음과 삶 사이를 인도하는 일이랍니다…"
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_lichen_talk2_001.aac",
+            "text": "어쩌면… 장생과 적멸은 그저… 사람들이 동경하는… 서로 다른 귀착지에 불과할지도 모르지요."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_lichen_talk2_002.aac",
+            "text": "죽음의 의미를 이해한다면… 더는… 죽음을 두려워하지 않을 거예요."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_lichen_talk2_003.aac",
+            "text": "육체는 사그라지고, 정신은 자연으로 돌아가 천지 일월에 삼켜지니… 저희는 이곳에서 끊임없이 탐구하며… 오직 당신과 함께… 그 의미의 끝에 닿을 수 있기를 소망하나이다…"
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_lichen_obeyfull_001.aac",
+            "text": "부적을 찢어내면, 구리 방울이 울리죠… 당신은 산 자의 모습으로, 붉은 실을 약속 삼아, 저희를 이끌어 죽음을 넘어서게 했어요… 만약 제가… 다시 당신 앞에 설 수 있다면, 부디 다시 한번… 저희를 하나로 이어주세요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lichen_idle_001.aac",
+            "text": "도는 하나를 낳고, 하나는 둘을, 둘은 셋을 낳아 만물을 이루거늘… 삼생에 걸친 인연도 고작 이 정도가 끝이었구나…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_lichen_clicking_001.aac",
+            "text": "…당신의 행동은 매우 부적절해요… 조심하지 않으면… 살신의 화를 불러올 수 있어요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_lichen_specialattention_001.aac",
+            "text": "천지에 묻고… 진심을 밝혀 본 뒤에야… 비로소 당신처럼… 천명을 구하고자 하는 그 시선을… 감당할 수 있지요…"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_lichen_dispatch_001.aac",
+            "text": "하늘의 뜻을 좇는 자라면 마땅히 세상을 유람하며, 천하의 사람들을 두루 헤아려야 하죠."
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_lichen_dispatch2_001.aac",
+            "text": "풍성한 수확을… 당신과 나누러 왔어요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lichen_levelup_002.aac",
+            "text": "…고마워요. 당신에게 끝없는 복이 내리기를."
+        }
+    ],
+    "리진_-_승급": [
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_lichen_head_001.aac",
+            "text": "이것이 바로… '연인의 손길에 머리를 맡기며, 그대와 함께 영원을 기약한다'라는 것인가?"
+        }
+    ]
+}

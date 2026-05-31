@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_deren_levelup_002.aac",
             "text": "哎哟，劳您费心了……"
-        },
+        }
+    ],
+    "黛伦-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_deren_head_001.aac",
             "text": "你这是……在夸我做得好吗？"
         }
     ],
-    "eclat_eminence": [
+    "世界焦点": [
         {
             "title": "获得装束",
             "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "听见了吗，聚光灯会一直闪烁，掌声和欢呼也将永不停歇……哼，来吧，和我一起，去成为世界的焦点吧。"
         }
     ],
-    "butterfly_shadow": [
+    "蝶之影": [
         {
             "title": "获得装束",
             "filename": "File:vo_deren_diezhiying_cacha_001.aac",
@@ -208,6 +210,58 @@
             "title": "特别关注",
             "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
             "text": "我在你脸上看到了不一样的解读，我很喜欢，让我再……好好地看一会儿吧。"
+        }
+    ],
+    "绮夜狂想": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_deren_qiyekuangxiang_cacha_001.aac",
+            "text": "感谢你应邀来到绯色舞台的片场，我是这里导演，黛伦……欢迎和我一起记录这里所发生的一切，探寻不为人知的秘密。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_deren_qiyekuangxiang_levelup_001.aac",
+            "text": "为下一幕添加些更震撼的“特效”吧。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_deren_qiyekuangxiang_greeting_001.aac",
+            "text": "你总是很准时地来到片场，究竟是真的好奇拍摄内容，还是……想要盯着我呢？"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_deren_qiyekuangxiang_head_001.aac",
+            "text": "这位观众，对导演动手动脚，可是会影响成片质量的哦？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_deren_qiyekuangxiang_body_001.aac",
+            "text": "艺术，是最好的伪装——你一定也分不清，舞台上的“完美谋杀”，到底是演出效果，还是……真的发生了，对吗？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_deren_qiyekuangxiang_body_002.aac",
+            "text": "既不入戏，也不离席，你这样的观众最麻烦了……不如来帮我坐镇片场怎么样？至少我想偷懒离席的时候，有人能帮忙看着监视器。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_deren_qiyekuangxiang_hand_001.aac",
+            "text": "“诚邀阁下于午夜，赴一场永不醒来的盛宴”……你觉得新邀请函的措辞怎么样？我们得邀请些新的观众了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_deren_qiyekuangxiang_background_001.aac",
+            "text": "哈哈，小心啊，别打扰幕后的那些家伙……它们是上一部戏没能顺利“杀青”的演员，总想着挤进下一场演出。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_deren_qiyekuangxiang_idle_001.aac",
+            "text": "“第四幕，第七场”……嗯，开场方式还是再琢磨一下吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_deren_qiyekuangxiang_specialattention_001.aac",
+            "text": "你的目光比追光灯还要灼热……这让我很好奇，当你看到最终幕时，会露出怎样的神情呢？"
         }
     ]
 }

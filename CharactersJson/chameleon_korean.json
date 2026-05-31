@@ -91,7 +91,7 @@
             "text": "하하, 무슨 생각을 하는지 알겠네요… 충동적인 잠재의식이라도, 제 눈을 피해 갈 수는 없답니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_chameleon_specialattention_001.aac",
             "text": "오호, 예약한 환자가 왔군요. 그럼 시작해 볼까요."
         },
@@ -111,7 +111,7 @@
             "text": "심연과 더욱 가까워졌어…"
         }
     ],
-    "message_in_dreams": [
+    "꿈결_속_속삭임": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "왜요, 나에게 당신이 원하는 답이 숨어 있나요? 만약 정말로 내가 깨우침을 줄 수 있다면, 마음껏 탐색해 봐요~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_chameleon_mengmeisiyu_specialattention_001.aac",
             "text": "'나 자신을 알아가는 것.' …간단한 문제 같지만, 무수히 많은 세대의 용사들이 헤어나오지 못했죠. 이제... 드디어 당신 차례예요."
         }
     ],
-    "dream's_ephemera": [
+    "이페메라": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "사람들은 꿈으로 점치는 걸 좋아하죠. 꿈에서 일어난 일이 현실에서 그대로 재현되길 바라기도 해요. 설령 그게 유쾌한 꿈이 아닐지라도 말이죠…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_chameleon_xiaomengfusheng_specialattention_001.aac",
             "text": "꿈은 인간의 마음속 가장 근원적인 갈망을 표현하죠. 당신에겐 어떤 바람이 있는지 한번 들여다볼까요?"
         }

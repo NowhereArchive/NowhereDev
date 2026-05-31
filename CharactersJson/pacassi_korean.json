@@ -91,7 +91,7 @@
             "text": "국장님… 이, 이건 디스시티 사람들의 친절함을 나타내는 표현인가요… 그… 그래요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_pajiaxi_specialattention_001.aac",
             "text": "그렇게… 빤히 쳐다보지 말아주십시오. 적응이…안됩니다."
         },
@@ -111,7 +111,7 @@
             "text": "방사선이 강해졌어요."
         }
     ],
-    "winter_night": [
+    "겨울_밤": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_pajiaxi_dongye_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "그냥… 그냥 마예크 스타일로 제복을 재봉한 건데… 관리국 규정에 어긋나는 건 아니겠죠…?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_pajiaxi_dongye_specialattention_001.aac",
             "text": "혹한의 바람과 눈 내리는 밤은 마예크 타운만의 특징이에요. 그런 의미에서, 방한복을 입고 겨울밤을 지키는 이는 영원히 기억되어야 하죠…"
         }
     ],
-    "frostforged_maiden": [
+    "녹슨_겨울": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_pajiaxi_lindongxiushi_cacha_001.aac",
@@ -190,7 +190,7 @@
             "text": "고맙긴 하지만 저는 이렇게 두꺼운 목도리는 필요 없어요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_pajiaxi_lindongxiushi_specialattention_001.aac",
             "text": "계속 지켜봐 줘서 고마워요. 하지만 제가 사라지는 건 필연적인 일이고, 근로자들 역시 이번 겨울에 승리를 거둘 거예요."
         }

@@ -91,7 +91,7 @@
             "text": "왜 갑자기 정신이 나간 듯 이런 이상한 짓을 하는 거죠…? 설마 제가 이상한 걸 불러들인 건 아니겠죠…? 부적을 받아라!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_wuhuanzi_specialattention_001.aac",
             "text": "신경 써 주셔서 감사하지만 그렇게 눈도 깜빡이지 않고 쳐다볼 필요는 없어요… 저는 이 운명과 오랫동안 함께 해왔고, 어느 정도 파악했기 때문에 큰일은 없을 거예요… 아마도요."
         },
@@ -111,7 +111,7 @@
             "text": "이번 기술 단련은 꽤 도움이 되었어요."
         }
     ],
-    "verdant_apothecary": [
+    "약초밭의_숨결": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_wuhuanzi_xuanhumuke_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "저는 풀 요괴지만, 이미 인간의 형상을 갖춘 존재랍니다. 이렇게 흔들고 문지른다 해도, 약재를 얻을 수는 없어요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_wuhuanzi_xuanhumuke_specialattention_001.aac",
             "text": "이렇게 유심히 살피시는 걸 보니, 혹시 제 변신술에 어떤 허점이라도 있는 건가요… 제… 제 본체가 보이는 건가요?"
         }

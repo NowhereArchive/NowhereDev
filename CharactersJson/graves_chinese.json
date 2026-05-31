@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "这是你给我的信物吗？"
-        },
+        }
+    ],
+    "格芮芙-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_graves_head_001.aac",
             "text": "你掀起了我的头纱，看到了我有多丑陋……可、可即使是这样，你还是愿意给我一个吻吗？"
         }
     ],
-    "reverie_belle": [
+    "幽庭寐影": [
         {
             "title": "获得装束",
             "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
@@ -166,6 +168,48 @@
             "title": "特别关注",
             "filename": "File:vo_graves_youtingmeiying_specialattention_001.aac",
             "text": "我相信，你的目光会保护我，让我免受诅咒的侵扰……一直看着我吧，勇者。"
+        }
+    ],
+    "深廊引蝶": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",
+            "text": "你终于来啦。这地方弯弯绕绕的，我还担心你会找不到我呢……不过没关系，我没有等很久。而且你看，还有这么多蝴蝶陪着我呢~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_graves_shenlangyindie_levelup_001.aac",
+            "text": "我能感到……在被爱意包围着。这些蝴蝶也记下我们的约定了吧？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_graves_shenlangyindie_greeting_001.aac",
+            "text": "我刚刚还在想，如果你再晚一点，我大概会忍不住沿着曲廊去找你。还好现在你就站在我身边了……"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_graves_shenlangyindie_body_001.aac",
+            "text": "为了今天，我特别换了这身衣服，还请东洲的禁闭者教我怎么说东洲的誓词呢。但一看到你，我的脑子就又空了……明明练习了那么多次的……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_graves_shenlangyindie_body_002.aac",
+            "text": "我在东洲的故事书里看过，即使最后身死，只要是真心相爱的人，也能变成一双蝴蝶，一起飞，一起停，永远也不分开……真浪漫呀……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_graves_shenlangyindie_idle_001.aac",
+            "text": "我乖乖待着，不会乱动的，不然，蝴蝶要飞走了，你也会走的……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_graves_shenlangyindie_clicking_001.aac",
+            "text": "这样是不是说明……局长也还不想结束今天的约会呀？所以……我可以再靠你近一点吗？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_graves_shenlangyindie_specialattention_001.aac",
+            "text": "你看着我的时候，我觉得整个曲廊都在为我们祝福……连蝴蝶都飞舞得更开心了呢……"
         }
     ]
 }

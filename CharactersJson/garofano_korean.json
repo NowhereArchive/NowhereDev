@@ -91,7 +91,7 @@
             "text": "저와 친해지고 싶은 거라면 말로 하세요. 갑자기 그렇게… 그러다 제 몸에 있는 바늘에 찔릴까 봐 걱정되네요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_garofano_specialattention_001.aac",
             "text": "국장님도 저를 소유하고 싶으신 거죠, 그렇죠?"
         },
@@ -111,7 +111,7 @@
             "text": "제게 주신 모든 걸, 소중히 간직할게요."
         }
     ],
-    "in_the_veiled_grove": [
+    "레이니_포레스트": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_garofano_yuyewulin_cacha_001.aac",
@@ -158,7 +158,7 @@
             "text": "맡겨주신 임무는 모두 완료되었습니다. 이제 저희는 임시로 만든 이 작은 피난처 속에서 함께 있기만 하면 됩니다… 비가 그칠 때까지요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_garofano_yuyewulin_specialattention_001.aac",
             "text": "당신의 눈빛은 제게 비 오는 밤의 따뜻한 불빛처럼, 무시할 수가 없습니다…"
         }

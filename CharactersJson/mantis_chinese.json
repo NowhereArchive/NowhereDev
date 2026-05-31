@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "必须……适应环境的改变。"
-        },
+        }
+    ],
+    "曼缇斯-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "可是……这样是没用的……几丁质外壳……感觉不到……"
         }
     ],
-    "sylvan_silhouette": [
+    "深林傍影": [
         {
             "title": "获得装束",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -166,6 +168,48 @@
             "title": "特别关注",
             "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
             "text": "这里别无他人，只有倒映在水中的两道身影……以及……你与我相触的目光……"
+        }
+    ],
+    "绿荫笔记": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",
+            "text": "这位同学，你也是来植物园研学的吗？——哎，等等，那边的虫子排得真整齐，看起来像在集体迁徙。要不要过去看看？正好可以一起做观察记录。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mantis_lvyinbiji_levelup_001.aac",
+            "text": "只要多给点阳光和时间，种子也能长成大树。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mantis_lvyinbiji_greeting_001.aac",
+            "text": "嗨，今天也来观察植物吗？那边的花刚开，我想去看看它吸引来的第一批访客是谁。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_001.aac",
+            "text": "爸爸妈妈以前总说，只要肯蹲下身来仔细看看，世界就会变得不一样……现在我明白了，哪怕只是一片小小叶子的底下，也藏着无数正在发生的奇迹。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_002.aac",
+            "text": "看，那两株小草一直在风里沙沙作响，也许它们正在说着什么只有彼此才能听得懂的话。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mantis_lvyinbiji_idle_001.aac",
+            "text": "光线透过叶子，颜色变成了绿的、金的，就像一场美丽的梦……再待一会儿吧，我还想多看几眼。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mantis_lvyinbiji_clicking_001.aac",
+            "text": "唉呀，别捣乱啦！会吓跑那些小虫子的，我还在观察它们的行进路线呢……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mantis_lvyinbiji_specialattention_001.aac",
+            "text": "你一直看着我干嘛？连蝴蝶都不敢靠近你了……它们大概以为你在捕猎呢。"
         }
     ]
 }

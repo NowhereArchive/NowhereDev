@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_yingying_levelup_002.aac",
             "text": "これ全部あたいだけのものなのかい？"
-        },
+        }
+    ],
+    "インイン-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_yingying_head_001.aac",
             "text": "ただ髪の毛に触れるだけでいいのかい？よし、あたいは目を閉じてちょっと時間をあげよう。他に触れたいところは？まつ毛？鼻？それとも……唇かい？"
         }
     ],
-    "fluttered_heartstrings": [
+    "初鳴きの弦": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",

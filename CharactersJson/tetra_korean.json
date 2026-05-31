@@ -91,7 +91,7 @@
             "text": "왜 그래? 국장. 자극적인 걸 찾고 있어?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_tetra_specialattention_001.aac",
             "text": "눈 깜빡도 하지 않는 게 좋을걸? 여우 수작에 정신 못 차리게 만들어버릴지도 몰라."
         },
@@ -111,7 +111,7 @@
             "text": "음… 아직 더 강해질 여지가 있네."
         }
     ],
-    "edge_of_nightfall": [
+    "나이트_엣지": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_tetra_yemubianyuan_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "쥐도 새도 모르게 물건을 잃어버리고 싶은 게 아니라면 가만히 좀 있어 줄래, 국장?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_tetra_yemubianyuan_specialattention_001.aac",
             "text": "내 뒤만 잘 따라와, 이 혼란 속에서 네 안전은 보장해 줄게."
         }

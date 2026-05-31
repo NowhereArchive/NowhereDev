@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_etti_levelup_002.aac",
             "text": "基本ステータスは、取捨選択があってこそ楽しめるのよ。"
-        },
+        }
+    ],
+    "アイティ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_etti_head_001.aac",
             "text": "あなたもこの角が好きなの？じゃあ、由来を教えてあげるわね！それは、とあるとても寒い冬の日だった……って、ちょっと！どこ行くの！"
         }
     ],
-    "noctivagation": [
+    "奇妙な夜旅": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_etti_guiyeqilv_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "なんでアタシを見てるの？早くついて来て……あれ？本当に怖くなっちゃった？落ち着いて。もし本当に危険な目に遭ったら、例外として特別にちょっと助けてあげる……でも、このことは誰にも言わないでね！"
         }
     ],
-    "dances_&_dragons": [
+    "ドラゴンとワルツ": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_etti_longyuyuanwuqu_cacha_001.aac",

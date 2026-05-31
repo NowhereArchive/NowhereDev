@@ -91,7 +91,7 @@
             "text": "이건 새로운 원고 독촉 방식인가요? 됐어요, 그렇다면 당신의 원고는 받지 않겠어요~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_raven_specialattention_001.aac",
             "text": "제게 신경을 많이 쓰시는 것 같은데요~ 제 글에 쓰일 당신의 모습이 어떨지 걱정하는 건가요? 걱정 마세요, 완벽하답니다."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_raven_levelup_002.aac",
             "text": "레이븐은 신나요. 저 까마귀를 말한 거예요."
-        },
+        }
+    ],
+    "크로우_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_raven_head_001.aac",
             "text": "이건 흉터가 아니라… 제 훈장이에요. 미치광이가 된 훈장이요."
         }
     ],
-    "arnheim_athenaeum": [
+    "아른하임_도서관": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_raven_aenhaimuzhiguan_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "어어, 이건 세상의 규칙으로 만든 옷이라고요~ 당신… 쯧, 이 옷은 에티한테 빌린, 정말 비싼 옷이라고요, 조심 좀 해주세요!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_raven_aenhaimuzhiguan_specialattention_001.aac",
             "text": "제 신분이 궁금하나요? 혹시 제가 예전부터 알고 지낸 '옛 친구'처럼 보이나요?"
         }
     ],
-    "raven_in_the_box": [
+    "방과_후_서프라이즈": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_raven_kehoujingxi_cacha_001.aac",
@@ -195,7 +197,7 @@
             "text": "어어, 이건 제 소중한 학생들이 준 거란 말이에요, 함부로 만지지 마세요!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
             "text": "왜 그렇게 쳐다보세요? 아, 제가 특별히 준비한 강사 복장을 아직 제대로 못 보신 거군요? 흐음, 그럼 좀 더 감상할 시간을 드리죠."
         }

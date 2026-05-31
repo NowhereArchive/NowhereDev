@@ -91,7 +91,7 @@
             "text": "나의 몸에 이렇게 관심이 많다니, 어느 부위가 좋아? 내가 선물해 줄게~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_wendy_specialattention_001.aac",
             "text": "눈빛이 꽤 날카롭잖아? 마치 날 잘라버릴 것처럼… 히히히… 우리 왠지 마음이 잘 맞을 것 같은데?"
         },
@@ -111,7 +111,7 @@
             "text": "아~아~ 돌면 돌수록 빨라지는 체인톱 소리, 너무 아름다워~!"
         }
     ],
-    "chainsaw_nightmare": [
+    "체인_쏘우": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_wendy_lianjujinghunye_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "하하하하, 이런 일을 저지르고도, 멀쩡히 살아가고 싶은 거야?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_wendy_lianjujinghunye_specialattention_001.aac",
             "text": "꺄하하핫, 날 찾아냈으니 게임 하나 할까? 긴장하지 마, 조금만 포기하고 충분히 노력 한다면 살아남을 수 있을 테니까."
         }
     ],
-    "elegy_of_the_rust": [
+    "러스트_리버의_만가": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_wendy_xiuhewange_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "들어봐… 바람이 러스트 리버를 지나가는 소리야. 그들이 저녁 안부를 전하고 있어…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_wendy_xiuhewange_specialattention_001.aac",
             "text": "그렇게 날 계속 보다가 너도 러스트 리버에 정이 든 거야? 히히… 역시 넌… 내 동료야…"
         }

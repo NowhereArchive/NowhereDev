@@ -91,7 +91,7 @@
             "text": "정말 스트레스가 너무 많이 쌓였다면, 제가 해결해 드리지 못할 건 없답니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_aida_specialattention_001.aac",
             "text": "저는 비서를 해본 적이 없는데, 뭘 하면 되나요? 단지 당신의 수요를 충족시켜 드리면 되는 건가요?"
         },
@@ -111,7 +111,7 @@
             "text": "당신의 협조에 감사드립니다."
         }
     ],
-    "beguiled_heart": [
+    "혼란한_마음": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_aida_yiluanqingmi_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "그렇게 못 참겠어요? 그럼 자세를 잡아봐요. 함부로 움직이지 말고…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_aida_yiluanqingmi_specialattention_001.aac",
             "text": "당신이 고개만 끄덕여 준다면 제가… 가장 달콤한 상을 줄게요."
         }

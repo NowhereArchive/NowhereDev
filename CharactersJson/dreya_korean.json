@@ -91,7 +91,7 @@
             "text": "왜 그러는지 알려주지 않아도 돼요… 궁금하지 않으니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dreya_specialattention_001.aac",
             "text": "블랙홀을 바라보는 건… 매우 위험해요… 블랙홀은 답을 주지 않아요, 당신을 부서트리고 삼켜버릴 뿐이죠…"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_dreya_levelup_002.aac",
             "text": "한계를 뛰어넘어봐요."
-        },
+        }
+    ],
+    "드레아_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_dreya_head_001.aac",
             "text": "당신도 인류의 가장 견고한 방어막을 뚫고, 그들의 비밀을 알고 싶은 건가요?"
         }
     ],
-    "cosmic_escapist": [
+    "코즈믹_드림": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_dreya_huanyumimeng_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "저에 대해 알고 싶다면, 제 드레스는 내버려 두고, 당신의 비밀을… 알려주는 게 어때요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dreya_huanyumimeng_specialattention_001.aac",
             "text": "당신은 은하수를 관측하고 있는 건가요… 아니면… 저를 관측하고 있나요?"
         }
     ],
-    "seastral_starlight": [
+    "별을_품은_바다": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_dreya_hanhaixingmang_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "이제 어디로 갈 거예요? 깊은 바닷속이든, 머나먼 은하수든, 당신과 함께라면 어디든 좋아요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dreya_hanhaixingmang_specialattention_001.aac",
             "text": "밤하늘, 파도, 흐르는 별빛… 인간은 눈빛으로 좋아하는 감정을 드러내죠… 당신이 저를 바라보는 눈빛도, 그런 건가요?"
         }

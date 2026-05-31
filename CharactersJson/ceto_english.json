@@ -115,5 +115,47 @@
             "filename": "File:vo_ceto_head_001.aac",
             "text": "If you don't want that hand anymore, just say so."
         }
+    ],
+    "masterless_sail": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",
+            "text": "Listen, I can save you, but once you're on my ship, you'll need to pull your weight—raising the mast, swabbing decks, watching the sea. No one's going to clean up your messes. If you understand, grab my hand and climb aboard."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ceto_wuzhuzhifan_levelup_001.aac",
+            "text": "Let's conquer the waves!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ceto_wuzhuzhifan_greeting_001.aac",
+            "text": "Awake? Good, then let's set sail. The sea's rough today, so hold tight and don't get swept overboard. I don't have time to circle back and fish you out."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_001.aac",
+            "text": "Those shadows wandering on the decks? Well, they're your crewmates too. You'll have to get used to them and get along with everyone. This ship couldn't have made it this far without them."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_002.aac",
+            "text": "Listen to the waves long enough and you'll feel like they can take everything away: names, memories, directions... After a while, I'm not even sure what's left of me anymore."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ceto_wuzhuzhifan_idle_001.aac",
+            "text": "...Do you hear that? There are other sounds in the waves... Hmph, those things are scratching at the hull again, waiting for us to fall in and join them."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ceto_wuzhuzhifan_clicking_001.aac",
+            "text": "Move your hand any closer and I'll assume you want to test how sharp this blade is."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ceto_wuzhuzhifan_specialattention_001.aac",
+            "text": "I can see it in your eyes... the same madness as mine. Good, this ghost ship needs someone like you who \"fits in\" with the crew. Come, we can sail anywhere together, even to hell's harbor."
+        }
     ]
 }

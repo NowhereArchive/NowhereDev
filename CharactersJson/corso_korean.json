@@ -91,7 +91,7 @@
             "text": "쯧, 너도 못 맛 좀 볼래?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_corso_specialattention_001.aac",
             "text": "뭘 봐, 싸우자는 거냐?"
         },
@@ -111,7 +111,7 @@
             "text": "그래, 이거지. 싸우자, 또 싸우자!"
         }
     ],
-    "suit-up_outlaw": [
+    "수트_빌런": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "아야야, 목줄 하나 풀어주는 게 그렇게 어려워? 어이 거기 너! 방금 우리 형님한테 손가락질했지? 죽고 싶어?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.aac",
             "text": "그만 좀 쳐다봐, 도망 안 간다니까? 사고 칠 생각도 없어… 어쨌든, 목줄은 네가 쥐고 있으니까 걱정할 필요 없잖아?"
         }

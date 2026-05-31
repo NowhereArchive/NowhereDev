@@ -167,5 +167,99 @@
             "filename": "File:vo_deren_shijiejiaodian_specialattention_001.aac",
             "text": "Did you hear that? The spotlight will keep on shining, and the applause and cheers will never cease... Hmph, come on. Join me and we will become the center of the world's attention."
         }
+    ],
+    "butterfly_shadow": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_deren_diezhiying_cacha_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_deren_diezhiying_levelup_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_deren_diezhiying_greeting_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_deren_diezhiying_body_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_deren_diezhiying_body_002.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_deren_diezhiying_idle_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_deren_diezhiying_clicking_001.aac",
+            "text": "jojo"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
+            "text": "jojo"
+        }
+    ],
+    "midnight_fantasia": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_deren_qiyekuangxiang_cacha_001.aac",
+            "text": "Thank you for accepting the invitation to the Scarlet Stage set. I'm the director, Deren... Let's document the journey here and explore all the hidden secrets together!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_deren_qiyekuangxiang_levelup_001.aac",
+            "text": "Some more spectacular special effects for the next act would be nice."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_deren_qiyekuangxiang_greeting_001.aac",
+            "text": "You always arrive at the set on time. Do you genuinely want to see what we're filming, or... what I'm doing?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_deren_qiyekuangxiang_head_001.aac",
+            "text": "Getting handsy with the director, huh? That might affect the quality of the film, you know?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_deren_qiyekuangxiang_body_001.aac",
+            "text": "Art is the perfect cover-up. I bet you can't tell whether that \"perfect murder\" on stage is just a performance, or if... it actually happened, can you?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_deren_qiyekuangxiang_body_002.aac",
+            "text": "You're here, yet you're not absorbed by the film. You're the most troublesome kind of viewer... Wanna oversee the set for me instead? At least then, when I want to slack off, someone can watch the monitors for me."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_deren_qiyekuangxiang_hand_001.aac",
+            "text": "\"You're invited to a midnight feast from which you shall never awaken.\" ...How does that new invitation sound? Time to bring in a fresh audience."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_deren_qiyekuangxiang_background_001.aac",
+            "text": "Haha, careful now. Don't disturb those things backstage... They're actors from the last production who never left after it ended. They're always trying to sneak into the next scene."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_deren_qiyekuangxiang_idle_001.aac",
+            "text": "\"Act Four, Scene Seven\"... Hmm, I still need to work on the opening shot."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_deren_qiyekuangxiang_specialattention_001.aac",
+            "text": "Your gaze burns hotter than a spotlight... It makes me eager to see your face when you watch the final act."
+        }
     ]
 }

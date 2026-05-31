@@ -91,7 +91,7 @@
             "text": "뭐 하는 거야?! 난 개가 아니라고!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_langhuan_specialattention_001.aac",
             "text": "뭘 봐? 목적이 뭐지?"
         },
@@ -111,7 +111,7 @@
             "text": "지루해."
         }
     ],
-    "summer_splash": [
+    "뜨거운_여름": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_langhuan_kuxiajiyang_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "어이, 너무 막무가내로 뿌리는 거 아냐? 물이 눈에 들어가겠어!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_langhuan_kuxiajiyang_specialattention_001.aac",
             "text": "그냥 바지가 좀 젖은 건데 뭘 그렇게 쳐다봐?"
         }

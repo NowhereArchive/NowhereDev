@@ -91,7 +91,7 @@
             "text": "원하는 것이 있으면 솔직하게 얘기해 줘요. 우리 사이에 이런 게임은 필요 없잖아요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_heli_specialattention_001.aac",
             "text": "도전자, 협상 대상, 혹은… 가까운 친구… 그대는 어떤 신분으로 절 만나러 온 거죠? 그게 무엇이든 전 기뻐요."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_heli_levelup_002.aac",
             "text": "앞으로 밀어주는 힘, 다다익선이죠."
-        },
+        }
+    ],
+    "이리나_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_heli_head_001.aac",
             "text": "그립네요, 저에게 이렇게 친절하게 대해주시는 분이 계셨었죠, 아쉽게도… 이미 이 세상에 없지만요."
         }
     ],
-    "seaside_sunrise": [
+    "해변가의_아침_햇살": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_heli_haiyuchenguang_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "모처럼 이렇게 한가로이 둘만의 시간을 가지게 되었는데, 살짝 취기가 오른 틈을 타서, 체스 말고 다른 일을 같이 해보지 않을래요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_heli_haiyuchenguang_specialattention_001.aac",
             "text": "당신이 감상하는 것은 대체 해변의 일출인가요, 아니면 다른 아름다운 경치인가요?…아, 눈을 떼지 않아도 괜찮아요, 전 신경 쓰지 않으니까요."
         }
     ],
-    "daughter_of_fraser_city": [
+    "피셔의_딸": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_heli_feishazhinv_cacha_001.aac",
@@ -205,12 +207,12 @@
             "text": "이걸 위해 저와 협력하려던 건가요? 저희 할머니 시대에도 이런 수작은 부리지 않았을 거예요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_heli_feishazhinv_specialattention_001.aac",
             "text": "그래요, 일단 저의 곁에 머물러요. 자세한 계획은 차차 말해줄게요."
         }
     ],
-    "veil_of_flame": [
+    "불꽃의_향연": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_heli_yanseweisheng_cacha_001.aac",
@@ -247,7 +249,7 @@
             "text": "저는 신체 접촉을 싫어하진 않아요. 다만, 그것이 양쪽 모두 결과를 분명히 알고 있을 때 일어나기를 바랄 뿐이에요. 그럼 국장님께선… 충분히 생각해 보셨나요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_heli_yanseweisheng_specialattention_001.aac",
             "text": "저만 바라봐서는 이 연회를 제대로 즐길 수 없어요. 차라리 무도장에 더 시선을 두는 게 어때요? …그곳엔 '사냥감'이 훨씬 많거든요."
         }

@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "これはあなたが贈ってくれた証なの？"
-        },
+        }
+    ],
+    "グレイヴ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_graves_head_001.aac",
             "text": "あなたにベールを上げられる時、わたしの醜さが全て露わになってしまう……そ、それでもわたしにキスをしてくれる？"
         }
     ],
-    "reverie_belle": [
+    "幽庭に眠る影": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
@@ -166,6 +168,48 @@
             "title": "お気に入り",
             "filename": "File:vo_graves_youtingmeiying_specialattention_001.aac",
             "text": "あなたの瞳が、わたしを呪いから守ってくれると信じているわ……だからずっとわたしを見ていて、勇者さん。"
+        }
+    ],
+    "深廊で蝶誘う": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",
+            "text": "やっと来てくれたのね。この場所は入り組んでいるから、わたしを見つけられないんじゃないかと心配していたの……でも大丈夫、ちょっとしか待てないわ。それに見て、こんなにたくさんの蝶がわたしと一緒にいてくれたんだもの～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_graves_shenlangyindie_levelup_001.aac",
+            "text": "感じるわ……愛に包まれているのを。この蝶たちも、わたしたちの約束を覚えていてくれたのかしら？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_graves_shenlangyindie_greeting_001.aac",
+            "text": "さっきまで考えていたの。もしあなたがもう少し遅れていたら、きっと我慢できずに回廊を辿って探しに行っていただろうなって。今あなたが、わたしの傍にいてくれて良かったわ……"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_graves_shenlangyindie_body_001.aac",
+            "text": "今日のために、この服に着替えたのよ。それに、東洲のコンビクトから東洲の誓いの言葉を教えてもらったの。でもあなたを見た途端、頭が真っ白になっちゃって……何度も練習したのに……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_graves_shenlangyindie_body_002.aac",
+            "text": "東洲の本で読んだことがあるの。たとえ最期に命を落としても、心から愛し合っていた二人は、つがいの蝶になって、一緒に飛び、一緒に止まり、永遠に離れることはないって……なんてロマンチックなのかしら……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_graves_shenlangyindie_idle_001.aac",
+            "text": "わたしは大人しくしているわ。動いたりしない。そうしないと、蝶が飛び去ってしまうし、あなたもいなくなってしまうから……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_graves_shenlangyindie_clicking_001.aac",
+            "text": "これはつまり……局長も今日のデートを終わらせたくないということ？それなら……もう少しあなたに近づいてもいいかしら？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_graves_shenlangyindie_specialattention_001.aac",
+            "text": "あなたがわたしを見つめる時、まるで回廊全体がわたしたちを祝福しているみたい……蝶も、もっと楽しそうに舞っているわ……"
         }
     ]
 }

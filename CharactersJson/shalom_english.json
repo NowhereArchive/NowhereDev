@@ -219,5 +219,47 @@
             "filename": "File:vo_shalom_anyetongxing_specialattention_001.aac",
             "text": "Name your destination and I shall follow—right to the world's edge."
         }
+    ],
+    "moonlit_magnolias": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",
+            "text": "The magnolias tonight are a sight to behold, even the moonlight pales in their presence... The tea is ready. Please, come and sit beside me, let us admire the night and the flowers together."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shalom_lantingyuehui_levelup_001.aac",
+            "text": "The magnolias are in full bloom."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shalom_lantingyuehui_greeting_001.aac",
+            "text": "I knew from the moment those familiar footsteps echoed on the stone path... that it was you who had come."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_001.aac",
+            "text": "The magnolia's fragrance is subtle, yet it leaves a lasting trace in one's heart. It's just like you, always approaching silently, and before I know it, you're all that's on my mind."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_shalom_lantingyuehui_talk1_002.aac",
+            "text": "A rockery appears different from every angle, as do human hearts. What about you? Which side of yourself will you show me tonight?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shalom_lantingyuehui_idle_001.aac",
+            "text": "The tea's aroma, mingled with the flower's fragrance... One can't help but relax. Don't worry, I'll keep you awake."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_shalom_lantingyuehui_clicking_001.aac",
+            "text": "There's no need to rush. Look at the moon above, the flowers below, the tea in your cup, and me... we will all remain here, keeping you company tonight."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shalom_lantingyuehui_specialattention_001.aac",
+            "text": "Your gaze always falls upon me before the night does. Don't go too far then. This courtyard, deep within the flowers—there will always be a light burning for you here."
+        }
     ]
 }

@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "気にかけてくださり、ありがとうございます。"
-        },
+        }
+    ],
+    "イェレナ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "ご心配いただきありがとうございます。まだ疲れていませんわ。"
         }
     ],
-    "scorched_lullaby": [
+    "灼夜のゆりかご": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -166,6 +168,48 @@
             "title": "お気に入り",
             "filename": "File:vo_jelena_zhuoyeyaolan_specialattention_001.aac",
             "text": "あなたの眼差しは特別ですわ。母を心から信じる子供たちのものとは違いますから……それは、あなたが彼らよりも勇敢だからでしょうか？それとも、より迷っているからでしょうか？"
+        }
+    ],
+    "煙雨の簾": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",
+            "text": "カイドウが散り始め、壊れた橋と青瓦があり、しとしとと雨が降る中、私たちは出会いました。あなたはご自分の名を教えてくださいましたね。今でもずっと覚えていますわ……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_jelena_yilianyanyu_levelup_001.aac",
+            "text": "あなたがくれたものは、一生大切にいたします……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_jelena_yilianyanyu_greeting_001.aac",
+            "text": "今年は庭のカイドウがよく咲いているんです。雨が激しくなる前に、急いで何本か手折ってきました……もしご興味があれば、一緒に見ませんか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_jelena_yilianyanyu_body_001.aac",
+            "text": "人の心に眠る秘密は、この花についた露のようですわ。漆黒の夜にはそれが見え、近づくこともでき、可愛いとさえ感じられる。ですが太陽が昇ると、跡形もなく消え去り、二度と見つけることができないのです。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_jelena_yilianyanyu_body_002.aac",
+            "text": "雨の日は、あなたのことを思い出しますわ……あなたを想う時、私は庭で散った花を拾い集め、洗って押し花にし、化粧箱にしまい込むのです。まるで、隠れて日の当たらない想いをしまい込むように……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_jelena_yilianyanyu_idle_001.aac",
+            "text": "言葉は要りませんわ。ただ静かに私の傍にいてくだされば、それで十分ですから……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_jelena_yilianyanyu_clicking_001.aac",
+            "text": "あら……髪に花がついてしまいました。取っていただけませんか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_jelena_yilianyanyu_specialattention_001.aac",
+            "text": "ただ私を見ていてください。背を向けず、離れずに……"
         }
     ]
 }

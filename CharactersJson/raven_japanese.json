@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_raven_levelup_002.aac",
             "text": "「カラス」が喜んでいるな。ああ、私のことではない。この子のことだ。"
-        },
+        }
+    ],
+    "クロウ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_raven_head_001.aac",
             "text": "これは傷跡ではない……これは私の勲章。狂人となった勲章なのだ。"
         }
     ],
-    "arnheim_athenaeum": [
+    "アルンハイムの館": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_raven_aenhaimuzhiguan_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "私が誰なのか興味があるようだな？お前の「古い友人」とよく似ているのか？"
         }
     ],
-    "raven_in_the_box": [
+    "放課後のサプライズ": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_raven_kehoujingxi_cacha_001.aac",

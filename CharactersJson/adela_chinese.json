@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_adela_levelup_002.aac",
             "text": "谢谢，我该如何报答您呢？"
-        },
+        }
+    ],
+    "阿黛拉-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_adela_head_001.aac",
             "text": "喜欢我的造型吗？这是新城最流行的款式。如果您也想要同款……那或许要先从蓄发开始。"
         }
     ],
-    "candlelit_turret": [
+    "塔楼烛光": [
         {
             "title": "获得装束",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "您的目光中盛满了诚挚，如果和您一起离开这里是您对我的要求，那我一定会答应的……只是，在那之前，希望您能在这里停留片刻，延缓步调，放松神经。"
         }
     ],
-    "woodland_wanderer": [
+    "林中客": [
         {
             "title": "获得装束",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",

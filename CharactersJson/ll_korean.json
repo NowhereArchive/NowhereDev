@@ -91,12 +91,12 @@
             "text": "음~ 왜 더 세게 안 눌러? 세게 눌러봐!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_ll_specialattention_001.aac",
             "text": "날 아주 좋아하나 보네? 그럼, 계속 날 그렇게 쳐다봐 줘, 알겠지?"
         },
         {
-            "title": "그들의 불행도 드디어 끝이군요.",
+            "title": "파견",
             "filename": "File:vo_ll_dispatch_001.aac",
             "text": "리오를 보내면 돼! 섬을 찾는 임무는 리오가 제격이지~"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_ll_levelup_002.aac",
             "text": "날 그렇게 대해 줘서 기뻐, 계속 이렇게 해줘!"
-        },
+        }
+    ],
+    "l.l._-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_ll_head_001.aac",
             "text": "너한테만 알려주는 건데, 사실 나 아주 오래전부터 이미 널 내 머릿속에 가둬뒀어~"
         }
     ],
-    "astral_rhapsody": [
+    "고요_속의_소리": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "……괜찮아, 비록 나를 위해 남아 있는 사람은 오직 당신뿐이라 해도…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
             "text": "하고 싶은 말이 있으면 그냥 내게 말해. 내 노랫소리와 네 심장 소리가 같은 리듬을 타고 있는지 시험해 보고 싶은 거야?"
         }

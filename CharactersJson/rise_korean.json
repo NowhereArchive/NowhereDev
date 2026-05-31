@@ -91,7 +91,7 @@
             "text": "한 번만 더 귀찮게 굴면 당신 얼굴을 뭉개버리겠어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rise_specialattention_001.aac",
             "text": "할 말 있으면 그냥 말해, 국장 때문에 늦게 퇴근하고 싶진 않거든."
         },
@@ -111,7 +111,7 @@
             "text": "새로운 모델의 업무 효율이 더 나아진 것 같아."
         }
     ],
-    "nebula_sentinel": [
+    "스페이스_가디언": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_rise_xingjieshouwang_cacha_001.aac",
@@ -158,7 +158,7 @@
             "text": "반짝이는 우주는 사람을 매료시키지만, 사람들의 마음속에 존재하는 도덕 역시 존경받을 가치가 있다고 생각해."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rise_xingjieshouwang_specialattention_001.aac",
             "text": "우리는 정의의 길을 언제까지나 영원히 함께 걸어 나갈 거야. 넌 혼자가 아니야."
         }

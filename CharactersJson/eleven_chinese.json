@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_eleven_levelup_002.aac",
             "text": "来，再过来点，再……近一点儿。"
-        },
+        }
+    ],
+    "雷温-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_eleven_head_001.aac",
             "text": "想要知道我是如何想念你的吗？"
         }
     ],
-    "rippling_heartthrobs": [
+    "心潮漫夏": [
         {
             "title": "获得装束",
             "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "别总盯着我呀，既然来了海边，好好享受大海才是正事……要是你实在想和我多聊一会儿的话，不如等我下班了，一起去海边走走？呵呵，好，到时候等我的电话~"
         }
     ],
-    "trickling_heartstream": [
+    "心流微澜": [
         {
             "title": "获得装束",
             "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",

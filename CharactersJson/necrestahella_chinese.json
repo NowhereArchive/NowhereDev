@@ -109,11 +109,65 @@
             "title": "升级",
             "filename": "File:vo_hellasp_levelup_002.aac",
             "text": "对我这么好呀？"
-        },
+        }
+    ],
+    "幽冕·海拉-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_hellasp_head_001.aac",
             "text": "研究院的家伙说这是什么污染结晶，去不掉，但好在摸起来没什么感觉——嘶，有点扎手。"
+        }
+    ],
+    "星梦徙行": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hellasp_xingmengxixing_cacha_001.aac",
+            "text": "我做了一个好长的梦，和以前的梦不一样，这次梦里有一条闪着亮光的星河，漂亮得让人觉得很幸福……所以，我就想让所有我在意的人都能看到，让他们也能感受到这样的幸福！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hellasp_xingmengxixing_levelup_001.aac",
+            "text": "嗯~！感觉拥有对抗一切黑暗的力量了！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hellasp_xingmengxixing_greeting_001.aac",
+            "text": "欢迎来到：海拉大人的星河世界~！请MBCC局长支付本次的导游费用……哎哎哎，别走啊~你要是能一直陪在海拉大人的身边，或许海拉大人一开心就能让你……赊账哦！"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_hellasp_xingmengxixing_head_001.aac",
+            "text": "这个花冠可是用星星的碎片装饰起来的，怎么样，漂亮吧！什……什么敲碎星星，那是我顺手捡的星星碎片，才没有一拳就把星星打碎呢！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hellasp_xingmengxixing_body_001.aac",
+            "text": "在这片星海中，我见过万千世界、无数人的倒影，甚至也有我自己的——它们有的失败、有的迷茫、也有依然努力着的……可唯一不会变的，是那个一直向我伸出手的笨蛋。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hellasp_xingmengxixing_body_002.aac",
+            "text": "以前我总觉得天上的那些光太远了，就算跳起来，飞起来也碰不到。可现在我知道啦——只要一直往前走，就能慢慢地靠近它们，直到……碰到它们。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_hellasp_xingmengxixing_leg_001.aac",
+            "text": "你不是常说，做事要一步一个台阶、稳稳地走嘛。经历了这么多，我好像……有点懂你那句话的意思了。不过呢——要是我能一口气跳三个台阶的话……我才不会放过这个机会呢，嘻嘻！"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_hellasp_xingmengxixing_background_001.aac",
+            "text": "星光照不到的地方，也能靠我自己点亮——这就是我想成为的模样。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hellasp_xingmengxixing_idle_001.aac",
+            "text": "嘿嘿，试听结束了，再听可是要买“海拉大会员”才行哦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hellasp_xingmengxixing_specialattention_001.aac",
+            "text": "啊，你发现我啦？不错嘛，周围这么多漂亮的星星，你一眼就看到最漂亮的一颗啦！哼哼，这也算是你为数不多的优点吧！"
         }
     ]
 }

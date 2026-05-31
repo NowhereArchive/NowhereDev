@@ -91,7 +91,7 @@
             "text": "국장님, 노놉. 안돼요! 화낼 거예요!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_tuoqier_specialattention_001.aac",
             "text": "왜요? 이렇게 보고만 있어도 기분이 좋아져요? 그래요, 그렇다면 조금만 더 보게 해줄게요."
         },
@@ -111,7 +111,7 @@
             "text": "걱정 끼쳐드렸네요."
         }
     ],
-    "steamy_night_chat": [
+    "향기로운_밤의_대화": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_tuoqier_yinyunyehua_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "제 머리를 대신 말려주시려고요? 그럼 살살해 주세요. 아픈 건 싫거든요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_tuoqier_yinyunyehua_specialattention_001.aac",
             "text": "제 몸에서 나는 향기가 좋다고요? 장미 오일을 써서 그런 걸지도 몰라요~ 정신을 안정시키고 피로를 푸는 데 도움이 많이 되거든요… 후후, 국장님도 조금 졸리시죠? 그게 아니라면 왜 저를 계속 쳐다보세요?"
         }
     ],
-    "glistening_raindrops": [
+    "밤비_속의_빛": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_tuoqier_yeyuweiguang_cacha_001.aac",
@@ -190,7 +190,7 @@
             "text": "제 옷에 진흙이 좀 많이 묻었네요. 국장님에게 묻지 않도록 조심하세요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_tuoqier_yeyuweiguang_specialattention_001.aac",
             "text": "이렇게까지 신경 써주셔서 감사해요. 걱정하지 마세요, 저는 괜찮아요. 그냥 정신적으로 조금 피곤할 뿐이에요… 조금 쉬면 괜찮아질 거예요."
         }

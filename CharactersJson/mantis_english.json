@@ -167,5 +167,47 @@
             "filename": "File:vo_mantis_shenlinbangying_specialattention_001.aac",
             "text": "There's no one else here, just our silhouettes reflected in the water... and... the two of us, in each other's eyes..."
         }
+    ],
+    "botanical_notes": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",
+            "text": "Are you here for the botanical garden field trip too? Oh wait, look how neatly those insects are lined up over there. I think they're migrating. Want to go check it out? We could make observation notes together."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mantis_lvyinbiji_levelup_001.aac",
+            "text": "With enough sunlight and time, even a little seed can grow into a tall tree."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mantis_lvyinbiji_greeting_001.aac",
+            "text": "Hey, here to observe plants again today? Those flowers just bloomed over there. I want to see who their first visitors will be."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_001.aac",
+            "text": "Mom and Dad always said if you're willing to crouch down and look closely, you can see a different world... Now I understand. Even beneath a tiny leaf, countless miracles are happening."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mantis_lvyinbiji_talk1_002.aac",
+            "text": "Look, those two little grass blades keep rustling in the wind. Could they be saying something only they can understand?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mantis_lvyinbiji_idle_001.aac",
+            "text": "Light filters through the leaves, turning green and gold, like a beautiful dream... Let's stay a little longer. I want to look a bit more."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mantis_lvyinbiji_clicking_001.aac",
+            "text": "Hey, stop that! You'll scare away those little insects! I'm still observing their movement patterns..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mantis_lvyinbiji_specialattention_001.aac",
+            "text": "Why do you keep staring at me? Even the butterflies won't come near you... They probably take you for a predator."
+        }
     ]
 }

@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_ayiguo_cacha_001.aac",
+            "text": "小朋友，你躲什么呀，难不成是认出了我，怕我下毒？哈哈哈，江湖人都知道，金蛛婆婆满身是毒，却最疼你这样的俏娃娃了~来，叫声姑奶奶，我保证对你手·下·留·情~"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_ayiguo_promotion_001.aac",
+            "text": "千丝动，万虫鸣，才有这一蛊功成。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_ayiguo_promotion2_001.aac",
+            "text": "都说饮鸩止渴乃愚人所为，可婆婆我能永葆青春，却实实在在是靠了这些毒。如今我将这秘密分享与你，你……真不想试试？"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_ayiguo_battlebegin_001.aac",
+            "text": "这点事还要劳动姑奶奶这把老骨头？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_ayiguo_battlewin_001.aac",
+            "text": "怎么这么弱啊，连我的小虫都喂不饱，亏了。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_ayiguo_battlelose_001.aac",
+            "text": "这次就让你占个先，但毒虫无处不在，姑奶奶等着你走夜路的那天！"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_ayiguo_uniqueskill_001.aac",
+            "text": "千丝归巢，百毒不侵！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_ayiguo_dead_001.aac",
+            "text": "我不要……烂在这里……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ayiguo_greeting_001.aac",
+            "text": "唉，几十年一过，都没几个小辈会规规矩矩来请安了，你这娃娃倒是不错，这里又个个都是人才，说话好听不说，长得也好看……嗯，决定了，姑奶奶我不走了！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_ayiguo_talk1_001.aac",
+            "text": "你看我这袖子漂不漂亮？想不想上手摸一摸？想不想……和我袖子里的小宝贝们接触接触？别害怕啊，不就是染上剧毒，被割掉一只手吗？"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_ayiguo_talk1_002.aac",
+            "text": "无色无味、见血封喉的毒只是小儿科，最叫人害怕的毒呀，会让红颜变恶疮，香肌成脓泡，甚至叫人活生生变异成不人不鬼的玩意儿……姑奶奶我一生爱俏，宁愿被千刀万剐，也不要变成那样。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_ayiguo_talk1_003.aac",
+            "text": "东洲所谓的武林，你应该也见识过了，不过是一群蝇营狗苟之辈在过家家，还扯大旗评起侠不侠的来。哼，你家金蛛婆婆能活到这个年纪，靠的只一条：不多管闲事。侠？谁爱当谁当！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_ayiguo_talk2_001.aac",
+            "text": "少问婆婆我要故事听，都忘了，早忘了。你活到我这个岁数就会明白，健忘不是诅咒，是天赐的能耐，只有这样才能抖落一身积年尘土继续走，不被压垮，不被困住。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_ayiguo_talk2_002.aac",
+            "text": "所谓蛊，就是毒虫相噬，唯有最强的、最贪生怕死的才能活，我的小宝贝们如此，我也是如此，天下又有哪一样活法不是这样？蛊与人哪有什么差异，要我说，还是人更毒些呢。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_ayiguo_talk2_003.aac",
+            "text": "我名声虽大，捏起嗓子喊两声哥哥姐姐，倒也还能骗到几个懵懂小鬼绕着我团团转，等玩腻了揭盅了，哈哈，那脸色更是有趣极了！倒是也有人骂我老怪装嫩，不成体统……哼，我就要活得漂漂亮亮，哪轮到旁人来嚼口舌！"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_ayiguo_obeyfull_001.aac",
+            "text": "过去，我只知道一种活法：与虫斗，与人斗，与痛苦和恐惧斗，成为最强的蛊，才能横行无忌，随心所欲。可你却告诉我，怪物也该为人接纳，能享受生命，不用经受那么多苦楚。原来我在找的不是毒，是你。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ayiguo_idle_001.aac",
+            "text": "喊半天都不应声，真是翅膀硬了，看来，得喊几只小宝贝来给你“以毒攻毒”一下。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ayiguo_clicking_001.aac",
+            "text": "年轻人真是不讲武德，肝火旺起来，连长辈都敢碰。饥不择食到这地步，要不要婆婆帮你降降火~？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ayiguo_specialattention_001.aac",
+            "text": "我行走江湖时，那些所谓侠客也总这样瞧我。有的怕我容颜不变，有的馋我容颜不变……你是哪一种呢？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_ayiguo_dispatch_001.aac",
+            "text": "你且在这儿不要走动，等姑奶奶带点漂亮小玩意儿回来哄你~"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_ayiguo_dispatch2_001.aac",
+            "text": "狄斯首饰真别致，喜欢！嗯？答应你的小玩意儿？有这事儿吗？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ayiguo_levelup_002.aac",
+            "text": "这孝敬我收下了~等消化完，一定好好疼你！"
+        }
+    ]
+}

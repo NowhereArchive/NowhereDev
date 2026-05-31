@@ -91,7 +91,7 @@
             "text": "됐어~ 아직은 날 만질 수 없을 거야~ 내 몸이 안정되면, 그땐 내가 먼저 다가가 널 꼭 안아 줄게~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zero_specialattention_001.aac",
             "text": "이제야 날 쳐다보네? 조금만 더 늦었으면 네 감각기관에 들어가 네 눈의 통제권을 빼앗아 버렸을 텐데~"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_zero_levelup_002.aac",
             "text": "수치 조정 완료!"
-        },
+        }
+    ],
+    "000_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_zero_head_001.aac",
             "text": "고양이 귀가 마음에 들어? 이걸 쓰면 내 머리를 쓰다듬을 줄 알았지. 자자, 마음껏 쓰다듬어~"
         }
     ],
-    "xenospace_pythoness": [
+    "이세계_마녀": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zero_yidumonv_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "자는 거야? 그렇다면… 난 네가 마음에 들어, 너무너무 마음에 들어. 몰래 공격해야지~ 진짜 뽀뽀한다? 쪽~ …뭐야, 왜 반응이 없어? 자는 척하던 거 아니었어? 이런, 아쉽네."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zero_yidumonv_specialattention_001.aac",
             "text": "마녀의 차원에 발을 들였으면 영원히 이곳에 남을 각오는 되어 있겠지? 앞으로 영원히 내 곁에 있어 줘. 말 없으면 동의하는 걸로 알고 있을게."
         }
     ],
-    "amped_frenzy": [
+    "사이버_랩소디": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zero_chaopinkuangchao_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "어머~ 이렇게 열렬한 응원을 받으니, 나까지 부끄러워지잖아… 답례로 너에게 [000의 궁극의 심쿵 관객] 칭호를 선물할게! 너만을 위한 히든 칭호니까, 절대 잊지 말고 소중히 간직해."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zero_chaopinkuangchao_specialattention_001.aac",
             "text": "딩~! 럭키 관객 한 명 발견! 맞아맞아, 바로 너야! 부끄러워하지 말고, 어서 무대 위로 올라와! 스포트라이트는 이미 모두 준비됐어!"
         }

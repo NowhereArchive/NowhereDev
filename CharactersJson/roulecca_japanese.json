@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_kuangdu_levelup_002.aac",
             "text": "え？ルリってばもっと強くなれるの——？"
-        },
+        }
+    ],
+    "ルリエカ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_kuangdu_head_001.aac",
             "text": "頭を触らないで！子供じゃないもん！わあああやめてよ！"
         }
     ],
-    "seaside_dessert_stand": [
+    "浜辺のスイーツ": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "局長……なんでルリのことじっと見てるの？うーん、もしかして……局長もサメのぬいぐるみが好きなの？でも、これはルリが勝ち取ったものだから、貸してあげないもん！"
         }
     ],
-    "puerile_maniac": [
+    "ミニギャンブラー": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",

@@ -91,7 +91,7 @@
             "text": "MBCC의 장관씩이나 되는 사람이 이런 짓을 하다니… 부끄럽지도 않아?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rahu_specialattention_001.aac",
             "text": "일부러 날 감시할 필요 없어. 족쇄가 그렇게 쉽게 벗어날 수 있는 속박도 아니고. 아, 나랑 단둘이 있고 싶은 거라고? 음, 그래."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_rahu_levelup_002.aac",
             "text": "아주 좋아, 더 줘. 난 그것들이 필요해."
-        },
+        }
+    ],
+    "라후_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_rahu_head_001.aac",
             "text": "내 머리카락이… 맘에 든다고? 고맙군."
         }
     ],
-    "radiant_stealth": [
+    "사복순찰": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "훈련받은 개들에겐 당신의 행동이 공격의 뜻으로 받아들여질 수도 있어. 이쯤에서 그만두는 게 좋을 거야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rahu_qingkongmixing_specialattention_001.aac",
             "text": "다른 사람들이 도착할 때까지 그렇게 계속 쳐다볼 작정이야? 설정대로 하자고? 좋아… 내 대답이 필요하면 말해."
         }
     ],
-    "loyal_oath": [
+    "영광의_서약": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "햇살이 참 좋네. 잠깐 아래 정원에 앉아서 홍차 한잔할까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_rahu_rongguangqishi_specialattention_001.aac",
             "text": "밀착 경호 역시 기사의 임무 중 하나야. 난 이미 너에게 맹세했으니, 내가 떠날 걱정은 하지 않아도 돼."
         }

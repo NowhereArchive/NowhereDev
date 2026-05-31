@@ -91,7 +91,7 @@
             "text": "꺼져!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_geji_specialattention_001.aac",
             "text": "난 당연히 관중을 거절하지 않지, 하지만 곡이 완성되기 전에 이래라저래라 지적하지는 마. 알겠어?"
         },
@@ -111,7 +111,7 @@
             "text": "새로운 리프, 나쁘지 않군."
         }
     ],
-    "backstage_break": [
+    "백스테이지_브레이크": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_geji_houtaijianqi_cacha_001.aac",
@@ -143,7 +143,7 @@
             "text": "흥, 여기 무대에 설 때 너처럼 단정하게 입을 필요 없어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_geji_houtaijianqi_specialattention_001.aac",
             "text": "자리가 꽤 괜찮지? 무대와 내가 제대로 보일 거야."
         },

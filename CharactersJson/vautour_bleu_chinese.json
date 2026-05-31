@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_vautour_levelup_002.aac",
             "text": "给我的？（笑）有心了。"
-        },
+        }
+    ],
+    "蓝鹫-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_vautour_head_001.aac",
             "text": "有些人呐，真是越来越无法无天了。"
         }
     ],
-    "languor_en_bleu": [
+    "倚晴眠": [
         {
             "title": "获得装束",
             "filename": "File:vo_vautour_yiqingmian_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "按商道的规矩，来了蓝鹫的地盘都得留下些什么，可你既不懂工笔也不会茶艺……不如就做个美人花瓶，留下来陪我小憩一会儿。"
         }
     ],
-    "vin_nocturne": [
+    "夜色如酝": [
         {
             "title": "获得装束",
             "filename": "File:vo_vautour_yeseruyun_cacha_001.aac",

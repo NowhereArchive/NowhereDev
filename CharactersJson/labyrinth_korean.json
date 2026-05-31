@@ -91,7 +91,7 @@
             "text": "촉각 시스템 off… 이제 계속 하셔도 됩니다. 국장님."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_renou_specialattention_001.aac",
             "text": "국장님의 신호가 감지되었습니다. 채팅 플러그인을 시작합니다."
         },
@@ -111,7 +111,7 @@
             "text": "하드웨어 업그레이드."
         }
     ],
-    "fortune_and_prosperity": [
+    "웨이트리스": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_renou_fuguixinglong_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "종업원을 치거나 공격하지 마십시오. 손상을 입히면 10배로 배상해야 합니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_renou_fuguixinglong_specialattention_001.aac",
             "text": "목표가 아직 나타나지 않았습니다. 걱정하지 않으셔도 됩니다. 국장님, 특별한 상황이 아니라면, 입구를 막아 다른 손님들의 출입에 영향을 주지 말아주시길 바랍니다. 협조해 주셔서 감사합니다."
         }

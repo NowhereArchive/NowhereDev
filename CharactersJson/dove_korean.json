@@ -91,7 +91,7 @@
             "text": "서두르지 마세요, 편지를 받으려면 줄을 서야 해요… 이렇게 간절한 걸 보니, 설마 지금 편지 때문이 아닌 건가요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_dove_specialattention_001.aac",
             "text": "책에서 봤는데, 두 사람이 10초 동안 시선을 피하지 않고 서로를 마주 본다면 그건 함께 할 운명이래요. 시험 삼아 해보고 싶다면, 이 도브가 도와드릴게요~"
         },
@@ -109,6 +109,48 @@
             "title": "레벨업",
             "filename": "File:vo_dove_levelup_002.aac",
             "text": "'강해진다'고요? 이해가 잘 안되네요… 더 많은 사람들한테 행복을 가져다줄 수 있다는 뜻인가요?"
+        }
+    ],
+    "러브레터": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_dove_qingjianyuni_cacha_001.aac",
+            "text": "이런 로맨틱한 날은 늘 유난히 바쁘네요… 모두의 마음이 너무 달콤하고 무거워요. 다행히 제 가방이 커서 모두의 고백을 담을 수 있답니다."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_dove_qingjianyuni_levelup_001.aac",
+            "text": "하트 우표가 모자랄 지경이에요!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_dove_qingjianyuni_greeting_001.aac",
+            "text": "국장님은 오늘 가슴 설레는 소식을 받으셨나요? 말씀 안 하셔도 괜찮아요. 손끝의 온도와 심장 박동 소리가 이미 답을 알려주고 있으니까요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_dove_qingjianyuni_talk1_001.aac",
+            "text": "연인에게 보내는 이 편지들이 전부 엉뚱한 사람에게 잘못 전달된다면… 어떤 재미있는 일이 벌어질까요? 아, 농담이에요. 긴장할 것 없어요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_dove_qingjianyuni_talk1_002.aac",
+            "text": "들어보세요, 전화벨이 또 쉴 새 없이 울리네요… 많은 사람이 용기를 내어 전화를 걸지만, 결국엔 '잘 지내? 나는 잘 지내.'라는 말밖에 못 하죠. 사랑이란 건 늘 사람을 서툴고 조심스럽게 만드니까요. 숨소리조차 상대를 놀라게 할까 봐 조심하는 것처럼 말이에요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_dove_qingjianyuni_idle_001.aac",
+            "text": "국장님께… 그녀는 아직 부치지 못한 모든 러브레터를 따라 당신을 찾아갈 거예요… 도브."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_dove_qingjianyuni_clicking_001.aac",
+            "text": "국장님은 우체부 가방 안에 뭐가 들었는지 그렇게 궁금하신가요? 여기엔 편지만 들어있는 게 아니랍니다. 천천히 '열람'해 보세요. 어쩌면 그 안에서… 특별한 마음을 발견하게 되실지도 몰라요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_dove_qingjianyuni_specialattention_001.aac",
+            "text": "저만 빤히 쳐다본다고 해서 방 안에 숨겨 둔 특별한 선물을 찾을 수는 없어요. 커튼 뒤에 있을까요? 축음기 옆? 아니면 풍선 아래? 후후, 알려드릴 수 없어요. 이런 의미 깊은 건, 당연히 직접 찾아내셔야 하니까요."
         }
     ]
 }

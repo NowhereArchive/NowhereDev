@@ -23,7 +23,7 @@
         {
             "title": "전투 승리",
             "filename": "File:vo_eve_battlewin_001.aac",
-            "text": "그들의 불행도 드디어 끝이군요."
+            "text": "파견"
         },
         {
             "title": "전투 패배",
@@ -91,7 +91,7 @@
             "text": "이렇게 터치해서 당신의 호기심을 채울 수만 있다면 상관없어요. 동정하지 않아도 돼요. 다리는 제가 잃었던 것들 중에 가장 하찮은 거였거든요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eve_specialattention_001.aac",
             "text": "같이 있어 줘서 고마워요, 괜찮으시다면 휠체어 좀 밀어주실래요? 바깥 공기를 쐬면 잠깐이긴 하지만 예전에 있었던 일들을 잊을 수 있거든요."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_eve_levelup_002.aac",
             "text": "왜 저같이 쓸모없는 짐 덩어리를 포기하지 않으시는 거죠…?"
-        },
+        }
+    ],
+    "이브_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_eve_head_001.aac",
             "text": "그 손… 조금만 더 머물 수 있어요? 예전처럼 이 따스함도 순식간에 사라질까 두려워요…"
         }
     ],
-    "agleam_escapade": [
+    "별이_빛나는_밤": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "말아, 말아. 어서 이브를 고향으로 데려다줘… 풍요로운 평원, 숲을 이룬 잣나무, 고요히 흐르는 강, 나를 아름답지만 낯선 고향 땅으로 데려다주지 않겠니…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eve_xinghuizhiye_specialattention_001.aac",
             "text": "왜 그렇게 저를 쳐다보세요? 만약 더 나쁜 소식이 있다면 그냥 말해주세요. 걱정하지 마세요. 오랜 세월 수정구에 갇혀 있었던 것보다 더 나쁜 상황은 없을 테니까요."
         }
     ],
-    "frostling_whisper": [
+    "적막한_숲": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eve_cangjimilin_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "제 곰돌이는 아직 어리지만, 저의 충성스럽고 용맹한 수호자가 될 수 있을 만큼 충분한 힘을 가지고 있어요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
             "text": "연회가 아직 끝나지 않아서 이곳을 함부로 떠날 수 없어요. 어쩌면 다음 봄이 오면 누군가가 저를 데리고 이 얼음과 눈으로 뒤덮인 세상에서 벗어나게 해줄지도 모르죠."
         }

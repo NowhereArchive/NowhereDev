@@ -91,7 +91,7 @@
             "text": "왜 갑자기 멈춰? 국장은 나한테 흥미가 없는 거야?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mcqueen_specialattention_001.aac",
             "text": "눈으로 보았다고 반드시 사실인 건 아니야. 날 계속 이렇게 주시하는 것보다는… 직접 알아보는 게 낫지 않겠어?"
         },
@@ -111,7 +111,7 @@
             "text": "날 위해 너무 애쓰지는 마. 만약… 내가 진심으로 받아들이면 어떡하려고?"
         }
     ],
-    "inferno_of_deception": [
+    "불타는_마음의_환상": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mcqueen_zhuoxinwangjing_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "어머, 여기서 꺼내 달라고 부탁하는 거야? 그럼 더 간절하게 부탁 해 봐… 어쩌면 그분이 자비를 베풀 수도 있잖아~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mcqueen_zhuoxinwangjing_specialattention_001.aac",
             "text": "눈앞의 불바다에 들어가 자신의 운명을 시험해 볼 셈인가? 좋아. 내게로 와. 자기를… 가장 멋진 결말로 인도할 테니!"
         }
     ],
-    "whimsical_theater": [
+    "꿈속의_희곡": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mcqueen_mengxisuitan_cacha_001.aac",
@@ -190,7 +190,7 @@
             "text": "귀인은 '내' 희곡이 정말 그렇게 마음에 들어?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_mcqueen_mengxisuitan_specialattention_001.aac",
             "text": "어머, 드디어 너도 이 극 속에 넣을 수 있게 허락해 주는 거야?"
         }

@@ -110,5 +110,47 @@
             "filename": "File:vo_dove_levelup_002.aac",
             "text": "「強くなる」？よく分からないけど……もっと多くの人に幸せを配達できるってことかな？"
         }
+    ],
+    "あなたへのラブレター": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dove_qingjianyuni_cacha_001.aac",
+            "text": "こういうロマンチックな日は、いつも特別忙しいの……みんなの願いはどれも甘くて、重いんだ。でも大丈夫。わたしの鞄は、みんなの告白を全部詰め込めるくらい大きいから。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dove_qingjianyuni_levelup_001.aac",
+            "text": "ハート型の切手が足りなくなりそう！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dove_qingjianyuni_greeting_001.aac",
+            "text": "局長、今日は胸がときめくような知らせは届いた？ああ、言わなくてもいいよ。あなたの指先の温もりや鼓動の速さが、とっくに答えを教えてくれてるから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dove_qingjianyuni_talk1_001.aac",
+            "text": "愛する人への手紙が、もし全部間違った相手に届いたら……どんな面白いことが起きるんだろう？わぁ、冗談だよ。ピリピリしないで。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dove_qingjianyuni_talk1_002.aac",
+            "text": "ほら、また電話が鳴ってる……勇気を振り絞ってかけても、結局「元気？私は元気だよ」としか言えないんだよね。はぁ……愛って、人をこんなに不器用で慎重にさせるものなんだね。まるで息をすることさえ、相手に気付かれるのが怖いみたいに。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dove_qingjianyuni_idle_001.aac",
+            "text": "局長へ……彼女は未投函のラブレターを辿ってあなたを見つけ出します……ドーヴより。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dove_qingjianyuni_clicking_001.aac",
+            "text": "局長は郵便配達員の鞄の中身がそんなに気になるの？ここに入ってるのは手紙だけじゃないよ。じっくり「調べて」みて。その中からきっと……特別な想いを見つけられると思う。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dove_qingjianyuni_specialattention_001.aac",
+            "text": "ただわたしを見つめていても、部屋に隠した特別な贈り物は見つからないよ。カーテンの後ろ？蓄音機の傍？それとも風船の下？ふふ、教えな～い。こういう特別なものは、当然あなた自身で見つけないと。"
+        }
     ]
 }

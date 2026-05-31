@@ -91,7 +91,7 @@
             "text": "으음, 화 안 났어요. 계속하세요. 계속이요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_deren_specialattention_001.aac",
             "text": "시키고 싶은 거 있으시면 말씀하세요. 괜찮아요. 뭐든 해드릴게요."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_deren_levelup_002.aac",
             "text": "아이고, 수고하시네요…."
-        },
+        }
+    ],
+    "데렌_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_deren_head_001.aac",
             "text": "이거… 잘했다고 칭찬해 주시는 건가요?"
         }
     ],
-    "eclat_eminence": [
+    "슈퍼스타": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
@@ -163,9 +165,103 @@
             "text": "이럴 줄 알았으면, 거물급 티를 내고 좀 늦게 올걸. 웃느라 얼굴이 다 아프네…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_deren_shijiejiaodian_specialattention_001.aac",
             "text": "들려요? 스포트라이트가 계속 깜박거릴 것이고, 박수와 환호 소리도 멈추지 않을 거예요... 흠, 자, 저와 함께 이 세상의 중심이 되어 볼래요?"
+        }
+    ],
+    "죠죠_2탄_폐기": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_deren_diezhiying_cacha_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_deren_diezhiying_levelup_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_deren_diezhiying_greeting_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_deren_diezhiying_body_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_deren_diezhiying_body_002.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_deren_diezhiying_idle_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_deren_diezhiying_clicking_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
+            "text": "죠죠 2탄 폐기"
+        }
+    ],
+    "나이트_오페레타": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_deren_qiyekuangxiang_cacha_001.aac",
+            "text": "진홍빛 무대 촬영장으로의 초대에 응해주셔서 감사합니다. 저는 이곳의 감독, 데렌입니다… 저와 함께 이곳에서 벌어지는 모든 것을 기록하고, 아직 알려지지 않은 비밀을 파헤쳐 보시죠."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_deren_qiyekuangxiang_levelup_001.aac",
+            "text": "다음 막에는 좀 더 강렬한 '특수 효과'를 추가해 볼까요?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_deren_qiyekuangxiang_greeting_001.aac",
+            "text": "당신은 늘 정확한 시간에 촬영장에 오시는군요. 정말 촬영 내용이 궁금해서인가요, 아니면… 저를 지켜보고 싶어서인가요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_deren_qiyekuangxiang_head_001.aac",
+            "text": "관객님, 감독에게 함부로 손을 대시면 작품의 퀄리티에 영향이 갈 수도 있답니다?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_deren_qiyekuangxiang_body_001.aac",
+            "text": "예술은 최고의 위장이죠. 당신도 분명 구별하지 못할 거예요. 무대 위의 '완벽한 살인'이 과연 연출 효과인지, 아니면… 정말로 일어난 일인지. 그렇지 않나요?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_deren_qiyekuangxiang_body_002.aac",
+            "text": "극에 몰입하지도 않고, 자리를 뜨지도 않고, 당신 같은 관객이 제일 곤란하죠… 차라리 촬영장을 함께 지켜 주시는 건 어때요? 제가 슬쩍 자리를 비우고 싶을 때, 누군가 모니터를 대신 봐 줄 사람은 있어야 하잖아요?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_deren_qiyekuangxiang_hand_001.aac",
+            "text": "'자정에, 영원히 깨어나지 못할 연회에 귀하를 정중히 초대합니다'… 새 초대장의 문구가 어떤가요? 이제 새로운 관객들을 초대해야 할 것 같아서요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_deren_qiyekuangxiang_background_001.aac",
+            "text": "하하, 조심하세요. 무대 뒤에 있는 저 녀석들을 방해해선 안 됩니다… 지난 작품을 제대로 '끝마치지' 못한 배우들이라, 늘 다음 공연에 끼어들 기회를 노리고 있거든요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_deren_qiyekuangxiang_idle_001.aac",
+            "text": "'제4막, 제7장'… 음, 오프닝 방식은 좀 더 고민해 봐야겠어."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_deren_qiyekuangxiang_specialattention_001.aac",
+            "text": "당신의 시선이 스포트라이트보다 더 뜨겁네요… 그래서 더 궁금해졌어요. 마지막 막을 보게 되면, 당신은 어떤 표정을 짓게 될까요?"
         }
     ]
 }

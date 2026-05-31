@@ -91,7 +91,7 @@
             "text": "음? 모처럼 네가 이렇게 적극적이니, 내가 잘 놀아주지!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_linglan_specialattention_001.aac",
             "text": "나한테 그렇게 가까이 다가오고 싶었어? 참, 솔직한 아이구나."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_linglan_levelup_002.aac",
             "text": "그래그래그래~ 네가 원한다면~!"
-        },
+        }
+    ],
+    "백_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_linglan_head_001.aac",
             "text": "왜? 국장도 나랑 같이 바람 좀 쐬러 나갈래?"
         }
     ],
-    "blade_of_night": [
+    "나이트_워커": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "흐음, 익숙한 악취가 나는군… 저쪽인가?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_linglan_yeyoushen_specialattention_001.aac",
             "text": "나를… 딱 붙어서 감시할 셈이야? 어디 한번 네 눈꺼풀이 깜빡이는 속도가 빠른지, 내 움직임이 빠른지 볼까?"
         }
     ],
-    "wave_rider": [
+    "파도_속의_백": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
@@ -215,12 +217,12 @@
             "text": "힘들면 갑판에서 한숨 자. 마침 햇빛도 따숩고 바닷바람도 포근하네…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_linglan_langlibaitiao_specialattention_001.aac",
             "text": "자, 모든 선원은 자리로! 이제 깊은 바다로 떠나볼까!"
         }
     ],
-    "aeon's_vanguard": [
+    "평화의_장군": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",
@@ -257,7 +259,7 @@
             "text": "네가 이렇게 만지는 게 싫진 않지만, 그림의 색이 벗겨지면, 보기 안 좋을 거야~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_linglan_suianjiangjun_specialattention_001.aac",
             "text": "오, 오랜만에 보니 기운이 넘쳐 보이네. 보고만 있지 말고, 자, 주사 물감으로 내 몸을 칠해 주고 좋은 술을 가져오면, 올해도 널 지켜줄게."
         }

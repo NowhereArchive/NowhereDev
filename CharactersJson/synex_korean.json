@@ -91,7 +91,7 @@
             "text": "야수의 약한 모습을 믿지 마. 다음 순간 바로 덮쳐서 사냥감의 목을 물어뜯을지도 모르니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_synex_specialattention_001.aac",
             "text": "어머, 드디어 날 발견했네? 여기서 꽤 오랫동안 널 지켜보고 있었거든… 물론 네가 원한다면 좀 더 가까이 다가가 널 바라봐 줄게."
         },
@@ -109,63 +109,65 @@
             "title": "레벨업",
             "filename": "File:vo_synex_levelup_002.aac",
             "text": "음? 나한테 이렇게 잘해준다고?"
-        },
+        }
+    ],
+    "시넥스_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_synex_head_001.aac",
             "text": "새 목줄인가? 그럼 제대로 채워 줘. 건드리면 안 되는 곳은 건드리지 말고…"
         }
     ],
-    "street_striker": [
+    "스트리트_파이터": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_synex_jietoueba_cacha_001.aac",
-            "text": "###"
+            "text": "어머~ 우리 국장 아니야? 긴 밤을 혼자 보내기 심심하지? 나랑 짜릿한 거 해볼래? 아케이드 대전, 날 밝을 때까지 결투하는 거야. 어때?"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_synex_jietoueba_levelup_001.aac",
-            "text": "###"
+            "text": "띵~ 코인 넣어줘서 고마워. 어때, 한 판 더 할래?"
         },
         {
             "title": "안부",
             "filename": "File:vo_synex_jietoueba_greeting_001.aac",
-            "text": "###"
+            "text": "문 닫을 시간도 아직 멀었는데, 온 김에… 나랑 한 판 해볼래?"
         },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_synex_jietoueba_head_001.aac",
-            "text": "###"
+            "text": "대전 중엔 상대방 방해 금지야. 내 머리를 만지려는 걸 보니… 이기려고 수단과 방법을 가리지 않는구나?"
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_synex_jietoueba_body_001.aac",
-            "text": "###"
+            "text": "그만 봐, 오늘 이 자리엔 우리 둘뿐이야. 눈치 없는 녀석들이 자꾸 끼어들려고 하길래, 어쩔 수 없이 사랑하는 '동료들'에게 부탁해서 치워놨지!"
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_synex_jietoueba_body_002.aac",
-            "text": "###"
+            "text": "'가드 브레이크'라… 이건 내 독보적인 비급이야. 난 거기에 새 스킬도 개발했지. 더 빠르고, 효과도 뛰어나… 배우고 싶어? 그럼… 내게 좀 부탁해 봐~"
         },
         {
             "title": "일반 터치3",
             "filename": "File:vo_synex_jietoueba_leg_001.aac",
-            "text": "###"
+            "text": "누가 내가 꼬리로 7단 콤보를 할 수 있다는 걸 못 믿고, 일부러 나한테 직접 대결을 신청했어. 웃기지, 꼬리도 몸의 일부인데. 그 녀석이 해낼 수만 있다면, 발로해도 난 상관없어~"
         },
         {
             "title": "일반 터치4",
             "filename": "File:vo_synex_jietoueba_background_001.aac",
-            "text": "###"
+            "text": "'아카니움 괴물 vs 전자 유령', 이름만 들어도 재미있을 것 같지 않아? 나 금방 9 스테이지를 깼는데, 보스 좀 대신 잡아줄래?"
         },
         {
             "title": "방치",
             "filename": "File:vo_synex_jietoueba_idle_001.aac",
-            "text": "###"
+            "text": "이봐… 정신 차려, 설마 자동 플레이하려는 건 아니겠지?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_synex_jietoueba_specialattention_001.aac",
-            "text": "###"
+            "text": "나를 한참 쳐다보더니, 드디어 대전에 참여할 생각이야? 자, 네 자리 남겨뒀어. 2인 모드에 하드 난이도야. 오늘 밤은 도망칠 생각 하지 마."
         }
     ]
 }

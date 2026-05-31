@@ -115,5 +115,57 @@
             "filename": "File:vo_augustus_head_001.aac",
             "text": "This hat still bears the old DisCorps insignia, quite a rare sight these days. Should I replace it with your MBCC logo instead?"
         }
+    ],
+    "triumphant_banquet": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_cacha_001.aac",
+            "text": "From the battlefield to a banquet—all it takes is a change of appearance. Look, the drinks are my trophies, the candles my conquered subjects—I have returned."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_levelup_001.aac",
+            "text": "A toast to new conquests."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_greeting_001.aac",
+            "text": "Fine wine, fresh flowers... oh, and the newly arrived Chief... Hehe, what a splendid ceremony. Everything I desire... has gathered here."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_head_001.aac",
+            "text": "Are you here seeking to be rewarded, or declaring war? Either way, I'm more than willing to oblige."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_body_001.aac",
+            "text": "Stop staring at that statue. It is merely cold stone, worked by the hands of a stonemason. The legend sits before you in the flesh at this very moment, smiling at you."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_body_002.aac",
+            "text": "Some say I'm too ostentatious. Heh, the strong never need to conceal their radiance. Does the sun owe anyone an explanation for its brilliance?"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_sword_001.aac",
+            "text": "People always think red dresses and longswords are at odds with each other. Hmph, those who believe so typically fear both—the blade and the feminine mystique. To me, they form one of the most flawless pairings imaginable."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_flower_001.aac",
+            "text": "Taking flowers from my own banquet to present them to me? How amusing... No matter. I care not for the gift itself, but rather... the person offering it, and his intentions."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_idle_001.aac",
+            "text": "This grand banquet has only ever had two protagonists—you and I. Yet now you gaze distractedly at the supporting cast... How cruel of you, Chief."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_Augustus_zhuoyankaixuan_specialattention_001.aac",
+            "text": "You should grow accustomed to standing by my side. Don't be shy—I want everyone to know that you belong to me."
+        }
     ]
 }

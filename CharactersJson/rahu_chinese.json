@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_rahu_levelup_002.aac",
             "text": "很好，多来一些，我需要它们。"
-        },
+        }
+    ],
+    "罗睺-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_rahu_head_001.aac",
             "text": "喜欢我的……头发？谢谢。"
         }
     ],
-    "radiant_stealth": [
+    "晴空秘行": [
         {
             "title": "获得装束",
             "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
@@ -158,7 +160,7 @@
             "text": "在其他人就位之前，你都打算这样看着我吗？遵循人设？好吧……需要我做出回应的话，就告诉我。"
         }
     ],
-    "loyal_oath": [
+    "荣光契誓": [
         {
             "title": "获得装束",
             "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",

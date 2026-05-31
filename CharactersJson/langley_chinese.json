@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_lanli_levelup_002.aac",
             "text": "目标锁定——"
-        },
+        }
+    ],
+    "兰利-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_lanli_head_001.aac",
             "text": "想试这顶帽子，还是我的子弹？"
         }
     ],
-    "banquet_guest": [
+    "夜宴来客": [
         {
             "title": "获得装束",
             "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "所有的情报都在这里，想要的话……宴会结束后，多陪我一下吧——当然是去整理情报。"
         }
     ],
-    "madame_maelstrom": [
+    "恶海女爵": [
         {
             "title": "获得装束",
             "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",

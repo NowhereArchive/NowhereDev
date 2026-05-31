@@ -91,7 +91,7 @@
             "text": "그대도… 많이 외롭나요? 괜찮아요, 사람들이 절 만지는 걸 싫어하지만 그대는 예외입니다."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hameier_specialattention_001.aac",
             "text": "깨끗하고 맑은 눈… 이런 눈으로 저의 춤을 봐주신다면, 분명 행복할 겁니다."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_hameier_levelup_002.aac",
             "text": "하늘하늘거리는… 느낌인가요?"
-        },
+        }
+    ],
+    "하멜_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_hameier_head_001.aac",
             "text": "네? 저와… 함께 춤을 추고 싶으신 건가요?"
         }
     ],
-    "joyful_tune": [
+    "즐거운_춤": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hameier_huanyudiao_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "연습할 때 이 춤의 힘과 대담함에 감명을 받았어요. 부디 모두가 이 춤을 보고 마음속에 자리한 아픔과 상처를 씻어내기를 바라요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hameier_huanyudiao_specialattention_001.aac",
             "text": "부디 저에게서 시선을 돌리지 마세요. 제 감정이 춤을 통해, 당신에게 전해질 거예요."
         }
     ],
-    "odile": [
+    "오딜": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hameier_aojiliya_cacha_001.aac",
@@ -215,12 +217,12 @@
             "text": "오딜의 32회전 푸에테는 모두가 인정하는 이 춤의 정수이자 난제에요. 그런데 당신이 보는 앞에서는 쉽게 성공할 수 있었어요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hameier_aojiliya_specialattention_001.aac",
             "text": "당신과 제가 음악과 춤에 둘러싸인 채 영원히 자유롭고 즐겁게 이 순간에 빠져들 수 있다면 얼마나 좋을까요."
         }
     ],
-    "azure_waltz_in_solace": [
+    "물결에_기댄_마음": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hameier_yiweilianyi_cacha_001.aac",
@@ -272,7 +274,7 @@
             "text": "당신이 얼마나 많은 고생을 하며 제 곁에 오셨는데… 제가 어떻게 당신을 떠날 수 있겠어요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hameier_yiweilianyi_specialattention_001.aac",
             "text": "저의 호수와 춤은 많은 이들의 칭송을 받아왔어요. 그들을 위해서라면 기꺼이 춤을 추었을 거예요. 그러나 이 호수에 잔잔한 물결을 일으키고, 더욱 감동적인 춤을 이끌어내는 건 오직 당신의 존재만이죠…"
         },

@@ -91,7 +91,7 @@
             "text": "왜 이런 동작을 반복하는 거야? 혹시 고장이라도 난 건가… 내가 고쳐줄게…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_vanilla_specialattention_001.aac",
             "text": "동료들은 막막할 때마다 날 찾곤 해… 사람들은 항상 혼란 속에서 변하지 않는 것을 버팀목으로 삼지… 너도 그래? 너도… 불안함을 느껴?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_vanilla_levelup_002.aac",
             "text": "더 안정되는 느낌이야…"
-        },
+        }
+    ],
+    "바닐라_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_vanilla_head_001.aac",
             "text": "거긴 전원 버튼이 없어, 넌 나를… 끌 수 없어…"
         }
     ],
-    "aether_runner": [
+    "밤새_이어지는_빛": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_vanilla_cheyeliuming_cacha_001.aac",
@@ -153,7 +155,7 @@
             "text": "걱정하지 마… 날… 믿어… 네가 추락하게 두지 않을 거야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_vanilla_cheyeliuming_specialattention_001.aac",
             "text": "더… 높이 날고 싶어? 좋아… 테스트용 기갑이긴 해도, 네가 원하는 성능은 갖추고 있어… 네가 원한다면… 어디든 데려가 줄게."
         }

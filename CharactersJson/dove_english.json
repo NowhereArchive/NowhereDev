@@ -110,5 +110,47 @@
             "filename": "File:vo_dove_levelup_002.aac",
             "text": "\"Become stronger\"? I'm not sure I understand... Does it mean I can bring happiness to even more people?"
         }
+    ],
+    "love_letter_to_you": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_dove_qingjianyuni_cacha_001.aac",
+            "text": "A romantic day means a busy day for me. Everyone's heartfelt wishes are so sweet. Good thing my bag is big enough to carry all their confessions."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dove_qingjianyuni_levelup_001.aac",
+            "text": "I'm running out of heart-shaped stamps!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dove_qingjianyuni_greeting_001.aac",
+            "text": "Did you receive any heart-fluttering messages today, Chief? You don't have to tell me—your warm fingertips and the rhythm of your heartbeat have already answered for you."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_dove_qingjianyuni_talk1_001.aac",
+            "text": "I wonder... what would happen if all these love letters were delivered to the wrong recipients? My my, I'm just kidding, relax!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_dove_qingjianyuni_talk1_002.aac",
+            "text": "Listen, the phone keeps ringing... So many people muster the courage to call, but all they can manage is, \"How are you? I'm doing great.\" Love makes people clumsy and careful—as if even the sound of breathing might unsettle the other person."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dove_qingjianyuni_idle_001.aac",
+            "text": "Dear Chief... I will follow every unsent love letter to find you... Dove."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dove_qingjianyuni_clicking_001.aac",
+            "text": "Chief, you want to know what's in the postal bag this bad? There's more than just letters. Well, take your time \"inspecting\" it. You might discover something... special."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dove_qingjianyuni_specialattention_001.aac",
+            "text": "You know, staring at me won't help you find the special gift I've hidden in here. Where could it be? Behind the curtains? By the gramophone? Or maybe under the balloons? Hehe, I won't tell you. You've got to figure it out for yourself for something this meaningful."
+        }
     ]
 }

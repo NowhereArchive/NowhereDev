@@ -91,7 +91,7 @@
             "text": "하하, 눈치챘어? 겉모습은 크게 다르지 않아 보여도, 사실 내 몸은 이제 더 이상 인간의 몸이라고 할 수 없어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_shin_specialattention_001.aac",
             "text": "동반자를 찾는 거야? 아니면 위협에 대비하려는 건가…? 아니면, 둘 다? 하하, 네가 어떤 목적으로 왔든, 난 기꺼이 받아들일게."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_shin_levelup_002.aac",
             "text": "그것은 내 일부가 됐지."
-        },
+        }
+    ],
+    "원진_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_shin_head_001.aac",
             "text": "이러면 마음이 편해져…? 정말 장난기 많은 아이구나."
         }
     ],
-    "stellar_embrace": [
+    "별의_포옹": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shin_xingjizhiyong_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "푹 자렴… 모든 별이 사라진 뒤에도, 내 품은 여전히 네게 마지막 은하수가 되어줄 테니."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_shin_xingjizhiyong_specialattention_001.aac",
             "text": "그렇게 나와 이별을 아쉬워할 것 없단다. 헤어짐을 두려워할 필요도 없고… 암흑의 별은 곧 나의 두 눈이니까. 그것들은 너를 담고, 끌어당기고, 절대로 놓아주지 않을 거야…"
         }

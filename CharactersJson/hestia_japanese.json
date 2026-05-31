@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_hestia_levelup_002.aac",
             "text": "炎が……更に明るくなりました……"
-        },
+        }
+    ],
+    "ヘスティア-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_hestia_head_001.aac",
             "text": "やめなさい……聖女を……冒涜することは許されませんよ！"
         }
     ],
-    "lambent_wishbearer": [
+    "千灯導く願い": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "あなたの視線は、この提灯よりも熱いですね……焚き火のような、トーチのような……人間の世界で生まれ、仙人たちすら心惹かれてしまう火種のようです……"
         }
     ],
-    "dusk_aglow": [
+    "燃える黄昏": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",

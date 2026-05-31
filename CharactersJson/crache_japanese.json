@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_crache_levelup_002.aac",
             "text": "影が……集まってくる。"
-        },
+        }
+    ],
+    "コージ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_crache_head_001.aac",
             "text": "——やめて！……身長が伸びなくなる。"
         }
     ],
-    "eternal_night_hunt": [
+    "永夜の狩人": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_crache_yongyeshoulie_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "あまり期待しないで。わたしはままごとに付き合うつもりはないから。"
         }
     ],
-    "lucida_mystica": [
+    "星と幻想の市": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_crache_fanxinghuanshi_cacha_001.aac",
@@ -210,7 +212,7 @@
             "text": "星はもうあげたでしょ。なんでまだわたしを見てるの？よく考えて。あんたが持ってる「宝物」があと何回交換できるか……しっかり考えたら、今後遊ぶ時は変な所に行かないことね。"
         }
     ],
-    "shadow_groove": [
+    "ダークリズム": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_crache_anlv_cacha_001.aac",

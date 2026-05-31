@@ -91,7 +91,7 @@
             "text": "아… 아야~! 고양아, 꾹꾹이 하면 아파…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_letta_specialattention_001.aac",
             "text": "쉿~ 오늘 밤 저와 같이 디스시티의 안개 속에서 즐거움을 찾아보고 싶나요?"
         },
@@ -111,7 +111,7 @@
             "text": "등불이 더 따듯해졌어요…"
         }
     ],
-    "spectral_shenanigans": [
+    "성안의_유령": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_letta_gubaoyouying_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "아야, 제 붕대 좀 그만 잡아당겨요… 걱정 마요, 속임수 쓸 생각은 없어요~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_letta_gubaoyouying_specialattention_001.aac",
             "text": "헤헤, 이렇게나 저에게 눈을 떼지 못하시다니, 정말 진심인가 보군요~ 그럼 잘 지켜봐요… 어느 순간, 제가 벽 속으로 사라질지도 모르니까요~"
         }

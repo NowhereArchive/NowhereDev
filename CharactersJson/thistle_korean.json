@@ -91,7 +91,7 @@
             "text": "하~? 가시 돋은 꽃을 꺾으려고? 그럼 네 손을 내어줄 각오는 돼 있겠지?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_thistle_specialattention_001.aac",
             "text": "뭘 봐? 내가 만만해 보여? 계속 그렇게 쳐다보면, 네 눈을 조심해야 할 거야."
         },
@@ -111,7 +111,7 @@
             "text": "검을 백번 휘두르면, 저절로 터득하게 되지."
         }
     ],
-    "oneiric_flexagon": [
+    "꿈속의_꽃_편지": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_thistle_huaxintianmeng_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "날 만질 때 손가락 하나만으로 조심히 만져야 한다는 것도 알고, 손결이 꽤 부드러운 걸 보니… 음, 확실히 꽤 괜찮은 거인이야!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_thistle_huaxintianmeng_specialattention_001.aac",
             "text": "왜, 왜 날 그렇게 쳐다보는 거야? 옷 입히기 게임이라도 하고 싶은 거야?"
         }

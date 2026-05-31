@@ -91,7 +91,7 @@
             "text": "국장님 보면 가끔 장난꾸러기 같아요… 그냥 넘어가야 할까요? 아니면 작은 '벌'을 줘야 할까요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jelena_specialattention_001.aac",
             "text": "업무상 필요한 것이 있으시면 무엇이든 분부하세요. 만약 제가 의심스럽다면 언제든지 감시하셔도 좋습니다. 그게 아니라면… 가끔 애교를 부리고 싶어서 저를 부르신 건가요?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "신경 써 주셔서 감사합니다."
-        },
+        }
+    ],
+    "옐레나_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "걱정해 주셔서 감사합니다만, 저는 피곤하지 않답니다."
         }
     ],
-    "scorched_lullaby": [
+    "불길_속의_요람": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -163,9 +165,51 @@
             "text": "제 품은 이미 가득 찼는데도 울음소리가 멈추질 않네요… 언제쯤이면 재난에 고통받는 영혼들이 안식을 찾을 수 있을까요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jelena_zhuoyeyaolan_specialattention_001.aac",
             "text": "당신의 눈빛은 특별해요. 온 마음으로 어머니를 믿는 아이들과는 달라 보여요… 그건 당신이 그 아이들보다 더 용감해서일까요, 아니면 더 혼란스러워서일까요?"
+        }
+    ],
+    "안개_속_빗줄기": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",
+            "text": "해당화 꽃잎이 떨어지던 날, 비 내리는 단교의 푸른 기와 아래서 우린 처음으로 만났지요. 당신은 제게 이름을 알려 주셨고, 저는 그 이름을 지금까지도 잊지 않고 있습니다…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jelena_yilianyanyu_levelup_001.aac",
+            "text": "당신이 제게 주신 것, 평생 소중히 간직할게요…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jelena_yilianyanyu_greeting_001.aac",
+            "text": "올해 정원의 해당화가 참으로 곱게 피었어요. 비가 더 거세지기 전에 서둘러 몇 가지 꺾어 왔답니다… 괜찮으시다면, 저와 함께 가서 구경해 보시겠어요?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_jelena_yilianyanyu_body_001.aac",
+            "text": "사람 마음속 비밀은 이 꽃잎 위의 이슬과도 같아요. 캄캄한 밤에는 그것이 보이기도 하고, 다가갈 수도 있고, 심지어는 사랑스럽게 느껴지기까지 하지요. 하지만 태양이 떠오르면, 흔적도 없이 사라져 다시는 찾을 수 없게 되죠."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_jelena_yilianyanyu_body_002.aac",
+            "text": "비가 내리는 날이면 당신이 생각나곤 해요. 당신이 그리울 때면 정원에 나가 떨어진 꽃잎들을 주워 모으지요. 꽃잎을 깨끗이 씻어 눌러 말린 뒤, 화장함 속에 곱게 간직해 둡니다. 마치 숨겨 두어야만 하는, 결코 빛을 볼 수 없는 제 그리움을 감추듯이 말이에요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jelena_yilianyanyu_idle_001.aac",
+            "text": "아무 말도 하지 않아도 돼요. 그저 이렇게 조용히 제 곁에 머물러 주세요. 그것만으로도 충분해요…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jelena_yilianyanyu_clicking_001.aac",
+            "text": "아… 떨어진 꽃잎이 머리카락 사이에 끼었네요. 대신 꺼내 주시겠어요?"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_jelena_yilianyanyu_specialattention_001.aac",
+            "text": "이렇게 저를 바라봐 주세요. 돌아서지 말고, 떠나지 말아요…"
         }
     ]
 }

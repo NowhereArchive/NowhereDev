@@ -91,7 +91,7 @@
             "text": "다급히 저를 찾아와서 도움을 청한 사람들이 어떻게 됐는지 알아요? 무슨 생각을 하시는 거예요? 당연히 어려움을 이겨낼 수 있도록 도와줬죠."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lamia_specialattention_001.aac",
             "text": "네, 바로 그거예요, 시선을 돌리지 마세요… 파도가 당신을 감싸는 게 느껴지나요? 그것은 고통을 씻어내고 평온을 가져다주며 모든 죄악을 씻어낼 수도 있죠…"
         },
@@ -111,7 +111,7 @@
             "text": "가는 게 있으면 오는 것도 있어야죠, 제게 정성을 다해 봐요."
         }
     ],
-    "hushed_tides": [
+    "웨이브_위스퍼": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lamia_chaoximiyu_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "아야… 앗, 괜찮아요. 당신 때문에 아픈 게 아니라, 며칠 전 바다에서 범선과 소원 유리병 때문에 다쳤던 거예요. 조금 지나면 괜찮아질 테니 걱정하지 마세요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lamia_chaoximiyu_specialattention_001.aac",
             "text": "제… 제 다리를 쳐다보지 마세요. 이제 막 자라나서 아직 약하다고요… 하지만 곧 제대로 회복될 수 있을 거예요. 충분한 관심과… 영양분만 있다면요."
         }
     ],
-    "drowning_lurve": [
+    "여름의_초대장": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lamia_fangkehou_cacha_001.aac",
@@ -190,7 +190,7 @@
             "text": "이게 바로 당신의 향기인가요… 탐나는걸요… 아, 그러니까, 당신에게서 나는 비누 향이, 상쾌하다는 뜻이었어요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_lamia_fangkehou_specialattention_001.aac",
             "text": "왜 그렇게 절 경계해요? 설마… 전부 눈치챈 건가요? 그렇다면 그냥 영원히 이곳에 함께 있어 줘요… 제 소중한 먹잇감으로…"
         }

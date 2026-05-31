@@ -91,7 +91,7 @@
             "text": "디스는 손님을 대하는 예의가 지나치게 부족하군요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hypatia_specialattention_001.aac",
             "text": "가끔은 말보다 눈빛이 더 많은 걸 말해주죠. 예를 들면… 지금 저를 바라보는 당신. 혹시, 저 많이 그리우셨나요?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_hypatia_levelup_002.aac",
             "text": "국장님의 지원 덕분이에요. 감사해요."
-        },
+        }
+    ],
+    "히파티아_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_hypatia_head_001.aac",
             "text": "복잡한 헤어스타일을 하면 움직이기 불편해요. 하지만… 외모를 가꾸는 것 또한 귀족의 의무죠."
         }
     ],
-    "crepuscular_bloom": [
+    "황금빛_장미": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hypatia_yeyinjinqiang_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "경비병이 곧 돌아올 텐데, 정말 이대로 계속 하늘만 바라보고 있을 건가요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
             "text": "당신의 눈빛은 마치 이렇게 말하고 있는 것 같아요. 제 모든 것을 받아줄 수 있다고, 제가 지금 이곳에서 몸을 던진다 해도, 두 팔로 저를 꼭 안아줄 거라고요…"
         }

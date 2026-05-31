@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_eleven_levelup_002.aac",
             "text": "さぁ、もっとこっちに来て。もう少し……近づいて。"
-        },
+        }
+    ],
+    "エブン-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_eleven_head_001.aac",
             "text": "私があなたにどんなに会いたいか知りたい？"
         }
     ],
-    "rippling_heartthrobs": [
+    "心騒ぐ夏": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "ずっと私ばかり見ないで。海に来たんだから、海を楽しまないと……本当に私とお喋りしたいなら、私の仕事が終わった後、一緒に海で散歩するのはどうかな？ふふ、分かった。電話するから待っててね。"
         }
     ],
-    "trickling_heartstream": [
+    "たゆたう心": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",

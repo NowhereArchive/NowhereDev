@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_vanilla_levelup_002.aac",
             "text": "より安定した……"
-        },
+        }
+    ],
+    "ヴァニラ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_vanilla_head_001.aac",
             "text": "ここにはスイッチがない。私の電源を……落とすことはできない……"
         }
     ],
-    "aether_runner": [
+    "徹夜流明": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_vanilla_cheyeliuming_cacha_001.aac",

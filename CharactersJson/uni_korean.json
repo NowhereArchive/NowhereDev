@@ -91,7 +91,7 @@
             "text": "나도 당신이 좀 더 가까이 있었으면 좋겠지만… 이 정도로 가까이 오지는 마. 행동 조심하라고, 나이팅게일 부관도 있잖아."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_uni_specialattention_001.aac",
             "text": "왜 그래? 네 눈에는 내가 제일 특별한가?"
         },
@@ -111,7 +111,7 @@
             "text": "이 정도는 그냥 덤이지."
         }
     ],
-    "guise_into_life": [
+    "인형_장인": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_uni_zhuanggumoying_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "정신 사납게 잡아당기지 좀 마, 너 때문에 손이 흔들려서 못생긴 얼굴로 그려지면, 한밤중에 내 고객이 네 침대 머리맡에 나타나 욕을 퍼부을지도 몰라."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_uni_zhuanggumoying_specialattention_001.aac",
             "text": "내가 일하는 모습이 그렇게 좋아? 그럼 한쪽에서 보기만 해, 방해는 하지 말고, 그렇지 않으면… 네 얼굴에서 가장 예쁜 부분을 빼앗아 가버릴 거야."
         }

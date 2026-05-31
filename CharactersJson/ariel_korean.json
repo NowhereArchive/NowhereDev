@@ -91,7 +91,7 @@
             "text": "국장님… 혹시 제가 뭘 잘못했다면… 이러시지 마시고… 마, 말씀을 해주세요…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_airuier_specialattention_001.aac",
             "text": "음? 국장님, 왜 계속 저만 뚫어져라 쳐다보세요? …혹시 제가 또 무슨 실수라도 했나요?"
         },
@@ -116,7 +116,7 @@
             "text": "음? 국장님… 손이 좀 차네요…"
         }
     ],
-    "silent_nocturne": [
+    "고요한_밤의_노래": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_airuier_jingmiyequ_cacha_001.aac",
@@ -163,12 +163,12 @@
             "text": "음… 오늘은 어떤 곡을 연습하면 좋을까나… 국장님이 이 곡을 좋아하실까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_airuier_jingmiyequ_specialattention_001.aac",
             "text": "앗? 다른 곡이 듣고 싶으세요…? 휴~ 다행히 제가 다른 악보를 준비해왔지요."
         }
     ],
-    "cageling": [
+    "새장_속의_새": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_airuier_longzhongniao_cacha_001.aac",
@@ -205,7 +205,7 @@
             "text": "이런 반복되는 나날이 언제까지 이어질까…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_airuier_longzhongniao_specialattention_001.aac",
             "text": "내일 무도회에서 반드시 좋은 모습을 보여줘야 해. 스펜서 가문의 이름에 먹칠을 할 수 없어! 맞다, 빨리 의상부터 준비해야 하는데…"
         }

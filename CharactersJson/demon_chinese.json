@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_dimeng_levelup_002.aac",
             "text": "我还能承受更多。"
-        },
+        }
+    ],
+    "迪蒙-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_dimeng_head_001.aac",
             "text": "我……不喜欢这样。"
         }
     ],
-    "under_the_neon_lights": [
+    "霓虹之下": [
         {
             "title": "获得装束",
             "filename": "File:vo_dimeng_nihongzhixia_cacha_001.aac",
@@ -156,6 +158,48 @@
             "title": "特别关注",
             "filename": "File:vo_dimeng_nihongzhixia_specialattention_001.aac",
             "text": "我会保护你安然无恙地完成任务，所以希望你不要畏首畏尾，浪费太多时间。"
+        }
+    ],
+    "雨夜同途": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_dimeng_yuyetongtu_cacha_001.aac",
+            "text": "有些麻烦，总会趁着下雨天找上门来……我不是在说你，也不是在说这只小猫。……你想的话，可以把它带回管理局。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_dimeng_yuyetongtu_levelup_001.aac",
+            "text": "即使是下雨天，也不用担心。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_dimeng_yuyetongtu_greeting_001.aac",
+            "text": "它总是四处张望，好像……一直在等你来。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_dimeng_yuyetongtu_body_001.aac",
+            "text": "这小家伙一直响，还拿头撞人，是什么意思？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_dimeng_yuyetongtu_body_002.aac",
+            "text": "比起我，它好像更亲近你……可能是我身上的血腥味太重，吓到它了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_dimeng_yuyetongtu_idle_001.aac",
+            "text": "别傻站着淋雨，过来。这伞……能遮得住你。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_dimeng_yuyetongtu_clicking_001.aac",
+            "text": "这点雨算不了什么，就算不用毛巾擦拭，也很快就会干透。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_dimeng_yuyetongtu_specialattention_001.aac",
+            "text": "即使是黏腻的雨天，我依旧能察觉到你的视线。说吧，只要你需要，我都会在。"
         }
     ]
 }

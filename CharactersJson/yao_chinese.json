@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_yao_levelup_002.aac",
             "text": "照耀……更广袤的疆域。"
-        },
+        }
+    ],
+    "曜-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_yao_head_001.aac",
             "text": "太阳的华光，不容遮蔽！"
         }
     ],
-    "fireborne_offering": [
+    "舞祭天烛": [
         {
             "title": "获得装束",
             "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
@@ -166,6 +168,58 @@
             "title": "特别关注",
             "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
             "text": "喜欢这支取悦神明的傩舞吗？那就看着我、相信我，直到乐曲结束吧！"
+        }
+    ],
+    "光曜长宵": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",
+            "text": "都说这时节，旧火息，吉星现，降福泽以佑万家。但我知道……今夜的平安喜乐是百姓自己挣来的。我不过是在年关将至之际，最后再护上他们一段罢了。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yao_guangyaochangxiao_levelup_001.aac",
+            "text": "看，焰火照亮了夜空……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yao_guangyaochangxiao_greeting_001.aac",
+            "text": "你仰头看了许久，终于还是上来了……城里摩肩接踵，这里却风景独好，是我的独门宝地，今日……分享给你。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yao_guangyaochangxiao_head_001.aac",
+            "text": "庙会之夜，孩子们给神像插珠花祈福，你……也是这个意思吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_yao_guangyaochangxiao_body_001.aac",
+            "text": "我曾在庙会上遇见一个孩子……他说……有个祭司告诉他，在神佛面前，要快乐地活着，因为神佛是能看见的，他们生活得越好，神佛香火不断，才会开心，继续保佑他们……呵，那个祭司，可真会骗人。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_yao_guangyaochangxiao_body_002.aac",
+            "text": "比起在庙中被人供奉……我更喜欢这儿……能看到糖葫芦，小风车、人们的笑脸。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_yao_guangyaochangxiao_hand_001.aac",
+            "text": "这里的人常说，只要金乌不走，便能岁岁平安，于是便常祭祀，多祈福……可他们不知，是这片人间温情，将它留住了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_yao_guangyaochangxiao_background_001.aac",
+            "text": "爆竹曾是一种防守的方式，它的响起，代表着灾厄危险……而现在它们却变为了庆贺，绚烂……真好……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yao_guangyaochangxiao_idle_001.aac",
+            "text": "灾厄静息，万灯同辉。今宵我驻屋脊之上，护吾乡黎庶，盼来岁，再无忧患。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yao_guangyaochangxiao_specialattention_001.aac",
+            "text": "人潮涌动，火树银花，我这屋檐上的光不过是沧海一粟，你竟还能一眼看到我……我很高兴。"
         }
     ]
 }

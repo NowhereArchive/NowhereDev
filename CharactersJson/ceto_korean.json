@@ -91,7 +91,7 @@
             "text": "춥다면 스스로 난로를 찾아. 아직은 서로 껴안아야 할 정도는 아니야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_ceto_specialattention_001.aac",
             "text": "나와 함께 있고 싶어? 좋아, 하지만 거기서 멍하니 서 있지는 마. 바닷바람은 한가한 사람을 거두지 않거든."
         },
@@ -109,11 +109,55 @@
             "title": "레벨업",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "칼이 피에 젖는 건 익숙해, 나도 마찬가지야."
-        },
+        }
+    ],
+    "세토_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "손이 필요 없다면 그냥 말해."
+        }
+    ],
+    "주인_없는_돛": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",
+            "text": "잘 들어. 널 구해줄 순 있지만, 배에 올라탄 이상 자기 몫은 해야 해. 돛대를 세우고, 갑판을 치우고, 암류를 살피는 것까지 전부 네 일이야. 아무도 널 대신해 주진 않아. 알아들었으면 내 손잡고 올라와."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_ceto_wuzhuzhifan_levelup_001.aac",
+            "text": "바람을 타고 파도를 가르자!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_ceto_wuzhuzhifan_greeting_001.aac",
+            "text": "깨어났나? 좋아, 그럼 출항하자. 오늘은 해류가 불안정하니까 단단히 붙잡고 있어. 파도에 휩쓸려 떨어지지 마. 널 건져 줄 시간 따윈 없으니까."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_001.aac",
+            "text": "갑판 위에서 어른거리는 저 검은 그림자들? 음, 익숙해져야 할 거야. 다 네 동료들이니까. 친하게 지내 둬. 이 배가 여기까지 올 수 있었던 건 걔들 덕분이거든."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_002.aac",
+            "text": "파도 소리를 오래 듣다 보면, 모든 게 휩쓸려 가는 기분이 들어. 이름도, 기억도, 방향도… 시간이 흐를수록, 나한테 무엇이 남았는지조차 알 수 없게 되더군."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_ceto_wuzhuzhifan_idle_001.aac",
+            "text": "…들려? 파도 속에 다른 소리도 섞여 있어… 흥, 그 녀석들이 또 선체를 긁고 있군. 우리가 언제 자기들 곁에 떨어지나 기다리고 있는 거겠지."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_ceto_wuzhuzhifan_clicking_001.aac",
+            "text": "거기서 더 손을 뻗으면, 이 칼이 얼마나 날카로운지 똑똑히 알게 될 거야."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_ceto_wuzhuzhifan_specialattention_001.aac",
+            "text": "네 눈 속에… 나와 같은 광기가 있어. 좋아, 이 유령선에 필요한 건 바로 너 같은 '기질이 맞는' 선원이었지. 자, 우리는 어디든 함께 갈 수 있어. 설령 지옥의 항구라 해도."
         }
     ]
 }

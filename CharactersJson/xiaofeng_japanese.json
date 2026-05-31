@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_xiaofeng_cacha_001.aac",
+            "text": "白虎様の加護を請うなら、それ相応の供え物をせねば——食いもんはどこにあんねん？ちゃっちゃと案内せぇ。遠くから歩いてきたんや。腹減って痙攣しそうやで。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_xiaofeng_promotion_001.aac",
+            "text": "美味いもん食って、腹いっぱいになったらベッドで寝て、ぐっすり寝りゃまた何か食う。ああ山ん中じゃこんな気ままな生活でけへんよ～"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_xiaofeng_promotion2_001.aac",
+            "text": "百獣よ命を聞け、万山よ帰順せよ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_xiaofeng_battlebegin_001.aac",
+            "text": "ん～ちゃっちゃと終わらして、帰って肉でも食おか。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_xiaofeng_battlewin_001.aac",
+            "text": "山君に敬意を払えば、幸運が訪れよう。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_xiaofeng_battlelose_001.aac",
+            "text": "小僧め、引っ掻かれた傷が痛いやないか。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_xiaofeng_uniqueskill_001.aac",
+            "text": "山君ここに在り、万獣みな平伏せよ！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_xiaofeng_dead_001.aac",
+            "text": "まさか……ここで負けるとはな……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_xiaofeng_greeting_001.aac",
+            "text": "おお、やっと来よったか！行こか、さっき向こうで喧嘩が始まったんや。はよ見に行こうや！"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_xiaofeng_talk1_001.aac",
+            "text": "人間ってのはほんま面倒くさいわ。小細工ばっかりやし、服だの飾りだのやたら凝りよる。でも、この肉は香ばしく焼けとるし、酒も悪うない。へへ、全部味わってみよか……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_xiaofeng_talk1_002.aac",
+            "text": "「山に虎がいなければ、猿がボスになる」やて？冗談やろ。猿に人間の半分でも能力がありゃ、毎日木にぶら下がって、「ぶらぶら」してへんやろ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_xiaofeng_talk1_003.aac",
+            "text": "ここのチビどもから新しい言葉をいくつも教わったで。「××××」とか、「××××」とか、あと「××××」——おい、何があかんねん？最高やないか！"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_xiaofeng_talk2_001.aac",
+            "text": "くんくん……お前からするこの匂いは何や？妙に不気味やな。人間の匂いやあらへん……ガチョウのロースト、ホルモン煮込み、骨付き肉の醤油煮……どれもちゃうな。もっぺん味わってみよか……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_xiaofeng_talk2_002.aac",
+            "text": "虎も脂蓄えなあかんし、人も腹満たさなあかんやろ。もう武術界なんざどーでもええわ。そんな暇あるんなら、オレ様と一杯やろうや！げっぷ、乾杯～！"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_xiaofeng_talk2_003.aac",
+            "text": "山の下の連中はよくオレ様に赤い紐をかけるんやで。福や幸運を祈ってな。かければかけるほど効き目あるらしいで——ほら！お前も一本かけてみ。人生上手くいって平穏に死ねるんちゃう？ん？場所がない？……じゃあ、小指にかけたらええ。動いたらすぐ見えるで！"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_xiaofeng_obeyfull_001.aac",
+            "text": "身体はこないにヒョロガリやのに、大それたことを山ほどやってのけるなんてな……ふん、なかなか虎の気概があるやないか。もし外でやってけなくなったら、山に来い。オレ様が面倒見たる。飯なら、いつでも食わせてたるわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_xiaofeng_idle_001.aac",
+            "text": "やっぱここがええわ、涼しいし、そよ風吹いたら……眠なる……ぐぅ……ぐぅ……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_xiaofeng_clicking_001.aac",
+            "text": "おい、爪引っ込めや。また触ったらザクッといくで。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_xiaofeng_specialattention_001.aac",
+            "text": "腹いっぱいになったら眠なってきたな。こっち来い、もうちょい一緒に寝ようや。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_xiaofeng_dispatch_001.aac",
+            "text": "狩り？ええで、得意や。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_xiaofeng_dispatch2_001.aac",
+            "text": "はよ食え。ぐずぐずしてたら肉、冷めるで。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_xiaofeng_levelup_002.aac",
+            "text": "おい、もっと激しくできんのか？"
+        }
+    ],
+    "嘯風-_02": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_xiaofeng_head_001.aac",
+            "text": "ああ～そう、そこや、もうちょい掻いてくれ——ん～気持ちええ～"
+        }
+    ]
+}

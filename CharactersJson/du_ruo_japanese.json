@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_duruo_levelup_002.aac",
             "text": "これが「大都市ディス」の技術ですか？"
-        },
+        }
+    ],
+    "杜若-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_duruo_head_001.aac",
             "text": "私の故郷では、勝手に人の頭を触ると……まあいいでしょう。知らない方が幸せですよ。"
         }
     ],
-    "lunaria_enigma": [
+    "静夜が明ける": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "月があなたの祈りを伝えました。神は忠実な信使に褒美を授けましょう。この月桂樹の船に乗り、神々のお告げを聞いてください。"
         }
     ],
-    "breezy_embrace": [
+    "風を抱く": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",

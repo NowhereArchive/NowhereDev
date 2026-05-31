@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_yugu_levelup_002.aac",
             "text": "報酬として……私めが逸話をご披露いたしましょう。"
-        },
+        }
+    ],
+    "玉骨-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_yugu_head_001.aac",
             "text": "その昔、私がまだ子供だった頃、母もよくこうして頭を撫でてくれました。ふふ……あなた様も同じくらい優しく、同じくらい……私の気持ちを理解してくださっていると思っております。"
         }
     ],
-    "celestial_augury": [
+    "瑶台にて占う": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yugu_wenjiyaotai_cacha_001.aac",

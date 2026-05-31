@@ -109,11 +109,55 @@
             "title": "升级",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "刀习惯了沾血，我也是。"
-        },
+        }
+    ],
+    "赛托-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "手不想要了就直说。"
+        }
+    ],
+    "无主之帆": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",
+            "text": "听着，要我救你也行，但上了我的船就要能派上用场——抬桅杆、清甲板、盯暗流，样样都得自己来，没人会替你收拾残局。明白的话就抓住我的手，上来吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_ceto_wuzhuzhifan_levelup_001.aac",
+            "text": "乘风破浪吧！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_ceto_wuzhuzhifan_greeting_001.aac",
+            "text": "醒了？很好，那就启航吧。今天的海流不稳，抓紧点别被浪掀下去，我可没空回头捞你。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_001.aac",
+            "text": "甲板上的那些晃来晃去的黑影？嗯，你得习惯，他们都是你的同僚。和大伙儿好好相处吧，这船能走到现在，他们功不可没。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_002.aac",
+            "text": "浪声听久了会觉得什么都能被它带走：名字、记忆、方向……时间一长，我好像也不知道自己究竟还剩下些什么了。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_ceto_wuzhuzhifan_idle_001.aac",
+            "text": "……听见了吗？浪里还有些别的声音……哼，那些家伙又在挠船壳，等着看我们什么时候掉下去陪它们。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_ceto_wuzhuzhifan_clicking_001.aac",
+            "text": "手再往前，我就当你是想试试这把刀有多锋利。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_ceto_wuzhuzhifan_specialattention_001.aac",
+            "text": "你眼睛里……有和我一样的疯狂。很好，这艘幽灵船缺的就是像你这种“气质相投”的船员。来吧，我们可以一起去任何地方，哪怕是地狱的港口。"
         }
     ]
 }

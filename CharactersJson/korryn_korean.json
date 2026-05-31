@@ -91,7 +91,7 @@
             "text": "그렇게 할 일 없어? 그럼 게임이라도 할까? 사람을 한 바퀴 에워싸는데 몇 개의 총알이 필요한지 알아?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_korryn_specialattention_001.aac",
             "text": "나랑 단둘이 있고 싶어? 그럼 그렇게 보고만 있지 말고… 더 적극적으로 행동해야지."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_korryn_levelup_002.aac",
             "text": "와우, 이게 디스의 과학인가~"
-        },
+        }
+    ],
+    "코린_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_korryn_head_001.aac",
             "text": "그거 알아? 내 머리를 만졌던 사람들은 대부분… 괜찮아, 넌 다르니까."
         }
     ],
-    "aureate_ambush": [
+    "황금굴": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_korryn_huangjinku_cacha_001.aac",
@@ -153,7 +155,7 @@
             "text": "자기야, 날 건드리기 전에 먼저 '제발 부탁해요, 코린 대장님~'이라고 하는 게 규칙인 거 몰라? 응? 언제 정한 규칙이냐고? 내가 방금 정했어~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_korryn_huangjinku_specialattention_001.aac",
             "text": "오, 적극적이네? 나랑 인생에 대해 논하고 싶은 거야, 아니면… 더 어른의 대화를 나누고 싶은 거야? 당연히 보물 배당 얘기지. 무슨 얘기인 줄 알았는데?"
         }

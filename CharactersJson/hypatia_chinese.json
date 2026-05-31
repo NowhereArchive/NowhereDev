@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_hypatia_levelup_002.aac",
             "text": "你的支持对我很有帮助，多谢。"
-        },
+        }
+    ],
+    "伊帕希娅-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_hypatia_head_001.aac",
             "text": "复杂的发型会影响行动，但……维护外表也是贵族的义务。"
         }
     ],
-    "crepuscular_bloom": [
+    "夜隐金蔷": [
         {
             "title": "获得装束",
             "filename": "File:vo_hypatia_yeyinjinqiang_cacha_001.aac",

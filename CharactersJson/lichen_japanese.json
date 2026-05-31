@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_lichen_cacha_001.aac",
+            "text": "我は闇の中から……予見しておった……そなたがこの瞬間……我の元へ来ることを……これは天に従い、人に応ずる行い……我の心は深く慰められた……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_lichen_promotion_001.aac",
+            "text": "……死を求め……同時に生をも求める……"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_lichen_promotion2_001.aac",
+            "text": "天地が改まり、四季が巡る。枯れ枝を焼き尽くしてこそ、新たな生が生まれるのじゃ！"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_lichen_battlebegin_001.aac",
+            "text": "不利ならば戦うべし。進むことにこそ利がある。この戦……我らが勝つであろう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_lichen_battlewin_001.aac",
+            "text": "人が常に清らかであれば、天地一切がそのもとに帰る。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_lichen_battlelose_001.aac",
+            "text": "まだ挽回の余地はある……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_lichen_uniqueskill_001.aac",
+            "text": "凋落極まれば必ず復し、悪運極まれば必ず泰となる。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_lichen_dead_001.aac",
+            "text": "ただ天命を悟り、これを楽しむのみ……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lichen_greeting_001.aac",
+            "text": "ああ……吉兆を呼んだのはそなたか、それとも……小さき友よ、そなた自身が吉兆なのであろうか？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_lichen_talk1_001.aac",
+            "text": "このひょうたんの中にあるのは……薬ではなく……天地の意である……"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_lichen_talk1_002.aac",
+            "text": "三つ揃わねば成らぬ……どうか探してはくれぬか……三枚目の銅銭は……一体どこへ？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_lichen_talk1_003.aac",
+            "text": "我らが往来にて求めるものは、ただ天地の疑いを断ち、死生の狭間を渡ることのみじゃ……"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_lichen_talk2_001.aac",
+            "text": "あるいは……永生も滅びも、ただ……人が切望する……異なる帰途にすぎんのかもしれぬ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_lichen_talk2_002.aac",
+            "text": "……死の意味を知れば……もはや……死を恐れることもない。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_lichen_talk2_003.aac",
+            "text": "肉体は滅び、精神は自然に帰し、天地日月に呑まれる……我らはここで探求を続けるのじゃ……願わくば小さき友が我と共に歩み……究極の意味を見出さんことを……"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_lichen_obeyfull_001.aac",
+            "text": "札を破り、銅の鈴が鳴る……そなたは生者の姿にて、紅の糸を契りとし、死を乗り越える道へと我らを導いた……もし我が再び……そなたの前に立つことができたなら、もう一度……我らを一つに結んではくれぬか……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lichen_idle_001.aac",
+            "text": "道は一を生じ、一は二を生じ、二は三を生じ、三は……三生三世……なるほど、所詮その程度のものか……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lichen_clicking_001.aac",
+            "text": "……小さき友よ、その行いはあまりにも危うい……身を滅ぼす災いを招くやもしれぬ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lichen_specialattention_001.aac",
+            "text": "天地に問い……真心を証明しなければ……小さき友のような天命を求める眼差しを……受け止めることはできぬ……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_lichen_dispatch_001.aac",
+            "text": "天命を追う者は、世を巡り、人々を見るべきであろう。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_lichen_dispatch2_001.aac",
+            "text": "多くの実りがあった。小さき友よ……共に分かち合おうぞ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lichen_levelup_002.aac",
+            "text": "……小さき友よ、感謝いたす。そなたに尽きぬ祝福があらんことを。"
+        }
+    ],
+    "離塵-_02": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_lichen_head_001.aac",
+            "text": "これが……「想う者に頭を撫でられると……共に永劫の生を迎える」ということか？"
+        }
+    ]
+}

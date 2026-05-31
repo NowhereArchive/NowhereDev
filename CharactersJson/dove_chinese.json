@@ -110,5 +110,47 @@
             "filename": "File:vo_dove_levelup_002.aac",
             "text": "“变强”？我不太懂……意思是可以把幸福派送给更多的人吗？"
         }
+    ],
+    "情笺予你": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_dove_qingjianyuni_cacha_001.aac",
+            "text": "这种浪漫的日子，总是特别忙碌呢……大家的心愿都好甜、好沉，还好，我的包够大，可以装下所有人的告白。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_dove_qingjianyuni_levelup_001.aac",
+            "text": "爱心邮票都要不够贴啦！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_dove_qingjianyuni_greeting_001.aac",
+            "text": "局长今天有收到什么令人悸动的消息吗？不说也没关系不说也没关系，你指尖的温度和心跳的频率，早就告诉我答案了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_dove_qingjianyuni_talk1_001.aac",
+            "text": "这些写给爱人的信，如果全都寄错对象……会发生什么有趣的事呢？哎呀，我开玩笑的，你别紧张嘛。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_dove_qingjianyuni_talk1_002.aac",
+            "text": "你听，电话又在响个不停……很多人鼓起勇气拨过去，最后却只敢说一句“你好吗？我很好。”爱啊，总是会让人变得笨拙又小心翼翼，好像连呼吸都怕惊动对方。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_dove_qingjianyuni_idle_001.aac",
+            "text": "致局长……她会沿着每一封未寄出的情书找到你……多芙。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_dove_qingjianyuni_clicking_001.aac",
+            "text": "局长这么好奇邮差包里有什么吗？这里装的东西可不止是信哦，不如就慢慢“查阅”吧，你也许会从中发现一些……特别的心意。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_dove_qingjianyuni_specialattention_001.aac",
+            "text": "只是盯着我看，可找不到我藏在房间里的特别礼物哦。它会在窗帘后？留声机旁？还是气球下？呵呵，不告诉你，这种意义非凡的东西，当然要你亲自来发现。"
+        }
     ]
 }

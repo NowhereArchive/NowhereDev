@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_dimeng_levelup_002.aac",
             "text": "まだまだ耐えられる。"
-        },
+        }
+    ],
+    "デーモン-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_dimeng_head_001.aac",
             "text": "それは……俺の好むものではない。"
         }
     ],
-    "under_the_neon_lights": [
+    "ネオンの下で": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_dimeng_nihongzhixia_cacha_001.aac",
@@ -156,6 +158,48 @@
             "title": "お気に入り",
             "filename": "File:vo_dimeng_nihongzhixia_specialattention_001.aac",
             "text": "任務を無事果たせるよう、俺がきみを守ろう。だからあまりぐずぐずするな。時間の無駄だ。"
+        }
+    ],
+    "雨夜同じ道を": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_dimeng_yuyetongtu_cacha_001.aac",
+            "text": "雨の日には、いつも厄介なことが起きる……きみのことでも、この子猫のことでもない……もしきみが望むなら、管理局に連れて帰っても構わない。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_dimeng_yuyetongtu_levelup_001.aac",
+            "text": "たとえ雨の日でも、心配はいらない。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_dimeng_yuyetongtu_greeting_001.aac",
+            "text": "こいつはいつも周りを見回している。まるで……ずっときみを待っているかのようにな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_dimeng_yuyetongtu_body_001.aac",
+            "text": "このチビがずっと鳴いて頭突きまでしてくるのだが、どういうつもりだ？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_dimeng_yuyetongtu_body_002.aac",
+            "text": "どうやら俺よりもきみに懐いているようだ……恐らく、俺の身に染みついた血の匂いが強すぎて、怖がらせてしまったのだろう。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_dimeng_yuyetongtu_idle_001.aac",
+            "text": "ぼんやりと雨に打たれていないで、こちらに来い。この傘なら……きみも入れる。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_dimeng_yuyetongtu_clicking_001.aac",
+            "text": "この程度の雨、大したことはない。タオルで拭かなくてもすぐに乾く。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_dimeng_yuyetongtu_specialattention_001.aac",
+            "text": "まとわりつくような雨の日でも、きみの視線は感じ取れる。だから言ってみろ。きみが必要とするなら、俺はいつでも傍にいる。"
         }
     ]
 }

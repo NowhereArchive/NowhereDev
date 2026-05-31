@@ -91,7 +91,7 @@
             "text": "너 지금… 나에게 도발하는 거냐?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zoya_specialattention_001.aac",
             "text": "그냥 보고만 있을 거냐? 그럴 바에는 그냥 나랑 한 판 붙지, 그래? 난 가만히 서 있을게, 그리고 두 손도 양보하도록 하지."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_zoya_levelup_002.aac",
             "text": "음… 아직 부족해."
-        },
+        }
+    ],
+    "조야_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_zoya_head_001.aac",
             "text": "허, 용감하네…"
         }
     ],
-    "wolves_strike_soon": [
+    "늑대의_선전포고": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "적은 결코 눈앞의 이것들 뿐만이 아냐, 하지만 저 도랑에 있는 녀석들이 모습을 드러내기만 하면…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.aac",
             "text": "오? 드디어 군단에 들어올 마음이 생긴 건가?"
         }
     ],
-    "supreme_negotiation": [
+    "최고의_협상가": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
@@ -215,12 +217,12 @@
             "text": "경계 업무를 잘 수행하고 있군. 착하지."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.aac",
             "text": "이 옷은 협상할 때 입기엔 적합하겠지만 싸울 때는 좀 불편하겠어… 어쨌든 다들 챙겨줘서 고마워."
         }
     ],
-    "lord_of_rimehowl": [
+    "설원의_지배자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",
@@ -272,7 +274,7 @@
             "text": "그냥 실수로 잘못 만진 것뿐이길 바라지. 옆에 있는 이 덩치 큰 녀석만으론 아직 만족이 안 되나?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_zoya_bingfengwangzuo_specialattention_001.aac",
             "text": "그렇게 놀란 눈으로 날 볼 필요 없어. 내가 이 설원을 통솔하게 될 거라는 게, 네 예상 밖의 일이었던 건가?"
         },

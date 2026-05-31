@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_moore_levelup_002.aac",
             "text": "再续一杯咖啡吗？"
-        },
+        }
+    ],
+    "摩尔-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_moore_head_001.aac",
             "text": "哎呀？我没在打瞌睡啦。"
         }
     ],
-    "ensnaring_eclipse": [
+    "罗网蔽日": [
         {
             "title": "获得装束",
             "filename": "File:vo_moore_luowangbiri_cacha_001.aac",

@@ -91,7 +91,7 @@
             "text": "음… 나한테 물리고 싶은 거야?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_snake_specialattention_001.aac",
             "text": "괴물 무리 속에서 단 한 명의 괴물만 바라보고 있다니, 그야말로 사막에서 바늘 찾기 수준인데. 집중력이 꽤 좋구나?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_snake_levelup_002.aac",
             "text": "즐거운 시간이길 바래~"
-        },
+        }
+    ],
+    "나챠_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_snake_head_001.aac",
             "text": "용사는 사악한 뱀의 정수리를 꿰뚫었지. 정수리가 어디인 줄 알아? 네가 방금 쓰다듬은 곳이야."
         }
     ],
-    "awake_from_slumber": [
+    "겨울_잠": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "아… 창밖의 폭죽 소리 때문에… 잘 수가 없네…"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_snake_hanmianchuxing_specialattention_001.aac",
             "text": "아이참, 금방 다 입을 거야! 또 재촉하면… 확 물어버린다!"
         }
     ],
-    "source_of_happiness": [
+    "즐거움의_원천": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
@@ -205,12 +207,12 @@
             "text": "왜 그래? 내 손 안의 이 잔을 원하는 거야?… 후훗~ 당연하지, 나는 국장에게 즐거움을 나눠주는 것에 대해 거리낌 업어~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_snake_kuailezhiyuan_specialattention_001.aac",
             "text": "이곳에 이미 온 이상, 이유를 알아차리기 전에, 즐거운 시간을 만끽하자고, 안 그래, 국장?"
         }
     ],
-    "elixir_of_euphoria": [
+    "매직_포션": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",
@@ -247,7 +249,7 @@
             "text": "하하, 가게 주인은 판매 불가라고, 한 번만 더 건드리면 손가락을 확! 깨물어 버린다~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_snake_mizhimoyao_specialattention_001.aac",
             "text": "그래, 계속 그렇게 쳐다봐, 네 눈길이 바로 이 포션을 완성시키는 마지막 절차니까."
         }

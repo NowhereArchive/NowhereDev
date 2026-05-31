@@ -91,7 +91,7 @@
             "text": "내가 그렇게 좋니? 미안하지만 내 머리는 건드리면 터지는 비눗방울이 아니야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_oak_specialattention_001.aac",
             "text": "나의 눈동자 너머로, 당신은 무엇을 보고 있지?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_oak_levelup_002.aac",
             "text": "당신 내가 필요하지? 다 알아."
-        },
+        }
+    ],
+    "캐스켓_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_oak_head_001.aac",
             "text": "두개골에는 가장 많은 정보가 남아있어. 사람이란 죽음이 임박하면 아직 이루지 못한 일을 떠올리기 때문이지."
         }
     ],
-    "forest_of_enthrallment": [
+    "몰락의_숲": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "이 숲은 그렇게 조용하지 않아, 다들 땅 속 6피트 깊이에서 나와 대화를 나누고 있으니까."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_oak_chenlunzhisen_specialattention_001.aac",
             "text": "나에 대해 이렇게나 궁금해하다니… 그럼 남아서 내 소장품이 되는 게 어때?"
         }
     ],
-    "sepulchral_ride": [
+    "어둠_속의_장례식": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "예전에도 이렇게 두개골을 두드리던 사람이 있었어, 어떻게 됐는지 궁금해? 내가 약속대로 죽음으로 안내해 줬어."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_oak_heiyedezangyi_specialattention_001.aac",
             "text": "날 훔쳐보는 거야? 그 반짝이는 유리구슬이 채찍에 휘감기지 않도록 조심해."
         }

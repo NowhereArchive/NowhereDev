@@ -91,7 +91,7 @@
             "text": "사람들은 제 몸의 흉터를 보고, 마치 피부 위에 피어난 살육의 꽃이라며 너도나도 만져보려고 했어요… 하하, 이게 정말 행복을 가져다주기라도 하는 걸까요? 당신도 만져보실래요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jasmine_specialattention_001.aac",
             "text": "당신이 그렇게 제게서 시선을 떼지 않고 바라보는 게 좋아요… 당신의 모든 눈빛을 가질 수만 있다면, 전 언제나 당신을 위해 춤출게요."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_jasmine_levelup_002.aac",
             "text": "당신의 선물이라면 자스민은 뭐든 좋아요~"
-        },
+        }
+    ],
+    "자스민_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_jasmine_head_001.aac",
             "text": "당신 손, 정말 따뜻해요… 조금만 더 쓰다듬어 주세요. 자스민의 아름다운 춤에 대한 칭찬으로요."
         }
     ],
-    "gossamer_sway": [
+    "살랑이는_그림자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jasmine_roufengyeying_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "국장님, 무슨 생각 하세요? 음… 소리 내지 않고 조용히 있을게요. 자스민이 곁에 있게 해주세요."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jasmine_roufengyeying_specialattention_001.aac",
             "text": "걱정 마세요, 자스민은 여기서 계속 그네를 타며 국장님을 기다릴 거예요… 가끔 저를 보러 와주기만 하면 돼요. 저는 절대 떠나지 않을 거예요…"
         }

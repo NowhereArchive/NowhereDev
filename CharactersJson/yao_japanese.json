@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_yao_levelup_002.aac",
             "text": "照らそうぞ……より広い領域を。"
-        },
+        }
+    ],
+    "曜-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_yao_head_001.aac",
             "text": "太陽の輝きは、決して霞ませてはならぬ！"
         }
     ],
-    "fireborne_offering": [
+    "燃える神舞": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
@@ -166,6 +168,58 @@
             "title": "お気に入り",
             "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
             "text": "神を喜ばせるこの舞が気に入ったか？ならば、曲が終わるまで儂を見て、儂を信じよ。"
+        }
+    ],
+    "長き宵照らす光": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",
+            "text": "この季節になると、古き火が消え、吉星が現れ、万家に福をもたらすと皆が言う。だが儂は知っておる……今宵の平安と喜びは、百姓自らが勝ち取ったものであるとのう。儂はただ、年の瀬が迫るこの時、最後に彼らを守ったに過ぎん。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yao_guangyaochangxiao_levelup_001.aac",
+            "text": "見よ、花火が夜空を照らしておる……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yao_guangyaochangxiao_greeting_001.aac",
+            "text": "うぬは長いこと見上げておったが、ようやく登ってきたのう……街は人でごった返しておるが、ここの景色は格別。儂の秘蔵の場所よ。今日これを……うぬと分かち合おうぞ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yao_guangyaochangxiao_head_001.aac",
+            "text": "祭りの夜、子供たちは神像に珠花を挿し祈りを捧げる。うぬの行いも……そういう意味なのか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_yao_guangyaochangxiao_body_001.aac",
+            "text": "儂はかつて祭りで一人の子供に出会った……その子は、ある祭司が教えてくれたこととして、こう言っておった……「神仏の前では楽しく生きよ。神仏は見ている。人々が幸せに暮らしているほど、香が絶えず焚かれ、神仏も喜んで守り続けてくれる」とな……ふっ、あの祭司め、真に人を騙すのが上手い。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_yao_guangyaochangxiao_body_002.aac",
+            "text": "儂は寺で祀られるより……ここの方が良い……糖葫芦や小さな風車、そして人々の笑顔が見られるからのう。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_yao_guangyaochangxiao_hand_001.aac",
+            "text": "ここの者たちはよくこう言う。「金烏が去らなければ毎年平安でいられる。だから頻繁に祭祀を行い、多くの祈りを捧げる」と……だが彼らは知らぬ。この人間味あふれる温もりが、金烏を留めているのだと。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_yao_guangyaochangxiao_background_001.aac",
+            "text": "爆竹はかつて防衛の手段で、その音は災厄や危険を告げるものであった……だが今では祝いの象徴となり、華やかに輝いておる……良いのう……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yao_guangyaochangxiao_idle_001.aac",
+            "text": "災厄は静まり、万の灯が共に輝く。今宵、儂は屋根の頂に佇み、我が故郷の民を守り、来年も憂いなくあれと願おうぞ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yao_guangyaochangxiao_specialattention_001.aac",
+            "text": "人波が押し寄せ、花火が夜空に咲き誇る。この屋根の光は海の一滴に過ぎぬというのに、うぬは一目で儂を見つけた……嬉しいことよ。"
         }
     ]
 }

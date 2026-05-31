@@ -91,7 +91,7 @@
             "text": "이 달랑거리는 장식들, 귀엽긴 한데, 흔들면 진짜 ** 귀찮아."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_golem_specialattention_001.aac",
             "text": "뭐... 뭘 봐? 어... 어디가 이상하기라도 해?!"
         },
@@ -111,7 +111,7 @@
             "text": "죽인다!! 아, 내 말은… 대단하다고!"
         }
     ],
-    "rooftop_reckoning": [
+    "옥상의_지배자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_golem_tiantaizhicai_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "정말이야, 무기 같은 건 안 숨겼어. 그런 잔챙이들 혼내주는 일쯤이야 준비할 것도 없지. 손에 잡히는 대로 아무거나 붙들고 겁주면 돼."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_golem_tiantaizhicai_specialattention_001.aac",
             "text": "후훗, 어때? 이 몸이 카리스마 있게 나타나서 나쁜 놈들을 혼내주는 모습! 멋있지?! 이런 기회는 흔치 않아, 특별히 더 감상할 기회를 주지."
         }

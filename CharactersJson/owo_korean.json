@@ -91,7 +91,7 @@
             "text": "겨, 경고하는데 사자를 존중하지 않는 사람은 가호받을 수 없어! 괴, 괴물이 너를 먹어버린다고 해도 신경 안 쓸 거야! 오… 오지 마!!!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_owo_specialattention_001.aac",
             "text": "천하무적 위풍당당한 천재 어흥이의 공연이니, 잘 봐봐!"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_owo_levelup_002.aac",
             "text": "어흥~!"
-        },
+        }
+    ],
+    "어흥_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_owo_head_001.aac",
             "text": "사자 머리가 엄청 예쁘지 않아? 패기 넘치지? 위엄 있지? 엄청 만져보고 싶지? 흐흥… 꿈 깨셔!"
         }
     ],
-    "king_of_lion_dance": [
+    "사자춤의_왕": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "안 돼! 이건 어흥의 햄버거야! 넌 네 것이나 먹어! 몇 살인데 다른 사람 것을 뺏어 먹으려 해, 부끄럽지도 않아? 흥! 내가 화나면 널 햄버거 삼아 크게 한입 물어버릴 거야!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_owo_wushizhiwang_specialattention_001.aac",
             "text": "햄버거, 감자튀김, 치킨 윙, 에그타르트, 모두 한 개씩 더! …왜 그렇게 쳐다보는데? 난 더 많이 많이 많이 먹을 수 있어! 얕보지 말라고!"
         }
     ],
-    "auspicious_prancer": [
+    "축복의_사자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
@@ -195,7 +197,7 @@
             "text": "간 큰 디스인 녀석, 감히 수문신님의 갑옷에 손을 대다니! 흥, 오늘은 길일이니 용서해 주지… 딱, 딱 한 번만 만져!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
             "text": "이건, 어흥님이 특별히 준비한 새 의상이야. 이건, 어흥이랑 유랑민 촌락의 아저씨 아주머니들이 함께 만든 새 사자탈이고. 좋아, 디스인, 마음껏 칭찬해 봐~"
         }

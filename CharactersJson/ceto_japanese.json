@@ -109,11 +109,55 @@
             "title": "レベルアップ",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "この刀は血にまみれることに慣れてる。オレも同じだ。"
-        },
+        }
+    ],
+    "セト-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "腕がいらねぇなら、そう言え。"
+        }
+    ],
+    "主なき帆": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",
+            "text": "いいか、あんたを助けるのは構わない。だが、オレの船に乗るからには役に立て——マストを上げるのも、甲板の掃除も、暗流を監視するのも、全部自分でやるんだ。誰も後始末なんかしないからな。分かったら、オレの手を取って乗れ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_ceto_wuzhuzhifan_levelup_001.aac",
+            "text": "風を切って進むぞ！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_ceto_wuzhuzhifan_greeting_001.aac",
+            "text": "目が覚めたか？それなら出航だ。今日の海流は不安定だから、波に呑まれないようにしっかり掴まっておけ。あんたを拾いに行く暇はないからな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_001.aac",
+            "text": "甲板で揺れてる黒い影たち？ああ、慣れておけ。奴らは、あんたの同僚だ。仲良くしておけよ。この船がここまで来られたのも、奴らの貢献がデカい。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_ceto_wuzhuzhifan_talk1_002.aac",
+            "text": "波の音を長く聞いてると、何でもかんでもさらわれていく感覚がする。名前も、記憶も、方向感覚も……時間が経つにつれて、自分に何が残ってるのかも分からなくなるんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_ceto_wuzhuzhifan_idle_001.aac",
+            "text": "……聞こえたか？波間に別の音が混じってる……ふん、あの連中、また船体を引っ掻いてるな。オレたちが落ちて奴らの仲間になるのを待ち構えてるんだ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_ceto_wuzhuzhifan_clicking_001.aac",
+            "text": "それ以上、手を前に出してみろ。このナイフの切れ味を試そうとしてると受け取るぞ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_ceto_wuzhuzhifan_specialattention_001.aac",
+            "text": "あんたの目には……オレと同じ狂気が宿ってる。悪くないな。この幽霊船に欠けてたのは、あんたみたいな「気が合う」船員だ。さあ、一緒にどこへでも行けるぞ。たとえ地獄の港でもな。"
         }
     ]
 }

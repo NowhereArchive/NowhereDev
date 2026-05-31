@@ -91,7 +91,7 @@
             "text": "다… 당신은 날 너무 무시해…!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_kk_specialattention_001.aac",
             "text": "날 왜 찾아왔지? 무슨 일 있어? …쯧, 그냥 좀 앉아있을 거라고? 마음대로 해."
         },
@@ -111,7 +111,7 @@
             "text": "으흠~ 나쁘지 않아."
         }
     ],
-    "undercover_fill-in": [
+    "비밀_요원": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_kk_jietoutegong_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "뭐 잘못 먹었어? 한 번만 더 그러면 진짜 그만둘 거야!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_kk_jietoutegong_specialattention_001.aac",
             "text": "여기 앉아서 누군가 올 때까지 기다리면 되는 거지? 좋아, 오는 사람 있으면 알려줄게."
         }

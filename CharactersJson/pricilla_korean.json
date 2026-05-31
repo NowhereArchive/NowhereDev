@@ -91,7 +91,7 @@
             "text": "히힛, 국장니임~ 자꾸 장난치면~ 나도~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_peggi_specialattention_001.aac",
             "text": "괴도는 언제든 뿅 하고 사라질 수 있어요. 그러니까, 잘 보고 있어요~ 눈도 깜빡이면 안 돼요."
         },
@@ -111,7 +111,7 @@
             "text": "내 캐리어에는 온 세상을 담을 수 있어요."
         }
     ],
-    "night_of_petals": [
+    "나이트_로즈": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_peggi_wuyeguiyu_cacha_001.aac",
@@ -148,12 +148,12 @@
             "text": "아야, 함부로 터치하지 마세요. 네? 제 약점을 찾겠다고요? 흥… 어떻게 그 여우랑 똑같은 말을 하시죠? 아무튼 제 분장은 완벽해요~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_peggi_wuyeguiyu_specialattention_001.aac",
             "text": "놀라지 마세요~ 진정한 괴도는 원하는 보물을 손에 넣기 위해 스스로 덫에 걸리기도 한답니다~"
         }
     ],
-    "private_mischief": [
+    "방_안의_가인": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_peggi_luanshijiaren_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "딴생각하지 마세요, 밤은… 아직 길어요~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_peggi_luanshijiaren_specialattention_001.aac",
             "text": "이 방에서 제일 귀여운 걸 골라 보세요! 왜 그렇게 쳐다보세요…? 설마… 그게 저인가요?"
         }

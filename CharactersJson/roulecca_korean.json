@@ -91,7 +91,7 @@
             "text": "국장님, 되게 한가한가 봐. 로레카랑 놀래요? 예를 들어~~ 이거 내기할까요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_kuangdu_specialattention_001.aac",
             "text": "오오오~ 국장님 로레카랑 놀아주러 온 거야?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_kuangdu_levelup_002.aac",
             "text": "에? 로레카가 더 강해질 수 있었단 말이야~?"
-        },
+        }
+    ],
+    "로레카_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_kuangdu_head_001.aac",
             "text": "머리 만지기 없기! 난 어린애가 아니에요! 으악! 멈춰!"
         }
     ],
-    "seaside_dessert_stand": [
+    "해변의_디저트!": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "아하핫… 국장님, 간지러워요! 앗~ 로레카도 질 수 없어!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_kuangdu_haibintianpinjiao_specialattention_001.aac",
             "text": "국장님… 로레카를 왜 그렇게 빤히 쳐다보는 거예요? 설마… 국장님도 로레카의 상어 인형을 탐내는 거예요? 흥, 이건 로레카도 어렵게 따낸 거거든요, 절대 안 빌려줄 거예요!"
         }
     ],
-    "puerile_maniac": [
+    "꼬마_악당": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",
@@ -195,7 +197,7 @@
             "text": "로레카를 애 취급하지 마세요! 로레카는 키가 작아졌지만, 여전히 똑똑하다고요! 국장님을 가뿐하게 이길 수 있어요! 이얍! 빵야빵야빵야!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_kuangdu_xiuzhenkuangtu_specialattention_001.aac",
             "text": "흠흠~ 로레카가 이렇게 입으니까 잘 어울리죠? 국장님은 로레카의 가족으로서 로레카를 칭찬해 줘야 해요!"
         }

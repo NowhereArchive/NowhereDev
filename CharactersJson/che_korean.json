@@ -91,7 +91,7 @@
             "text": "윽… 뭐…뭡니까? 무슨 문제 있습니까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_che_specialattention_001.aac",
             "text": "당신은 당신 볼일 보시고, 나는 내 농땡이 부리고. 우리 서로 방해하지 않는 걸로 합시다. 어떻습니까?"
         },
@@ -111,7 +111,7 @@
             "text": "쯧. 귀찮군."
         }
     ],
-    "unexpected_guest": [
+    "불청객": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_che_busuzhike_cacha_001.aac",
@@ -148,7 +148,7 @@
             "text": "아, 그만 만지세요. 이거 타투가 아니라 토시거든요. 뭐 하러 괜히 몸에 칼을 대요?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_che_busuzhike_specialattention_001.aac",
             "text": "할 일 없이 여긴 왜 왔어요? 뭐, 마음대로 해요. 여기 앉아서 일광욕하며 비타민D를 보충하는 것도 나쁘지 않죠."
         }

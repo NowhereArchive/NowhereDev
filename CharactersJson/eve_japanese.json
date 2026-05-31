@@ -23,7 +23,7 @@
         {
             "title": "戦闘勝利",
             "filename": "File:vo_eve_battlewin_001.aac",
-            "text": "彼らの不幸が、遂に終わりました。"
+            "text": "派遣"
         },
         {
             "title": "戦闘失敗",
@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_eve_levelup_002.aac",
             "text": "どうして、この役立たずの身体を諦めないんですか……"
-        },
+        }
+    ],
+    "イヴ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_eve_head_001.aac",
             "text": "もう少し手を置いていてもらえませんか？この温もりも、また昔のようにすぐ消えてしまうんじゃないかと心配なんです……"
         }
     ],
-    "agleam_escapade": [
+    "星が輝く夜": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "なんでそんな目で私を見ているんですか？もっと悪い知らせがあるなら、そう言ってください。心配しなくても、長い間水晶玉に監禁されるより悪いことはありません。"
         }
     ],
-    "frostling_whisper": [
+    "蒼き静寂の森": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eve_cangjimilin_cacha_001.aac",

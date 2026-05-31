@@ -91,7 +91,7 @@
             "text": "왜, 내 근육에 관심이라도 있어? 에이, 지금 시대가 어떤 시대인데, 근육 좀 있는 거로는 밖에서 명함도 못 내밀어, 뭘 하든 수감자 능력이 필요하거든."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_don_specialattention_001.aac",
             "text": "오, MBCC의 국장님께서 무슨 일로 이렇게 찾아주셨을까요? 저같이 할 일 없는 인간은 별로 볼 것도 없을 텐데."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_don_levelup_002.aac",
             "text": "아주 좋아. 기분이 나쁘진 않군."
-        },
+        }
+    ],
+    "돈_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_don_head_001.aac",
             "text": "어어, 만지지 마. 머리가 까치집이 됐잖아. 신경 써서 만진 건데, 망가지면 책임질 거야?"
         }
     ],
-    "good_old_days": [
+    "푸른_시절": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_don_fenghuazhengmao_cacha_001.aac",
@@ -163,7 +165,7 @@
             "text": "흰 비둘기, 리본, 맑은 하늘… 다들 모여서 우리의 승리를 축하하고 있어. 이렇게 아름다울 수가, 정말 꿈만 같아… 헤헤, 이게 꿈이라면 좀 더 늦게 깨고 싶네."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_don_fenghuazhengmao_specialattention_001.aac",
             "text": "자, 자, 우리 사진 좀 찍어줘, 나 멋있게 잘 찍어줘야 해. 이봐, 얼른 카메라 봐. 하나, 둘, 셋, 치즈~"
         }

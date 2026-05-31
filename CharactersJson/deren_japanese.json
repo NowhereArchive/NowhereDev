@@ -109,14 +109,16 @@
             "title": "レベルアップ",
             "filename": "File:vo_deren_levelup_002.aac",
             "text": "ああ、お手数おかけしたね……"
-        },
+        }
+    ],
+    "デイリン-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_deren_head_001.aac",
             "text": "つまり……私のこと褒めてくれてる？"
         }
     ],
-    "eclat_eminence": [
+    "世界の焦点": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
@@ -166,6 +168,100 @@
             "title": "お気に入り",
             "filename": "File:vo_deren_shijiejiaodian_specialattention_001.aac",
             "text": "聞こえた？スポットライトは輝き続け、拍手と歓声は鳴り止まない……ふん。さぁ、私と一緒に世界の焦点になろう。"
+        }
+    ],
+    "＊": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_deren_diezhiying_cacha_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_deren_diezhiying_levelup_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_deren_diezhiying_greeting_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_deren_diezhiying_body_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_deren_diezhiying_body_002.aac",
+            "text": "＊"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_deren_diezhiying_idle_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_deren_diezhiying_clicking_001.aac",
+            "text": "＊"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_deren_diezhiying_specialattention_001.aac",
+            "text": "＊"
+        }
+    ],
+    "綺夜狂想": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_deren_qiyekuangxiang_cacha_001.aac",
+            "text": "緋色の舞台の撮影現場へお越しいただきありがとうございます。私は監督のデイリン……一緒にここで起こる全てを記録し、知られざる秘密を探求しましょう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_deren_qiyekuangxiang_levelup_001.aac",
+            "text": "次のシーンには、もっと衝撃的な「特殊効果」を加えよう。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_deren_qiyekuangxiang_greeting_001.aac",
+            "text": "君はいつも時間通りに現場に来るね。本当に撮影内容に興味があるの？それとも……私を見つめたいだけ？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_deren_qiyekuangxiang_head_001.aac",
+            "text": "こちらの観客さん、監督にちょっかいを出すと、完成品のクオリティに影響するよ？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_deren_qiyekuangxiang_body_001.aac",
+            "text": "芸術は最高の偽装だ——舞台上の「完璧な殺人」が、演出効果なのか、それとも……実際に起きたことなのか、君にも見分けがつかないんじゃない？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_deren_qiyekuangxiang_body_002.aac",
+            "text": "役に入り込まず、席も立たない……君みたいな観客が一番厄介だよ。代わりに撮影現場の監視を手伝ってくれない？せめて私がサボって席を外す時、モニターを見てくれる人がいれば助かるんだけど。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_deren_qiyekuangxiang_hand_001.aac",
+            "text": "「決して目覚めることのない真夜中の宴へ、謹んで、貴殿をご招待申し上げます」……新しい招待状の文面、どう思う？新たな観客を招き入れないといけないんだよね。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_deren_qiyekuangxiang_background_001.aac",
+            "text": "ははっ、気をつけて。舞台裏の連中は邪魔しないように……彼らは前回上手く「クランクアップ」できなかった役者で、次の公演に割り込もうとしてるんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_deren_qiyekuangxiang_idle_001.aac",
+            "text": "「第四幕、第七場」……うーん、やっぱり冒頭の演出はもう少し練り直そう。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_deren_qiyekuangxiang_specialattention_001.aac",
+            "text": "君の視線は、スポットライトよりもずっと熱くて……なんだか気になるんだよね。最終幕を目にした時、君は一体どんな表情を見せてくれるんだろう？"
         }
     ]
 }

@@ -109,63 +109,65 @@
             "title": "レベルアップ",
             "filename": "File:vo_synex_levelup_002.aac",
             "text": "ん？そんなに優しくしてくれるのかい？"
-        },
+        }
+    ],
+    "シニックス-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_synex_head_001.aac",
             "text": "新しい首輪？ちゃんと着けてね。変な所は触らないように……"
         }
     ],
-    "street_striker": [
+    "ストリートギャング": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_synex_jietoueba_cacha_001.aac",
-            "text": "###"
+            "text": "やあ～これはこれは我らが局長じゃないか。長い夜を一人で過ごすなんて退屈だろう？私と一緒にちょっと刺激的なことをしようじゃないか——夜明けまでアーケードバトル。どうだい？"
         },
         {
             "title": "レベルアップ",
             "filename": "File:vo_synex_jietoueba_levelup_001.aac",
-            "text": "###"
+            "text": "チャリーン——コイン投入ありがとう。もう一戦どうだい？"
         },
         {
             "title": "挨拶",
             "filename": "File:vo_synex_jietoueba_greeting_001.aac",
-            "text": "###"
+            "text": "閉店まではまだ時間あるし、ちょうどいいタイミングで来たじゃないか……一戦付き合ってくれるだろう？"
         },
         {
             "title": "頭をなでる",
             "filename": "File:vo_synex_jietoueba_head_001.aac",
-            "text": "###"
+            "text": "対戦中、相手への妨害は禁止だよ。触りたいのかい？どうやら勝つためなら……局長ちゃんも手段を選ばないようだね？"
         },
         {
             "title": "タッチ1",
             "filename": "File:vo_synex_jietoueba_body_001.aac",
-            "text": "###"
+            "text": "見ても無駄だよ、今この場所にいるのは私たちだけ。バカな連中がちょっかいをかけてくるから、「仲間たち」に頼んで片付けてもらったのさ。"
         },
         {
             "title": "タッチ2",
             "filename": "File:vo_synex_jietoueba_body_002.aac",
-            "text": "###"
+            "text": "「下・前・下・前・パンチ」！これは秘伝の技さ。でも私はそこからさらに新しい技を発明した。繰り出す手はもっと速くて効果抜群……教えてほしいのかい？だったら、お願いしてみなよ。"
         },
         {
             "title": "タッチ3",
             "filename": "File:vo_synex_jietoueba_leg_001.aac",
-            "text": "###"
+            "text": "私が尻尾で七段コンボを決められることに納得できず、どうしても直接対決を挑んできた奴がいてさ。本当、器が小さいよねぇ。尻尾も身体の一部なんだから。彼ができるなら、頭を使っても構わないのにさ～"
         },
         {
             "title": "タッチ4",
             "filename": "File:vo_synex_jietoueba_background_001.aac",
-            "text": "###"
+            "text": "「アダマントモンスターVSデジタルゴースト」——ほら、タイトルだけで燃えるだろう？今ちょうど第9ステージなんだ。ボス戦、代わりにやってみるかい？"
         },
         {
             "title": "放置",
             "filename": "File:vo_synex_jietoueba_idle_001.aac",
-            "text": "###"
+            "text": "こらこら——ぼーっとしないでくれよ。まさかオートモードにするつもりかい？"
         },
         {
             "title": "お気に入り",
             "filename": "File:vo_synex_jietoueba_specialattention_001.aac",
-            "text": "###"
+            "text": "そんなに私を見つめて、やっと対戦する気になったのかい？いいね、君のために席を空けておいたんだ。二人プレイモード、難易度は地獄級——今夜は途中退場なんて許さないからね。"
         }
     ]
 }

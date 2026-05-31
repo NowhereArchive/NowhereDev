@@ -23,7 +23,7 @@
         {
             "title": "战斗胜利",
             "filename": "File:vo_eve_battlewin_001.aac",
-            "text": "它们的不幸，终于结束了。"
+            "text": "派遣"
         },
         {
             "title": "战斗失败",
@@ -109,14 +109,16 @@
             "title": "升级",
             "filename": "File:vo_eve_levelup_002.aac",
             "text": "为什么还不肯放弃这副没用的身体……"
-        },
+        }
+    ],
+    "伊芙-升阶": [
         {
             "title": "摸头",
             "filename": "File:vo_eve_head_001.aac",
             "text": "你的手，能再多停留一会儿吗？我怕这份温暖又像从前那样，转瞬即逝……"
         }
     ],
-    "agleam_escapade": [
+    "星辉之夜": [
         {
             "title": "获得装束",
             "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
@@ -168,7 +170,7 @@
             "text": "为什么这样看着我？如果还有更坏的消息要告诉我的话，就请直说吧。不用担心，没有什么能比被囚禁在水晶球里这么久还要糟的了。"
         }
     ],
-    "frostling_whisper": [
+    "苍寂谧林": [
         {
             "title": "获得装束",
             "filename": "File:vo_eve_cangjimilin_cacha_001.aac",

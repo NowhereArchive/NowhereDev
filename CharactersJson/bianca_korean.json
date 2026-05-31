@@ -91,7 +91,7 @@
             "text": "지, 지금 뭐 하는 거야?! 설마 지금 나한테… 아냐, 안 돼, 안 돼, 이런 건 방송에 못 나가~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bianca_specialattention_001.aac",
             "text": "드디어 대망의 순간이 왔네요, 최우수 뉴스상 수상자를 박수로 모시겠습니다, 수상자는 바로… 두구두구두구… MBCC 기자, 비앙카 양입니다."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_bianca_levelup_002.aac",
             "text": "지금 이거 계속 특종 잡아내라고 응원해 주는 거지? 세상에, 감동이야… 흑흑."
-        },
+        }
+    ],
+    "비앙카_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_bianca_head_001.aac",
             "text": "사건 현장에서 똑같은 장면을 찍었어, 용의자가 원한이 있는 사람 목에 손을 얹더니… 뚜두둑! 고화질 영상도 찍었는데 같이 볼래?"
         }
     ],
-    "in-cider_scoop": [
+    "미스_애플의_헤드라인": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -163,12 +165,12 @@
             "text": "반짝반짝 카메라, 어디를 비출까~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_specialattention_001.aac",
             "text": "와, 카메라다! 자, 전부 여기 주목, 디스에서 가장 위대한 뉴스 기자 비앙카가 오늘 만찬의 헤드라인을 장식해 드리겠습니다!"
         }
     ],
-    "bouncing_toccata": [
+    "바운싱_토카타": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "저기, 관객분! 연주자의 공연을 방해하지 마, 솔로 연주를 틀리면 큰일 날 거야!"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_bianca_tantiaotuokata_specialattention_001.aac",
             "text": "헤헤, 대단하지? 놀랐지? 나를 다시 보게 됐지? 하지만 너무 놀라지는 마. 앞으로 놀랄 일이 많이 있거든! 나와 '꼬마 라이트닝'은 아직 진짜 실력을 보여주지도 않았다고. 눈 크게 뜰 준비나 해!"
         }

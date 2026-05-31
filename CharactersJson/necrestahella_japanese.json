@@ -109,11 +109,65 @@
             "title": "レベルアップ",
             "filename": "File:vo_hellasp_levelup_002.aac",
             "text": "そんなに優しくしてくれるの？"
-        },
+        }
+    ],
+    "幽冠・ヘラ-_02": [
         {
             "title": "頭をなでる",
             "filename": "File:vo_hellasp_head_001.aac",
             "text": "研究所の奴らは、これは取り除けない汚染結晶みたいなものって言ってたけど、触ってもあんまり感じないんだよね——ひゃっ！ちょっと刺されちゃった。"
+        }
+    ],
+    "星夢徒行": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hellasp_xingmengxixing_cacha_001.aac",
+            "text": "長い夢を見たの。今まで見た夢と違って、今回はキラキラした星の川があってね、超綺麗で、幸せな気持ちになったんだ……だから、あたしが大切にしてる人みんなにこの景色を見てほしい。みんなにもこの幸せを感じてもらいたい！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hellasp_xingmengxixing_levelup_001.aac",
+            "text": "う～ん！どんな闇にも立ち向かえる力を手に入れた気がする！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hellasp_xingmengxixing_greeting_001.aac",
+            "text": "ヘラ様の銀河世界へようこそ！MBCCの局長さん、今回のガイド料金をお支払いください……あっ、ちょ、ちょっと待ってよ～！ヘラ様の傍にずっといてくれるなら、ヘラ様の機嫌が良くなって……ツケにしてあげるかもよ？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hellasp_xingmengxixing_head_001.aac",
+            "text": "この花の冠、星の欠片で飾ったんだ。どう？綺麗でしょ！な、何？星を砕いたのかって？これはただ……欠片を拾っただけだし。拳で星を壊したわけじゃないんだから！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hellasp_xingmengxixing_body_001.aac",
+            "text": "<size=33>この星の海で、あたしは無数の世界と、数えきれない人々の影を見てきた。中には自分自身のもあったな——失敗した人、迷ってる人、それでも懸命に足掻く人、色んな姿を見たけど……一つだけ変わらないのは、ずっとあたしに手を伸ばしてくる、あのバカだった。</size>"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hellasp_xingmengxixing_body_002.aac",
+            "text": "今まで、空にある光は遠すぎると思ってた。飛んでも、跳ねても、届かないって。でも今は知ってる——ずっと前に進み続ければ、少しずつ近づいて、いつか……触れることができるって。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hellasp_xingmengxixing_leg_001.aac",
+            "text": "<size=32>あんたいつも言ってたでしょ？何事も一段ずつ、しっかり踏みしめて上れって。色んなことを経験してきたから、今になって……その言葉の意味がちょっと分かった気がする。でもね——もし一気に三段飛ばしできるなら……あたしはそのチャンスを絶対逃さない！ふふん！</size>"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hellasp_xingmengxixing_background_001.aac",
+            "text": "星の光が届かない場所でも、自分の力で照らすことができる——それが、あたしのなりたい姿なんだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hellasp_xingmengxixing_idle_001.aac",
+            "text": "へへ、お試しはここまで。もっと聴きたかったら、「ヘラプレミアム会員」になってもらうわよ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hellasp_xingmengxixing_specialattention_001.aac",
+            "text": "あっ、見つかっちゃった。やるじゃん。綺麗な星がこんなにいっぱいあるのに、一番綺麗な星を一目で見つけるなんて！ふふ、そういうとこ、あんたの数少ない長所だよね！"
         }
     ]
 }

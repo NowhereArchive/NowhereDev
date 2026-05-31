@@ -91,7 +91,7 @@
             "text": "육체적인 접촉만으로 만족하는 거야? 내가… 영혼을 포옹하는 법에 대해 알려줄까?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_anarkia_specialattention_001.aac",
             "text": "내게 이렇게나 관심을 주다니… 우리 꼬마 괴물, 나랑 머나먼 곳으로 떠나고 싶구나?"
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_anarkia_levelup_002.aac",
             "text": "영혼의 진실한 모습은 헤아리기 힘들지만, 참으로 매력적이지…"
-        },
+        }
+    ],
+    "점성가_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_anarkia_head_001.aac",
             "text": "하, 꼭 초보 점술가가 수정 구슬을 어루만지는 것 같네."
         }
     ],
-    "moonlit_enchantment": [
+    "월야기담": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_anarkia_yueyeqitan_cacha_001.aac",
@@ -153,12 +155,12 @@
             "text": "고양이의 꼬리를 멋대로 쓰다듬으면 그에 맞는 대가를 치르게 될 거야~"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_anarkia_yueyeqitan_specialattention_001.aac",
             "text": "영원히 내 곁에 머물러준다면, 널 위해… 어떤 소원이든 이루어 줄게~"
         }
     ],
-    "sunfall_prophecy": [
+    "해를_뒤덮는_예언": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_anarkia_furiyuyan_cacha_001.aac",
@@ -205,7 +207,7 @@
             "text": "타오르던 태양이 떨어지고, 별들이 부서져 내린다… 정말이지 끔찍하면서도 매혹적인 광경이야."
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_anarkia_furiyuyan_specialattention_001.aac",
             "text": "진지하게 들어 봐. 너만을 위한 예언이니까. 그게 허상인지 진실인지는, 모두 네 생각에 달렸어."
         }

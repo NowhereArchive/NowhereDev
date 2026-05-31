@@ -167,5 +167,57 @@
             "filename": "File:vo_yao_wujitianzhu_specialattention_001.aac",
             "text": "Enjoy this dance to honor the gods? Then watch me closely and believe in me all the way until the very last note!"
         }
+    ],
+    "evernight's_radiance": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",
+            "text": "They speak of dying fires and stars of fortune in this season of renewal. Yet the true light I see... it is the peace they have built for themselves. I'm merely offering this one last protection over them, as the year breathes its last."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_yao_guangyaochangxiao_levelup_001.aac",
+            "text": "Behold, how the fleeting blossoms of fire grace the night..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_yao_guangyaochangxiao_greeting_001.aac",
+            "text": "Long did your gaze linger below before you found your way to this quiet height... The world bustles, yet here the view sings in silence. I have kept this little sanctuary as a secret of the heart, and today... that heart bids me to offer it to you."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_yao_guangyaochangxiao_head_001.aac",
+            "text": "On the night of the fete, the young ones would lay handcrafted blossoms upon the deities to pray for blessings. Is this... your way of seeking such grace?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_yao_guangyaochangxiao_body_001.aac",
+            "text": "At the fete, a child once shared with me a priest's quaint notion: that we must live joyfully for the gods, for our happiness becomes their incense, our prosperity their sustenance to continue their blessings... Hehe, what a witty fiction that priest did weave."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_yao_guangyaochangxiao_body_002.aac",
+            "text": "A temple's reverence holds no lure for me... I find a far sweeter devotion here... in the candied hawthorns, the whirling pinwheels, and the gentle warmth of mortal smiles."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_yao_guangyaochangxiao_hand_001.aac",
+            "text": "The people here place their hopes in the Sun Crow, trusting its presence will grant them continued peace. And so they worship... little knowing that it is this mortal warmth that has woven a nest for the light, giving it a reason to linger."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_yao_guangyaochangxiao_background_001.aac",
+            "text": "This sound, which once heralded peril... now paints the night with joy. That a shield has become a celebration... this is a truth that gladdens my heart."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_yao_guangyaochangxiao_idle_001.aac",
+            "text": "With the shadows receded, a thousand lights now gleam like a promise kept. From this high vigil, I watch over the slumbering heart of my homeland. Let the turning year be a gentle one, and may its passage be unmarred by sorrow."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_yao_guangyaochangxiao_specialattention_001.aac",
+            "text": "The mortals throng, their celebrant fires painting the sky. My own small light, perched upon this lonely eave, is too dim for any eye to catch. Yet your gaze still found mine... You have my gratitude, for this unexpected joy."
+        }
     ]
 }

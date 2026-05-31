@@ -91,7 +91,7 @@
             "text": "싸우고 싶어?"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jiushijiu_specialattention_001.aac",
             "text": "나를 봐, 내가 너를 보는 것처럼."
         },
@@ -109,14 +109,16 @@
             "title": "레벨업",
             "filename": "File:vo_jiushijiu_levelup_002.aac",
             "text": "재미있군."
-        },
+        }
+    ],
+    "나인티나인_-_승급": [
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_jiushijiu_head_001.aac",
             "text": "지금… 나 위로하는 거야?"
         }
     ],
-    "chaotic_restraint": [
+    "혼돈의_제약": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jiushijiu_hundunzhiyue_cacha_001.aac",
@@ -153,9 +155,51 @@
             "text": "크릉…크릉……"
         },
         {
-            "title": "특별 주목",
+            "title": "특별 주시",
             "filename": "File:vo_jiushijiu_hundunzhiyue_specialattention_001.aac",
             "text": "전투 때문이 아니라면 왜 날 찾아온 거지? 그거 말고 나한테 다른 용도가 있나?"
+        }
+    ],
+    "죠죠_2탄_폐기": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_jiushijiu_xinshijie_cacha_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_jiushijiu_xinshijie_levelup_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_jiushijiu_xinshijie_greeting_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_jiushijiu_xinshijie_body_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_jiushijiu_xinshijie_body_002.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_jiushijiu_xinshijie_idle_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_jiushijiu_xinshijie_clicking_001.aac",
+            "text": "죠죠 2탄 폐기"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_jiushijiu_xinshijie_specialattention_001.aac",
+            "text": "죠죠 2탄 폐기"
         }
     ]
 }
