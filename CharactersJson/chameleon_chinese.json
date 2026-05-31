@@ -111,7 +111,7 @@
             "text": "这样，离深渊就更近了……"
         }
     ],
-    "梦寐私谕": [
+    "message_in_dreams": [
         {
             "title": "获得装束",
             "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "“认识自己”——看似简单的谜题，却困住了一代又一代勇者，现在……终于轮到你了。"
         }
     ],
-    "晓梦浮生": [
+    "dream's_ephemera": [
         {
             "title": "获得装束",
             "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",

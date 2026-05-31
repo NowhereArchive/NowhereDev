@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_duruo_levelup_002.aac",
             "text": "이게 바로 말로만 듣던 디스의 기술인가요?"
-        }
-    ],
-    "두약_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_duruo_head_001.aac",
             "text": "제 고향에선 다른 사람의 머리를 함부로 만지면… 아닙니다. 역시 말씀드리지 않는 게 좋겠군요."
         }
     ],
-    "달의_축복": [
+    "lunaria_enigma": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_duruo_jingyechangxi_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "달이 당신의 소원을 제게 전해줬어요. 신은 충실한 사자에게 상을 내릴 거예요. 이제 이 배에 올라 신의 지시를 들어보세요."
         }
     ],
-    "산들바람의_향기": [
+    "breezy_embrace": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_duruo_qingfengruhuai_cacha_001.aac",

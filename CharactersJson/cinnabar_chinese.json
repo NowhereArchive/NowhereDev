@@ -111,7 +111,7 @@
             "text": "安全等级提升。"
         }
     ],
-    "特许护卫": [
+    "special_escort": [
         {
             "title": "获得装束",
             "filename": "File:vo_beisefenni_texuhuwei_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "锈河的确很凶险。不过请放心，我不会让您面对任何风险的——这是我的责任。"
         }
     ],
-    "谦候致意": [
+    "courteous_call": [
         {
             "title": "获得装束",
             "filename": "File:vo_beisefenni_qianhouzhiyi_cacha_001.aac",

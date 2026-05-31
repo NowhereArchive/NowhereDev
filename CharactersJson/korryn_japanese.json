@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_korryn_levelup_002.aac",
             "text": "ワオ、ディスのハイテクじゃ～ん。"
-        }
-    ],
-    "コリン-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_korryn_head_001.aac",
             "text": "知ってる？あたしの髪を触る人のほとんどは……ふふっ、大丈夫、あんたは違うから。"
         }
     ],
-    "黄金の洞窟": [
+    "aureate_ambush": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_korryn_huangjinku_cacha_001.aac",

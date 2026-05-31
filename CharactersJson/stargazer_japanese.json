@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_anarkia_levelup_002.aac",
             "text": "魂の本当の姿はつかみにくいのだけど、ふふ、とっても魅力的だわ……。"
-        }
-    ],
-    "スターゲイザー-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_anarkia_head_001.aac",
             "text": "ふふ、新人の占い師も同じように水晶を触ってたわ。"
         }
     ],
-    "月夜の綺談": [
+    "moonlit_enchantment": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_anarkia_yueyeqitan_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "永遠にあたしのそばにいてくれたら、どんな願いでも……叶えてあげるわ。"
         }
     ],
-    "日覆いの予言": [
+    "sunfall_prophecy": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_anarkia_furiyuyan_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_don_levelup_002.aac",
             "text": "悪くない、いい感じだ。"
-        }
-    ],
-    "ドナルド-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_don_head_001.aac",
             "text": "おいおい、もう触るな。まるで鳥の巣じゃねぇか。せっかくイカした髪型にしたのに、めちゃくちゃにした責任とってくれるのか？"
         }
     ],
-    "人生の盛時": [
+    "good_old_days": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_don_fenghuazhengmao_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_adela_levelup_002.aac",
             "text": "감사합니다. 제가 어떻게 보답해야 할까요?"
-        }
-    ],
-    "아델라_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_adela_head_001.aac",
             "text": "제 스타일이 맘에 드시나요? 요즘 신성에서 가장 유행하는 스타일이랍니다. 똑같은 스타일을 원한다면… 머리부터 길러야겠네요."
         }
     ],
-    "탑의_촛불": [
+    "candlelit_turret": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "당신의 눈빛엔 진심이 가득하네요. 제가 당신과 함께 떠나길 바라는 거라면, 함께 할게요… 다만 그 전에, 당신이 잠시 여기 머물며 발걸음을 늦추고 마음을 진정시켰으면 좋겠어요."
         }
     ],
-    "숲속의_손님": [
+    "woodland_wanderer": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",

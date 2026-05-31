@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "この刀は血にまみれることに慣れてる。オレも同じだ。"
-        }
-    ],
-    "セト-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "腕がいらねぇなら、そう言え。"
         }
     ],
-    "主なき帆": [
+    "masterless_sail": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",

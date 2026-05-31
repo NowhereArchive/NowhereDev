@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_rahu_levelup_002.aac",
             "text": "悪くない。もっとくれ。これが必要だ。"
-        }
-    ],
-    "ラーフ-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_rahu_head_001.aac",
             "text": "私の髪の毛が……好きだと？ありがとう。"
         }
     ],
-    "晴天密行": [
+    "radiant_stealth": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "他の人が位置につくまで、そうして私を見つめるつもりですか？キャラ設定を守る？分かりました……私からの返答が必要な場合は、言ってください。"
         }
     ],
-    "栄えある契約": [
+    "loyal_oath": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_milly_levelup_002.aac",
             "text": "你为我准备的礼物就是全世界最好的礼物。"
-        }
-    ],
-    "蜜莉-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_milly_head_001.aac",
             "text": "你也喜欢这头金发吗？那太好了！很多人和你一样喜欢它，可是……他们都不像你这么温柔。"
         }
     ],
-    "流光画影": [
+    "timeless_silhouette": [
         {
             "title": "获得装束",
             "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",

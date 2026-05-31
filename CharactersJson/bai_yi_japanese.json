@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_linglan_levelup_002.aac",
             "text": "はいはいはい。必要ならいいわ。"
-        }
-    ],
-    "ハクイツ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_linglan_head_001.aac",
             "text": "本当に落ち着きがないわね。どうしたの？あたしとドライブにでも行きたいの？"
         }
     ],
-    "霜刀夜行": [
+    "blade_of_night": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "これは……あたしを監視するつもり？じゃあ、きみのまばたきとあたしの動き、どっちが早いか勝負しよう？"
         }
     ],
-    "波間のイルカ": [
+    "wave_rider": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "よし、船員は持ち場につけ。深海へ出発するぞ～！"
         }
     ],
-    "春守りし将軍": [
+    "aeon's_vanguard": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",

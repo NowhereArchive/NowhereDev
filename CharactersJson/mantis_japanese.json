@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "環境の変化に……慣れないと。"
-        }
-    ],
-    "マンティス-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "でも……これじゃダメだ……キチンの殻で……何も感じない……"
         }
     ],
-    "森に佇む影": [
+    "sylvan_silhouette": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "ここには誰もいない。あるのは、ただ水面に映る二つの影と……交わるアタシたちの視線だけ……"
         }
     ],
-    "緑陰ノート": [
+    "botanical_notes": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",

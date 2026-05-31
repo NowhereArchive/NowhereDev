@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_shalom_levelup_002.aac",
             "text": "うん……懐かしい感覚だ。"
-        }
-    ],
-    "シャローム-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_shalom_head_001.aac",
             "text": "なんだ、ご褒美でも欲しいのか？"
         }
     ],
-    "昼の如き夜光": [
+    "city_never_sleeps": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "私と一緒にいるのが好きか？うん……安心したまえ。私は離れたりしない。"
         }
     ],
-    "暗夜を共に": [
+    "undawning_nighttide": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "どこへ行こうとも、私はキミと共にいよう——たとえそれが世界の果てであっても。"
         }
     ],
-    "風雅な月宴": [
+    "moonlit_magnolias": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",

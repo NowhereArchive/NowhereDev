@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_dimeng_levelup_002.aac",
             "text": "まだまだ耐えられる。"
-        }
-    ],
-    "デーモン-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_dimeng_head_001.aac",
             "text": "それは……俺の好むものではない。"
         }
     ],
-    "ネオンの下で": [
+    "under_the_neon_lights": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_dimeng_nihongzhixia_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "任務を無事果たせるよう、俺がきみを守ろう。だからあまりぐずぐずするな。時間の無駄だ。"
         }
     ],
-    "雨夜同じ道を": [
+    "rainy_night_encounter": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_dimeng_yuyetongtu_cacha_001.aac",

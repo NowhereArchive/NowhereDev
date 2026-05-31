@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "これはあなたが贈ってくれた証なの？"
-        }
-    ],
-    "グレイヴ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_graves_head_001.aac",
             "text": "あなたにベールを上げられる時、わたしの醜さが全て露わになってしまう……そ、それでもわたしにキスをしてくれる？"
         }
     ],
-    "幽庭に眠る影": [
+    "reverie_belle": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "あなたの瞳が、わたしを呪いから守ってくれると信じているわ……だからずっとわたしを見ていて、勇者さん。"
         }
     ],
-    "深廊で蝶誘う": [
+    "heartflutter_corridor": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",

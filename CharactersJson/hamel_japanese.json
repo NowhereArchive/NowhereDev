@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_hameier_levelup_002.aac",
             "text": "なんだか……ふわふわしている？"
-        }
-    ],
-    "ハーメル-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_hameier_head_001.aac",
             "text": "えっ？わたしと……踊りたいのですか？"
         }
     ],
-    "アレグリアス": [
+    "joyful_tune": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hameier_huanyudiao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "わたしを見たからには、目をそらさないでくださいね。わたしの感情を、このダンスに乗せてあなたに伝えます。"
         }
     ],
-    "オディール": [
+    "odile": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hameier_aojiliya_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "あなたとわたしが音楽とダンスに囲まれ、永遠に自由に、楽しくこの瞬間に浸っていられたらどんなにいいでしょうか。"
         }
     ],
-    "さざ波の傍に": [
+    "azure_waltz_in_solace": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hameier_yiweilianyi_cacha_001.aac",

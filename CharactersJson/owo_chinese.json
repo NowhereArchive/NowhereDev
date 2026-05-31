@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_owo_levelup_002.aac",
             "text": "嗷——！"
-        }
-    ],
-    "嗷呜-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_owo_head_001.aac",
             "text": "狮头是不是很漂亮？很霸气？很威风？是不是很想摸一摸？哼哼……想得美！"
         }
     ],
-    "舞狮之王": [
+    "king_of_lion_dance": [
         {
             "title": "获得装束",
             "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "汉堡、薯条、鸡翅、蛋挞，全都再来一份！……你这样看着我干嘛？我还能吃好多好多好多！不许小瞧我！"
         }
     ],
-    "喜狮迎门": [
+    "auspicious_prancer": [
         {
             "title": "获得装束",
             "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",

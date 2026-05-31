@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_angel_levelup_002.aac",
             "text": "報酬を受け取った。"
-        }
-    ],
-    "エンジェル-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_angel_head_001.aac",
             "text": "どうした、私に話があるのか？"
         }
     ],
-    "孤剣と蓮": [
+    "lurking_lotusblade": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_angel_gujianjinghe_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "私たちの仕事は、顔を簡単に覚えられてはいけない。そうやって私をじっと見つめた人間が最後にどうなったか……知りたくないだろう。私と知り合ったことは墓まで持って行く。そうだな？私はお前の庭が気に入っているんだ。次に来た時、またお前に会えることを願っている。"
         }
     ],
-    "ディープサウンド": [
+    "thunder_beat": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_angel_chenxiang_cacha_001.aac",

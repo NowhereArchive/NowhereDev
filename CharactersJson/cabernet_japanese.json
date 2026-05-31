@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_cab_levelup_002.aac",
             "text": "ん～味は悪くありませんわね。"
-        }
-    ],
-    "カベルネ-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_cab_head_001.aac",
             "text": "一部の食材において、この部位が一番美味しくってよ。あなたもそう思いませんこと？"
         }
     ],
-    "酩酊誘夢": [
+    "bacchanal_reverie": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_cab_mingdingyoumeng_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "私が自ら手を下すのをそんなに楽しみにしているのですか？あなたは、私の体温と吐息が……このお酒とフルーツを楽しむのに最適だと思っているようですわね～"
         }
     ],
-    "共酔": [
+    "intoxication_à_deux": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_cab_gongzui_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "そうして一歩ずつ私の後をついてくるのは、私のグルメ評論家としての能力を信じているからでしょうか？それとも監督者としての職務を遂行しているだけですの？ただついてくるだけではなく、私の手を取り、傍にいてくださいまし。そうすれば、私の全てを見ることができますわよ……"
         }
     ],
-    "殷紅の宴": [
+    "crimson_prologue": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_cab_yanhongxuyan_cacha_001.aac",

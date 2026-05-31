@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "必须……适应环境的改变。"
-        }
-    ],
-    "曼缇斯-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "可是……这样是没用的……几丁质外壳……感觉不到……"
         }
     ],
-    "深林傍影": [
+    "sylvan_silhouette": [
         {
             "title": "获得装束",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "这里别无他人，只有倒映在水中的两道身影……以及……你与我相触的目光……"
         }
     ],
-    "绿荫笔记": [
+    "botanical_notes": [
         {
             "title": "获得装束",
             "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",

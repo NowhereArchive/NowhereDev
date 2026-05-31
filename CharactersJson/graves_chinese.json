@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_graves_levelup_002.aac",
             "text": "这是你给我的信物吗？"
-        }
-    ],
-    "格芮芙-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_graves_head_001.aac",
             "text": "你掀起了我的头纱，看到了我有多丑陋……可、可即使是这样，你还是愿意给我一个吻吗？"
         }
     ],
-    "幽庭寐影": [
+    "reverie_belle": [
         {
             "title": "获得装束",
             "filename": "File:vo_graves_youtingmeiying_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "我相信，你的目光会保护我，让我免受诅咒的侵扰……一直看着我吧，勇者。"
         }
     ],
-    "深廊引蝶": [
+    "heartflutter_corridor": [
         {
             "title": "获得装束",
             "filename": "File:vo_graves_shenlangyindie_cacha_001.aac",

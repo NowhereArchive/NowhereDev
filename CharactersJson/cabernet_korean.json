@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_cab_levelup_002.aac",
             "text": "음~ 맛이 좋은걸?"
-        }
-    ],
-    "카베르네_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_cab_head_001.aac",
             "text": "어떤 음식은 확실히 이 부위가 가장 맛있지. 너도 그렇게 생각해?"
         }
     ],
-    "바카날_레버리": [
+    "bacchanal_reverie": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_mingdingyoumeng_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "내가 직접 나서길 바라는 거야? 이 아름다운 술과 열매에… 내 체온과 숨결이 더해지길 바라는구나~"
         }
     ],
-    "연회의_품격": [
+    "intoxication_à_deux": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_gongzui_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "이렇게 날 졸졸 따라다니는 건, 음식에 대한 나의 평가를 믿어서야, 아니면 감독자로서의 책임을 다하기 위해서야? 뒤에서 따라오지만 말고, 내 손을 잡고 내 곁에 있어 줘. 이렇게 하면 내 모든 걸 직접 볼 수 있잖아?"
         }
     ],
-    "선홍빛_연회": [
+    "crimson_prologue": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_cab_yanhongxuyan_cacha_001.aac",

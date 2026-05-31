@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_zoya_levelup_002.aac",
             "text": "うーん……まだ足りねぇな。"
-        }
-    ],
-    "ゾーヤ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_zoya_head_001.aac",
             "text": "ふっ、大胆なことをするじゃねえか……。"
         }
     ],
-    "餓狼襲来": [
+    "wolves_strike_soon": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "ほう？やっと入団する気になったか？"
         }
     ],
-    "この上ない交渉": [
+    "supreme_negotiation": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "この服、交渉のテーブルにつくにはふさわしいが、動くには少し邪魔なんだよな。まぁいい……これも、あいつらの気持ちだ。"
         }
     ],
-    "荒雪統御": [
+    "lord_of_rimehowl": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",

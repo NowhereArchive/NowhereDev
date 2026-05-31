@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_mantis_levelup_002.aac",
             "text": "반드시… 환경의 변화에 적응해야 해요."
-        }
-    ],
-    "맨티스_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_mantis_head_001.aac",
             "text": "그래봤자… 소용없어요… 제 외골격은… 감각이 없거든요…"
         }
     ],
-    "깊은_숲의_그림자": [
+    "sylvan_silhouette": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mantis_shenlinbangying_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "여긴 아무도 없어요. 물에 비친 두 사람의 모습… 그리고… 우리의 마주 보는 눈빛뿐이죠…"
         }
     ],
-    "식물_수첩": [
+    "botanical_notes": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_mantis_lvyinbiji_cacha_001.aac",

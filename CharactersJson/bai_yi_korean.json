@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_linglan_levelup_002.aac",
             "text": "그래그래그래~ 네가 원한다면~!"
-        }
-    ],
-    "백_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_linglan_head_001.aac",
             "text": "왜? 국장도 나랑 같이 바람 좀 쐬러 나갈래?"
         }
     ],
-    "나이트_워커": [
+    "blade_of_night": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_yeyoushen_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "나를… 딱 붙어서 감시할 셈이야? 어디 한번 네 눈꺼풀이 깜빡이는 속도가 빠른지, 내 움직임이 빠른지 볼까?"
         }
     ],
-    "파도_속의_백": [
+    "wave_rider": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_langlibaitiao_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "자, 모든 선원은 자리로! 이제 깊은 바다로 떠나볼까!"
         }
     ],
-    "평화의_장군": [
+    "aeon's_vanguard": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_linglan_suianjiangjun_cacha_001.aac",

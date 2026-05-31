@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_parfait_levelup_002.aac",
             "text": "これは……私への投資？どうやら閣下は最近、かなりの収益を上げているようね。"
-        }
-    ],
-    "パフェ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_parfait_head_001.aac",
             "text": "センスがいいわね。これは上庭で流行っているヘアスタイルで、誰でもできるわけではないのよ。もしよければ、美容師を紹介しましょうか？"
         }
     ],
-    "ビューティサロン": [
+    "salon_rosé": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",

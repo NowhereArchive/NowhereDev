@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_yingying_levelup_002.aac",
             "text": "这些，都是只给我一人的？"
-        }
-    ],
-    "萦萦-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_yingying_head_001.aac",
             "text": "只是摸摸头发丝儿就够了吗？来，我闭上眼，送你几秒钟，还想碰哪里？睫毛？鼻子？还是……想碰碰我的嘴唇呢？"
         }
     ],
-    "小弦初上": [
+    "fluttered_heartstrings": [
         {
             "title": "获得装束",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",

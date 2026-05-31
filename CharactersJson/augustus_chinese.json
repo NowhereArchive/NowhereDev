@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_augustus_levelup_002.aac",
             "text": "不错，又找回些当年的感觉。"
-        }
-    ],
-    "奥古斯特-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_augustus_head_001.aac",
             "text": "帽子上是原狄斯军队的徽记，已经很少见了。要摘下来，换成你MBCC的logo吗？"
         }
     ],
-    "灼宴凯旋": [
+    "triumphant_banquet": [
         {
             "title": "获得装束",
             "filename": "File:vo_Augustus_zhuoyankaixuan_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "신경 써 주셔서 감사합니다."
-        }
-    ],
-    "옐레나_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "걱정해 주셔서 감사합니다만, 저는 피곤하지 않답니다."
         }
     ],
-    "불길_속의_요람": [
+    "scorched_lullaby": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "당신의 눈빛은 특별해요. 온 마음으로 어머니를 믿는 아이들과는 달라 보여요… 그건 당신이 그 아이들보다 더 용감해서일까요, 아니면 더 혼란스러워서일까요?"
         }
     ],
-    "안개_속_빗줄기": [
+    "curtain_of_misty_rain": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",

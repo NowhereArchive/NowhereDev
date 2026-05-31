@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "気にかけてくださり、ありがとうございます。"
-        }
-    ],
-    "イェレナ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "ご心配いただきありがとうございます。まだ疲れていませんわ。"
         }
     ],
-    "灼夜のゆりかご": [
+    "scorched_lullaby": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "あなたの眼差しは特別ですわ。母を心から信じる子供たちのものとは違いますから……それは、あなたが彼らよりも勇敢だからでしょうか？それとも、より迷っているからでしょうか？"
         }
     ],
-    "煙雨の簾": [
+    "curtain_of_misty_rain": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",

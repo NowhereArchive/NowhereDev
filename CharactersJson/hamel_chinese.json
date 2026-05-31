@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_hameier_levelup_002.aac",
             "text": "感觉……轻飘飘的？"
-        }
-    ],
-    "哈梅尔-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_hameier_head_001.aac",
             "text": "嗯？是想要……与我共舞吗？"
         }
     ],
-    "欢愉调": [
+    "joyful_tune": [
         {
             "title": "获得装束",
             "filename": "File:vo_hameier_huanyudiao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "既然看向了我，就请不要移开目光，我的感情，将会通过舞蹈传递给您。"
         }
     ],
-    "奥吉莉亚": [
+    "odile": [
         {
             "title": "获得装束",
             "filename": "File:vo_hameier_aojiliya_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "多希望你我能够被音乐与舞蹈包围，永远自由，欢欣地沉湎于此刻。"
         }
     ],
-    "依偎涟漪": [
+    "azure_waltz_in_solace": [
         {
             "title": "获得装束",
             "filename": "File:vo_hameier_yiweilianyi_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_rahu_levelup_002.aac",
             "text": "아주 좋아, 더 줘. 난 그것들이 필요해."
-        }
-    ],
-    "라후_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_rahu_head_001.aac",
             "text": "내 머리카락이… 맘에 든다고? 고맙군."
         }
     ],
-    "사복순찰": [
+    "radiant_stealth": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_rahu_qingkongmixing_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "다른 사람들이 도착할 때까지 그렇게 계속 쳐다볼 작정이야? 설정대로 하자고? 좋아… 내 대답이 필요하면 말해."
         }
     ],
-    "영광의_서약": [
+    "loyal_oath": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_rahu_rongguangqishi_cacha_001.aac",

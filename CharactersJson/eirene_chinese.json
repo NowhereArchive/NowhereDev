@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_heli_levelup_002.aac",
             "text": "可供驱使的力量，无论何时都不会嫌多。"
-        }
-    ],
-    "伊琳娜-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_heli_head_001.aac",
             "text": "真怀念，曾经也有人这样亲昵地对我，只可惜……他们都已经离开这个世界了。"
         }
     ],
-    "海隅晨光": [
+    "seaside_sunrise": [
         {
             "title": "获得装束",
             "filename": "File:vo_heli_haiyuchenguang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "你欣赏的究竟是海滨的日出，还是别的“美景”？不用移开视线，我并不介意。"
         }
     ],
-    "费沙之女": [
+    "daughter_of_fraser_city": [
         {
             "title": "获得装束",
             "filename": "File:vo_heli_feishazhinv_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "好，先待在我身边吧，我会慢慢告诉你详细计划的。"
         }
     ],
-    "焰色帷声": [
+    "veil_of_flame": [
         {
             "title": "获得装束",
             "filename": "File:vo_heli_yanseweisheng_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_dreya_levelup_002.aac",
             "text": "限界を超える。"
-        }
-    ],
-    "デレーヤ-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_dreya_head_001.aac",
             "text": "あなたも最も堅牢な守りを破り、人類の秘密を覗き見たい？"
         }
     ],
-    "星海の迷夢": [
+    "cosmic_escapist": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_dreya_huanyumimeng_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "あなたはこの星の海を観察しているの？……それとも……わたしを観察しているの？"
         }
     ],
-    "星光きらめく海": [
+    "seastral_starlight": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_dreya_hanhaixingmang_cacha_001.aac",

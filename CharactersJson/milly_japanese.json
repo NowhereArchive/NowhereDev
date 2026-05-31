@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_milly_levelup_002.aac",
             "text": "キミが用意してくれたプレゼントは、世界でいっちばん素敵な贈り物よ。"
-        }
-    ],
-    "ミリー-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_milly_head_001.aac",
             "text": "キミもこのブロンドを気に入ってくれたの？よかった！たくさんの人が好きって言ってくれたけど……キミみたいに優しくはなかったわ。"
         }
     ],
-    "流光絵姿": [
+    "timeless_silhouette": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",

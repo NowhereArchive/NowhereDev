@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_hestia_levelup_002.aac",
             "text": "火焰……更亮了……"
-        }
-    ],
-    "赫斯提亚-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_hestia_head_001.aac",
             "text": "不许这样……圣女……不容亵渎！"
         }
     ],
-    "千灯引愿": [
+    "lambent_wishbearer": [
         {
             "title": "获得装束",
             "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "你的视线，比这盏灯笼还要灼热……像篝火，像火炬……像那些来自凡俗，却让仙人们都忍不住眷恋的火种……"
         }
     ],
-    "谒火黄昏": [
+    "dusk_aglow": [
         {
             "title": "获得装束",
             "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",

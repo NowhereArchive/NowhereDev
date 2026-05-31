@@ -111,7 +111,7 @@
             "text": "これがあなたの望みなら、わたしは従うまで。"
         }
     ],
-    "過去の再訪": [
+    "yesterday_revisits": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
@@ -163,7 +163,7 @@
             "text": "こういうスタイルがお好きですか？管理局の制服にしましょうか？"
         }
     ],
-    "旅人伝説": [
+    "traveler's_tale": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
@@ -215,7 +215,7 @@
             "text": "局長がやりたいのは、どの場所のクエスト？命令をくれれば、一緒に行く。"
         }
     ],
-    "＊": [
+    "darkwing_eclipse": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",

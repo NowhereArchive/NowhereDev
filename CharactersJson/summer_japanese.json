@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_xiayin_levelup_002.aac",
             "text": "糖分補給！"
-        }
-    ],
-    "夏音-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_xiayin_head_001.aac",
             "text": "えっ？どうしたの？さっきの説明でわからないとこあった？そっか……局長になら、何度でも教えてあげるよ。"
         }
     ],
-    "レイダース異想": [
+    "desert_delusions": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_xiayin_kuangshayixiang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "あれっ？局長だ！その装備……まさか局長も砂の海に埋められたお宝を探しに来たの？"
         }
     ],
-    "闇夜の閃光": [
+    "luminous_night": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_xiayin_xiayeshanguang_cacha_001.aac",

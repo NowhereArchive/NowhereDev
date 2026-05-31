@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_hitomi_levelup_002.aac",
             "text": "いい調子! 感覚が研ぎ澄まされたみたい。"
-        }
-    ],
-    "来生瞳-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_hitomi_head_001.aac",
             "text": "どうしたの？ 何か頼み事？"
         }
     ],
-    "ネオンに染まる雨": [
+    "neon_raindrops": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hitomi_yumunihong_cacha_001.aac",

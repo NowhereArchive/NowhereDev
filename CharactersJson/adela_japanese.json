@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_adela_levelup_002.aac",
             "text": "ありがとうございます。どうやって恩返しをすればいいでしょう？"
-        }
-    ],
-    "アデラ-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_adela_head_001.aac",
             "text": "わたしの髪型がお気に召しました？ニューシティで最も流行っている髪型なんです。同じスタイルにするには……髪を伸ばすところから始めないといけませんね。"
         }
     ],
-    "高塔の燭光": [
+    "candlelit_turret": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "あなたの眼差しは誠実さに満ちています。もし、一緒にここを去ることがあなたの望みなら、わたしは必ずそれに応えます……ただ、その時が来るまでは、ここにしばらく留まって、歩みを緩め、緊張を解きほぐしてください。"
         }
     ],
-    "森の来客": [
+    "woodland_wanderer": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",

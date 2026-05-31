@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_yingying_levelup_002.aac",
             "text": "이것들 전부 나만을 위한 거야?"
-        }
-    ],
-    "잉잉_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_yingying_head_001.aac",
             "text": "머리카락을 쓰다듬는 걸로 충분한 거야? 눈 감고 있을 테니, 몇 초 동안 허락해 줄게. 어디를 만지고 싶어? 눈썹? 코? 아니면… 입술을 만지고 싶은 거야?"
         }
     ],
-    "초연의_선율": [
+    "fluttered_heartstrings": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",

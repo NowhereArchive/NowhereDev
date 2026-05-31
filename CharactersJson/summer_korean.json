@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_xiayin_levelup_002.aac",
             "text": "당 보충!"
-        }
-    ],
-    "여름_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_xiayin_head_001.aac",
             "text": "응? 왜요? 아까 설명한 내용을 이해 못 하셨나요? 아이고… 국장님이라면 몇 번이고 설명해드릴 수 있죠."
         }
     ],
-    "기발한_생각": [
+    "desert_delusions": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_xiayin_kuangshayixiang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "잉? 국장님이잖아? 보아하니… 국장님도 화이트 샌드에 묻혀있는 보물을 찾으러 온 거구만?"
         }
     ],
-    "빛나는_여름밤": [
+    "luminous_night": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_xiayin_xiayeshanguang_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_ll_levelup_002.aac",
             "text": "날 그렇게 대해 줘서 기뻐, 계속 이렇게 해줘!"
-        }
-    ],
-    "l.l._-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_ll_head_001.aac",
             "text": "너한테만 알려주는 건데, 사실 나 아주 오래전부터 이미 널 내 머릿속에 가둬뒀어~"
         }
     ],
-    "고요_속의_소리": [
+    "astral_rhapsody": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_nuokesi_levelup_002.aac",
             "text": "또 한걸음 가까워졌네…"
-        }
-    ],
-    "nox_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_nuokesi_head_001.aac",
             "text": "이렇게 하면 안 돼. 이건… 위험해."
         }
     ],
-    "순백의_기도": [
+    "ashen_prayer": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_nuokesi_baixiunv_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "나를 찾은 건… 이룰 수 없는 소원이 있기 때문인가? 걱정 마, 널 위해 기도해 줄게."
         }
     ],
-    "여명의_어둠": [
+    "gloom_of_daybreak": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_nuokesi_poxiaozhian_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "기도만으로는 기적도, 요괴의 연민도 불러일으킬 수 없어… 맞서 싸우는 것만이 우리가 생존할 수 있는 유일한 방법이야… 운명의 선택을 받은 인간이여, 내가 너의 예리한 칼날이 되어 너를 위해, 살고자 발버둥 치는 모든 이에게 마지막 희망을 가져다주지!"
         }
     ],
-    "그림_속_아침_햇살": [
+    "into_the_tinted_dawn": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_nuokesi_huazhongchenxi_cacha_001.aac",

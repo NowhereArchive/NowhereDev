@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_bianca_levelup_002.aac",
             "text": "もっともっと爆発的なニュースを探し続けられるように、アタシを励ましてくれてるんだよね？やーん、超感動……うう……"
-        }
-    ],
-    "ビアンカ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_bianca_head_001.aac",
             "text": "この動き、アタシが犯行現場で撮影した時のことを思い出したよ。容疑者は相手の首に手をかけて——ボキッ！高画質動画も保存してあるから一緒に見る？"
         }
     ],
-    "ミス・リンゴのトップニュース": [
+    "in-cider_scoop": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "わぁ、カメラだ！皆さん、私をご覧ください。ディスで最も偉大な記者・ビアンカが今日の晩餐会のビッグニュースをお届けいたします！"
         }
     ],
-    "バウンストッカータ": [
+    "bouncing_toccata": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",

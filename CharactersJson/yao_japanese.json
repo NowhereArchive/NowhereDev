@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_yao_levelup_002.aac",
             "text": "照らそうぞ……より広い領域を。"
-        }
-    ],
-    "曜-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_yao_head_001.aac",
             "text": "太陽の輝きは、決して霞ませてはならぬ！"
         }
     ],
-    "燃える神舞": [
+    "fireborne_offering": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "神を喜ばせるこの舞が気に入ったか？ならば、曲が終わるまで儂を見て、儂を信じよ。"
         }
     ],
-    "長き宵照らす光": [
+    "evernight's_radiance": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_yugu_levelup_002.aac",
             "text": "보답으로… 당신에게 기이한 이야기를 들려드리죠."
-        }
-    ],
-    "유구_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_yugu_head_001.aac",
             "text": "제가 어린아이였을 때, 어머니께서도 이렇게 자주 제 머리를 쓰다듬어 주셨죠. 하하… 당신도 어머니처럼 부드럽고… 제 마음을 이해해 주시는군요."
         }
     ],
-    "예언의_옥대": [
+    "celestial_augury": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_yugu_wenjiyaotai_cacha_001.aac",

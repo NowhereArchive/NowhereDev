@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_milly_levelup_002.aac",
             "text": "당신이 내게 준비한 선물이야말로 세상에서 가장 소중한 선물이야."
-        }
-    ],
-    "밀리_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_milly_head_001.aac",
             "text": "내 금발 머리, 마음에 들어? 다행이야! 이걸 좋아하는 사람은 많았지만… 당신처럼 다정한 사람은 없었거든."
         }
     ],
-    "빛의_윤곽": [
+    "timeless_silhouette": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_milly_liuguanghuaying_cacha_001.aac",

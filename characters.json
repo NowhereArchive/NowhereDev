@@ -539,10 +539,6 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "graves_-_rank_up",
-                    "displayName": "Graves - Rank Up"
-                },
-                {
                     "name": "reverie_belle",
                     "displayName": "Reverie Belle"
                 },
@@ -602,10 +598,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "kisugi_hitomi_-_rank_up",
-                    "displayName": "Kisugi Hitomi - Rank up"
                 },
                 {
                     "name": "neon_raindrops",
@@ -805,10 +797,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "hypatia_-_rank_up",
-                    "displayName": "Hypatia - Rank Up"
                 },
                 {
                     "name": "crepuscular_bloom",
@@ -1067,10 +1055,6 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "kisugi_rui_-_rank_up",
-                    "displayName": "Kisugi Rui - Rank up"
-                },
-                {
                     "name": "tipsy_nocturne",
                     "displayName": "Tipsy Nocturne"
                 }
@@ -1314,10 +1298,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "irrheia_-_rank_up",
-                    "displayName": "Irrheia - Rank Up"
                 }
             ],
             "slug": "irrheia"
@@ -1523,10 +1503,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "luminita_-_rank_up",
-                    "displayName": "Luminita - Rank Up"
                 }
             ],
             "slug": "luminita"
@@ -1557,10 +1533,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "rumina_-_rank_up",
-                    "displayName": "Rumina - Rank Up"
                 }
             ],
             "slug": "rumina"
@@ -1793,10 +1765,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "lysandra_-_rank_up",
-                    "displayName": "Lysandra - Rank Up"
                 }
             ],
             "slug": "lysandra"
@@ -2573,10 +2541,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "kisugi_ai_-_rank_up",
-                    "displayName": "Kisugi Ai - Rank up"
                 },
                 {
                     "name": "tender_signal",

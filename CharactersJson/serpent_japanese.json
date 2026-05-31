@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_snake_levelup_002.aac",
             "text": "喜んでくれるといいんだけど～"
-        }
-    ],
-    "ナチャ-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_snake_head_001.aac",
             "text": "勇者が剣を蛇の頭部に刺して、邪悪な大蛇を殺したの。その頭部がどこにあるか知っているかしら？あなたがさっき触ったトコよ。"
         }
     ],
-    "甘眠より醒む": [
+    "awake_from_slumber": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "あらぁ、もうすぐ着替え終わるわよ。これ以上急かすと……あなたを噛んじゃうから！"
         }
     ],
-    "＊": [
+    "source_of_happiness": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "＊"
         }
     ],
-    "特製魔法薬": [
+    "elixir_of_euphoria": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",

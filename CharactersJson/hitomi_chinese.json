@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_hitomi_levelup_002.aac",
             "text": "状态不错！感官好像更敏锐了。"
-        }
-    ],
-    "来生瞳-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_hitomi_head_001.aac",
             "text": "怎么了？有事想拜托我吗？"
         }
     ],
-    "雨沐霓虹": [
+    "neon_raindrops": [
         {
             "title": "获得装束",
             "filename": "File:vo_hitomi_yumunihong_cacha_001.aac",

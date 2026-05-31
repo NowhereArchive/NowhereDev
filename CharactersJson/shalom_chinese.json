@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_shalom_levelup_002.aac",
             "text": "嗯……熟悉的感觉。"
-        }
-    ],
-    "瑟琳-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_shalom_head_001.aac",
             "text": "怎么，你也想要什么奖励吗？"
         }
     ],
-    "夜华如昼": [
+    "city_never_sleeps": [
         {
             "title": "获得装束",
             "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "你很喜欢和我待在一起吗？嗯……放心，我不会离开的。"
         }
     ],
-    "黯夜同行": [
+    "undawning_nighttide": [
         {
             "title": "获得装束",
             "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "无论你前往何处，我将会与你同在——哪怕是世界的尽头。"
         }
     ],
-    "兰庭月会": [
+    "moonlit_magnolias": [
         {
             "title": "获得装束",
             "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",

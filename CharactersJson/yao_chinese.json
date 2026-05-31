@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_yao_levelup_002.aac",
             "text": "照耀……更广袤的疆域。"
-        }
-    ],
-    "曜-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_yao_head_001.aac",
             "text": "太阳的华光，不容遮蔽！"
         }
     ],
-    "舞祭天烛": [
+    "fireborne_offering": [
         {
             "title": "获得装束",
             "filename": "File:vo_yao_wujitianzhu_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "喜欢这支取悦神明的傩舞吗？那就看着我、相信我，直到乐曲结束吧！"
         }
     ],
-    "光曜长宵": [
+    "evernight's_radiance": [
         {
             "title": "获得装束",
             "filename": "File:vo_yao_guangyaochangxiao_cacha_001.aac",

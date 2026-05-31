@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_zero_levelup_002.aac",
             "text": "수치 조정 완료!"
-        }
-    ],
-    "000_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_zero_head_001.aac",
             "text": "고양이 귀가 마음에 들어? 이걸 쓰면 내 머리를 쓰다듬을 줄 알았지. 자자, 마음껏 쓰다듬어~"
         }
     ],
-    "이세계_마녀": [
+    "xenospace_pythoness": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zero_yidumonv_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "마녀의 차원에 발을 들였으면 영원히 이곳에 남을 각오는 되어 있겠지? 앞으로 영원히 내 곁에 있어 줘. 말 없으면 동의하는 걸로 알고 있을게."
         }
     ],
-    "사이버_랩소디": [
+    "amped_frenzy": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zero_chaopinkuangchao_cacha_001.aac",

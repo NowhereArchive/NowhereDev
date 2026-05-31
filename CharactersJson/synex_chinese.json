@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_synex_levelup_002.aac",
             "text": "嗯？对我这么好呀？"
-        }
-    ],
-    "西涅克斯-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_synex_head_001.aac",
             "text": "新项圈？那可要好好给我带上，别碰到什么不该碰的地方……"
         }
     ],
-    "街头恶霸": [
+    "street_striker": [
         {
             "title": "获得装束",
             "filename": "File:vo_synex_jietoueba_cacha_001.aac",

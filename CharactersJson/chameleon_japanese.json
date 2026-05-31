@@ -111,7 +111,7 @@
             "text": "これで、より深淵に近づけたわ……。"
         }
     ],
-    "夢の啓示": [
+    "message_in_dreams": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "「汝自身を知れ」——一見簡単そうでも、数々の人間がここで躓いてきたの。そして今……あなたの番がやってきたわ。"
         }
     ],
-    "儚い浮き世": [
+    "dream's_ephemera": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_enfer_levelup_002.aac",
             "text": "うむ、良いな。"
-        }
-    ],
-    "エンフェル-02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_enfer_head_001.aac",
             "text": "なんじゃ、そなたも芸術の才を欲するか？"
         }
     ],
-    "彫刻者の巣": [
+    "sculptor's_nest": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_enfer_zankezhezhichao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "そなたの視線のせいで仕事にならぬ……ん？それとも、そなたをモデルにして何か作ることを期待しておるのか？"
         }
     ],
-    "輝く璞玉": [
+    "virtuoso_of_jade": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.aac",

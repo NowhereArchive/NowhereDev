@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_hestia_levelup_002.aac",
             "text": "불꽃이… 더 밝아졌어…"
-        }
-    ],
-    "헤스티아_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_hestia_head_001.aac",
             "text": "어딜 감히… 성녀를… 모독해선 안 돼!"
         }
     ],
-    "소원의_등불": [
+    "lambent_wishbearer": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hestia_qiandengyinyuan_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "너의 시선은 이 등불보다도 뜨거워… 모닥불과 횃불처럼… 마치 세속에서 왔지만, 신선들도 그리워하게 하는 불씨 같아…"
         }
     ],
-    "황혼의_불빛": [
+    "dusk_aglow": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hestia_yehuohuanghun_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_pearl_levelup_002.aac",
             "text": "어머~ 내가 무대 위의 대스타도 아닌데 웬 꽃이야? 뭐, 일단 받아둘게~"
-        }
-    ],
-    "레이디_펄_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_pearl_head_001.aac",
             "text": "짓궂기는~ 지금 이러고 있을 때는 아닌 것 같은데~"
         }
     ],
-    "연극의_시편": [
+    "glorious_spectacle_unfolds": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_pearl_muxiahuazhang_cacha_001.aac",

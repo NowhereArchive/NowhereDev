@@ -111,7 +111,7 @@
             "text": "如果这就是你所期望的，我会去做。"
         }
     ],
-    "昨日重现": [
+    "yesterday_revisits": [
         {
             "title": "获得装束",
             "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
@@ -163,7 +163,7 @@
             "text": "如果你喜欢这种风格的话……要把它做成管理局的常用制服吗？"
         }
     ],
-    "旅人传说": [
+    "traveler's_tale": [
         {
             "title": "获得装束",
             "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
@@ -215,7 +215,7 @@
             "text": "局长想去哪个地方做任务？只要给我命令，我会陪你一起去的。"
         }
     ],
-    "黯羽刹光": [
+    "darkwing_eclipse": [
         {
             "title": "获得装束",
             "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",

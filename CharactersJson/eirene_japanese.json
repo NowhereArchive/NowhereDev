@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_heli_levelup_002.aac",
             "text": "使える力は、いつだって多い方がいいわ。"
-        }
-    ],
-    "エイレーネー-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_heli_head_001.aac",
             "text": "懐かしいわね。こんなふうに私を撫でてくれる人もいたのに……みんなこの世からいなくなってしまった。"
         }
     ],
-    "海辺の朝日": [
+    "seaside_sunrise": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_heli_haiyuchenguang_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "海辺の日の出を楽しんでいるの？それとも、別の「絶景」に気を取られているのかしら？目を逸らさなくていいわ。気にしていないから。"
         }
     ],
-    "フィシャの少女": [
+    "daughter_of_fraser_city": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_heli_feishazhinv_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "いいわよ。まず傍に来て。計画の詳細をゆっくり教えてあげるから。"
         }
     ],
-    "焔色響華": [
+    "veil_of_flame": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_heli_yanseweisheng_cacha_001.aac",

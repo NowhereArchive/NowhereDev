@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_enfer_levelup_002.aac",
             "text": "음~ 잘 다듬어졌네요."
-        }
-    ],
-    "엔퍼_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_enfer_head_001.aac",
             "text": "왜요, 당신도 예술적인 분위기에 물들고 싶나요?"
         }
     ],
-    "조각가의_아지트": [
+    "sculptor's_nest": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_enfer_zankezhezhichao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "그렇게 쳐다보시니까 작업을 할 수가 없네요… 음, 혹시 당신을 모델로, 뭔가 창작하기를 기대하시는 건가요?"
         }
     ],
-    "빛나는_옥": [
+    "virtuoso_of_jade": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.aac",

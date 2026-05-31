@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_yugu_levelup_002.aac",
             "text": "作为报酬……就让在下为您讲些奇闻轶事吧。"
-        }
-    ],
-    "玉骨-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_yugu_head_001.aac",
             "text": "从前，我还是个孩子时，母亲也常常这般抚摸我的头，呵呵……我想您和她一样温柔，一样……理解我的心思。"
         }
     ],
-    "问乩瑶台": [
+    "celestial_augury": [
         {
             "title": "获得装束",
             "filename": "File:vo_yugu_wenjiyaotai_cacha_001.aac",

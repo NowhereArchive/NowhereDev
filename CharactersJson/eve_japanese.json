@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_eve_levelup_002.aac",
             "text": "どうして、この役立たずの身体を諦めないんですか……"
-        }
-    ],
-    "イヴ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_eve_head_001.aac",
             "text": "もう少し手を置いていてもらえませんか？この温もりも、また昔のようにすぐ消えてしまうんじゃないかと心配なんです……"
         }
     ],
-    "星が輝く夜": [
+    "agleam_escapade": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "なんでそんな目で私を見ているんですか？もっと悪い知らせがあるなら、そう言ってください。心配しなくても、長い間水晶玉に監禁されるより悪いことはありません。"
         }
     ],
-    "蒼き静寂の森": [
+    "frostling_whisper": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_eve_cangjimilin_cacha_001.aac",

@@ -111,7 +111,7 @@
             "text": "やったあ！"
         }
     ],
-    "ハートの女王": [
+    "queen_of_hearts": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hella_hongxinnvwang_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "コホン！あたしたちの平等な関係を保つため、女王の名において命じる……って、おいコラ！また枷使って変なことしようとしてんな！"
         }
     ],
-    "＊": [
+    "food_tour": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hella_meishizhilv_cacha_001.aac",
@@ -195,7 +195,7 @@
             "text": "＊"
         }
     ],
-    "砂の海の旅": [
+    "northward_to_whitesands": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hella_shahaiqilv_cacha_001.aac",

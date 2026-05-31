@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_ll_levelup_002.aac",
             "text": "あなたにこうされるのが好きなの。もっとお願い～"
-        }
-    ],
-    "l.l.-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_ll_head_001.aac",
             "text": "こっそり教えてあげるわ。私はずっと前からあなたを頭の中に閉じ込めているのよ～"
         }
     ],
-    "静寂に響く": [
+    "astral_rhapsody": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_synex_levelup_002.aac",
             "text": "ん？そんなに優しくしてくれるのかい？"
-        }
-    ],
-    "シニックス-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_synex_head_001.aac",
             "text": "新しい首輪？ちゃんと着けてね。変な所は触らないように……"
         }
     ],
-    "ストリートギャング": [
+    "street_striker": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_synex_jietoueba_cacha_001.aac",

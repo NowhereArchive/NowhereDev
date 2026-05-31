@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_synex_levelup_002.aac",
             "text": "음? 나한테 이렇게 잘해준다고?"
-        }
-    ],
-    "시넥스_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_synex_head_001.aac",
             "text": "새 목줄인가? 그럼 제대로 채워 줘. 건드리면 안 되는 곳은 건드리지 말고…"
         }
     ],
-    "스트리트_파이터": [
+    "street_striker": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_synex_jietoueba_cacha_001.aac",

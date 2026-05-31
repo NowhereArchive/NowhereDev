@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_eleven_levelup_002.aac",
             "text": "자, 좀 더 다가와 주세요, 더… 가까이."
-        }
-    ],
-    "일레븐_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_eleven_head_001.aac",
             "text": "제가 당신을 얼마나 그리워했는지 알고 싶나요?"
         }
     ],
-    "설레는_여름": [
+    "rippling_heartthrobs": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eleven_xinchaomanxia_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "저만 그렇게 쳐다보지 말아요. 해변에 왔는데 바다를 즐겨 보세요… 정 그렇게 저와 이야기하고 싶다면, 퇴근 후에 저와 함께 해변을 걷는 건 어때요? 하하, 좋아요. 퇴근하면 제가 전화할게요~"
         }
     ],
-    "마음의_물결": [
+    "trickling_heartstream": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eleven_xinliuweilan_cacha_001.aac",

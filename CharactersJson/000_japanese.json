@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_zero_levelup_002.aac",
             "text": "データ変更完了～"
-        }
-    ],
-    "000-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_zero_head_001.aac",
             "text": "この猫耳気に入ったの？これをつけたら、ワタシの頭をいっぱい撫でてくれるって分かってたんだ。ほら、もっと撫でて～"
         }
     ],
-    "異空間の魔女": [
+    "xenospace_pythoness": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_zero_yidumonv_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "魔女の次元に来たのなら、永遠にここにいる覚悟があるんだよね？それならワタシとず～っと一緒にいよう。何も言わないなら、イエスってことにするよん。"
         }
     ],
-    "オーバークロックの嵐": [
+    "amped_frenzy": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_zero_chaopinkuangchao_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_eve_levelup_002.aac",
             "text": "왜 저같이 쓸모없는 짐 덩어리를 포기하지 않으시는 거죠…?"
-        }
-    ],
-    "이브_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_eve_head_001.aac",
             "text": "그 손… 조금만 더 머물 수 있어요? 예전처럼 이 따스함도 순식간에 사라질까 두려워요…"
         }
     ],
-    "별이_빛나는_밤": [
+    "agleam_escapade": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eve_xinghuizhiye_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "왜 그렇게 저를 쳐다보세요? 만약 더 나쁜 소식이 있다면 그냥 말해주세요. 걱정하지 마세요. 오랜 세월 수정구에 갇혀 있었던 것보다 더 나쁜 상황은 없을 테니까요."
         }
     ],
-    "적막한_숲": [
+    "frostling_whisper": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_eve_cangjimilin_cacha_001.aac",

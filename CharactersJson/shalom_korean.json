@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_shalom_levelup_002.aac",
             "text": "음… 익숙한 느낌이야."
-        }
-    ],
-    "샬롬_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_shalom_head_001.aac",
             "text": "뭐야, 너도 보상 같은 걸 원하는 거야?"
         }
     ],
-    "럭셔리_나이트": [
+    "city_never_sleeps": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shalom_yehuaruzhou_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "나랑 같이 있는 게 좋은 거야? 응… 걱정하지 마, 당신 곁에 있을게."
         }
     ],
-    "어두운_밤의_동행": [
+    "undawning_nighttide": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shalom_anyetongxing_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "난 어디든지 너와 함께할 거야… 세상 끝까지라도."
         }
     ],
-    "달빛_속의_만남": [
+    "moonlit_magnolias": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shalom_lantingyuehui_cacha_001.aac",

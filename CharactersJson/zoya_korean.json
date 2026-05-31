@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_zoya_levelup_002.aac",
             "text": "음… 아직 부족해."
-        }
-    ],
-    "조야_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_zoya_head_001.aac",
             "text": "허, 용감하네…"
         }
     ],
-    "늑대의_선전포고": [
+    "wolves_strike_soon": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "오? 드디어 군단에 들어올 마음이 생긴 건가?"
         }
     ],
-    "최고의_협상가": [
+    "supreme_negotiation": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "이 옷은 협상할 때 입기엔 적합하겠지만 싸울 때는 좀 불편하겠어… 어쨌든 다들 챙겨줘서 고마워."
         }
     ],
-    "설원의_지배자": [
+    "lord_of_rimehowl": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",

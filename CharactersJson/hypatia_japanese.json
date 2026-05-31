@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_hypatia_levelup_002.aac",
             "text": "あなたの支援は本当に助かるわ、ありがとう。"
-        }
-    ],
-    "ヒパティア-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_hypatia_head_001.aac",
             "text": "複雑な髪型は行動に支障をきたすけれど……見た目を整えるのも貴族の義務よ。"
         }
     ],
-    "夜隠れの金薔薇": [
+    "crepuscular_bloom": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hypatia_yeyinjinqiang_cacha_001.aac",

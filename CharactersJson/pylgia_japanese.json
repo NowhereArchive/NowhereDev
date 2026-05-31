@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_pylgia_levelup_002.aac",
             "text": "より深く……より冷たく……"
-        }
-    ],
-    "パルギア-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_pylgia_head_001.aac",
             "text": "柔らかな……感触……海藻の塊が頭上をかすめるような……少し奇妙な感覚……だが……不快ではない……"
         }
     ],
-    "暗流に縛られる夢": [
+    "shackled_dream_in_aqua": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",

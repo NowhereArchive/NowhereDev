@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_zoya_levelup_002.aac",
             "text": "嗯……还不够。"
-        }
-    ],
-    "卓娅-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_zoya_head_001.aac",
             "text": "呵呵，胆子还挺大……"
         }
     ],
-    "狼袭将至": [
+    "wolves_strike_soon": [
         {
             "title": "获得装束",
             "filename": "File:vo_zoya_langxijiangzhi_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "哦？你终于想好，要加入军团了？"
         }
     ],
-    "至高交涉": [
+    "supreme_negotiation": [
         {
             "title": "获得装束",
             "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.aac",
@@ -222,7 +220,7 @@
             "text": "这身衣服虽然适合坐在谈判桌前，但施展起来还是有点阻碍，罢了……好歹是大家的一番心意。"
         }
     ],
-    "荒雪统御": [
+    "lord_of_rimehowl": [
         {
             "title": "获得装束",
             "filename": "File:vo_zoya_bingfengwangzuo_cacha_001.aac",

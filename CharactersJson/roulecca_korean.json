@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_kuangdu_levelup_002.aac",
             "text": "에? 로레카가 더 강해질 수 있었단 말이야~?"
-        }
-    ],
-    "로레카_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_kuangdu_head_001.aac",
             "text": "머리 만지기 없기! 난 어린애가 아니에요! 으악! 멈춰!"
         }
     ],
-    "해변의_디저트!": [
+    "seaside_dessert_stand": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_kuangdu_haibintianpinjiao_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "국장님… 로레카를 왜 그렇게 빤히 쳐다보는 거예요? 설마… 국장님도 로레카의 상어 인형을 탐내는 거예요? 흥, 이건 로레카도 어렵게 따낸 거거든요, 절대 안 빌려줄 거예요!"
         }
     ],
-    "꼬마_악당": [
+    "puerile_maniac": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_kuangdu_xiuzhenkuangtu_cacha_001.aac",

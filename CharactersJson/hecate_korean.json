@@ -111,7 +111,7 @@
             "text": "만약 이것이 당신이 원하는 것이라면 저는 할 것입니다."
         }
     ],
-    "또_다시_어제": [
+    "yesterday_revisits": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hekadi_zuorichongxian_cacha_001.aac",
@@ -163,7 +163,7 @@
             "text": "만약 당신이 이런 스타일을 좋아하신다면… 이걸 관리국의 유니폼으로 만드는 게 어떻습니까?"
         }
     ],
-    "여행자의_전설": [
+    "traveler's_tale": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hekadi_lvrenchuanshuo_cacha_001.aac",
@@ -215,7 +215,7 @@
             "text": "국장님, 어떤 곳에서 임무를 하고 싶으십니까? 명령을 내려 주시면 제가 같이 가겠습니다."
         }
     ],
-    "깃털의_빛": [
+    "darkwing_eclipse": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_hekadi_anyushaguang_cacha_001.aac",

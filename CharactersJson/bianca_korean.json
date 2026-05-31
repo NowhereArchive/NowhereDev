@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_bianca_levelup_002.aac",
             "text": "지금 이거 계속 특종 잡아내라고 응원해 주는 거지? 세상에, 감동이야… 흑흑."
-        }
-    ],
-    "비앙카_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_bianca_head_001.aac",
             "text": "사건 현장에서 똑같은 장면을 찍었어, 용의자가 원한이 있는 사람 목에 손을 얹더니… 뚜두둑! 고화질 영상도 찍었는데 같이 볼래?"
         }
     ],
-    "미스_애플의_헤드라인": [
+    "in-cider_scoop": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "와, 카메라다! 자, 전부 여기 주목, 디스에서 가장 위대한 뉴스 기자 비앙카가 오늘 만찬의 헤드라인을 장식해 드리겠습니다!"
         }
     ],
-    "바운싱_토카타": [
+    "bouncing_toccata": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",

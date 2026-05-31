@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_coquelicot_levelup_002.aac",
             "text": "지금의 나 정도로 만족하지 않는 거야?"
-        }
-    ],
-    "코쿠리코_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_coquelicot_head_001.aac",
             "text": "이 꽃이 마음에 들어? 아니면… 꽃이 어떻게 붉게 물들었는지 보고 싶은 거야?"
         }
     ],
-    "만개": [
+    "blossom": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "새로 만든 화원에는 디스시티에서도 볼 수 없었던 희귀한 꽃들이 있어. 수련, 불보필룸… 응? 개양귀비만 보고 싶다고? 그럼… 날 많이 봐 둬~"
         }
     ],
-    "붉은_숲의_비밀": [
+    "crimson_hunt": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_lanli_levelup_002.aac",
             "text": "目標ロックオン——"
-        }
-    ],
-    "ラングリー-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_lanli_head_001.aac",
             "text": "試してみたいのはこの帽子か？それとも私の弾丸 ?"
         }
     ],
-    "夜宴の賓客": [
+    "banquet_guest": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "全ての情報はここにある。欲しければ……パーティーの後に少し付き合え——もちろん、情報の整理をするんだ。"
         }
     ],
-    "イーヴィル・バロネス": [
+    "madame_maelstrom": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",

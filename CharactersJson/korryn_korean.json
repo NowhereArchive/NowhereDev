@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_korryn_levelup_002.aac",
             "text": "와우, 이게 디스의 과학인가~"
-        }
-    ],
-    "코린_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_korryn_head_001.aac",
             "text": "그거 알아? 내 머리를 만졌던 사람들은 대부분… 괜찮아, 넌 다르니까."
         }
     ],
-    "황금굴": [
+    "aureate_ambush": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_korryn_huangjinku_cacha_001.aac",

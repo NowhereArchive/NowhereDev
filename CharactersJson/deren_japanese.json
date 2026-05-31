@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_deren_levelup_002.aac",
             "text": "ああ、お手数おかけしたね……"
-        }
-    ],
-    "デイリン-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_deren_head_001.aac",
             "text": "つまり……私のこと褒めてくれてる？"
         }
     ],
-    "世界の焦点": [
+    "eclat_eminence": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_deren_shijiejiaodian_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "聞こえた？スポットライトは輝き続け、拍手と歓声は鳴り止まない……ふん。さぁ、私と一緒に世界の焦点になろう。"
         }
     ],
-    "＊": [
+    "butterfly_shadow": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_deren_diezhiying_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "＊"
         }
     ],
-    "綺夜狂想": [
+    "midnight_fantasia": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_deren_qiyekuangxiang_cacha_001.aac",

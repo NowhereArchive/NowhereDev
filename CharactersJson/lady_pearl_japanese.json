@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_pearl_levelup_002.aac",
             "text": "もう～アタクシはステージの大スターじゃないのに、どうしてお花をくれるのかしら？まぁ、貰っておいてあげるわ～"
-        }
-    ],
-    "パール夫人-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_pearl_head_001.aac",
             "text": "お茶目さんね～でも、この時間にはふさわしくないこともあるのよ～"
         }
     ],
-    "玉章の幕開け": [
+    "glorious_spectacle_unfolds": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_pearl_muxiahuazhang_cacha_001.aac",

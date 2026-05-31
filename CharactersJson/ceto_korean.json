@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "칼이 피에 젖는 건 익숙해, 나도 마찬가지야."
-        }
-    ],
-    "세토_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "손이 필요 없다면 그냥 말해."
         }
     ],
-    "주인_없는_돛": [
+    "masterless_sail": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",

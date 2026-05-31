@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_hellasp_levelup_002.aac",
             "text": "对我这么好呀？"
-        }
-    ],
-    "幽冕·海拉-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_hellasp_head_001.aac",
             "text": "研究院的家伙说这是什么污染结晶，去不掉，但好在摸起来没什么感觉——嘶，有点扎手。"
         }
     ],
-    "星梦徙行": [
+    "starlit_odyssey": [
         {
             "title": "获得装束",
             "filename": "File:vo_hellasp_xingmengxixing_cacha_001.aac",

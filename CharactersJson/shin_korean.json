@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_shin_levelup_002.aac",
             "text": "그것은 내 일부가 됐지."
-        }
-    ],
-    "원진_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_shin_head_001.aac",
             "text": "이러면 마음이 편해져…? 정말 장난기 많은 아이구나."
         }
     ],
-    "별의_포옹": [
+    "stellar_embrace": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_shin_xingjizhiyong_cacha_001.aac",

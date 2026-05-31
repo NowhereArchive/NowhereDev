@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_oak_levelup_002.aac",
             "text": "당신 내가 필요하지? 다 알아."
-        }
-    ],
-    "캐스켓_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_oak_head_001.aac",
             "text": "두개골에는 가장 많은 정보가 남아있어. 사람이란 죽음이 임박하면 아직 이루지 못한 일을 떠올리기 때문이지."
         }
     ],
-    "몰락의_숲": [
+    "forest_of_enthrallment": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "나에 대해 이렇게나 궁금해하다니… 그럼 남아서 내 소장품이 되는 게 어때?"
         }
     ],
-    "어둠_속의_장례식": [
+    "sepulchral_ride": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",

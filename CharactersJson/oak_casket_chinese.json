@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_oak_levelup_002.aac",
             "text": "看得出来，你很需要我。"
-        }
-    ],
-    "橡木匣-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_oak_head_001.aac",
             "text": "颅骨上遗留的信息通常是最多的，因为人类的大脑在死亡的时候，也会惦记着他们未完成的事。"
         }
     ],
-    "沉沦之森": [
+    "forest_of_enthrallment": [
         {
             "title": "获得装束",
             "filename": "File:vo_oak_chenlunzhisen_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "既然你对我这么好奇，那就……留下来成为我的藏品吧。"
         }
     ],
-    "黑夜的葬仪": [
+    "sepulchral_ride": [
         {
             "title": "获得装束",
             "filename": "File:vo_oak_heiyedezangyi_cacha_001.aac",

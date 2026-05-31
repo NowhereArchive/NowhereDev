@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_hellasp_levelup_002.aac",
             "text": "そんなに優しくしてくれるの？"
-        }
-    ],
-    "幽冠・ヘラ-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_hellasp_head_001.aac",
             "text": "研究所の奴らは、これは取り除けない汚染結晶みたいなものって言ってたけど、触ってもあんまり感じないんだよね——ひゃっ！ちょっと刺されちゃった。"
         }
     ],
-    "星夢徒行": [
+    "starlit_odyssey": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_hellasp_xingmengxixing_cacha_001.aac",

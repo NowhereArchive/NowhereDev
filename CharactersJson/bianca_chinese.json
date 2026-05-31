@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_bianca_levelup_002.aac",
             "text": "你一定是在鼓励我继续挖掘更劲爆的新闻对不对？天哪，好感动……嘤嘤。"
-        }
-    ],
-    "毕安卡-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_bianca_head_001.aac",
             "text": "我在案发现场拍到过一样的动作，嫌疑人把手放在了仇家的脖子上，然后——咔哒！我还存了高清录像，要一起看吗？"
         }
     ],
-    "苹果小姐的头条": [
+    "in-cider_scoop": [
         {
             "title": "获得装束",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "哇，是镜头欸！来，全都看向我，就让全狄斯最伟大的新闻记者毕安卡，为大家带来今日晚宴的头版头条！"
         }
     ],
-    "弹跳托卡塔": [
+    "bouncing_toccata": [
         {
             "title": "获得装束",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",

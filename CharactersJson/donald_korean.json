@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_don_levelup_002.aac",
             "text": "아주 좋아. 기분이 나쁘진 않군."
-        }
-    ],
-    "돈_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_don_head_001.aac",
             "text": "어어, 만지지 마. 머리가 까치집이 됐잖아. 신경 써서 만진 건데, 망가지면 책임질 거야?"
         }
     ],
-    "푸른_시절": [
+    "good_old_days": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_don_fenghuazhengmao_cacha_001.aac",

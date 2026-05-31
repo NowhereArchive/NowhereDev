@@ -109,16 +109,14 @@
             "title": "レベルアップ",
             "filename": "File:vo_rui_levelup_002.aac",
             "text": "ふふ。冴え渡ってきたわ。"
-        }
-    ],
-    "来生泪-_02": [
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_rui_head_001.aac",
             "text": "あら……相手が違うんじゃなくて？"
         }
     ],
-    "蠱惑の夜": [
+    "tipsy_nocturne": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_rui_weixunyese_cacha_001.aac",

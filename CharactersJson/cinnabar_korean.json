@@ -111,7 +111,7 @@
             "text": "안전 등급 상향."
         }
     ],
-    "특별_경호원": [
+    "special_escort": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_beisefenni_texuhuwei_cacha_001.aac",
@@ -153,7 +153,7 @@
             "text": "러스트 리버는 확실히 아주 위험합니다. 그래도 제가 국장님이 어떠한 위험도 맞닥뜨리지 않게 할 테니 안심해주시기 바랍니다. 그게 제 책임이니까요."
         }
     ],
-    "백마의_기사": [
+    "courteous_call": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_beisefenni_qianhouzhiyi_cacha_001.aac",

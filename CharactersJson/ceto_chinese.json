@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_ceto_levelup_002.aac",
             "text": "刀习惯了沾血，我也是。"
-        }
-    ],
-    "赛托-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_ceto_head_001.aac",
             "text": "手不想要了就直说。"
         }
     ],
-    "无主之帆": [
+    "masterless_sail": [
         {
             "title": "获得装束",
             "filename": "File:vo_ceto_wuzhuzhifan_cacha_001.aac",

@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_owo_levelup_002.aac",
             "text": "어흥~!"
-        }
-    ],
-    "어흥_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_owo_head_001.aac",
             "text": "사자 머리가 엄청 예쁘지 않아? 패기 넘치지? 위엄 있지? 엄청 만져보고 싶지? 흐흥… 꿈 깨셔!"
         }
     ],
-    "사자춤의_왕": [
+    "king_of_lion_dance": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
@@ -160,7 +158,7 @@
             "text": "햄버거, 감자튀김, 치킨 윙, 에그타르트, 모두 한 개씩 더! …왜 그렇게 쳐다보는데? 난 더 많이 많이 많이 먹을 수 있어! 얕보지 말라고!"
         }
     ],
-    "축복의_사자": [
+    "auspicious_prancer": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",

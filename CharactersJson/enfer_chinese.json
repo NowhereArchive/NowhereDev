@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_enfer_levelup_002.aac",
             "text": "嗯~凿得真准。"
-        }
-    ],
-    "恩菲尔-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_enfer_head_001.aac",
             "text": "怎么，你也想沾染些艺术细胞？"
         }
     ],
-    "錾刻者之巢": [
+    "sculptor's_nest": [
         {
             "title": "获得装束",
             "filename": "File:vo_enfer_zankezhezhichao_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "你的视线都快令我无法工作了……嗯？还是说，你在期待我以你为模特，创作些什么吗？"
         }
     ],
-    "璞玉灼灼": [
+    "virtuoso_of_jade": [
         {
             "title": "获得装束",
             "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.aac",

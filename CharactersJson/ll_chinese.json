@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_ll_levelup_002.aac",
             "text": "我喜欢你这样对我，再多来点！"
-        }
-    ],
-    "l.l.-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_ll_head_001.aac",
             "text": "悄悄告诉你，我早就把你囚禁在我的脑海里啦~"
         }
     ],
-    "万籁罄音": [
+    "astral_rhapsody": [
         {
             "title": "获得装束",
             "filename": "File:vo_LL_wanlaiqingyin_cacha_001.aac",

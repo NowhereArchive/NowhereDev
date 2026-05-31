@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_jelena_levelup_002.aac",
             "text": "谢谢您这样惦记着我。"
-        }
-    ],
-    "耶莱娜-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_jelena_head_001.aac",
             "text": "谢谢你的关心，我还不累。"
         }
     ],
-    "灼夜摇篮": [
+    "scorched_lullaby": [
         {
             "title": "获得装束",
             "filename": "File:vo_jelena_zhuoyeyaolan_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "您的眼神很特别，不像那些全心信赖母亲的孩子……是因为您比他们更勇敢，还是更迷茫？"
         }
     ],
-    "一帘烟雨": [
+    "curtain_of_misty_rain": [
         {
             "title": "获得装束",
             "filename": "File:vo_jelena_yilianyanyu_cacha_001.aac",

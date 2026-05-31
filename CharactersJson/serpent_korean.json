@@ -109,16 +109,14 @@
             "title": "레벨업",
             "filename": "File:vo_snake_levelup_002.aac",
             "text": "즐거운 시간이길 바래~"
-        }
-    ],
-    "나챠_-_승급": [
+        },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_snake_head_001.aac",
             "text": "용사는 사악한 뱀의 정수리를 꿰뚫었지. 정수리가 어디인 줄 알아? 네가 방금 쓰다듬은 곳이야."
         }
     ],
-    "겨울_잠": [
+    "awake_from_slumber": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
@@ -170,7 +168,7 @@
             "text": "아이참, 금방 다 입을 거야! 또 재촉하면… 확 물어버린다!"
         }
     ],
-    "즐거움의_원천": [
+    "source_of_happiness": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
@@ -212,7 +210,7 @@
             "text": "이곳에 이미 온 이상, 이유를 알아차리기 전에, 즐거운 시간을 만끽하자고, 안 그래, 국장?"
         }
     ],
-    "매직_포션": [
+    "elixir_of_euphoria": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",

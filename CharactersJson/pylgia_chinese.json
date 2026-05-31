@@ -109,16 +109,14 @@
             "title": "升级",
             "filename": "File:vo_pylgia_levelup_002.aac",
             "text": "更深……更冷……"
-        }
-    ],
-    "派尔琪雅-升阶": [
+        },
         {
             "title": "摸头",
             "filename": "File:vo_pylgia_head_001.aac",
             "text": "柔软的……触感……像是成团的海藻掠过头顶……有些奇怪……但是……不讨厌……"
         }
     ],
-    "黯流缚梦": [
+    "shackled_dream_in_aqua": [
         {
             "title": "获得装束",
             "filename": "File:vo_pylgia_shuixingzhiguan_cacha_001.aac",
