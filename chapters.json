@@ -15,7 +15,8 @@
             { "name": "chapter12", "displayName": "Chapter 12" },
             { "name": "chapter13", "displayName": "Chapter 13" },
             { "name": "Chapter14", "displayName": "Chapter 14" },
-            { "name": "Chapter15", "displayName": "Chapter 15" }
+            { "name": "Chapter15", "displayName": "Chapter 15" },
+            { "name": "TheThornyRoadToDawn", "displayName": "The Thorny Road To Dawn" }
         ],
         "Character Events": [
             { "name": "RagingSands", "displayName": "Raging Sands" },
@@ -42,8 +43,7 @@
             { "name": "ExodusAuricSanctuary", "displayName": "Exodus: Auric Sanctuary" },
             { "name": "HoneyedNight", "displayName": "Honeyed Night" },
             { "name": "WhenRainMeetsGunfire", "displayName": "When Rain Meets Gunfire" },
-            { "name": "WitchwovenFolio", "displayName": "Witchwoven Folio" },
-
+            { "name": "WitchwovenFolio", "displayName": "Witchwoven Folio" }
 
         ],
         "Character Interrogations": [
