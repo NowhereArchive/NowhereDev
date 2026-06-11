@@ -199,5 +199,57 @@
             "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
             "text": "왜 그렇게 쳐다보세요? 아, 제가 특별히 준비한 강사 복장을 아직 제대로 못 보신 거군요? 흐음, 그럼 좀 더 감상할 시간을 드리죠."
         }
+    ],
+    "when_praising_the_stars": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_raven_songzanqunxingzhishi_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_raven_songzanqunxingzhishi_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_raven_songzanqunxingzhishi_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_raven_songzanqunxingzhishi_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_raven_songzanqunxingzhishi_hand_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_raven_songzanqunxingzhishi_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_raven_songzanqunxingzhishi_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_raven_songzanqunxingzhishi_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

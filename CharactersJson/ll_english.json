@@ -167,5 +167,47 @@
             "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
             "text": "If you want it, just say it. Tell me directly: Do you want to see if my singing and your heartbeat can harmonize perfectly?"
         }
+    ],
+    "abyssal_phantom": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_LL_shenyuanmeiying_cacha_001.aac",
+            "text": "Every shell, every pearl, every little fish on this stage was born for me. And now, you are here as well... Come, swim with us! Let us leave the dull reality behind, outside of the curtain."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_LL_shenyuanmeiying_levelup_001.aac",
+            "text": "Keep your eyes on me! Under this spotlight, I alone am the star of the show!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_LL_shenyuanmeiying_greeting_001.aac",
+            "text": "It is such a bore to have empty stairs as your partner... You'd better come earlier next time, or else... I don't know what I might do out of sheer boredom."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_001.aac",
+            "text": "Look at those Betta fish... They lock eyes, raise their fins, and close in. They always confirm whether their opponent will flee before striking. They remind me of myself, especially on stage. When the lights focus, and the music reaches a crescendo... that is the most exhilarating moment, one that I will never miss."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_002.aac",
+            "text": "This is just a rehearsal—why are you so on edge? Is being alone with me making you nervous... or are you afraid that I might devour you?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_LL_shenyuanmeiying_idle_001.aac",
+            "text": "Hmm? Why are you standing there motionless? Are you acting as a piece of coral in the scenery? Then... may I carve my name on you? That way... you'll be forever mine!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_LL_shenyuanmeiying_clicking_001.aac",
+            "text": "...Ah! You almost made me miss my cue! Only naughty audience members would deliberately disturb the performers, you know! Just so you are aware though, in this theater, catching the performer's attention isn't a good thing... Hehe, just kidding."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_LL_shenyuanmeiying_specialattention_001.aac",
+            "text": "In most plays, the little mermaid ultimately loses her voice, and even her life for love... But if that love is for you, then I am willing to store all my songs in shells and place them in your hands, along with the dagger."
+        }
     ]
 }

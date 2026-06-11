@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_kelaimenting_cacha_001.aac",
+            "text": "“真相是个危险的东西，就算再怎么丑陋，也总会有人被它吸引着靠近，沉醉其中无法自拔”——就像现在的你一样。好久不见，我亲爱的侦探，准备好迎接新的谜题了吗？"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_kelaimenting_promotion_001.aac",
+            "text": "仔细看。真相，往往就藏在字隙之间。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_kelaimenting_promotion2_001.aac",
+            "text": "消失的乘客、封闭的车厢、混乱的长夜……推开门吧侦探，故事已经开始了。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_kelaimenting_battlebegin_001.aac",
+            "text": "猜猜看，这次的“犯人”是谁？"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_kelaimenting_battlewin_001.aac",
+            "text": "“侦探又一次破解谜题，发现了真相。”可喜可贺~"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_kelaimenting_battlelose_001.aac",
+            "text": "“这世上不存在完美的犯罪。”再试一次吧，你已经找到破案的关键了。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_kelaimenting_uniqueskill_001.aac",
+            "text": "终章已至！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_kelaimenting_dead_001.aac",
+            "text": "不行……我的复仇，还没结束……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_kelaimenting_greeting_001.aac",
+            "text": "嗯~难得今天不需要交稿，要和我一起出门走走吗？"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_kelaimenting_talk1_001.aac",
+            "text": "凶手与侦探的对峙，也是笔者与读者的博弈——在谜底揭晓前，无论哪方都不能放松警惕。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_kelaimenting_talk1_002.aac",
+            "text": "标本制作的秘诀在于精确。你必须先看清骨骼的结构，再去琢磨针脚，细调每一片羽翅的角度……写作也是同样。剥离情绪，才能将最完美的“死亡”定格。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_kelaimenting_talk1_003.aac",
+            "text": "作家总是在深夜更有灵感，所以我喜欢在晚上出门，找杯好酒，晒晒月光，再去街道上碰碰运气。最后赶在天亮前，被治安局的朋友们当作“误入犯罪现场的可怜人”送回家。多么完美的安排~"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_kelaimenting_talk2_001.aac",
+            "text": "设计“死者”的过程远比想象中更加复杂——那人早早退场，却是案件的核心症结，沉默又强势地牵引着所有人的目光。比起写一个万众瞩目的明星侦探，还是写这个案件中不为人知的死者更加有趣啊~"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_kelaimenting_talk2_002.aac",
+            "text": "故事是现实的隐喻，一个不曾见人的秘密，一桩被迫压下的冤屈，或是一段早已尘封的真相……哪怕只是让某人鼓起勇气，面对曾经逃避的黑夜，故事也就有了存在的意义。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_kelaimenting_talk2_003.aac",
+            "text": "侦探小说有一条老套的准则：“真理不容玷污，正义不会缺席”。哼，这当然只是个谎言，但我仍愿意写下去，一遍又一遍……直到某天，会有像你一样的人出现，让它成真。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_kelaimenting_obeyfull_001.aac",
+            "text": "我的故事与现实多有对照，书中角色也常从现实取材。两个人在书中相知，相爱，相伴，相杀……即便最后依然逃不过生死，他们的存在也会有字迹为证。故事能让一段关系成为永恒，就像他们，就像……你我。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_kelaimenting_idle_001.aac",
+            "text": "唉，灵感姗姗来迟，但截稿日却要先一步到访……嗯，情绪不对，落笔反而容易出错……不如明天再写吧？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_kelaimenting_clicking_001.aac",
+            "text": "不管怎样骚扰作者，我都不会提前剧透噢？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_kelaimenting_specialattention_001.aac",
+            "text": "一间密室，两人独处，眼神胶着，距离拉近，太适合发生一些“特别”的事情了……对不对？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kelaimenting_dispatch_001.aac",
+            "text": "采风吗？好啊，正好去找点灵感。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_kelaimenting_dispatch2_001.aac",
+            "text": "呵呵，路上遇到了有趣的素材，或许能写进下一册书呢。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_kelaimenting_levelup_002.aac",
+            "text": "案情升级，灵感也升级。真不错~"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_kelaimenting_head_001.aac",
+            "text": "嗯？是想要签名吗？好呀，想签在哪里？手心？肩膀？背上？还是……让人更刻骨铭心的地方？"
+        }
+    ]
+}

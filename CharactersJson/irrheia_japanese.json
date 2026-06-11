@@ -115,5 +115,47 @@
             "filename": "File:vo_irrheia_head_001.aac",
             "text": "貴殿はいつも予想を裏切る立ち振る舞いをされますね。ですがその触れ方は、悪くありませぬ。"
         }
+    ],
+    "serene_daylight": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_irrheia_manlvzhouse_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_irrheia_manlvzhouse_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_irrheia_manlvzhouse_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_irrheia_manlvzhouse_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_irrheia_manlvzhouse_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_irrheia_manlvzhouse_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_irrheia_manlvzhouse_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_irrheia_manlvzhouse_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

@@ -115,5 +115,57 @@
             "filename": "File:vo_hilda_head_001.aac",
             "text": "秘密は風の中で消えるべきだ。雨が水の中で消えるように。"
         }
+    ],
+    "springtime_postcard": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hilda_chunrilaijian_cacha_001.aac",
+            "text": "身も心も洗われるような午後だ。一日の疲れが風と共に消えていく……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hilda_chunrilaijian_levelup_001.aac",
+            "text": "いい日差しだね。ヤグルマギクがさらに美しく咲くだろう。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hilda_chunrilaijian_greeting_001.aac",
+            "text": "広い山間で、風と花の囁きだけが響く……最も美しい瞬間は誰かと分かち合うべきだ。そしてちょうど、君が来てくれた。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_hilda_chunrilaijian_head_001.aac",
+            "text": "髪が乱れてしまう……君は、この山間の風よりもいたずらっこだね。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hilda_chunrilaijian_body_001.aac",
+            "text": "ああ……君がこの帽子のつばにつけてくれたヤグルマギクが、風に吹かれて飛んでいってしまった……しおりにして大切にしまおうと思っていたのに。可能なら、もう一度私のためにつけてくれないか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hilda_chunrilaijian_body_002.aac",
+            "text": "ここの天気はいつも思うようにいかないが、幸い今日は珍しく晴れた。さらに珍しいのは……曇りを払いのけてくれた人が、今私の傍に座っていることだ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_hilda_chunrilaijian_hand_001.aac",
+            "text": "以前、誰かが言っていた。自然そのものが暗号で埋め尽くされた典籍だと。山、川、そして生きものは全て精緻な法則に従っている。ヤグルマギクの花弁は黄金比の配列を描き、メタセコイアの種子は太古の葉序を継承している……もし今この瞬間の全てを暗号文にするとしたら、この世で暗号鍵を知る者は……風と君だけだ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_hilda_chunrilaijian_background_001.aac",
+            "text": "故郷では、ヤグルマギクが咲き誇る季節になると、少女たちがいつも花冠を編んで水に浮かべ、風と水に想いを託していた。川が、誰にも知られぬ想いを乗せて遠くへと流れていくんだ……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hilda_chunrilaijian_idle_001.aac",
+            "text": "……寝てしまったのか？鼻先に蝶が止まっても気付かないとはね。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hilda_chunrilaijian_specialattention_001.aac",
+            "text": "そんなに長く見ていたとは……満足のいく写真は撮れたかい？もし気に入ったなら、記念にそれをポストカードにして、花と一緒に詩集に挟んでおこうか……"
+        }
     ]
 }

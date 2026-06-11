@@ -199,5 +199,57 @@
             "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
             "text": "怎么这么看着我？哦，是不是还没见过我专门搭配的教师套装？嗯哼，那就允许你多欣赏一会儿吧。"
         }
+    ],
+    "when_praising_the_stars": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_raven_songzanqunxingzhishi_cacha_001.aac",
+            "text": "赞颂吧，为我们能在这浩渺宇宙中相逢的奇迹。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_raven_songzanqunxingzhishi_levelup_001.aac",
+            "text": "我将化作全新的诗篇。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_raven_songzanqunxingzhishi_greeting_001.aac",
+            "text": "来吧，请坐，我为你留了最佳的观赏位置，让我们共赏星辰，独享宇宙。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_raven_songzanqunxingzhishi_head_001.aac",
+            "text": "你瞧，经历了沧海桑田之后，沙砾也能化为宝石。所以我相信，在很久之后，我们的理想也会在未来璀璨生辉。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_001.aac",
+            "text": "人类啊，是无论经受怎样的艰难困苦，都无法忘却诗与歌的存在，我即如是，我亦如此。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_002.aac",
+            "text": "祖母绿常因为包含过多杂质被称为“花园”，我觉得这很有趣，也很适合我，就像我既是老师也是记者，更是传颂辛迪加的伟大诗人，你觉得呢？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_raven_songzanqunxingzhishi_hand_001.aac",
+            "text": "我在宇宙深处窥见最隐秘的智慧，将其书写记录下来。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_raven_songzanqunxingzhishi_background_001.aac",
+            "text": "从没见过我穿得这么正式的模样？你只要回答——喜不喜欢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_raven_songzanqunxingzhishi_idle_001.aac",
+            "text": "瞧瞧，你又走神了，我的诗就这么无聊吗？这可让我燃起了好胜心啊，新的灵感，就从你身上来吧~"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_raven_songzanqunxingzhishi_specialattention_001.aac",
+            "text": "看多久都行，宇宙中的分秒须臾对我们来说，皆是遥不可及的永恒与不朽。"
+        }
     ]
 }

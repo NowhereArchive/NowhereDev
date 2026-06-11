@@ -115,5 +115,47 @@
             "filename": "File:vo_irrheia_head_001.aac",
             "text": "You always manage to come up with a surprising move. Fortunately, I don't mind your touch."
         }
+    ],
+    "serene_daylight": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_irrheia_manlvzhouse_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_irrheia_manlvzhouse_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_irrheia_manlvzhouse_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_irrheia_manlvzhouse_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_irrheia_manlvzhouse_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_irrheia_manlvzhouse_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_irrheia_manlvzhouse_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_irrheia_manlvzhouse_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

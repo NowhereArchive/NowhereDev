@@ -167,5 +167,47 @@
             "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
             "text": "望んでいるなら、遠慮せずに言ってちょうだい。直接教えて。私の歌声とあなたの心拍が、同じリズムで共鳴できるか試してみたいって。"
         }
+    ],
+    "abyssal_phantom": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_LL_shenyuanmeiying_cacha_001.aac",
+            "text": "この舞台上の貝殻一つ一つが、真珠一粒一粒が、小さな魚一匹一匹が、全て私のために生まれた演目なの。そして今、そこにあなたも加わった……私たちと一緒に泳ぎましょう！退屈な現実を、幕の向こうに完全にシャットアウトするのよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_LL_shenyuanmeiying_levelup_001.aac",
+            "text": "私を見て！スポットライトの下では、私こそがこの舞台のただ一人の主役なの！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_LL_shenyuanmeiying_greeting_001.aac",
+            "text": "がらんとした階段を相手に芝居するなんて退屈すぎるわ……次はもっと早く来てちょうだい。じゃないと……退屈のあまり、何をするか分からないわよ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_001.aac",
+            "text": "あの闘魚たちを見て……視線を交わして、ヒレを立てて、距離を詰めている。彼らはいつだって、仕掛ける前に相手が逃げるかどうか確かめるの。私も同じよ。特に舞台の上で、照明が集まり、音楽が頂点に達する瞬間……それこそ、絶対に逃したくない最高のひとときなの。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_002.aac",
+            "text": "これはただのリハーサルよ。あら、緊張しているの？私と二人きりだから？それとも……私に食べられちゃうんじゃないかって心配しているのかしら？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_LL_shenyuanmeiying_idle_001.aac",
+            "text": "あら？そこでじっと動かないなんて、舞台装置のサンゴにでもなるつもり？それなら……あなたに、私の名前を刻んでもいいかしら？そうすれば……あなたは永遠に私のものよ！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_LL_shenyuanmeiying_clicking_001.aac",
+            "text": "……あっ！今のせいでリズムを間違えるところだったわ。わざと役者の邪魔をするのは、悪戯っ子の観客だけよ！この劇場で役者の注意を引くなんて、あまりいいことじゃないんだから……ふふ、冗談よ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_LL_shenyuanmeiying_specialattention_001.aac",
+            "text": "人魚姫は最終的に愛のために声を失い、時には命さえも落とす、なんて脚本が多いわよね……でも、その愛の矛先があなたなら、私は全ての歌声を貝殻に閉じ込めて、短剣と一緒にあなたへ差し出してもいいわ。"
+        }
     ]
 }

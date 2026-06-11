@@ -115,5 +115,47 @@
             "filename": "File:vo_irrheia_head_001.aac",
             "text": "你总是能做出些出乎意料的举动，好在我并不讨厌你的触碰。"
         }
+    ],
+    "serene_daylight": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_irrheia_manlvzhouse_cacha_001.aac",
+            "text": "真巧啊小局长，原来今早掷出的极端好骰，是预兆了今天能与你偶遇。不急着赶路吧？来喝一杯？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_irrheia_manlvzhouse_levelup_001.aac",
+            "text": "再加一包糖，味道会怎样呢？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_irrheia_manlvzhouse_greeting_001.aac",
+            "text": "咖啡的香气、远处的喧嚣，还有刚好到访的你。不算新奇的构图，但我还挺满意的。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_irrheia_manlvzhouse_body_001.aac",
+            "text": "午后阳光正好，可这些路人却行色匆匆，走马观花，硬生生把自己活成了面目模糊的NPC，还是这只猫最懂得“生活”，选择了和自己中意的人类一起……虚度一段美妙光阴。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_irrheia_manlvzhouse_body_002.aac",
+            "text": "不喜欢咖啡的苦味，有些人选择加糖，但有些人选择创造更猎奇的口味来应对，虽然他人不理解，但我倒很是欣赏……像是平凡奔忙的人类，对自己无聊生活的挑衅一样，很有趣。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_irrheia_manlvzhouse_idle_001.aac",
+            "text": "被注视着、被记录着，还能睡得这么安稳……胆量不错，小局长。看来你是真的不担心，这种平静的日常，也是我写下的剧幕？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_irrheia_manlvzhouse_clicking_001.aac",
+            "text": "那只猫还没醒，你倒是先学会了它那套讨要关注的伎俩。不过……看在你比它更鲜活的份上，我允许你再胡闹一会儿。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_irrheia_manlvzhouse_specialattention_001.aac",
+            "text": "怎么这样看我？难道说，这份“日常”对你而言，反而比那些夸张的剧本更具冲击力？"
+        }
     ]
 }

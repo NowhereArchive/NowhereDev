@@ -167,5 +167,47 @@
             "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
             "text": "The look in your eyes tells me you would protect me no matter what. If I were to leap from here, I know you would catch me in your warm embrace..."
         }
+    ],
+    "sunshiny_companion": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

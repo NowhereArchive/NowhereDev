@@ -157,5 +157,47 @@
             "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
             "text": "あなたの懲りずに無茶をするところは好きですよ……さぁ、何度でも来てください。いつだって相手をしてあげますから。"
         }
+    ],
+    "leisurely_tunes": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_moore_xianyushiyin_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_moore_xianyushiyin_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

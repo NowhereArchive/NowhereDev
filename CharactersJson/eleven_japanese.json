@@ -219,5 +219,47 @@
             "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
             "text": "もしあなたが寝る前に見る最後の人が私なら、今夜あなたの夢に出られるかな？"
         }
+    ],
+    "trail_of_sounds": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

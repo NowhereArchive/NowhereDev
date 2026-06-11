@@ -157,5 +157,47 @@
             "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
             "text": "我喜欢你这种不吸取教训的莽撞样子……来吧，无论多少次，我都会奉陪。"
         }
+    ],
+    "leisurely_tunes": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
+            "text": "任务顺利完成~接下来的时间都属于我们两个人了。这家店我惦记很久啦，说不定能淘到绝版的CD呢……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
+            "text": "那就再买一张CD吧~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
+            "text": "局长快来，正好播到我最喜欢的曲子，坐在这边一起听吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_moore_xianyushiyin_body_001.aac",
+            "text": "你看，这张CD创作于老式计算机还盛行的年代，整首曲子由不同的故障提示音组合而成……这个世界可真有意思，执着于纠正错误，却不排斥错误构成的真实。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_moore_xianyushiyin_body_002.aac",
+            "text": "店里有热销CD的主题特调咖啡，我们点一杯再继续听吧？昨晚想到要和局长一起出任务就开心得睡不着，只好坐起来写了一整晚代码，现在急需咖啡来醒醒神……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
+            "text": "这张CD的时长和曲目数量不太匹配，难道说……有隐藏音轨？会是什么呢……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
+            "text": "这样惬意的时光，的确会想要与身边人更加亲密一些。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
+            "text": "局长很喜欢我日常的穿着吗？的确之前见局长都穿着制服呢，那以后，局长多陪我出来逛逛吧。"
+        }
     ]
 }

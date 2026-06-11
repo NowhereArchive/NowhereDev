@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_fulunxinka_cacha_001.aac",
+            "text": "法医学者のフォレンシカだ。先に言っておくが、私は生きている人間にはあまり寛容ではない。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_fulunxinka_promotion_001.aac",
+            "text": "私は触れた……真実の一端を……"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_fulunxinka_promotion2_001.aac",
+            "text": "今回……貴方は逃げられない。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_fulunxinka_battlebegin_001.aac",
+            "text": "調査開始。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_fulunxinka_battlewin_001.aac",
+            "text": "作業完了。鑑定報告書を作成しよう。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_fulunxinka_battlelose_001.aac",
+            "text": "一体、何が足りないんだ……もう一度よく考えなければ……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_fulunxinka_uniqueskill_001.aac",
+            "text": "死者の名にかけて！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_fulunxinka_dead_001.aac",
+            "text": "私の死体が……貴方に……真実を伝える……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_fulunxinka_greeting_001.aac",
+            "text": "来たのか。今日の新しい事件は？なければ帰るぞ。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_fulunxinka_talk1_001.aac",
+            "text": "解剖室にいるのが好きだ。組織の中でぶらぶらしている愚かな顔ぶれより、死体の方がよほど綺麗だからな。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_fulunxinka_talk1_002.aac",
+            "text": "新しい助手がまた私を訴えただと？何故？慰めてやっただけなのに。「上手くいかないのは当然だ。普段からできた試しがないからな」と…… どうしてじっと見ている？何か問題でもあるのか？"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_fulunxinka_talk1_003.aac",
+            "text": "法医学者の仕事は解剖だけではない。犯罪現場の調査も含まれている。邪魔しようとする者は、この段階から手を出すんだ。証拠は汚染され、現場は破壊され、結論が示唆される……ここはいい場所だな。少なくとも、今のところはまだ清潔だ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_fulunxinka_talk2_001.aac",
+            "text": "性格が悪い？口が悪い？協力しにくい？私は仕事に来たのであって、同僚を慰めるために来たわけではない。彼らには死体から学んでほしいものだ。死体はあまり文句を言わない。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_fulunxinka_talk2_002.aac",
+            "text": "死体は腐るが、生者の忍耐力はさらに乏しい。限られた時間内に真相を見つけられなければ、問い詰められ続けながら永遠に答えを得られない人生を背負わねばならない。法医学者とは……そういう仕事だ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_fulunxinka_talk2_003.aac",
+            "text": "この世界では、死者は永遠に最も弱い存在だ。社会は彼らを適当に扱い、親族は彼らを見捨てる。時に……私は彼らの唯一の代弁者となるのだ。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_fulunxinka_obeyfull_001.aac",
+            "text": "死体は嘘をつかない。嘘をつくのはいつも生きている人間だ。私がここにいるのは、生者の言う正義に再び信頼を寄せたからではない。ただ……貴方を信じているんだ。貴方は、彼らの代わりに私が真実を語る機会を与えてくれると信じている。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_fulunxinka_idle_001.aac",
+            "text": "ドロシー、世界一可愛い小さな骨…… ん？骨の表面が荒れてきたな。手入れしてあげよう。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_fulunxinka_clicking_001.aac",
+            "text": "研究はやめろ、これらは解剖器具だ。貴方には扱えない。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_fulunxinka_specialattention_001.aac",
+            "text": "何故ずっと私を見ているんだ？顔に何か付いているか？思考の邪魔だ……"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_fulunxinka_dispatch_001.aac",
+            "text": "面倒だな……一人で行ってもいいか？"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_fulunxinka_dispatch2_001.aac",
+            "text": "貴方が欲していたものは全て持ち帰った。約束通り、三日間の休暇をくれ。その間は連絡してくるな。私は誰とも会わない。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_fulunxinka_levelup_002.aac",
+            "text": "法医学は進歩している。私もな。"
+        }
+    ]
+}

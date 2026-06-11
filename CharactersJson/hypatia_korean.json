@@ -167,5 +167,47 @@
             "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
             "text": "당신의 눈빛은 마치 이렇게 말하고 있는 것 같아요. 제 모든 것을 받아줄 수 있다고, 제가 지금 이곳에서 몸을 던진다 해도, 두 팔로 저를 꼭 안아줄 거라고요…"
         }
+    ],
+    "sunshiny_companion": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

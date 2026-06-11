@@ -167,5 +167,47 @@
             "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
             "text": "하고 싶은 말이 있으면 그냥 내게 말해. 내 노랫소리와 네 심장 소리가 같은 리듬을 타고 있는지 시험해 보고 싶은 거야?"
         }
+    ],
+    "abyssal_phantom": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_LL_shenyuanmeiying_cacha_001.aac",
+            "text": "이 무대 위의 조개껍데기 하나, 진주 한 알, 작은 물고기 한 마리까지, 모두 나를 위해 탄생한 것들이야. 거기다 이제 너까지 있네… 이 따분한 현실은 무대 밖으로 치워버리고, 우리 같이 헤엄치자!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_LL_shenyuanmeiying_levelup_001.aac",
+            "text": "나를 봐! 스포트라이트 아래에선 내가 이 뮤지컬의 유일한 주인공이니까!"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_LL_shenyuanmeiying_greeting_001.aac",
+            "text": "텅 빈 계단이랑 연습하는 건 지루해… 다음번엔 좀 더 빨리 와주기다? 안 그러면… 너무 지루해서 무슨 짓을 저질러 버릴지도 몰라."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_001.aac",
+            "text": "저 버들붕어들 좀 봐… 서로 노려보다가 지느러미를 바짝 세우고 다가서지. 저놈들은 공격하기 전, 상대가 도망갈지부터 살피거든. 나도 마찬가지야. 특히 무대 위 조명이 집중되고 음악이 클라이맥스에 다다를 때… 그때가 바로 절대 놓쳐선 안 될 하이라이트지."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_002.aac",
+            "text": "지금은 리허설일 뿐인데 왜 그렇게 긴장하는 거야? 나랑 단둘이 있는 게 떨리는 거야… 아니면 내가 널 집어삼켜 버릴까 봐 떨리는 거야?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_LL_shenyuanmeiying_idle_001.aac",
+            "text": "응? 거기서 꼼짝 않고 서 있는 건 무대 위 산호 장식이라도 맡겠다는 건가? 그렇다면… 네 몸에 내 이름을 새겨도 될까? 그러면 넌 영원히 내 것이 될 테니까!"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_LL_shenyuanmeiying_clicking_001.aac",
+            "text": "…아! 방금 너 때문에 박자를 놓칠 뻔했잖아. 배우를 방해하는 건 무례한 관객이나 할 짓이라고! 이 극장에서 배우의 눈에 띄는 건 그리 좋은 일이 아닐 텐데… 후후, 농담이야."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_LL_shenyuanmeiying_specialattention_001.aac",
+            "text": "수많은 각본 속에서 인어공주는 결국 사랑을 위해 목소리를 잃고 목숨까지 바치곤 하지. 하지만 그 사랑이 널 향한 것이라면, 난 내 노랫소리를 조개껍데기에 담아 날카로운 단검과 함께 네 손에 쥐여줄게."
+        }
     ]
 }

@@ -199,5 +199,57 @@
             "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
             "text": "なぜそんな目で私を見ているんだ？あぁ、私が特別に揃えた教師用のスーツを初めて見たからか？ふむふむ、それならもうしばらく眺めていても構わない。"
         }
+    ],
+    "when_praising_the_stars": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_raven_songzanqunxingzhishi_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_raven_songzanqunxingzhishi_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_raven_songzanqunxingzhishi_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_raven_songzanqunxingzhishi_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_raven_songzanqunxingzhishi_hand_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_raven_songzanqunxingzhishi_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_raven_songzanqunxingzhishi_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_raven_songzanqunxingzhishi_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

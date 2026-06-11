@@ -115,5 +115,57 @@
             "filename": "File:vo_hilda_head_001.aac",
             "text": "Secrets should vanish in the wind, just as rain disappears into water."
         }
+    ],
+    "springtime_postcard": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_hilda_chunrilaijian_cacha_001.aac",
+            "text": "What a refreshing afternoon. All the day's weariness drifts away with the wind..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hilda_chunrilaijian_levelup_001.aac",
+            "text": "The sun is so bright. The cornflowers will bloom even more beautifully."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hilda_chunrilaijian_greeting_001.aac",
+            "text": "The mountains are vast and empty. I can only hear the whispers of breezes and flowers... The most beautiful moments should be shared with someone special. Luckily, you came after all."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hilda_chunrilaijian_head_001.aac",
+            "text": "You're going to mess up my hair... You're even more playful than the mountain breeze."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hilda_chunrilaijian_body_001.aac",
+            "text": "Ah... the cornflower you pinned to my hat brim got blown away... I had wanted to make it into a bookmark as a keepsake. Perhaps you'd be willing to put another one on for me?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hilda_chunrilaijian_body_002.aac",
+            "text": "The weather here is quite unpredictable. Fortunately, today is a rare sunny day. What's even rarer... the one who cleared away the gloom is sitting right beside me."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hilda_chunrilaijian_hand_001.aac",
+            "text": "Someone once said that nature itself is a tome filled with codes. Mountains, streams, and living beings all follow intricate rules. Cornflower petals grow in sequences, dawn redwood seeds trace the ancient leaf arrangement... If this moment were compiled into a cipher, then only the wind and you would know the key."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hilda_chunrilaijian_background_001.aac",
+            "text": "In my homeland, whenever cornflowers bloom, young girls would weave the flowers into garlands and place them in water, entrusting their feelings to the wind and the flowing streams. The brooks would carry these unconfessed sentiments far away..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hilda_chunrilaijian_idle_001.aac",
+            "text": "...Did you doze off? You didn't even budge when the butterfly landed on your nose."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hilda_chunrilaijian_specialattention_001.aac",
+            "text": "You've been watching for so long... Did you take any good photos? If you like, we can make them into postcards and press them into a poetry collection along with this bouquet..."
+        }
     ]
 }

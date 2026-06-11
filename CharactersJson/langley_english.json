@@ -219,5 +219,57 @@
             "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
             "text": "Welcome back, my first mate. How are things on that island? How many are stationed there? How many cannons do they have? Excellent scouting. Seems like our prey is about to show its weak spot."
         }
+    ],
+    "sharpened_radiance": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",
+            "text": "Head up, chest out—no matter the time or place, we should always maintain perfect posture."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_lanli_lifengxinhui_levelup_001.aac",
+            "text": "Your recognition is part of what makes up my medal."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lanli_lifengxinhui_greeting_001.aac",
+            "text": "No need to rush, the ceremony hasn't started yet. Get your uniform in order first. You're going to be one of my subordinates, so I will not allow any mistakes in protocol."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_lanli_lifengxinhui_head_001.aac",
+            "text": "I did not receive a report for this. Go report yourself for disciplinary action."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_lanli_lifengxinhui_body_001.aac",
+            "text": "For me, all graduation means is a change of uniforms and battlefields."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_lanli_lifengxinhui_body_002.aac",
+            "text": "No need to feel sad about my departure. You, too, will face such a moment before long—realizing that the real battle is just beginning in the applause and gazes of others. When that time comes, I'll be right ahead, waiting for you to join my ranks once more."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_lanli_lifengxinhui_leg_001.aac",
+            "text": "When I enrolled, I once stood here and swore that whatever I learned, I would dedicate it all to this land. Now, it's time to truly fulfill that promise."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_lanli_lifengxinhui_background_001.aac",
+            "text": "This banner is heavier than I expected, but I suppose it does carry everyone's hopes and future. And it is our duty to bear it and let it fly in the wind."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lanli_lifengxinhui_idle_001.aac",
+            "text": "Is this ceremony boring you? You'll get used to it—think of it as endurance training."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lanli_lifengxinhui_specialattention_001.aac",
+            "text": "If you only focus on one target on the battlefield, you'll lose the initiative. Remember, even amid the most beautiful fireworks, you must still stay vigilant."
+        }
     ]
 }

@@ -167,5 +167,47 @@
             "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
             "text": "你的眼神就像是在告诉我，你能接住我的一切，哪怕我现在就从这里一跃而下，你也会将我拥入怀中……"
         }
+    ],
+    "sunshiny_companion": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
+            "text": "这里的风都带着花草的香味，我一时兴起，就骑得远了些。\n幸好你一直没有离开主路，我一回头就找到你了……前面的风景也很不错，我们一起去看看吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
+            "text": "嗯，保持这个状态，继续前行吧！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
+            "text": "光线很柔和，风速也合适 ……这样的日子，最适合外出郊游散心了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
+            "text": "风、花香，还有前方的路和未知的风景……这些美好的东西组合在一起，让人很难停下脚步。\n就算花篮已经装满了，我还是想继续走下去。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
+            "text": "偏离路线的时候，我并没有感到慌乱。因为我很清楚，无论走到哪里，都能与局长重新汇合。\n而且，我还看见了不少计划之外的风景。真想带局长也一起去看看！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
+            "text": "呼……全身都晒得暖洋洋的。我好像也有点……困了……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
+            "text": "局长是想坐在我的车后座上吗？\n可能会有点晃……不过我会努力稳住的！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
+            "text": "局长也准备好了吗？那我们就一起出发吧！"
+        }
     ]
 }

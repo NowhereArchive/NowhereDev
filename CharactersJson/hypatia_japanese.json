@@ -167,5 +167,47 @@
             "filename": "File:vo_hypatia_yeyinjinqiang_specialattention_001.aac",
             "text": "あなたの目は、私が何をしても受け止めると言っているかのようだわ。たとえ今、ここから飛び降りたとしても、あなたはしっかり私を抱き締めてくれるのでしょうね……"
         }
+    ],
+    "sunshiny_companion": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

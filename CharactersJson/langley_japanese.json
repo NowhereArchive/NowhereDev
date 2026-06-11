@@ -219,5 +219,57 @@
             "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
             "text": "おかえり、私の航海士。島の状況はどうだ？何人駐留している？大砲の数は？いい偵察だ。我々の獲物はもうすぐ綻びを見せるらしい。"
         }
+    ],
+    "sharpened_radiance": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",
+            "text": "頭を上げ、胸を張れ――いつどこであれ、私たちは常に完璧な姿勢を保つべきだ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lanli_lifengxinhui_levelup_001.aac",
+            "text": "お前の評価は、私の勲章を構成する一部だ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lanli_lifengxinhui_greeting_001.aac",
+            "text": "焦るな、式典はまだ始まっていない。まずは身なりを整えろ。お前はこれから私の部下だ。礼儀作法に少しの失敗も許されない。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_lanli_lifengxinhui_head_001.aac",
+            "text": "お前の行動の報告は受けていない。自ら罰を受けるんだな。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_lanli_lifengxinhui_body_001.aac",
+            "text": "卒業など、私にとっては制服が変わり、戦場が変わるだけのことだからな。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_lanli_lifengxinhui_body_002.aac",
+            "text": "私の旅立ちを惜しむ必要はない。しばらくすれば、お前もこのような時を迎えるだろう。拍手と多くの視線の中で、本当の戦いが始まると悟る瞬間を。その時、私は前に立ち、お前を再び仲間として迎え入れよう。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_lanli_lifengxinhui_leg_001.aac",
+            "text": "入学した時、私はここに立ち誓った。学んだ全てをこの地に捧げると。今こそ、その誓いを真に果たす時だ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_lanli_lifengxinhui_background_001.aac",
+            "text": "この旗は思っていたより重い……皆の期待と未来を背負っているのだから、当然か。そして我々の責務は、この旗を掲げ、はためかせることだ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lanli_lifengxinhui_idle_001.aac",
+            "text": "式典に飽きたのか？、慣れろ、忍耐の訓練だと思ってな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lanli_lifengxinhui_specialattention_001.aac",
+            "text": "戦場で一つの標的ばかり見ていたら、先手を取られるぞ。覚えておけ、最も美しい花火の中にあっても、常に警戒を怠るな。"
+        }
     ]
 }

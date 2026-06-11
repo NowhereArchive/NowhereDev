@@ -1,0 +1,121 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_mofei_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_mofei_promotion_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_mofei_promotion2_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_mofei_battlebegin_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_mofei_battlewin_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_mofei_battlelose_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_mofei_uniqueskill_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_mofei_dead_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_mofei_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_mofei_talk1_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_mofei_talk1_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_mofei_talk1_003.aac",
+            "text": "###"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_mofei_talk2_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_mofei_talk2_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_mofei_talk2_003.aac",
+            "text": "###"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_mofei_obeyfull_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_mofei_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_mofei_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_mofei_specialattention_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mofei_dispatch_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_mofei_dispatch2_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_mofei_levelup_002.aac",
+            "text": "###"
+        }
+    ],
+    "###": [
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_mofei_head_001.aac",
+            "text": "###"
+        }
+    ]
+}

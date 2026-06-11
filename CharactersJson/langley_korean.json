@@ -219,5 +219,57 @@
             "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
             "text": "나의 일등 항해사, 돌아온 걸 환영해. 저 섬의 상황은 어때? 몇 명이나 주둔 중이지? 화포 개수는? 정찰 업무를 훌륭하게 해냈군. 머지않아 우리의 사냥감이 약점을 드러내겠어."
         }
+    ],
+    "sharpened_radiance": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",
+            "text": "고개 들고, 가슴 펴. 우리는 언제 어디서든 가장 완벽한 자세를 유지해야 해."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lanli_lifengxinhui_levelup_001.aac",
+            "text": "네게 받는 인정은 내 훈장의 일부야."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lanli_lifengxinhui_greeting_001.aac",
+            "text": "조급할 것 없어. 아직 식이 시작되지 않았으니까. 우선 옷매무새부터 정리해. 넌 앞으로 내 지휘를 따르게 될 텐데, 예법에서 실수하는 일은 없어야 해."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_lanli_lifengxinhui_head_001.aac",
+            "text": "나한테 보고한 적 없는 행동이라니, 벌은 알아서 받도록 해."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_lanli_lifengxinhui_body_001.aac",
+            "text": "졸업은 내게 제복을 바꿔 입고 전장을 옮기는 일일뿐이야."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_lanli_lifengxinhui_body_002.aac",
+            "text": "내가 떠난다고 슬퍼할 것 없어. 네게도 곧 이런 순간이 찾아올 테니까. 박수갈채와 타인의 시선 속에서, 진정한 전투가 시작되었음을 깨닫게 되는 그런 순간 말이야. 그때 먼저 가서 기다리고 있을게. 다시 나와 나란히 걸어갈 그날을."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_lanli_lifengxinhui_leg_001.aac",
+            "text": "입학할 때 난 이곳에 서서 맹세했지. 내가 배운 모든 것을 이 땅에 바치겠다고. 이제 그 맹세를 실천할 때가 왔어."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_lanli_lifengxinhui_background_001.aac",
+            "text": "이 깃발, 생각했던 것보다 훨씬 더 무겁군… 모두의 기대와 미래가 깃들어 있기 때문이겠지. 우리의 소명은 이 무게를 짊어진 채, 깃발을 드높이 휘날리게 하는 거야."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lanli_lifengxinhui_idle_001.aac",
+            "text": "졸업식이 재미없나 보네? 익숙해지도록 해. 인내심 훈련이라고 생각하면서."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_lanli_lifengxinhui_specialattention_001.aac",
+            "text": "전장에서 하나의 목표에만 집중하다 보면 선수를 빼앗기게 돼. 명심해. 아무리 아름다운 불꽃 속이라 해도, 경계심을 늦춰서는 안 된다는 걸."
+        }
     ]
 }

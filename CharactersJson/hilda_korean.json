@@ -115,5 +115,57 @@
             "filename": "File:vo_hilda_head_001.aac",
             "text": "비밀은 바람 속에서 사라져야 해. 마치 빗물이 물에 스며드는 것처럼."
         }
+    ],
+    "springtime_postcard": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_hilda_chunrilaijian_cacha_001.aac",
+            "text": "속이 탁 트이는 시원한 오후야. 하루 종일 쌓였던 피로가 바람에 실려 날아가는 것만 같아…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_hilda_chunrilaijian_levelup_001.aac",
+            "text": "햇살이 너무 좋네. 수레국화도 더 예쁘게 피어나겠지."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_hilda_chunrilaijian_greeting_001.aac",
+            "text": "한적한 이 산속에는 바람과 꽃이 속삭이는 소리만 들려와… 이토록 아름다운 순간은 누군가와 함께 나눠야 더 의미 있는 법이지. 널 기다리길 참 잘한 것 같아."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_hilda_chunrilaijian_head_001.aac",
+            "text": "머리가 다 흐트러지겠어. 너, 산속을 떠도는 바람보다 더 짓궂구나."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_hilda_chunrilaijian_body_001.aac",
+            "text": "아… 네가 내 모자에 꽂아준 수레국화가 바람에 날아가 버렸어… 책갈피로 만들어서 간직하려 했는데. 혹시 하나 더 꽂아줄 수 있을까?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_hilda_chunrilaijian_body_002.aac",
+            "text": "이곳의 날씨는 늘 마음에 안 들었었는데 오늘은 웬일로 맑네. 그보다도 더 의외인 건… 이 구름을 걷어준 사람이 내 옆에 앉아 있다는 거야."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_hilda_chunrilaijian_hand_001.aac",
+            "text": "누군가 말했지. 자연은 암호로 기록된 한 권의 책과 같다고. 산과 시냇물, 그리고 모든 생명은 정교하게 짜인 법칙을 따르지. 수레국화 꽃잎은 황금 수열을 이루고, 메타세쿼이아의 씨앗은 아득한 시절부터 이어온 잎의 배열을 고스란히 간직하고 있어. 만약 지금 이 순간의 모든 것을 암호로 바꾼다면 이 세상에서 그 암호를 풀 수 있는 존재는… 오직 바람과 당신뿐일 거야."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_hilda_chunrilaijian_background_001.aac",
+            "text": "고향에서는 수레국화가 피는 계절이 오면 소녀들이 꽃을 엮어서 화관을 만들어 시냇물에 띄워 보내곤 했어. 마음을 바람과 흐르는 물에다 맡기면 시냇물이 아무도 모르는 그 마음을 싣고 먼 곳까지 보내줄 거야…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_hilda_chunrilaijian_idle_001.aac",
+            "text": "…어쩌다 잠들어 버린 거야? 나비가 코끝에 앉는데도 반응 하나 없네."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_hilda_chunrilaijian_specialattention_001.aac",
+            "text": "한참 봤는데… 마음에 드는 사진은 찍었어? 너만 괜찮다면 그 사진을 엽서로 만들어서, 이 꽃과 함께 시집 사이에 끼워둬도 좋을 거 같아…"
+        }
     ]
 }

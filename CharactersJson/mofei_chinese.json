@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_mofei_cacha_001.aac",
+            "text": "抱歉抱歉，来的路上……嗯，有点堵车！我应该没有迟到吧？你好局长，我是墨菲！"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_mofei_promotion_001.aac",
+            "text": "感觉好像……变得更加勇敢了一点！"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_mofei_promotion2_001.aac",
+            "text": "如果我的不幸也能成为一种力量，那我希望……我能好好运用它！"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_mofei_battlebegin_001.aac",
+            "text": "七星虫、马蹄铁、红绳红纸护身符……好，都齐了！应该不会出什么大问题！"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_mofei_battlewin_001.aac",
+            "text": "居然赢了？！难道今天是我的幸运日？！"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_mofei_battlelose_001.aac",
+            "text": "……一定，一定是我影响了大家吧，怪我就好了……"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_mofei_uniqueskill_001.aac",
+            "text": "一定……要打中啊！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_mofei_dead_001.aac",
+            "text": "这次……是真的倒霉到家了呢……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_mofei_greeting_001.aac",
+            "text": "好开心今天又能见到你！"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_mofei_talk1_001.aac",
+            "text": "哎呀人嘛，总是会遇到那么一二三四五六件倒霉事啦，习惯就好！"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_mofei_talk1_002.aac",
+            "text": "这可是我每年跨年时，都会从驻扎在新城的东洲仙人那儿求的护身符！虽然不知道是不是真的有用，但总归能安心一点嘛！"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_mofei_talk1_003.aac",
+            "text": "我总是忘事儿，所以会随身携带一个笔记本，记录下对我来说很重要的事情！比如……今天，局长带我见到了很漂亮的天空，就像幻想世界的一样！"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_mofei_talk2_001.aac",
+            "text": "那就真如你所说，这也是一种……特别的能力呢！"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_mofei_talk2_002.aac",
+            "text": "我研究过啦！今天是幸运日，要带着小动物装饰和红色幸运物跟重要的人一起去游乐园，这样接下来一周都会有好运气的！局长，陪我一起去嘛！"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_mofei_talk2_003.aac",
+            "text": "“局长帮我修好了摔成三瓣的三折叠手机”……“局长说我带来的不全是麻烦”……局长，我发现这个笔记本上记录了越来越多你的事情，它好像快变成我的“幸运记录簿”了欸~"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_mofei_obeyfull_001.aac",
+            "text": "很多人都说，遇上倒霉事儿就是在攒人品，只能认命，然后等待老天放过你，最后给你一次好运。我等了很久很久，然后我遇见了你！可是……你带给我并非一件“幸运的事”，而是让我有了对抗和不认命的勇气……这比任何一件“幸运的事”都要好！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_mofei_idle_001.aac",
+            "text": "今天要不要试试新的转运方法呢……"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_mofei_clicking_001.aac",
+            "text": "怎么样，猫猫头的手感是不是超级好？这可是我最喜欢的护身符之一哦！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_mofei_specialattention_001.aac",
+            "text": "别这样一直看着我嘛……有你在，我一定不会出什么岔子的，对吧！"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_mofei_dispatch_001.aac",
+            "text": "希……希望这次的任务能顺顺利利……"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_mofei_dispatch2_001.aac",
+            "text": "顺利回来了！虽然中间摔了三次、迷路两次，但至少没把任务搞砸……对吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_mofei_levelup_002.aac",
+            "text": "连我也能变强的话，这世界果然还是充满希望的！"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_mofei_head_001.aac",
+            "text": "我听说，摸摸头能传递好运！局长再摸一下呀！"
+        }
+    ]
+}

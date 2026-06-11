@@ -199,5 +199,57 @@
             "filename": "File:vo_raven_kehoujingxi_specialattention_001.aac",
             "text": "Why the look? Oh, is this teacher-fit I specially chose eye candy for you? Well, in that case, admire all you want."
         }
+    ],
+    "when_praising_the_stars": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_raven_songzanqunxingzhishi_cacha_001.aac",
+            "text": "Praise be to the miracle that we could meet in this sprawling, indifferent universe."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_raven_songzanqunxingzhishi_levelup_001.aac",
+            "text": "I shall become a brand new poem."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_raven_songzanqunxingzhishi_greeting_001.aac",
+            "text": "Come, please sit. I've saved the best angle for your eyes only. The stars are putting on a show tonight, so why not steal the whole universe for ourselves?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_raven_songzanqunxingzhishi_head_001.aac",
+            "text": "Give a grain of sand ten thousand years, and it learns to glitter. So don't you worry. Our ideals, scuffed and silly as they seem, will outshine the stars someday."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_001.aac",
+            "text": "No fire can burn away the memory of a melody. No shadow can bury a verse. Humanity clings to them like a lover to a ghost, and so do I."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_raven_songzanqunxingzhishi_body_002.aac",
+            "text": "They call emeralds \"garden\" because their flaws bloom like wild things. So fitting for me, don't you think? I am a teacher, a reporter, and a great poet singing Syndicate's praises. Am I not such a beautiful mess?"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_raven_songzanqunxingzhishi_hand_001.aac",
+            "text": "I catch the universe whispering its oldest secrets in the dark, then scribble them down like love letters."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_raven_songzanqunxingzhishi_background_001.aac",
+            "text": "You've never seen me dressed so formally, I know. Just answer me, do you like it or not?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_raven_songzanqunxingzhishi_idle_001.aac",
+            "text": "Lost again, are you? Tell me, do my verses pale beside the whispers of your wandering? How cruel, and how inspiring. I shall make you my next stanza."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_raven_songzanqunxingzhishi_specialattention_001.aac",
+            "text": "Look as long as you wish. Each flicker of the universe we steal with our eyes is an eternity we can never touch."
+        }
     ]
 }

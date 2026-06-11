@@ -167,5 +167,47 @@
             "filename": "File:vo_pearl_muxiahuazhang_specialattention_001.aac",
             "text": "现在光顾着看我也就罢了，但一会儿等演出正式开始以后，可要把注意力全部集中在舞台上哦。去感受演员们的诚意，也好好享受我特意为你准备的视角最好的vip包厢~"
         }
+    ],
+    "resonance_of_splendor": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pearl_shengshijinse_cacha_001.aac",
+            "text": "花还未落，灯已点好，弦刚调过。开演前的舞台，可是云韶府最为秘辛的时刻，若非你为知音，我可不会让你瞧见这一幕。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pearl_shengshijinse_levelup_001.aac",
+            "text": "贵人们的喝彩，真叫这儿蓬荜生辉~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pearl_shengshijinse_greeting_001.aac",
+            "text": "节下良宵，丝竹已动，又何必在廊下徘徊？来吧，告诉我，是想听一段快意豪纵，还是……一分弦外的深情？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pearl_shengshijinse_body_001.aac",
+            "text": "都说这舞台歌舞升平，寓意这天下也长乐未央，可看久了总归发腻。我呀，总盼着舞台上的轻歌乐舞，能流淌下来，把满座宾客也圈进这乐舞里，那一定足够新鲜，足够精彩，你说是不是？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pearl_shengshijinse_body_002.aac",
+            "text": "台下人赏胡旋舞，只看到万国来朝的盛世风情，我却知道那些孩子在幕后，脚底磨出了血也只当是给红绸染色。这种野蛮生长的狠劲，才是云韶府的根。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pearl_shengshijinse_idle_001.aac",
+            "text": "多少人想来这大宴而不得，你倒好，竟在这儿“大梦谁先觉”了。也罢，谁说这珠翠满堂管弦喧天，不是另一种幻梦呢。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pearl_shengshijinse_clicking_001.aac",
+            "text": "我这儿勾魂的家当多的是，你要是如此感兴趣，等那歌舞结束后，我让你在那锦绣堆里见识个够，如何？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pearl_shengshijinse_specialattention_001.aac",
+            "text": "这身红金行头重得压人，也就是你大驾光临，我才穿上给人瞧瞧。呵呵，既然你眼睛都看直了，那我就当这份辛苦没白费~"
+        }
     ]
 }

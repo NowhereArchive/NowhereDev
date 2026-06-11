@@ -167,5 +167,47 @@
             "filename": "File:vo_pearl_muxiahuazhang_specialattention_001.aac",
             "text": "Stare at me all you want for now, but when the show begins, you should direct all your attention to the stage, so as to feel the actors' devotion to their art from this VIP box with the best view. I've reserved it especially for you."
         }
+    ],
+    "resonance_of_splendor": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_pearl_shengshijinse_cacha_001.aac",
+            "text": "The lanterns are lit, the strings are freshly tuned, and the flowers have not yet wilted. The stage before the curtain rises is the most intimate moment in all of Yunshao Manor. Were you not a kindred spirit, I would have never allowed you to witness this."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pearl_shengshijinse_levelup_001.aac",
+            "text": "There is no greater honor for this humble establishment than the applause of such distinguished guests."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pearl_shengshijinse_greeting_001.aac",
+            "text": "What compels you to linger in the corridors on such a beautiful evening? Do you not hear the music playing? Come now, tell me—would you like to hear something bold and unrestrained, or... something tender and heartfelt?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_pearl_shengshijinse_body_001.aac",
+            "text": "They say the stage depicts peace and prosperity. It embodies everlasting joy in the mortal realm, but such performances grow dull after a while. What I've always wished for is for songs and dances to break through the wall that separates the stage and the audience. Now that would be a most fresh and spectacular sight, wouldn't you say?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_pearl_shengshijinse_body_002.aac",
+            "text": "The audience watches the Sogdian Whirl and sees only the splendor of nations united in prosperity. But I know. I know that behind the stage, those young performers danced until their feet bled, and yet to them, that blood is no more than dye for their red silk. That savage determination—that's the true foundation of Yunshao Manor."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pearl_shengshijinse_idle_001.aac",
+            "text": "Countless people would die for an invitation to this grand banquet, and here you are, drifting off into dreams. Though... who's to say this grand performance isn't a fleeting dream in itself?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pearl_shengshijinse_clicking_001.aac",
+            "text": "I have plenty of captivating treasures here. Since you seem so interested, shall I bring you to a feast for your eyes once the performance ends? What do you say?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pearl_shengshijinse_specialattention_001.aac",
+            "text": "This red and gold ensemble is most heavy. I only put it on to welcome your esteemed presence. But seeing as how you can't take your eyes off me, I'd say the effort was, in fact, worth its weight in gold."
+        }
     ]
 }

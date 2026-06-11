@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_kelaimenting_cacha_001.aac",
+            "text": "「真実は危険なものだ。どんなに醜くても、必ず惹きよせられ、その魅力に溺れて抜け出せない者が現れる」――今の君のようにねぇ。お久しぶり、親愛なる探偵さん。新たな謎を迎える準備はできているかね？"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_kelaimenting_promotion_001.aac",
+            "text": "よく見たまえ。真実は、往々にして言葉の隙間に隠れているものさ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_kelaimenting_promotion2_001.aac",
+            "text": "消えた乗客、密閉された車両、混沌とした長い夜……扉を開けてごらん、探偵さん。物語はすでに始まっているのだよ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_kelaimenting_battlebegin_001.aac",
+            "text": "さて、今回の「犯人」が誰か、当ててごらん。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_kelaimenting_battlewin_001.aac",
+            "text": "「探偵はまたしても謎を解き、真実を突き止めた」おめでとう～"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_kelaimenting_battlelose_001.aac",
+            "text": "「この世に完璧な犯罪は存在しない」もう一度挑戦しよう。君はすでに事件解決の鍵を見つけているはずさ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_kelaimenting_uniqueskill_001.aac",
+            "text": "最終章が訪れた！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_kelaimenting_dead_001.aac",
+            "text": "ダメだ……僕の復讐は、まだ終わっていない……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_kelaimenting_greeting_001.aac",
+            "text": "ん～今日は珍しく原稿の締め切りがないんだ。一緒に出かけるのはどうかね？"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_kelaimenting_talk1_001.aac",
+            "text": "犯人と探偵の対峙は、作者と読者の駆け引きでもある――謎が解けるまで、どちらにも油断は許されない。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_kelaimenting_talk1_002.aac",
+            "text": "標本作りの秘訣は正確さにある。まず骨格の構造を見極め、針の刺し方を考え、羽根の角度を一つ一つ微調整する……文章を書くのも同じだ。感情を削ぎ落としてこそ、最も完璧な「死」を捉えられるのさ。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_kelaimenting_talk1_003.aac",
+            "text": "作家は深夜にこそインスピレーションが湧くものだ。だから僕は夜に出かけ、良い酒を飲み、月明かりを浴びてから街で運試しをする。そして夜明け前に、治安局の友人たちに「犯罪現場に迷い込んだ哀れな者」として家まで送ってもらうのさ。なんて完璧な流れだろう～"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_kelaimenting_talk2_001.aac",
+            "text": "「死者」を設計する過程は想像以上に複雑だ――その人物は早くに退場しながらも、事件の核心的な問題点であり、沈黙しつつ強引に全ての人の視線を集めるのだから。万人の注目を浴びる名探偵を書くより、この事件で知られざる死者を描く方がずっと面白いのさ～"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_kelaimenting_talk2_002.aac",
+            "text": "物語は現実の暗喩であり、誰にも知られぬ秘密であり、押し殺された冤罪、あるいは塵に埋もれた真実である……誰かが勇気を奮い起こし、かつて逃げてきた闇と向き合うきっかけになるだけでも、物語は存在意義を持つのさ。"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_kelaimenting_talk2_003.aac",
+            "text": "ミステリ小説には陳腐なルールがある。「真実は汚されず、正義は必ず現れる」と。ふっ、これはもちろん嘘だがねぇ。それでも僕は書き続ける。何度も何度も……いつか君のような人が現れ、それを現実にしてくれる日が来るまで。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_kelaimenting_obeyfull_001.aac",
+            "text": "僕の物語は現実と幾度も重なり合い、登場人物たちも現実から着想を得ることが多い。二人は本の中で出会い、愛し合い、寄り添い、そして殺し合う……たとえ最期に死の運命から逃れられなくとも、彼らの存在は文字によって残り続ける。物語は一つの関係を永遠のものにできるのさ。彼らのように、そして……君と僕のように。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_kelaimenting_idle_001.aac",
+            "text": "インスピレーションはなかなか訪れないというのに、締め切りは迫ってくる……ふむ、気分が乗らない時に書くと逆にミスをしやすい……書くのは明日にしようか？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_kelaimenting_clicking_001.aac",
+            "text": "作者にどれだけちょっかいを出しても、絶対にネタバレはしないぞ？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_kelaimenting_specialattention_001.aac",
+            "text": "密室に二人きり、視線が絡み合い、距離が縮まる。まさに「特別な」ことが起きそうな状況……と思っているのではないかね？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_kelaimenting_dispatch_001.aac",
+            "text": "取材？いいだろう、インスピレーションを探しに行くのにもってこいだ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_kelaimenting_dispatch2_001.aac",
+            "text": "ふふ、道中で面白いネタに出会ったよ。次の本に書けるかもしれないねぇ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_kelaimenting_levelup_002.aac",
+            "text": "事件がエスカレートすれば、インスピレーションもレベルアップする。なかなか良いじゃないか～"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_kelaimenting_head_001.aac",
+            "text": "ん？サインが欲しい？いいだろう、どこに書けばいいんだ？手のひら？肩？背中？それとも……もっと忘れられない場所かね？"
+        }
+    ]
+}

@@ -157,5 +157,47 @@
             "filename": "File:vo_moore_luowangbiri_specialattention_001.aac",
             "text": "저는 당신이 교훈을 새기지 않고 무모하게 행동하는 모습이 좋아요… 자, 몇 번이든 상대해 드릴게요."
         }
+    ],
+    "leisurely_tunes": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_moore_xianyushiyin_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_moore_xianyushiyin_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

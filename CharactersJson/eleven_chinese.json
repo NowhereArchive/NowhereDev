@@ -219,5 +219,47 @@
             "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
             "text": "如果我是你入睡前看到的最后一个人，那你今晚的梦里会不会有我的出现？"
         }
+    ],
+    "trail_of_sounds": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
+            "text": "受够了城市的喧闹，就和我一起踏上旅途，寻找一个适合耳朵休养的地方吧。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
+            "text": "听到了吗？翅膀掠过水面的声音。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
+            "text": "我想把收集到的所有声音，分享给最在意的人听。所以今天的第一个电话，我打给了你。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
+            "text": "闭上眼睛，倾听风铃的轻语，树叶的婆娑，还有被风推上岸的潺潺湖水……声音能穿越时空，欺骗你的感官。我将它们都记录了下来，这样我就能随时再次感受这个午后，感受你在我身旁。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
+            "text": "言语只是意义的脉络，有时无法说清我们真正的心意。来，再靠近一些吧……让我们做两片依偎的叶子，任风带我们去向远方……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
+            "text": "风铃的节奏，与这首歌恰好合拍。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
+            "text": "原来……我的心也会像风铃一样，为不知何处而来的风而颤动。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
+            "text": "有些声音似乎变得更清晰了。让我仔细听听……你的呼吸，你的心跳，也许还有我的……"
+        }
     ]
 }

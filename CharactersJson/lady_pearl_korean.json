@@ -167,5 +167,47 @@
             "filename": "File:vo_pearl_muxiahuazhang_specialattention_001.aac",
             "text": "지금은 나만 바라봐도 괜찮지만, 조금 뒤 공연이 정식으로 시작되면 무대 위에 정신을 집중해야 돼. 배우들의 정성을 느껴보고, 내가 당신을 위해 특별히 준비한 가장 좋은 관람 공간인 VIP 룸을 즐겨보라고~"
         }
+    ],
+    "resonance_of_splendor": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_pearl_shengshijinse_cacha_001.aac",
+            "text": "꽃은 지지 않았고, 조명도 켜졌고, 현악기도 막 조율을 마쳤지. 막이 오르기 전의 무대야말로 운소부의 가장 비밀스러운 순간이야. 당신을 친구라 생각하지 않았더라면, 이런 모습은 절대 보여주지 않았을 거야."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pearl_shengshijinse_levelup_001.aac",
+            "text": "귀빈 여러분의 박수갈채 덕에 이 누추한 곳마저 환한 빛으로 물드네요~"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pearl_shengshijinse_greeting_001.aac",
+            "text": "이 아름다운 밤에 음악이 울려 퍼지고 있는데 왜 복도에서 서성이고만 있는 거지? 이리 와서 내게 말해 봐. 신나는 음악을 원해, 아니면… 선율 너머의 깊은 감정을 원해?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_pearl_shengshijinse_body_001.aac",
+            "text": "다들 이 무대는 태평성세를 노래하며 이 세상이 오래도록 행복하고 평온하길 기원한다고들 하지. 하지만 오래 보고 있으니까 좀 질리더라. 난 말이야, 무대의 경쾌한 노래와 아름다운 춤이 흘러 내려와서 객석을 가득 메운 관객들까지 함께 휘감아버렸으면 좋겠어. 그럼 더 새롭고 재밌을 텐데. 그렇지 않아?"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_pearl_shengshijinse_body_002.aac",
+            "text": "무대 아래 사람들은 호선무를 감상하며 나라의 번창함을 칭송하기 바쁘지. 하지만 난 알아. 무대 뒤 아이들의 발바닥이 피로 물들 때까지 멈추지 않는 연습, 그리고 그 피조차 무대를 위한 당연한 희생으로 치부된다는 걸. 그렇게 지독한 환경에서 빚어진 근성이야말로 우리 운소부의 근간이지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pearl_shengshijinse_idle_001.aac",
+            "text": "이 성대한 연회에 발을 들이고 싶어도 못 오는 이들이 수두룩한데, 당신은 참 운이 좋군. 이런 자리에서 태평하게 꿈이나 꾸고 있으니 말이야. 뭐, 상관없어. 화려한 보석과 관현악 선율로 가득한 이곳 역시, 결국 한 줄기 꿈에 불과할지도 모르니까."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pearl_shengshijinse_clicking_001.aac",
+            "text": "내게는 사람 혼을 쏙 빼놓는 물건들이 아주 많아. 그렇게 관심이 있다면, 노래와 춤이 끝난 뒤에 저 비단 더미 속에서 실컷 구경시켜 줄게. 어때?"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_pearl_shengshijinse_specialattention_001.aac",
+            "text": "이 금빛 차림은 너무 무거워서 온몸이 짓눌리는 기분이야. 당신이 직접 와주었으니 특별히 보여주는 것뿐이라고. 후후, 그렇게 눈도 못 떼고 바라보는 걸 보니 고생한 보람은 있네~"
+        }
     ]
 }

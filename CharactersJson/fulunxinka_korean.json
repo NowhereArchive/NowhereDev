@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "수감자 획득",
+            "filename": "File:vo_fulunxinka_cacha_001.aac",
+            "text": "난 법의학자 포렌시카야. 단도직입적으로 말하지. 난 살아 있는 인간에겐 인내심 따위 없거든."
+        },
+        {
+            "title": "1급으로 승급",
+            "filename": "File:vo_fulunxinka_promotion_001.aac",
+            "text": "내가… 진실의 끝자락에 닿았어…"
+        },
+        {
+            "title": "3급으로 승급",
+            "filename": "File:vo_fulunxinka_promotion2_001.aac",
+            "text": "이번엔… 도망 못 갈 줄 알아."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_fulunxinka_battlebegin_001.aac",
+            "text": "조사를 시작한다."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_fulunxinka_battlewin_001.aac",
+            "text": "일이 끝났으니 감정서 써와."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_fulunxinka_battlelose_001.aac",
+            "text": "뭐가 부족했던 거지… 다시 잘 생각해 보자…"
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_fulunxinka_uniqueskill_001.aac",
+            "text": "죽은 자의 이름으로!"
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_fulunxinka_dead_001.aac",
+            "text": "나의 시체가… 네게… 진실을 알려줄 거야…"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_fulunxinka_greeting_001.aac",
+            "text": "왔어? 오늘 새로운 사건 있어? 없으면 간다."
+        },
+        {
+            "title": "대화1",
+            "filename": "File:vo_fulunxinka_talk1_001.aac",
+            "text": "난 해부실에 있는 게 좋아. 기관 안을 어슬렁거리는 멍청한 면상들을 보는 것보다 시체들을 보는 게 훨씬 좋거든."
+        },
+        {
+            "title": "대화2",
+            "filename": "File:vo_fulunxinka_talk1_002.aac",
+            "text": "신입 조수가 또 나를 고발했다고? 왜? 난 분명 위로해 준 거였는데. '평소에도 못했으니까, 이번에도 못한 건 당연한 거야'라고… 근데 왜 그렇게 쳐다봐? 내 말이 틀렸어?"
+        },
+        {
+            "title": "대화3",
+            "filename": "File:vo_fulunxinka_talk1_003.aac",
+            "text": "법의학자는 해부만 하는 사람이 아니야. 현장 조사에도 참여하지. 불순한 의도를 가진 녀석들은 혼란을 주려고 이 단계부터 손을 대거든. 증거를 오염시키고, 현장을 훼손하며, 억지로 결론을 유도하고… 여긴 마음에 드네. 적어도 지금까진 깨끗하니까."
+        },
+        {
+            "title": "특별 대화1",
+            "filename": "File:vo_fulunxinka_talk2_001.aac",
+            "text": "성격이 나빠? 입이 더러워? 협업이 힘들어? 난 일하러 온 거지, 동료 비위 맞추러 온 게 아니야. 그 인간들, 시체한테 가서 좀 배우라 해. 시체는 그렇게 불평불만 안 한다고."
+        },
+        {
+            "title": "특별 대화2",
+            "filename": "File:vo_fulunxinka_talk2_002.aac",
+            "text": "시체는 썩어 문드러지고, 산 사람의 인내심은 그보다 더 짧은 법이지. 제때 진실을 찾아내지 못하면 답 없는 질문을 평생 짊어지고 살아야 해. 법의학자란… 본래 그런 직업이야."
+        },
+        {
+            "title": "특별 대화3",
+            "filename": "File:vo_fulunxinka_talk2_003.aac",
+            "text": "이 세계에서 죽은 자는 언제나 가장 약한 존재야. 사회는 그들을 기만하고, 친족들은 그들을 저버리기도 해. 가끔은… 내가 바로 그들의 유일한 대변인인 거지."
+        },
+        {
+            "title": "최대 복종도 달성",
+            "filename": "File:vo_fulunxinka_obeyfull_001.aac",
+            "text": "시체는 거짓말을 하지 않아. 거짓말은 살아 있는 사람들이 하는 짓이지. 내가 여기 남기로 한 건 세상이 말하는 정의를 다시 믿어서가 아니야. 그저… 당신을 믿을 뿐이지. 당신이라면 내가 그들을 대신해 진실을 말할 기회를 줄 거라 믿으니까."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_fulunxinka_idle_001.aac",
+            "text": "도로시, 세상에서 가장 귀여운 뼈다귀… 흠, 표면이 거칠어졌네, 내가 좀 정리해 줄게…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_fulunxinka_clicking_001.aac",
+            "text": "그만 좀 봐, 이거 다 해부 도구라 네가 쓸 일은 없어."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_fulunxinka_specialattention_001.aac",
+            "text": "왜 자꾸 날 뻔히 쳐다봐? 내 얼굴에 뭐라도 묻었어? 이러면 생각하는 데 방해돼…"
+        },
+        {
+            "title": "파견",
+            "filename": "File:vo_fulunxinka_dispatch_001.aac",
+            "text": "귀찮아 죽겠네… 나 혼자 가면 안 돼?"
+        },
+        {
+            "title": "파견 완료",
+            "filename": "File:vo_fulunxinka_dispatch2_001.aac",
+            "text": "네가 시킨 거 다 가지고 왔어. 약속했던 사흘의 휴가 내놔. 휴가 기간에는 찾지 마. 아무도 안 만날 거니까."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_fulunxinka_levelup_002.aac",
+            "text": "법의학은 발전하고 있어. 나 역시 마찬가지야."
+        }
+    ]
+}

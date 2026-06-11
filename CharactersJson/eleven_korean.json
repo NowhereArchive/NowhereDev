@@ -219,5 +219,47 @@
             "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
             "text": "만약 제가 당신이 잠들기 전에 본 마지막 사람이라면, 오늘 밤 당신의 꿈에 제가 나타나지 않을까요?"
         }
+    ],
+    "trail_of_sounds": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

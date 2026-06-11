@@ -104,6 +104,10 @@
                 {
                     "name": "ensnaring_eclipse",
                     "displayName": "Ensnaring Eclipse"
+                },
+                {
+                    "name": "leisurely_tunes",
+                    "displayName": "Leisurely Tunes"
                 }
             ],
             "slug": "moore"
@@ -351,6 +355,29 @@
                 }
             ],
             "slug": "xiaofeng"
+        },
+        {
+            "name": "mofei",
+            "displayName": "Murphy",
+            "rank": "S",
+            "libram": "LIMBO",
+            "tendency": "Fury",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "###",
+                    "displayName": "###"
+                },
+                {
+                    "name": "###",
+                    "displayName": "###"
+                }
+            ],
+            "slug": "murphy"
         },
         {
             "name": "linglan",
@@ -648,6 +675,10 @@
                 {
                     "name": "madame_maelstrom",
                     "displayName": "Madame Maelstrom"
+                },
+                {
+                    "name": "sharpened_radiance",
+                    "displayName": "Sharpened Radiance"
                 }
             ],
             "slug": "langley"
@@ -740,6 +771,10 @@
                 {
                     "name": "glorious_spectacle_unfolds",
                     "displayName": "Glorious Spectacle Unfolds"
+                },
+                {
+                    "name": "resonance_of_splendor",
+                    "displayName": "Resonance of Splendor"
                 }
             ],
             "slug": "lady_pearl"
@@ -801,6 +836,10 @@
                 {
                     "name": "crepuscular_bloom",
                     "displayName": "Crepuscular Bloom"
+                },
+                {
+                    "name": "sunshiny_companion",
+                    "displayName": "Sunshiny Companion"
                 }
             ],
             "slug": "hypatia"
@@ -823,6 +862,21 @@
                 }
             ],
             "slug": "augustus"
+        },
+        {
+            "name": "kelaimenting",
+            "displayName": "Clementine",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "clementine"
         },
         {
             "name": "heli",
@@ -916,6 +970,10 @@
                 {
                     "name": "raven_in_the_box",
                     "displayName": "Raven in the Box"
+                },
+                {
+                    "name": "when_praising_the_stars",
+                    "displayName": "When Praising the Stars"
                 }
             ],
             "slug": "raven"
@@ -939,6 +997,10 @@
                 {
                     "name": "trickling_heartstream",
                     "displayName": "Trickling Heartstream"
+                },
+                {
+                    "name": "trail_of_sounds",
+                    "displayName": "Trail of Sounds"
                 }
             ],
             "slug": "eleven"
@@ -1038,6 +1100,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "springtime_postcard",
+                    "displayName": "Springtime Postcard"
                 }
             ],
             "slug": "hilda"
@@ -1222,6 +1288,10 @@
                 {
                     "name": "astral_rhapsody",
                     "displayName": "Astral Rhapsody"
+                },
+                {
+                    "name": "abyssal_phantom",
+                    "displayName": "Abyssal Phantom"
                 }
             ],
             "slug": "ll"
@@ -1298,6 +1368,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "serene_daylight",
+                    "displayName": "Serene Daylight"
                 }
             ],
             "slug": "irrheia"
@@ -1979,6 +2053,29 @@
             "slug": "poffy"
         },
         {
+            "name": "nuoma",
+            "displayName": "Norma",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "###",
+                    "displayName": "###"
+                },
+                {
+                    "name": "###",
+                    "displayName": "###"
+                }
+            ],
+            "slug": "norma"
+        },
+        {
             "name": "peggi",
             "displayName": "Pricilla",
             "rank": "A",
@@ -2548,6 +2645,21 @@
                 }
             ],
             "slug": "ai"
+        },
+        {
+            "name": "fulunxinka",
+            "displayName": "Forensica",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "forensica"
         },
         {
             "name": "kk",

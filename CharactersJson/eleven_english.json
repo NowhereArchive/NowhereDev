@@ -219,5 +219,47 @@
             "filename": "File:vo_eleven_xinliuweilan_specialattention_001.aac",
             "text": "If I'm the last person you see before you fall asleep, will I be in your dreams tonight?"
         }
+    ],
+    "trail_of_sounds": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

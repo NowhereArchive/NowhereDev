@@ -1,0 +1,114 @@
+{
+    "default": [
+        {
+            "title": "获得禁闭者",
+            "filename": "File:vo_nuoma_cacha_001.aac",
+            "text": "新环境的整体效率可以接受，空间布局和工作流程大致合理，不过有些环节可以更顺畅……观察时我顺便记下来了，你可以拿去看看，或许会有些参考价值。"
+        },
+        {
+            "title": "升至1阶",
+            "filename": "File:vo_nuoma_promotion_001.aac",
+            "text": "模型通过了更高强度的检验。很好。"
+        },
+        {
+            "title": "升至3阶",
+            "filename": "File:vo_nuoma_promotion2_001.aac",
+            "text": "混沌已经结束。秩序的开端，由我掌控。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_nuoma_battlebegin_001.aac",
+            "text": "准备完毕，开始追踪所有变量。从现在起请不要忽略任何细节。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_nuoma_battlewin_001.aac",
+            "text": "威胁解除，系统恢复稳态。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_nuoma_battlelose_001.aac",
+            "text": "这次没能达成目标，不过好在信息完整。我会仔细复盘，再优化策略。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_nuoma_uniqueskill_001.aac",
+            "text": "参数锁定！"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_nuoma_dead_001.aac",
+            "text": "不该出现……这样的偏差……"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_nuoma_greeting_001.aac",
+            "text": "当前工作秩序良好，模型运行稳定……你吃饭了吗？根据统计，这是人类最常用的寒暄开场之一。不过从你的反应来看，实际效果有待进一步修正。"
+        },
+        {
+            "title": "交谈1",
+            "filename": "File:vo_nuoma_talk1_001.aac",
+            "text": "实验室里的每一样东西都有固定的位置和用途，变量可控，流程清晰。不需要应对模糊的社交信号、隐晦的潜台词，或是违心的客套，所以比起那些社交场合，这里反倒让我觉得安心许多。"
+        },
+        {
+            "title": "交谈2",
+            "filename": "File:vo_nuoma_talk1_002.aac",
+            "text": "“像机器人”这个评价我已经听到过很多次了。从稳定性、续航时长、执行精度以及误差率来看，这的确是一种极高的赞扬……所以，也谢谢你的认可。"
+        },
+        {
+            "title": "交谈3",
+            "filename": "File:vo_nuoma_talk1_003.aac",
+            "text": "我的分析模型始终显示，充分的思考能显著降低意外后果的发生概率。因此在我看来，许多被冠以“勇敢”之名的行为，实质上只是为高风险的冲动决策，披上了一层相对体面的修辞外衣。"
+        },
+        {
+            "title": "特殊交谈1",
+            "filename": "File:vo_nuoma_talk2_001.aac",
+            "text": "秩序并不是对人的束缚。恰恰相反，它是为了避免失控，是在伤害发生前就能提前构筑的保障。毕竟，有些意外哪怕只发生一次，代价也沉重到无法承受。"
+        },
+        {
+            "title": "特殊交谈2",
+            "filename": "File:vo_nuoma_talk2_002.aac",
+            "text": "不论身在何处、正在经历什么，我们始终都是庞大规律与秩序中的一部分。个体的选择看似独立，实则早已通过无数因果链条彼此牵连——你同样不是孤立的存在，至少在我建立的模型里，你的参数，始终与我相关。"
+        },
+        {
+            "title": "特殊交谈3",
+            "filename": "File:vo_nuoma_talk2_003.aac",
+            "text": "能看见一切物理参数是一种什么样的感觉么……我能看到雨滴下坠的精确末速度，花瓣飘落时的空气阻力系数，阳光穿过玻璃上水珠时不断变化的折射角度……还有你。每次来找我说话时，你的心率都会上升约十次每分钟，瞳孔也会放大 0.9 毫米。"
+        },
+        {
+            "title": "服从度升满",
+            "filename": "File:vo_nuoma_obeyfull_001.aac",
+            "text": "以前我觉得“祝福”是无意义的——它不能改变初始条件，也无法直接改写结果。可现在的我好像也能体会到这种感觉了：即便很多事情我无力干预，却仍然希望你能过得顺心。人们都说“祝你好运”，但我不信运气，所以我祝愿所有的变量，都能最终收敛为你所期望的答案。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_nuoma_idle_001.aac",
+            "text": "你的存在感目前维持在最优水平——即完全不打扰我。这非常好。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_nuoma_clicking_001.aac",
+            "text": "我的桌面是遭到了病毒入侵吗？请立即将它们恢复原位。如果制造混乱也是一种能力，那么你的熟练度恐怕已经达到了专业水平。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_nuoma_specialattention_001.aac",
+            "text": "你的注视……会让我在整理实验数据时出现偏差。这种异常无法被有效解释，而且似乎只在你在场时才会出现。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_nuoma_dispatch_001.aac",
+            "text": "外勤通知收到。记录仪、采样工具、数据终端、便携分析器均已检查完毕。出发。"
+        },
+        {
+            "title": "派遣完成",
+            "filename": "File:vo_nuoma_dispatch2_001.aac",
+            "text": "下次请按规范封锁现场，减少无关脚印的干扰，效率至少可以提升 50%。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_nuoma_levelup_002.aac",
+            "text": "误差范围缩小了。"
+        }
+    ]
+}

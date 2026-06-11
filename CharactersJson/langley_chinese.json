@@ -219,5 +219,57 @@
             "filename": "File:vo_lanli_ehainvjue_specialattention_001.aac",
             "text": "欢迎回来，我的大副。那座岛上的情况如何？多少人驻守？有几门火炮？侦查工作做得很好。看来，我们的猎物就快露出破绽了。"
         }
+    ],
+    "sharpened_radiance": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",
+            "text": "抬头，挺胸——无论何时何地，我们都应当保持最完美的姿态。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_lanli_lifengxinhui_levelup_001.aac",
+            "text": "你的认可，是构成我勋章的一部分。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_lanli_lifengxinhui_greeting_001.aac",
+            "text": "别着急，典礼还没开始。先把衣装整理好，你是我以后要领导的部下，可不能在礼仪上有失误。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_lanli_lifengxinhui_head_001.aac",
+            "text": "你的行动没有向我报告，自己去领罚吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_lanli_lifengxinhui_body_001.aac",
+            "text": "毕业对我来说，不过只是换一身制服，换一个战场而已。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_lanli_lifengxinhui_body_002.aac",
+            "text": "不必为我的离开而伤感。不久以后，你也会迎来这样的时刻，在掌声和他人的目光中意识到，真正的战斗就要开始了。而到时候，我会在前面等着你，再次加入我的行列。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_lanli_lifengxinhui_leg_001.aac",
+            "text": "入学时我曾站在这里起誓，要将我学到的所有，奉献给这片热土。如今，该是真正实现诺言的时刻了。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_lanli_lifengxinhui_background_001.aac",
+            "text": "这面旗帜倒是比我想得还要沉一些……毕竟，它承载着大家的期望和未来，而我们的职责，就是将它扛起，让它飘扬。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_lanli_lifengxinhui_idle_001.aac",
+            "text": "庆典让你觉得无聊了？习惯它吧，就当是一场忍耐的训练。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_lanli_lifengxinhui_specialattention_001.aac",
+            "text": "战场上若是只盯着一个目标，可是会失去先机的。记住，即使是在最美好的礼花中，也必须时刻保持警惕。"
+        }
     ]
 }

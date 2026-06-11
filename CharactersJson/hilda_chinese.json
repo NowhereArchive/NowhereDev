@@ -115,5 +115,57 @@
             "filename": "File:vo_hilda_head_001.aac",
             "text": "秘密就应该消逝在风里，就像雨消失在水中。"
         }
+    ],
+    "springtime_postcard": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hilda_chunrilaijian_cacha_001.aac",
+            "text": "这是一个令人心旷神怡的午后，一整天的疲惫都随风散去……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hilda_chunrilaijian_levelup_001.aac",
+            "text": "阳光很好，矢车菊会开得更美的。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hilda_chunrilaijian_greeting_001.aac",
+            "text": "山间空旷，只有风与花的低语……最美的时刻值得有人并肩欣赏，正好，我等到了你。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_hilda_chunrilaijian_head_001.aac",
+            "text": "头发都要被你弄乱了……你比这山间的风还要顽皮些。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hilda_chunrilaijian_body_001.aac",
+            "text": "啊……你为我别在帽檐上的矢车菊，被风吹走了……我本想把它做成书签珍藏。或许，你愿意再为我戴上一朵？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hilda_chunrilaijian_body_002.aac",
+            "text": "这里的天气总会不尽人意，但好在今天是一个难得的晴天，更难得的是……拨开阴霾的人正坐在我身边。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_hilda_chunrilaijian_hand_001.aac",
+            "text": "曾有人说，自然本身就是一部写满密码的典籍，群山、溪流和生灵都遵循着精妙的定律，矢车菊花瓣生长出黄金数列，水杉种子延续着古老的叶序……如果将此刻的一切编译成密文，那这世上知晓密钥的……只有风和你。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_hilda_chunrilaijian_background_001.aac",
+            "text": "在故乡，每当矢车菊盛开的季节，少女们总会将花朵编成花环放入水中，把心意托付给风和流水，溪流会带着这份无人知晓的心意漂向远方……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hilda_chunrilaijian_idle_001.aac",
+            "text": "……怎么睡着了？蝴蝶落在鼻尖上都没反应。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hilda_chunrilaijian_specialattention_001.aac",
+            "text": "看了这么久……有拍到满意的照片吗？若是你喜欢，我们可以将它制成明信片，与这束花一同当作纪念夹进诗集……"
+        }
     ]
 }

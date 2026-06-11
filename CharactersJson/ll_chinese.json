@@ -167,5 +167,47 @@
             "filename": "File:vo_LL_wanlaiqingyin_specialattention_001.aac",
             "text": "你想要就直说呀，直接告诉我：想试试我的歌声和你的心跳，能不能共鸣出同样的节奏？"
         }
+    ],
+    "abyssal_phantom": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_LL_shenyuanmeiying_cacha_001.aac",
+            "text": "这座舞台上的每一片贝壳，每一粒珍珠，每一条小鱼，都是为我而诞生的剧目，现在，再加上你……和我们一起畅游吧！一起把无趣的现实彻底隔绝在幕布之外。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_LL_shenyuanmeiying_levelup_001.aac",
+            "text": "看着我吧！聚光灯下，我就是这场戏的唯一主角！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_LL_shenyuanmeiying_greeting_001.aac",
+            "text": "和空荡荡的楼梯对戏也太无聊了……下次你可要早点来啊，不然……我可不知道我会因为无聊而做出什么来。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_001.aac",
+            "text": "你看那些斗鱼……对视、竖鳍、逼近。它们总会在动手前，先确认对方会不会逃跑。我也一样。尤其在舞台上，当灯光聚焦、音乐达到顶点时……那便是我绝不会错过的，最精彩的时刻。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_LL_shenyuanmeiying_talk1_002.aac",
+            "text": "现在不过是一场排练，你在紧张什么呢？是紧张和我独处……还是紧张，我会把你猎入腹中呢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_LL_shenyuanmeiying_idle_001.aac",
+            "text": "嗯？你站在那边一动不动的，是想当一株布景里的珊瑚吗？那……我可以在你身上，刻下我的名字吗？这样……你就永远是我的啦！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_LL_shenyuanmeiying_clicking_001.aac",
+            "text": "……啊！你刚刚那一下害我差点进错拍子啦，不乖的观众才会故意打扰演员哦！在这个剧场里，引起演员的注意可不是什么好事……嘻嘻，我开玩笑的啦。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_LL_shenyuanmeiying_specialattention_001.aac",
+            "text": "很多剧本中，小美人鱼终究会为爱失去声音，甚至性命……可若那份爱是指向你，我愿意把所有的歌声都存进贝壳，连同匕首一起，交到你手里。"
+        }
     ]
 }
