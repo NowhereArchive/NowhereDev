@@ -357,29 +357,6 @@
             "slug": "xiaofeng"
         },
         {
-            "name": "mofei",
-            "displayName": "Murphy",
-            "rank": "S",
-            "libram": "LIMBO",
-            "tendency": "Fury",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                }
-            ],
-            "slug": "murphy"
-        },
-        {
             "name": "linglan",
             "displayName": "Bai Yi",
             "rank": "S",
@@ -2051,29 +2028,6 @@
                 }
             ],
             "slug": "poffy"
-        },
-        {
-            "name": "nuoma",
-            "displayName": "Norma",
-            "rank": "A",
-            "libram": "LOVE",
-            "tendency": "Umbra",
-            "category": "Sinners",
-            "attires": [
-                {
-                    "name": "default",
-                    "displayName": "Default"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                }
-            ],
-            "slug": "norma"
         },
         {
             "name": "peggi",
