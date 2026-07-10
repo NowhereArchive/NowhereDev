@@ -162,42 +162,42 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
-            "text": "###"
+            "text": "임무를 성공적으로 마쳤네요~ 이제 남은 시간은 우리 둘만의 거예요. 여기 정말 오고 싶었거든요. 어쩌면 절판된 CD를 건질 수 있을지도 몰라요…"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
-            "text": "###"
+            "text": "그럼 CD 한 장 더 살게요~"
         },
         {
             "title": "안부",
             "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
-            "text": "###"
+            "text": "국장님, 빨리 와요. 마침 제가 가장 좋아하는 곡이 나오고 있어요. 여기 앉아서 같이 들어요."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_moore_xianyushiyin_body_001.aac",
-            "text": "###"
+            "text": "봐요, 이 CD는 구형 컴퓨터가 성행하던 시절에 만들어진 거예요. 곡 전체가 각기 다른 오류 알림음으로 구성되어 있죠… 이 세상은 정말 재밌어요. 오류 수정엔 집착하면서, 오류가 만들어낸 현실은 배척하지 않으니까요."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_moore_xianyushiyin_body_002.aac",
-            "text": "###"
+            "text": "여기 인기 CD를 테마로 한 특제 커피가 있대요. 한 잔 마시면서 계속 들을까요? 어젯밤에 국장님과 함께 임무를 나갈 생각을 하니 너무 설레서 잠이 안 오더라고요. 그래서 결국 밤새 코딩만 했지 뭐예요. 당장 커피 수혈로 정신 좀 깨워야겠어요…"
         },
         {
             "title": "방치",
             "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
-            "text": "###"
+            "text": "이 CD, 재생 시간이랑 곡 개수가 좀 안 맞는 것 같은데… 설마… 히든 트랙이 있는 걸까? 대체 뭐가 들어 있을까…"
         },
         {
             "title": "초조",
             "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
-            "text": "###"
+            "text": "이렇게 여유로운 시간엔, 곁에 있는 사람과 조금 더 가까워지고 싶어지네요."
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
-            "text": "###"
+            "text": "제 평상복 차림이 그렇게 마음에 드시나요? 그러고 보니 국장님을 만날 때, 전 항상 제복 차림이었죠. 그럼 앞으로는 저랑 자주 나와서 돌아다녀요."
         }
     ]
 }

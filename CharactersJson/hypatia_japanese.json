@@ -172,42 +172,42 @@
         {
             "title": "衣装獲得",
             "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
-            "text": "###"
+            "text": "ここの風は花や草の香りが帯びているから、つい気分が乗って、少し遠くまで自転車で走ってしまったの。\n幸い、あなたがずっと本道から外れなかったおかげで、振り返ったらすぐにあなたを見つけられたわ……あっ、この先の景色もとても良さそうね。一緒に見に行きましょう。"
         },
         {
             "title": "レベルアップ",
             "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
-            "text": "###"
+            "text": "ええ、その調子で進み続けましょう！"
         },
         {
             "title": "挨拶",
             "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
-            "text": "###"
+            "text": "光が柔らかくて、風速もちょうどいい……こんな日は、郊外へ出かけて気分転換をするのにぴったりね。"
         },
         {
             "title": "タッチ1",
             "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
-            "text": "###"
+            "text": "風、花の香り、前へ続く道、そして見知らぬ景色……こうして美しいものが重なると、なかなか足を止められないわ。\n花かごがいっぱいなのに、それでも歩き続けたくなる。"
         },
         {
             "title": "タッチ2",
             "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
-            "text": "###"
+            "text": "ルートを外れた時も、少しも慌てなかったわ。どこまで進んでも、きっと局長とまた合流できると分かっていたから。\nそれに、思いがけない景色もたくさん見つけたの。局長と一緒に見たいわ！"
         },
         {
             "title": "放置",
             "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
-            "text": "###"
+            "text": "ふぅ……身体がぽかぽかしてきたわね。私もなんだか……少し眠くなってきたわ……"
         },
         {
             "title": "苛立つ",
             "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
-            "text": "###"
+            "text": "局長、私の自転車の後ろに乗るつもり？\nちょっと揺れるかもしれないけれど……できるだけ安定させるように頑張るわ！"
         },
         {
             "title": "お気に入り",
             "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
-            "text": "###"
+            "text": "局長も準備はできたかしら？それじゃあ一緒に出発しましょう！"
         }
     ]
 }

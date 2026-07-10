@@ -3,119 +3,117 @@
         {
             "title": "コンビクトを獲得",
             "filename": "File:vo_mofei_cacha_001.aac",
-            "text": "###"
+            "text": "ごめんごめん、来る途中で……その、ちょっと渋滞してて！遅刻してないよね？こんにちは局長、マーフィーです！"
         },
         {
             "title": "ランク1にアップ",
             "filename": "File:vo_mofei_promotion_001.aac",
-            "text": "###"
+            "text": "なんだか……ちょっとだけ勇敢になれた気がする！"
         },
         {
             "title": "ランク3にアップ",
             "filename": "File:vo_mofei_promotion2_001.aac",
-            "text": "###"
+            "text": "アタシの不運も力になるなら……上手く使えるようになりたい！"
         },
         {
             "title": "ステージ開始",
             "filename": "File:vo_mofei_battlebegin_001.aac",
-            "text": "###"
+            "text": "ナナホシテントウに蹄鉄、赤い紐に赤紙のお守り……うん、全部揃ってる！これで大きなトラブルは起きないはず！"
         },
         {
             "title": "戦闘勝利",
             "filename": "File:vo_mofei_battlewin_001.aac",
-            "text": "###"
+            "text": "勝っちゃった！？もしかして今日はアタシのラッキーデー！？"
         },
         {
             "title": "戦闘失敗",
             "filename": "File:vo_mofei_battlelose_001.aac",
-            "text": "###"
+            "text": "……きっと、きっとアタシがみんなに影響を与えちゃったんだよね……アタシのせいにしていいから……"
         },
         {
             "title": "必殺技",
             "filename": "File:bt_mofei_uniqueskill_001.aac",
-            "text": "###"
+            "text": "お願い……当たって！"
         },
         {
             "title": "戦闘不能",
             "filename": "File:bt_mofei_dead_001.aac",
-            "text": "###"
+            "text": "今回は……本当に、とことんツイてなかったな……"
         },
         {
             "title": "挨拶",
             "filename": "File:vo_mofei_greeting_001.aac",
-            "text": "###"
+            "text": "今日もまたキミに会えてすっごく嬉しい！"
         },
         {
             "title": "会話1",
             "filename": "File:vo_mofei_talk1_001.aac",
-            "text": "###"
+            "text": "まあ人生ってさ、一つや二つ、いや三つ四つ五つ六つくらいは不運なことがあるものだよ！慣れれば大丈夫！"
         },
         {
             "title": "会話2",
             "filename": "File:vo_mofei_talk1_002.aac",
-            "text": "###"
+            "text": "これはね、年越しのたびにニューシティに駐在する東洲の仙人から貰ってるお守りなんだ！本当に効くかどうかは分からないけど、持ってるとちょっとは安心できるから！"
         },
         {
             "title": "会話3",
             "filename": "File:vo_mofei_talk1_003.aac",
-            "text": "###"
+            "text": "アタシってすごく忘れっぽいから、いつもノートを持ち歩いてるんだ。自分にとって大事なことを書き留めるために！例えば……今日、局長が綺麗な空を見せてくれたこととかね。まるでファンタジーの世界みたいだったな～！"
         },
         {
             "title": "特殊会話1",
             "filename": "File:vo_mofei_talk2_001.aac",
-            "text": "###"
+            "text": "じゃあキミの言う通り、これも一種の……特別な能力ってことだよね！"
         },
         {
             "title": "特殊会話2",
             "filename": "File:vo_mofei_talk2_002.aac",
-            "text": "###"
+            "text": "ちゃんと調べたんだ！今日はラッキーデー！小動物の飾りや赤いものを身につけて、大切な人と遊園地に行こう。そうすれば一週間ずっと幸運が続くって！局長、一緒に来てよ！"
         },
         {
             "title": "特殊会話3",
             "filename": "File:vo_mofei_talk2_003.aac",
-            "text": "###"
+            "text": "「局長が三つに割れた三つ折りスマホを直してくれた」……「局長は、アタシが持ってくるのはトラブルだけじゃないって言ってくれた」……ねえ局長、このノート、気付いたらキミのことばっかり増えてくんだ。そのうちアタシの「ラッキー記録帳」になりそうだよ～"
         },
         {
             "title": "服従度MAX",
             "filename": "File:vo_mofei_obeyfull_001.aac",
-            "text": "###"
+            "text": "多くの人が言うように、不運な出来事に遭うのは徳を積んでる証なんだ。運命を受け入れて、運命が許すのを待って、最後に幸運が訪れるのを待つしかない。アタシは長い間待って、キミに出会った！でも……キミがもたらしたのは「幸運な出来事」じゃなく、運命に抗い、諦めない勇気だった……これはどんな「幸運な出来事」よりも素敵だよ！"
         },
         {
             "title": "放置",
             "filename": "File:vo_mofei_idle_001.aac",
-            "text": "###"
+            "text": "今日は新しい開運方法を試してみようかな……"
         },
         {
             "title": "苛立つ",
             "filename": "File:vo_mofei_clicking_001.aac",
-            "text": "###"
+            "text": "どう？この猫ちゃんヘッド、すっごく触り心地いいでしょ？お気に入りのお守りの一つなんだ～！"
         },
         {
             "title": "お気に入り",
             "filename": "File:vo_mofei_specialattention_001.aac",
-            "text": "###"
+            "text": "そんなに見つめないでよ……キミがいてくれれば、絶対問題なんて起きないでしょ！"
         },
         {
             "title": "派遣",
             "filename": "File:vo_mofei_dispatch_001.aac",
-            "text": "###"
+            "text": "こ……今回は任務が上手くいきますように……"
         },
         {
             "title": "派遣完了",
             "filename": "File:vo_mofei_dispatch2_001.aac",
-            "text": "###"
+            "text": "無事に帰ってきたよ！途中で三回転んで、二回道に迷ったけど、少なくとも任務は台無しにしてない……よね？"
         },
         {
             "title": "レベルアップ",
             "filename": "File:vo_mofei_levelup_002.aac",
-            "text": "###"
-        }
-    ],
-    "###": [
+            "text": "アタシでも強くなれるなら、この世界はやっぱりまだ希望があるよ！"
+        },
         {
             "title": "頭をなでる",
             "filename": "File:vo_mofei_head_001.aac",
-            "text": "###"
+            "text": "ねえねえ、人の頭を撫でると幸運が移るって聞いたよ！局長、もう一回撫でて！"
         }
     ]
 }

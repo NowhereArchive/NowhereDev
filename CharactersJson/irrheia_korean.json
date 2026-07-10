@@ -120,42 +120,42 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_irrheia_manlvzhouse_cacha_001.aac",
-            "text": "###"
+            "text": "참 우연이네, 국장. 오늘 아침 주사위를 던졌는데, 최고로 좋은 숫자가 나오더라고. 그게 오늘 너와 만나게 된다는 걸 의미하는 거였나 봐. 바쁜 건 아니지? 한잔할래?"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_irrheia_manlvzhouse_levelup_001.aac",
-            "text": "###"
+            "text": "설탕 한 봉지를 더 넣으면, 맛이 어떻게 변할까?"
         },
         {
             "title": "안부",
             "filename": "File:vo_irrheia_manlvzhouse_greeting_001.aac",
-            "text": "###"
+            "text": "커피의 향기와 먼 곳의 소란, 그리고 때마침 찾아온 너. 그렇게 새로운 구도는 아니지만, 꽤 만족스러워."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_irrheia_manlvzhouse_body_001.aac",
-            "text": "###"
+            "text": "오후 햇살은 참 좋은데, 저 사람들은 왜 그리 바쁘게들 움직이는 걸까. 마치 스스로를 이름 없는 NPC로 만들려는 것처럼 말이야. 역시 '삶'을 즐길 줄 아는 건 이 고양이뿐이네. 마음에 드는 인간의 곁에서… 시간을 흘려보낼 줄 아니까."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_irrheia_manlvzhouse_body_002.aac",
-            "text": "###"
+            "text": "커피의 쓴맛이 싫어서 설탕을 넣는 사람도 있지만, 아예 기괴한 맛을 창조해 그 쓴맛을 덮어버리는 사람도 있지. 남들은 이해 못 할지 몰라도, 난 꽤 마음에 드는걸… 마치 평범하고 바쁘게 살아가는 인간들이 지루한 일상에 던지는 도발 같아서 꽤 재밌거든."
         },
         {
             "title": "방치",
             "filename": "File:vo_irrheia_manlvzhouse_idle_001.aac",
-            "text": "###"
+            "text": "누군가 지켜보고 기록하고 있는데도 이렇게 편안하게 잘 자다니… 배짱이 대단하네, 국장. 이 평온한 일상조차 내가 쓴 대본일지도 모른다는 걱정은 안 하나봐?"
         },
         {
             "title": "초조",
             "filename": "File:vo_irrheia_manlvzhouse_clicking_001.aac",
-            "text": "###"
+            "text": "고양이는 아직 잠들어 있는데, 벌써 그 녀석의 관심을 끄는 기술까지 배워버린 거야? 뭐… 당신이 저 녀석보다 훨씬 생기 넘치니까, 나한테 조금 더 어리광 부리는 정도는 허락해 줄게."
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_irrheia_manlvzhouse_specialattention_001.aac",
-            "text": "###"
+            "text": "왜 그렇게 쳐다봐? 설마, 너한테는 그 거창한 각본들보다 이 '일상'이 더 자극적인 건가?"
         }
     ]
 }

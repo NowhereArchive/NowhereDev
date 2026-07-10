@@ -162,42 +162,42 @@
         {
             "title": "衣装獲得",
             "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
-            "text": "###"
+            "text": "任務は無事完了～ここからは、わたしたち二人の時間ですね。このお店、ずっと気になっていたんです。もしかしたら廃盤のCDがあるかもしれません……"
         },
         {
             "title": "レベルアップ",
             "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
-            "text": "###"
+            "text": "じゃあ、CDもう一枚買っちゃおうかな～"
         },
         {
             "title": "挨拶",
             "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
-            "text": "###"
+            "text": "局長、早く来てください。ちょうどわたしの一番好きな曲が流れているんです。こっちに座って一緒に聴きましょう。"
         },
         {
             "title": "タッチ1",
             "filename": "File:vo_moore_xianyushiyin_body_001.aac",
-            "text": "###"
+            "text": "見てください、このCDはまだ旧式コンピューターが主流だった時代に作られたんですよ。曲全体が色んなエラー音を組み合わせてできているんです……この世界は本当に面白いですよね。エラーを正すことに執着しながら、エラーから生まれた真実はちゃんと受け入れるんですから。"
         },
         {
             "title": "タッチ2",
             "filename": "File:vo_moore_xianyushiyin_body_002.aac",
-            "text": "###"
+            "text": "このお店に、人気CDをテーマにした特製コーヒーがあるそうです。わたしたちも一杯頼んで続きを聴きませんか？局長と一緒に外勤に行けると思ったら嬉しくて、昨夜眠れなくて……結局、一晩中コードを書いてしまいました。今はコーヒーで目を覚まさないと……"
         },
         {
             "title": "放置",
             "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
-            "text": "###"
+            "text": "このCD、収録時間と曲数が合わないような？もしかして……隠しトラック？何が入っているんだろう……"
         },
         {
             "title": "苛立つ",
             "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
-            "text": "###"
+            "text": "こんなに心地いいと、確かに隣の人ともう少し距離を縮めたくなりますよね。"
         },
         {
             "title": "お気に入り",
             "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
-            "text": "###"
+            "text": "わたしの普段着がお気に召しましたか？確かに、今まで局長と会う時はいつも制服でしたよね。じゃあこれからは、もっと一緒に出かけましょう。"
         }
     ]
 }

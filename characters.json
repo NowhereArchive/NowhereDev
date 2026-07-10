@@ -367,14 +367,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
                 }
             ],
             "slug": "murphy"
@@ -2063,14 +2055,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
-                },
-                {
-                    "name": "###",
-                    "displayName": "###"
                 }
             ],
             "slug": "norma"

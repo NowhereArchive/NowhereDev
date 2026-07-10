@@ -172,42 +172,42 @@
         {
             "title": "Attire Obtained",
             "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
-            "text": "###"
+            "text": "\r\nThe fragrance of flowers and grass has seeped into even the breeze. I got carried away by the moment and rode a bit farther than planned.\nFortunately, you never left the main path, so I found you as soon as I turned back... The scenery ahead is wonderful too. Let's go see it together."
         },
         {
             "title": "Level Up",
             "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
-            "text": "###"
+            "text": "That's it, keep this up and continue onward!"
         },
         {
             "title": "Greeting",
             "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
-            "text": "###"
+            "text": "The light is so gentle, and the wind speed is just right... Days like this are perfect for going out on a picnic to relax."
         },
         {
             "title": "Ordinary Contact 1",
             "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
-            "text": "###"
+            "text": "\r\nThe wind, the fragrance of flowers, the road ahead, and the unknown scenery... When all these beautiful things come together, it's hard to stop moving forward.\nEven if my flower basket is already full, I still want to keep going."
         },
         {
             "title": "Ordinary Contact 2",
             "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
-            "text": "###"
+            "text": "\r\nWhen I strayed from the route, I didn't lose my calm one bit. It's because I knew that no matter where I went, I would be able to reunite with you again, Chief.\nBesides, I managed to find some scenery that we would've never seen by following the planned route. I'd love to show them to you too!"
         },
         {
             "title": "Idle",
             "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
-            "text": "###"
+            "text": "Ahh... The sun is just perfect... my whole body feels warm. I think I'm getting a bit... sleepy..."
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
-            "text": "###"
+            "text": "\r\nYou'd like to sit on the back seat of my bike, Chief?\nIt's probably going to be a bit of a bumpy ride... but I'll do my best to keep it steady!"
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
-            "text": "###"
+            "text": "Are you ready, Chief? Then let's set off together!"
         }
     ]
 }

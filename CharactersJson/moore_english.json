@@ -162,42 +162,42 @@
         {
             "title": "Attire Obtained",
             "filename": "File:vo_moore_xianyushiyin_cacha_001.aac",
-            "text": "###"
+            "text": "Mission accomplished! Now then, how should we spend the rest of the day... Oh, I've been eyeing this shop for ages—maybe we can find some rare CDs here..."
         },
         {
             "title": "Level Up",
             "filename": "File:vo_moore_xianyushiyin_levelup_001.aac",
-            "text": "###"
+            "text": "Let's buy another CD!"
         },
         {
             "title": "Greeting",
             "filename": "File:vo_moore_xianyushiyin_greeting_001.aac",
-            "text": "###"
+            "text": "Chief, come here! They're playing my favorite song right now, come listen with me."
         },
         {
             "title": "Ordinary Contact 1",
             "filename": "File:vo_moore_xianyushiyin_body_001.aac",
-            "text": "###"
+            "text": "Look, this CD was created back when old computers were still popular. The entire piece is composed using different error notification sounds... This world is truly fascinating—obsessed with correcting mistakes, all the while living in a reality built on them."
         },
         {
             "title": "Ordinary Contact 2",
             "filename": "File:vo_moore_xianyushiyin_body_002.aac",
-            "text": "###"
+            "text": "The shop has themed coffee drinks based on their bestselling CDs. Should we order one and take a listen? I was so excited about going on a mission with you, Chief, that I couldn't sleep a wink last night, and ended up coding all night. I really need some coffee right now..."
         },
         {
             "title": "Idle",
             "filename": "File:vo_moore_xianyushiyin_idle_001.aac",
-            "text": "###"
+            "text": "This CD's duration doesn't quite match the number of tracks listed. Could it be that... there are hidden tracks? I wonder what they could be..."
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_moore_xianyushiyin_clicking_001.aac",
-            "text": "###"
+            "text": "So peaceful... In times like these, you just can't help but want to cuddle with the person next to you, huh."
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_moore_xianyushiyin_specialattention_001.aac",
-            "text": "###"
+            "text": "You like how I look in casual clothes, Chief? I guess I've only ever worn my uniform in front of you... Do you want to go out with me more then?"
         }
     ]
 }

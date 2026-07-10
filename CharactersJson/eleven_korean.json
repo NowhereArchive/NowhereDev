@@ -224,42 +224,42 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
-            "text": "###"
+            "text": "도시의 소음에 질리셨다면, 저와 함께 귀를 편안하게 해줄 장소를 찾아 떠나볼까요?"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
-            "text": "###"
+            "text": "들리시나요? 날개가 수면을 스치는 소리가."
         },
         {
             "title": "안부",
             "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
-            "text": "###"
+            "text": "제가 수집한 모든 소리를 가장 소중한 사람에게 들려주고 싶었어요. 그래서 오늘 첫 번째 전화는 당신에게 걸었답니다."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
-            "text": "###"
+            "text": "눈을 감고 들어 보세요. 풍경의 속삭임, 나뭇잎이 춤추는 바스락거림, 그리고 바람에 밀려 물가에 닿는 잔잔한 물결 소리까지… 소리는 시공간을 넘나들며 당신의 감각을 속이기도 하죠. 저는 그 소리를 전부 기록해 두었어요. 언제든 이 오후를, 당신이 제 곁에 머물렀던 그 순간을 다시 꺼내어 볼 수 있도록요."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
-            "text": "###"
+            "text": "말은 그저 의미를 전하기 위한 수단에 불과해요. 그래서 가끔은 우리의 진심을 제대로 전하지 못하죠. 자, 조금만 더 가까이 와 주세요… 서로 기대는 잎사귀가 되어, 바람이 이끄는 곳으로 함께 떠나봐요…"
         },
         {
             "title": "방치",
             "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
-            "text": "###"
+            "text": "풍경 소리가 이 노래의 리듬과 딱 어울리네요."
         },
         {
             "title": "초조",
             "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
-            "text": "###"
+            "text": "알고 보니… 제 마음도 풍경처럼, 어디선가 불어온 바람에 흔들리는군요."
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
-            "text": "###"
+            "text": "어떤 소리가 점점 더 선명하게 들리는 것 같아요. 조금 더 자세히 들어볼게요… 당신의 숨소리, 당신의 심장 소리, 그리고 어쩌면 제 것도…"
         }
     ]
 }

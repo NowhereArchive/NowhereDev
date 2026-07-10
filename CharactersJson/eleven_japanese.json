@@ -224,42 +224,42 @@
         {
             "title": "衣装獲得",
             "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
-            "text": "###"
+            "text": "都会の喧騒にうんざりしているなら、私と一緒に旅に出よう。耳が休まる場所を探しに。"
         },
         {
             "title": "レベルアップ",
             "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
-            "text": "###"
+            "text": "聞こえた？翼が水面を掠める音が。"
         },
         {
             "title": "挨拶",
             "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
-            "text": "###"
+            "text": "集めた音を全部、一番大切な人に聴いてほしい。だから今日、最初にあなたに電話したんだよ。"
         },
         {
             "title": "タッチ1",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
-            "text": "###"
+            "text": "目を閉じて、風鈴の囁きや葉のざわめき、そして風に運ばれて岸へ寄せる湖水のせせらぎに耳を澄ませて……音は時空を越え、あなたの感覚を惑わせる。私はそれらを全部記録したよ。そうすれば、いつでもこの午後が蘇って、またあなたの傍にいると感じられるから。"
         },
         {
             "title": "タッチ2",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
-            "text": "###"
+            "text": "言葉は意味の葉脈に過ぎず、時に本当の想いを伝えきることができない。さあ、もっと近づいて……二枚の寄り添う葉になって、風に吹かれるまま遠くへ運ばれよう……"
         },
         {
             "title": "放置",
             "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
-            "text": "###"
+            "text": "風鈴のリズムが、この曲とぴったりだね。"
         },
         {
             "title": "苛立つ",
             "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
-            "text": "###"
+            "text": "そっか……私の心も風鈴みたいに、どこからともなく吹く風に揺れて震えるんだ。"
         },
         {
             "title": "お気に入り",
             "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
-            "text": "###"
+            "text": "いくつかの音がはっきりしてきたね。よく聞いてみよう……あなたの呼吸、あなたの鼓動、そしてもしかしたら私の……"
         }
     ]
 }

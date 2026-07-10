@@ -172,42 +172,42 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_hypatia_qingkongsuixing_cacha_001.aac",
-            "text": "###"
+            "text": "이곳의 바람에는 꽃과 풀 내음이 섞여 있네요. 기분이 들떠서 저도 모르게 멀리까지 달리고 말았어요.\n다행히 당신이 계속 큰길에 머물러준 덕분에 뒤를 돌아보자마자 바로 찾을 수 있었죠… 앞쪽 풍경도 정말 근사한데, 같이 보러 가요."
         },
         {
             "title": "레벨업",
             "filename": "File:vo_hypatia_qingkongsuixing_levelup_001.aac",
-            "text": "###"
+            "text": "음, 이 상태를 유지하며 계속 나아가요!"
         },
         {
             "title": "안부",
             "filename": "File:vo_hypatia_qingkongsuixing_greeting_001.aac",
-            "text": "###"
+            "text": "햇살은 부드럽고 바람도 적당하네요… 이런 날에는 밖으로 나가 거닐며 기분 전환하기에 딱 좋아요."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_hypatia_qingkongsuixing_body_001.aac",
-            "text": "###"
+            "text": "살랑이는 바람과 꽃향기, 눈앞에 펼쳐진 길과 미지의 풍경들… 이 모든 아름다움이 어우러지니 도저히 발걸음을 멈출 수가 없네요.\n꽃바구니가 이미 가득 찼는데도, 자꾸만 더 나아가고 싶어지는걸요."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_hypatia_qingkongsuixing_body_002.aac",
-            "text": "###"
+            "text": "경로를 벗어났을 때도 딱히 당황하진 않았어요. 어디로 가든 결국 국장님과 다시 만날 수 있다는 걸 잘 알고 있었으니까요. \n게다가 덕분에 계획에도 없던 멋진 풍경들을 많이 봤답니다. 국장님께도 꼭 보여드리고 싶었어요!"
         },
         {
             "title": "방치",
             "filename": "File:vo_hypatia_qingkongsuixing_idle_001.aac",
-            "text": "###"
+            "text": "후우… 온몸이 햇볕을 받아 따뜻해요. 왠지 약간 졸리는 것… 같기도 해요…"
         },
         {
             "title": "초조",
             "filename": "File:vo_hypatia_qingkongsuixing_clicking_001.aac",
-            "text": "###"
+            "text": "국장님, 제 자전거 뒷자리에 앉고 싶으신 건가요?\n조금 흔들릴 수도 있어요… 그래도 최대한 안 흔들리게 타볼게요!"
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_hypatia_qingkongsuixing_specialattention_001.aac",
-            "text": "###"
+            "text": "국장님도 준비되셨나요? 그럼 이제 같이 출발해요!"
         }
     ]
 }

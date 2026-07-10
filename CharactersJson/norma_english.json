@@ -3,77 +3,77 @@
         {
             "title": "Obtain the Sinner",
             "filename": "File:vo_nuoma_cacha_001.aac",
-            "text": "###"
+            "text": "The overall efficiency of this new environment is acceptable. The place's layout and workflow have been reasonably thought out, though certain parts could be streamlined... I've noted down my observations. Feel free to review them. They may prove useful."
         },
         {
             "title": "Raise to Phase 1",
             "filename": "File:vo_nuoma_promotion_001.aac",
-            "text": "###"
+            "text": "This model just passed a higher-intensity test. Good."
         },
         {
             "title": "Raise to Phase 3",
             "filename": "File:vo_nuoma_promotion2_001.aac",
-            "text": "###"
+            "text": "Chaos eliminated. Order regained. This time, under my control."
         },
         {
             "title": "Level Start",
             "filename": "File:vo_nuoma_battlebegin_001.aac",
-            "text": "###"
+            "text": "Preparations complete. Beginning variable tracking. From this point forward, do not overlook any details."
         },
         {
             "title": "Victory",
             "filename": "File:vo_nuoma_battlewin_001.aac",
-            "text": "###"
+            "text": "Threat neutralized. System restored to equilibrium."
         },
         {
             "title": "Lose Battles",
             "filename": "File:vo_nuoma_battlelose_001.aac",
-            "text": "###"
+            "text": "Objective not achieved, but at least the data is intact. I'll conduct a thorough review and optimize my strategy."
         },
         {
             "title": "Ultimate Skill",
             "filename": "File:bt_nuoma_uniqueskill_001.aac",
-            "text": "###"
+            "text": "Parameters locked!"
         },
         {
             "title": "Die in Battles",
             "filename": "File:bt_nuoma_dead_001.aac",
-            "text": "###"
+            "text": "Such an error... should never have occurred..."
         },
         {
             "title": "Greeting",
             "filename": "File:vo_nuoma_greeting_001.aac",
-            "text": "###"
+            "text": "Progressing in workflow as planned, all models running steadily... Have you eaten yet? Statistically speaking, this is one of the most common human conversation openers. However, judging by your reaction, the actual effectiveness requires further improvement."
         },
         {
             "title": "Conversation 1",
             "filename": "File:vo_nuoma_talk1_001.aac",
-            "text": "###"
+            "text": "Everything in the lab has a fixed position and purpose. The variables are well controlled and all procedures are clear. No need to navigate vague social cues, subtext, or fake pleasantries. Compared to social situations, this place actually puts me at ease."
         },
         {
             "title": "Conversation 2",
             "filename": "File:vo_nuoma_talk1_002.aac",
-            "text": "###"
+            "text": "\"Like a robot.\" Yes, I've heard this comment many times now. In terms of stability, battery life, precision, and error rate, it is indeed the ultimate compliment... So, thank you for your approval."
         },
         {
             "title": "Conversation 3",
             "filename": "File:vo_nuoma_talk1_003.aac",
-            "text": "###"
+            "text": "My analytical models consistently show that thorough deliberation significantly reduces the probability of unintended consequences. Therefore, in my view, many so-called \"brave\" actions are indeed merely high-risk, impulsive decisions embellished with bravado."
         },
         {
             "title": "Special Conversation 1",
             "filename": "File:vo_nuoma_talk2_001.aac",
-            "text": "###"
+            "text": "Order doesn't exist to restrict people. Quite the opposite—it prevents loss of control and builds a protective barrier before harm can occur. After all, some accidents only need to happen once to result in unbearable damage."
         },
         {
             "title": "Special Conversation 2",
             "filename": "File:vo_nuoma_talk2_002.aac",
-            "text": "###"
+            "text": "No matter where we are or what we're going through, we're always part of a vast system of rules and order. Individual choices may seem independent, but they're in fact interconnected through countless causal chains. Therefore, you're not alone. At least in my models, your parameters are always linked to mine."
         },
         {
             "title": "Special Conversation 3",
             "filename": "File:vo_nuoma_talk2_003.aac",
-            "text": "###"
+            "text": "What's it like to be able to see every physical parameter...? I can see the terminal velocity of a falling raindrop, the drag coefficient of a drifting petal, the shifting refraction angles as sunlight passes through water droplets on glass... and you. Every time you come to speak with me, your heart rate increases by approximately ten beats per minute, and your pupils dilate by 0.9 millimeters."
         },
         {
             "title": "Full Compliance",
@@ -83,32 +83,32 @@
         {
             "title": "Idle",
             "filename": "File:vo_nuoma_idle_001.aac",
-            "text": "###"
+            "text": "Your presence is currently at the optimal level, meaning you're not disturbing me at all. Excellent."
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_nuoma_clicking_001.aac",
-            "text": "###"
+            "text": "Has my desk been infected with a virus? Please restore everything to its original position immediately. If creating chaos were a skill, I'm afraid you'd already be a pro."
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_nuoma_specialattention_001.aac",
-            "text": "###"
+            "text": "Your gaze... induces errors when I'm organizing experimental data. This anomaly cannot be adequately explained, and it seems to occur only when you're present."
         },
         {
             "title": "Dispatch",
             "filename": "File:vo_nuoma_dispatch_001.aac",
-            "text": "###"
+            "text": "Field assignment received. Recording device, sampling tools, data terminal, portable analyzer, all inspected and ready. Moving out."
         },
         {
             "title": "Dispatch Complete",
             "filename": "File:vo_nuoma_dispatch2_001.aac",
-            "text": "###"
+            "text": "Next time, please secure the scene properly to minimize irrelevant footprints. That could improve our efficiency by at least 50%."
         },
         {
             "title": "Level Up",
             "filename": "File:vo_nuoma_levelup_002.aac",
-            "text": "###"
+            "text": "Margin of error reduced."
         }
     ]
 }

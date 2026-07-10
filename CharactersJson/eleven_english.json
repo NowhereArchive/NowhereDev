@@ -224,42 +224,42 @@
         {
             "title": "Attire Obtained",
             "filename": "File:vo_eleven_xunyinzhilv_cacha_001.aac",
-            "text": "###"
+            "text": "Are you tired of the city's noise, perhaps? Why not join me on a journey then, and find a place where your ears can rest?"
         },
         {
             "title": "Level Up",
             "filename": "File:vo_eleven_xunyinzhilv_levelup_001.aac",
-            "text": "###"
+            "text": "Can you hear it? The sound of wings gliding across the water's surface."
         },
         {
             "title": "Greeting",
             "filename": "File:vo_eleven_xunyinzhilv_greeting_001.aac",
-            "text": "###"
+            "text": "I want to share all the sounds I've collected with the person I care about most. That's why... I've dedicated my first phone call of the day to you."
         },
         {
             "title": "Ordinary Contact 1",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_001.aac",
-            "text": "###"
+            "text": "Close your eyes. Listen to the whispers of the wind chimes, the rustling leaves, and the gentle lapping of lake water pushed ashore by the wind... Sound can go through time and space, deceiving your senses. I've recorded them all, so I can relive this afternoon anytime, feeling your presence by my side."
         },
         {
             "title": "Ordinary Contact 2",
             "filename": "File:vo_eleven_xunyinzhilv_talk1_002.aac",
-            "text": "###"
+            "text": "Words are merely the threads of meaning. Sometimes, they're not enough to express our true feelings. Here, come closer... Let us nestle up like two leaves, and get carried by the wind to distant places..."
         },
         {
             "title": "Idle",
             "filename": "File:vo_eleven_xunyinzhilv_idle_001.aac",
-            "text": "###"
+            "text": "The rhythm of the wind chimes perfectly matches this song."
         },
         {
             "title": "Annoyed",
             "filename": "File:vo_eleven_xunyinzhilv_clicking_001.aac",
-            "text": "###"
+            "text": "I never knew that my heart can tremble like wind chimes stirred by the gentle breeze..."
         },
         {
             "title": "Special Attention",
             "filename": "File:vo_eleven_xunyinzhilv_specialattention_001.aac",
-            "text": "###"
+            "text": "Some sounds seem to have become clearer. Let me listen closely... to your breathing, your heartbeat, and perhaps mine too..."
         }
     ]
 }

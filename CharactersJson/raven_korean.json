@@ -204,52 +204,52 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_raven_songzanqunxingzhishi_cacha_001.aac",
-            "text": "###"
+            "text": "찬양하세요, 우리가 이 광활한 우주에서 만나게 된 기적을 위해서."
         },
         {
             "title": "레벨업",
             "filename": "File:vo_raven_songzanqunxingzhishi_levelup_001.aac",
-            "text": "###"
+            "text": "전 이제 새로운 시편으로 거듭날 거예요."
         },
         {
             "title": "안부",
             "filename": "File:vo_raven_songzanqunxingzhishi_greeting_001.aac",
-            "text": "###"
+            "text": "자, 앉으세요. 당신을 위해 제일 좋은 자리를 비워뒀답니다. 우리 같이 별을 감상하며 이 우주를 독점해 볼까요?"
         },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_raven_songzanqunxingzhishi_head_001.aac",
-            "text": "###"
+            "text": "보세요, 오랜 세월의 모진 풍파를 거치면 모래알도 보석이 될 수 있답니다. 그래서 전 오랜 시간이 지난 후, 우리의 이상도 미래에서 찬란히 빛날 거라 믿어요."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_raven_songzanqunxingzhishi_body_001.aac",
-            "text": "###"
+            "text": "인류란 그 어떤 고난과 역경 속에서도 시와 노래를 잊지 못하는 존재죠. 저 역시 그러하며, 앞으로도 그러할 거예요."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_raven_songzanqunxingzhishi_body_002.aac",
-            "text": "###"
+            "text": "에메랄드는 불순물이 많이 섞여 있어서 흔히 '화원'이라 불리죠. 전 이 점이 정말 흥미롭고, 저한테 딱 맞는 것 같기도 해요. 제가 스승이자 기자이며 신디케이트를 칭송하는 위대한 시인이기도 한 것처럼요. 당신은 어떻게 생각하나요?"
         },
         {
             "title": "일반 터치3",
             "filename": "File:vo_raven_songzanqunxingzhishi_hand_001.aac",
-            "text": "###"
+            "text": "전 우주의 깊은 곳에서 가장 비밀스러운 지혜를 엿보았고, 그걸 글로 기록했어요."
         },
         {
             "title": "일반 터치4",
             "filename": "File:vo_raven_songzanqunxingzhishi_background_001.aac",
-            "text": "###"
+            "text": "제가 이렇게 차려입은 모습은 처음 보신다고요? 그냥 대답만 해줘요… 마음에 드시는지, 아닌지요?"
         },
         {
             "title": "방치",
             "filename": "File:vo_raven_songzanqunxingzhishi_idle_001.aac",
-            "text": "###"
+            "text": "이런, 또 정신을 딴 데 파시다니. 제 시가 그렇게 재미없나요? 이러면 제가 승부욕이 생긴다고요. 새로운 영감은 당신에게서 얻어야겠어요~"
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_raven_songzanqunxingzhishi_specialattention_001.aac",
-            "text": "###"
+            "text": "얼마든지 봐도 좋아요. 우주 속 찰나의 순간조차 우리에게는 닿을 수 없는 영원과 불멸일 테니까요."
         }
     ]
 }
