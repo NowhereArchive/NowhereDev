@@ -115,5 +115,57 @@
             "filename": "File:vo_margaret_head_001.aac",
             "text": "局長さん、あなたが私に求めているのは優しい慰めですか？それとも……より効果的な解決策でしょうか？"
         }
+    ],
+    "ode_to_peace": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_margaret_ninghesongshi_cacha_001.aac",
+            "text": "時の流れが、私をあなたの元へ導きました……恐れる必要はありません。私の翼の下で傷は癒やされ、荒廃した大地も再び命を取り戻すのです。これこそ、あなたに捧げる平和の誓いですよ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_margaret_ninghesongshi_levelup_001.aac",
+            "text": "お聞きください……生命が根を張り、枝を伸ばす音を。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_margaret_ninghesongshi_greeting_001.aac",
+            "text": "私の同行者さん、どうかお元気で。私がお届けするのは挨拶だけではありませんよ。輝きの頂上から摘み取った、心を癒やす朝の光もあります。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_margaret_ninghesongshi_head_001.aac",
+            "text": "……人はいつも、神に慰めを求めるものですね。まあ、もしこれがあなたに一瞬の安らぎをもたらすのなら、この小さな越権行為を許しましょう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_margaret_ninghesongshi_body_001.aac",
+            "text": "ご覧ください。万物がそれぞれの律動に従っている時、争いはその土壌を失います。あらゆる命が適切な秩序の中で咲き誇る――この生気溢れる光景こそ、私が望む平和なのです。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_margaret_ninghesongshi_body_002.aac",
+            "text": "戦争後の大地を見たことがありますか？焼け焦げ、死のような静寂が広がっています。私がしたのは、最初の緑の芽が灰を突き破り、泉が再び流れるようにすること。破壊は一瞬で終わりますが、再建と成長は計り知れない忍耐と愛を要するのです。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_margaret_ninghesongshi_hand_001.aac",
+            "text": "秩序は育ち、豊穣は広がる。平和を願う力が世界の脈に溶け込むのを感じます…… これはあなたと私が共に蒔いた種。私は、それが甘い実を結ぶことを切に願っています。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_margaret_ninghesongshi_background_001.aac",
+            "text": "雨上がりの土の香り、新しい蜜酒の香り、熟した果実の甘さ――これこそ「平和」の香りです。平和とは空虚なものではなく、生命が満ち足りた時に自然と溢れ出る喜びなのでしょう。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_margaret_ninghesongshi_idle_001.aac",
+            "text": "人々が安らかに眠る時の穏やかな呼吸……それこそ、私の存在意義です。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_margaret_ninghesongshi_specialattention_001.aac",
+            "text": "あなたの眼差しは、平和を讃える詩のように希望をもたらし、「平和」という言葉を、ただの儚い神託から、目に見える使命へと変えてくれます……本当に素晴らしいですね。どうかそのまま、私を見つめ続けていてください。"
+        }
     ]
 }

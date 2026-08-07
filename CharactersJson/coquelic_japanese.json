@@ -199,5 +199,117 @@
             "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
             "text": "ふふ……その目つき、気に入ったわ。率直で、素直で、生存や勝利、あるいは征服への欲望で満ちている……外の世界には自分勝手なルールが溢れているけれど、この深い森の奥に、そんな縛りはないのよ。踊りたければ、音楽を待つ必要なんてないの。"
         }
+    ],
+    "awaken_from_crimson_night": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",
+            "text": "ふぁ……ここがこんなに賑やかになるなんて、随分久しぶりね……またどこの命知らずな人間が、血族の原初の姿を見に来たのかしら？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_coquelicot_feiyechuxing_levelup_001.aac",
+            "text": "うーん……鎖がぶつかり合う音は、心地いいわね。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_coquelicot_feiyechuxing_greeting_001.aac",
+            "text": "まだ早いわ。私たち、もう少し寝ていてもいいでしょう？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_coquelicot_feiyechuxing_head_001.aac",
+            "text": "太陽も届かない古城の隅には、日差しよりも貪欲なものがいるのね。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_001.aac",
+            "text": "この古城は、数えきれないほど客人を迎えてきたわ。聖人、狩人、魔女……彼らはここで思うままに振る舞う。そして私はただ絵の中に座って、彼らがゆっくり歴史の塵に沈んでいくのを見ていたのよ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_002.aac",
+            "text": "千年は長いかですって？私にとっては、ほんのひと眠り、真紅と薔薇の夢を見る間に過ぎないわ。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_coquelicot_feiyechuxing_lefthand_001.aac",
+            "text": "噂は本当よ。血族は鏡に映らない……でも別に構わないわ。あなたの瞳の中に、私がはっきりと見えるもの。それで十分じゃないかしら？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_coquelicot_feiyechuxing_righthand_001.aac",
+            "text": "ほとんどの訪問者は、遠くから伝説を拝むか、武器を手に伝説を「終わらせ」ようとしてきたわ。でも、あなたは違う。あなたの目には、愚かしいほどの純粋さがある。永遠の闇の中で、その光をどれほど保てるでしょうね？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_coquelicot_feiyechuxing_idle_001.aac",
+            "text": "長い静寂なんて、私にとってただの日常に過ぎないわ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_coquelicot_feiyechuxing_clicking_001.aac",
+            "text": "この皮の下には、温もりも脈も鼓動もないわ。ただ積もり続けるのよ……「血」への飢えだけが……ふふ、怖がらせたかしら？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_coquelicot_feiyechuxing_specialattention_001.aac",
+            "text": "時折思い返すの。城外の陽光は、あなたの視線のように熱かったかしらって……でも確かなのは、陽光よりも、あなたが私を見つめる眼差しの方が好みということね。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlebegin_001.aac",
+            "text": "夜の帳はすでに開いているわ。入場の時間よ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlewin_001.aac",
+            "text": "満足するまで食べた後は、少し余興が欲しくなるものよ。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlelose_001.aac",
+            "text": "ふん、このへんにしておくわ。楽しみを一度に味わい尽くすのは好きじゃないの。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_coquelicot_feiyechuxing_uniqueskill_001.aac",
+            "text": "夜を恐れるように、私を恐れなさい。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_coquelicot_feiyechuxing_dead_001.aac",
+            "text": "はっ……これが……末路なのね……"
+        },
+        {
+            "title": "インタラクション1",
+            "filename": "File:vo_coquelicot_feiyechuxing_drag_001.aac",
+            "text": "近づいてくる人は多いけど……あなたは……最も度胸があるわ。"
+        },
+        {
+            "title": "インタラクション2",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragback_001.aac",
+            "text": "最も望み、会いたがっていた存在が目の前にいるのよ？どこへ行こうというの？"
+        },
+        {
+            "title": "インタラクション3",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragbody_001.aac",
+            "text": "平和の象徴であるこの花は、最も熱烈で、最も赤い色で咲き誇る。"
+        },
+        {
+            "title": "インタラクション4",
+            "filename": "File:vo_coquelicot_feiyechuxing_draghand_001.aac",
+            "text": "太陽は温かく、あらゆる陰鬱を追い払い……いつも生命に求められている。"
+        },
+        {
+            "title": "インタラクション5",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragleg_001.aac",
+            "text": "命を捧げなさい。この力を手にし……"
+        },
+        {
+            "title": "インタラクション終了",
+            "filename": "File:vo_coquelicot_dragreturn_001.aac",
+            "text": "闇の贈り物は終わり……咲き誇る我が眷属よ、私に永遠に仕えるのよ。"
+        }
     ]
 }

@@ -199,5 +199,47 @@
             "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
             "text": "这、是嗷呜特地准备的新行头，这、是嗷呜和流民寨的叔叔姨姨们一起做的新狮头。好啦，狄斯人，可以开始夸我了~"
         }
+    ],
+    "16021182828547468_not_found": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_OwO_shiyuelanghua_cacha_001.aac",
+            "text": "哈！这片沙滩上的守护使者就是我——『沙滩狮王』嗷呜！嘿嘿！浅滩游泳也要注意安全，都别眨眼，嗷呜新编的护佑舞狮表演就要开始啦！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_OwO_shiyuelanghua_levelup_001.aac",
+            "text": "锵锵！看我堆的醒狮沙雕，是不是超级厉害！~"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_OwO_shiyuelanghua_greeting_001.aac",
+            "text": "快过来站好！本大王今天的醒狮沙雕马上竣工，你可是第一个VIP观众，来帮我准备揭幕仪式吧！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_001.aac",
+            "text": "表演开始前，我们先来一起堆个最大的醒狮沙堡怎么样！你是我最佳拍档，不准偷懒啊！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_002.aac",
+            "text": "谁说舞狮只能在地面表演？你看浅水区那些小朋友游泳游得好开心，我的舞狮表演就是要祈佑海怪快快绕路，让大家能安心玩耍的！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_OwO_shiyuelanghua_idle_001.aac",
+            "text": "好啦好啦，放心地在水上飘着吧，嗷呜大人就在这看着你！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_OwO_shiyuelanghua_clicking_001.aac",
+            "text": "啊啊啊你把醒狮沙雕的眼睛都抠大了一圈！……别说这样还挺威风！那，那嗷呜就勉为其难地留下你的大作吧！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_OwO_shiyuelanghua_specialattention_001.aac",
+            "text": "干嘛一直盯着本大王看？既然你这么关心我的沙雕进度……就勉强允许你站在旁边当我的御用扇风大使吧！"
+        }
     ]
 }

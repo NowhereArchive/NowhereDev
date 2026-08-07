@@ -219,5 +219,47 @@
             "filename": "File:vo_xiayin_xiayeshanguang_specialattention_001.aac",
             "text": "哎呀，局长你不用那么紧张的！你身上可是加装了16个智能飞行模块呢，就算在天上睡觉都没问题！"
         }
+    ],
+    "16021182212375522_not_found": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_xiayin_xiayekuangxiang_cacha_001.aac",
+            "text": "舞台电源接入完成，贝斯音量调节完毕……嗯，准备好了吗局长！接下来就让我们用音乐，把这个世界掀个底朝天吧！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_xiayin_xiayekuangxiang_levelup_001.aac",
+            "text": "音量上限解除！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_xiayin_xiayekuangxiang_greeting_001.aac",
+            "text": "Hi~局长，欢迎来到本次Live现场！今天演出的内容我已经准备好了哦~放心，我会控制演奏力度——你准备好迎接天才少女的音乐轰炸了吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_xiayin_xiayekuangxiang_body_001.aac",
+            "text": "与好友组成乐队，熬夜排练，最后站上舞台，享受灯光、音浪、欢呼声和尖叫！呀~这就是动画里的剧情完美复刻！简直太棒了！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_xiayin_xiayekuangxiang_body_002.aac",
+            "text": "刚才那段slap听见了吗？节奏、力度和切分全都完美同步！怎么样？是不是很厉害！果然，天才少女做什么都会让人觉得很酷！"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_xiayin_xiayekuangxiang_idle_001.aac",
+            "text": "局长……睡着了吗？那我偷偷休息下……呼，谁说站着不是一种运动呢？今天的运动量就勉强算是完成了吧！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_xiayin_xiayekuangxiang_clicking_001.aac",
+            "text": "摸头会影响天才贝斯手的威严哦……不过，如果是局长的话，那就勉强算作演出前的士气加成吧！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_xiayin_xiayekuangxiang_specialattention_001.aac",
+            "text": "这么盯着我做什么？是被天才贝斯手的舞台魅力击中了吗？嘿嘿，允许你崇拜三秒钟！"
+        }
     ]
 }

@@ -209,5 +209,57 @@
             "filename": "File:vo_zero_chaopinkuangchao_specialattention_001.aac",
             "text": "叮——！检测到幸运观众一名！没错没错，就是你啦！别害羞呀，快到舞台上和我站在一起吧！聚光灯都为你准备好咯！"
         }
+    ],
+    "160211821544312352_not_found": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zero_monixindong_cacha_001.aac",
+            "text": "雨天、午后、图书馆、最靠窗一排的书桌……果然，在这个时候见到你的概率最大！那么好，正式介绍一下：我是000，今天是你隔壁班的学妹，请多指教！"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zero_monixindong_levelup_002.aac",
+            "text": "空气更加潮湿了……你感觉到了吗？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zero_monixindong_greeting_001_01.aac",
+            "text": "又见面了，学长，雨还在下诶……那就陪我一起等天晴吧！"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_zero_monixindong_head_001.aac",
+            "text": "……诶？只想摸我的头吗？牵我的手也可以哦。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zero_monixindong_talk1_001.aac",
+            "text": "据我的研究，人们对“第一次心动”的记忆，70%发生在安静的公共空间，50%和光线角度有关，30%会关联某种天气——雨天正是留存率最高的那一种！"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zero_monixindong_talk1_002.aac",
+            "text": "这套衣服是我从三百二十套方案里选出来的。白衬衫、百褶裙、绒外套……人们对“完美初恋”的印象，我全部模拟过了~怎么样，是你喜欢的样子吗？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_zero_monixindong_hand_001.aac",
+            "text": "哇，手好凉——！给，这是我在茶水间为你冲的热咖啡，水和咖啡粉的数据比例简直堪称完美！尝尝看，是不是没放糖也很甜？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_zero_monixindong_leg_001.aac",
+            "text": "对呀对呀，就是因为看到借书卡上写着你的名字，我才借了这本《雨天的概率论》！只不过，书里有很多很多我还不懂的地方，有空的时候可以问你吗？要不……就现在？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zero_monixindong_idle_001.aac",
+            "text": "心动的公式，到底该怎么计算呢……"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zero_monixindong_specialattention_001.aac",
+            "text": "你一直这么看着我，我、我……在做模拟演算的时候可没想过会发生这个！……好吧，再靠近一点也可以，仅限今天，仅限雨天！仅限……你。"
+        }
     ]
 }

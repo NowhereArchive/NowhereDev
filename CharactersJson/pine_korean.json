@@ -110,5 +110,47 @@
             "filename": "File:vo_pine_levelup_002.aac",
             "text": "특종 접수."
         }
+    ],
+    "the_hedgehog's_eye": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_pine_citanzhezhiyan_cacha_001.aac",
+            "text": "어라, '어쩌다 보니' 네 쪽으로 연결된 모양이네. 국장, 어디 얘기 좀 해 봐. 요즘 뭐 핫한 소식 없어? 폭로든, 뒷조사든, 유포든 다 가능해. 난 그런 거라면 얼마든지 환영이거든."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_pine_citanzhezhiyan_levelup_002.aac",
+            "text": "회선 상태 양호. 오늘 밤은 분명 새로운 특종을 건질 수 있겠어."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_pine_citanzhezhiyan_greeting_001.aac",
+            "text": "일부러 여기까지 날 찾아온 거야? 잘 됐다, 방금 재밌는 통화를 하나 입수했거든. 내일 네가 만나게 될 사람에 관한 얘기야. 들어볼래?"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_pine_citanzhezhiyan_body_001.aac",
+            "text": "감청 일을 얕보지 마. 진짜 특종은 음성 메시지의 디테일 속에 숨겨져 있거든. 입 밖으로 꺼내지 못한 침묵을 꿰뚫어 보고 왜곡된 거짓말을 바로잡는 것. 그게 바로 염탐자가 해야 할 일이야."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_pine_citanzhezhiyan_body_002.aac",
+            "text": "'요령'만 잘 부리면, 정보는 알아서 네 주변으로 모여들 거야. 거리의 감시 카메라, 손안의 통신기, 심지어 머리 위에 뜬 저 '달'까지… 모두 지켜보고 있고, 전부 내 눈이 되어주지."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_pine_citanzhezhiyan_idle_001.aac",
+            "text": "나 때문에 비밀이 까발려진 녀석들은 꼭 전화를 걸어와서는, 입 다물라고 경고하거나 정보 출처를 캐내려 들더라… 반성하는 인간은 하나도 없어. 하, 그러니까 나한테 폭로 당했지."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_pine_citanzhezhiyan_clicking_001.aac",
+            "text": "쯧, '집중'이 뭔지 몰라? 저쪽 가서 좀 기다려. 이거 다 듣고 나서 얘기해."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_pine_citanzhezhiyan_specialattention_001.aac",
+            "text": "감청 일을 직접 해보고 싶어서 온 거야? 후훗… 그렇다면… 염탐자의 세계에 온 걸 환영해."
+        }
     ]
 }

@@ -110,5 +110,47 @@
             "filename": "File:vo_pine_levelup_002.aac",
             "text": "スキャンダルいただき。"
         }
+    ],
+    "the_hedgehog's_eye": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_pine_citanzhezhiyan_cacha_001.aac",
+            "text": "おっと、どうやら「うっかり」回線をそっちに繋いだみたいだな。局長、どうだ？最近何かデカいネタはあるか？暴露でも、諜報でも、拡散でも、何でもやってやる。こっちは大歓迎だ。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_pine_citanzhezhiyan_levelup_002.aac",
+            "text": "回線良好、今夜は新しい大スクープが掘れそうだ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_pine_citanzhezhiyan_greeting_001.aac",
+            "text": "わざわざここまで来たのか？いいタイミングだ。今ちょうど面白い通話を傍受したところでな――明日、アンタが会う相手についての話だ。聞いてみるか？"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_pine_citanzhezhiyan_body_001.aac",
+            "text": "監視業務を甘く見るなよ。真のビッグニュースは、音声の細部に潜んでる。ハリネズミの仕事は、言葉にならない沈黙を見抜き、歪められた嘘を正すことだ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_pine_citanzhezhiyan_body_002.aac",
+            "text": "ちょっとした「コツ」を使えば、情報なんて勝手に集まってくる。街中のカメラ、手元の通信機器、頭上に浮かぶあの「月」――全部が見ていて、全部がウチの目だ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_pine_citanzhezhiyan_idle_001.aac",
+            "text": "秘密を暴かれた連中は必ず電話をかけてくる。口止めだったり、こっちの情報源を探ろうとしたり……反省する奴なんか誰もいない。はっ、だから一人ずつ晒される羽目になるんだよ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_pine_citanzhezhiyan_clicking_001.aac",
+            "text": "チッ、「集中」って言葉を知らないのか？あっちいってろ、これを聞き終えたら構ってやる。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_pine_citanzhezhiyan_specialattention_001.aac",
+            "text": "自分で監視業務をやってみたいだと？ふっ……いいだろう……ようこそ、これがハリネズミの世界だ。"
+        }
     ]
 }

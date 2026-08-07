@@ -110,5 +110,47 @@
             "filename": "File:vo_zuoyi_levelup_002.aac",
             "text": "等着瞧吧……花园。"
         }
+    ],
+    "160211822395188640_not_found": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_zuoyi_youxianqingkong_cacha_001.aac",
+            "text": "没有对手，没有任务 ，连辆巴士都等不来，放假可真是没劲。算了，这里空气还算清新，那就这样呆一会吧，就一小会儿……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_zuoyi_youxianqingkong_levelup_002.aac",
+            "text": "等待，等待也是一种修行！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_zuoyi_youxianqingkong_greeting_001.aac",
+            "text": "嗯？离我那么远就停下来，害怕了？哼，今天我心情好，不会为难你的……来一起等车吧。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_zuoyi_youxianqingkong_talk1_001.aac",
+            "text": "不去训练也不去单挑，在街头漫无目的地散步，晒着会让人变懒散的阳光……这就叫做“假日”吗？那……那还真是无聊的日子……但……也能接受。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_zuoyi_youxianqingkong_talk1_002.aac",
+            "text": "给我零花钱让我出来跑腿，堇还叮嘱我给大家带点心回去，可蓟推荐的那家点心店下午才开门……她们该不会是想支开我学些我不会的招式吧？！嗯？你敢打包票她们不是这个意思？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_zuoyi_youxianqingkong_idle_001.aac",
+            "text": "车还没来……我都要睡……唔不行！称职的花园刺客不能掉以轻心！"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_zuoyi_youxianqingkong_clicking_001.aac",
+            "text": "猫、猫耳怎么了？！猫可是很强大的捕食者！还是说，你也想成为我的猎物了？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_zuoyi_youxianqingkong_specialattention_001.aac",
+            "text": "唔，树叶里漏下来的阳光晃得我眼睛都要睁不开了……嗯？你在看我？还是我身后有什么异常？"
+        }
     ]
 }

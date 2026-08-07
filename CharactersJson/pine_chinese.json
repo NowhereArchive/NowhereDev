@@ -110,5 +110,47 @@
             "filename": "File:vo_pine_levelup_002.aac",
             "text": "爆料收到。"
         }
+    ],
+    "the_hedgehog's_eye": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_pine_citanzhezhiyan_cacha_001.aac",
+            "text": "哟，看样子“一不小心”把线连到你那儿了。局长，来说说吧？最近有什么劲爆消息？需要我爆料、刺探、散播都可以，我乐意至极。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_pine_citanzhezhiyan_levelup_002.aac",
+            "text": "线路畅通，今晚一定能挖到新的猛料。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_pine_citanzhezhiyan_greeting_001.aac",
+            "text": "专门跑到这儿来找我？正好，我刚截获了一段有意思的通话——关于你明天的拜访对象。想听听吗？"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_pine_citanzhezhiyan_body_001.aac",
+            "text": "不要小瞧监听的工作，真正的大新闻藏在每一条语音的细节里。刺探者要做的，就是识破那些说不出口的停顿，修正那些被扭曲的谎言。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_pine_citanzhezhiyan_body_002.aac",
+            "text": "只要活用一些“小方法”，信息自然会汇聚到你的身边。街上的摄像头，手中的通讯，甚至头顶这轮“月亮”——它们都在看着，它们都是我的眼线。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_pine_citanzhezhiyan_idle_001.aac",
+            "text": "那些被我揭露了秘密的家伙们总会打电话过来，要么警告保密、要么刺探我的消息来源……没一个在反思自己。哈，活该被我拽出来挨个曝光。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_pine_citanzhezhiyan_clicking_001.aac",
+            "text": "啧，你是真不知道什么叫“专注”吗？一边儿待着去，等我听完这段再说。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_pine_citanzhezhiyan_specialattention_001.aac",
+            "text": "是想亲自来做些监听工作吗？呵呵……那就……欢迎加入我们，这就是刺探者的世界。"
+        }
     ]
 }

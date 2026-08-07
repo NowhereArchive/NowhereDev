@@ -209,5 +209,47 @@
             "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
             "text": "宴会还没有结束，我也不会轻易离开。但或许下一个春天，会有人领着我，走出这片尘封的冰雪呢。"
         }
+    ],
+    "void_workshop": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_eve_xvjuangongfang_cacha_001.aac",
+            "text": "尊敬的客人，欢迎光临伊芙的小店，这里专为破碎之人准备……你想要买点什么？朋友……爸爸妈妈……还是爱人？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_eve_xvjuangongfang_levelup_001.aac",
+            "text": "您明明什么都不缺，为什么要给伊芙力量？"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_eve_xvjuangongfang_greeting_001.aac",
+            "text": "听见铃声……我就知道是您。今天还是什么都不缺吗？……也好。您坐吧，伊芙去给您泡一杯茶。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_001.aac",
+            "text": "您需要一个听众吗？这个“孩子”没有嘴巴。您可以把所有的秘密都倒进她的陶瓷肚子里，她会替您守护好的。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_002.aac",
+            "text": "外面的风太大了，关上门吧。别让那些名为“明天”的灰尘落进来，门外飞扬的东西，不属于这里……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_eve_xvjuangongfang_idle_001.aac",
+            "text": "小熊，小熊……我们尊贵的客人需要什么呢？"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_eve_xvjuangongfang_clicking_001.aac",
+            "text": "那个……客人？只有货架上的“孩子”才能成为您的家人。伊芙有太多裂痕了……伊芙……不行的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_eve_xvjuangongfang_specialattention_001.aac",
+            "text": "您想再靠近一点吗？……来吧，我们还有永恒的时间，这里的门已经不会再打开了。"
+        }
     ]
 }

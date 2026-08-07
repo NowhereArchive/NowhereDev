@@ -115,5 +115,47 @@
             "filename": "File:vo_rust_head_001.aac",
             "text": "A gentleman's hairstyle is his crown. I'm flattered by your attention, but let's keep it a visual appreciation."
         }
+    ],
+    "night_in_exile": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_rust_gujinchangye_cacha_001.aac",
+            "text": "Even at the world's end, covetous eyes stalk our shadows. Human adventurer, if your words are true... if it's not a dragon's blood and horns that you're after... then stay and share this winter with me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rust_gujinchangye_levelup_001.aac",
+            "text": "The red moon rises... and my blood sings."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rust_gujinchangye_greeting_001.aac",
+            "text": "You actually returned. Again and again, bearing gifts like it was nothing. Heh, a half-dragon monster and a human with a soft spot for my kind... Two misfits huddling against the endless cold. Fitting, isn't it?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_rust_gujinchangye_body_001.aac",
+            "text": "An impure human cannot be human, but a dragon of mixed blood is still called a dragon. I've stopped asking which battlefield took my humanity from me. All I know is the hollow it left behind, reminding me I am not whole."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_rust_gujinchangye_body_002.aac",
+            "text": "Human reason tells me to despise control, and my dragon instinct screams through my bones to shred every shackle. Yet somehow, when you speak... both of them quiet down."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rust_gujinchangye_idle_001.aac",
+            "text": "Dragon instincts don't know how to share. But for you, dreaming so peacefully... I'll make an exception. Just this once."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rust_gujinchangye_clicking_001.aac",
+            "text": "Easy now, it's just an old mark from molting."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rust_gujinchangye_specialattention_001.aac",
+            "text": "The world looks at dragonkind and tallies gold. But you... you see an exiled soul beneath the scales. Those eyes of yours, the ones that look at me and see an equal, are the real treasure to hold."
+        }
     ]
 }

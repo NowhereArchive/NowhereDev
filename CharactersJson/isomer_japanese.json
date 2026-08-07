@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_aisemoer_cacha_001.aac",
+            "text": "ごきげんよう、MBCCの局長閣下。アイセと呼んでくれ。さあ、これから協力していこう。"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_aisemoer_promotion_001.aac",
+            "text": "感謝する。まさに私の求めていたものだ。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_aisemoer_promotion2_001.aac",
+            "text": "これこそが世界の真理。真の混沌と未知だ。"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_aisemoer_battlebegin_001.aac",
+            "text": "では、証明を始めよう。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_aisemoer_battlewin_001.aac",
+            "text": "正しい時間、正しい場所で、正しい結果を得る。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_aisemoer_battlelose_001.aac",
+            "text": "より多くの計画が必要だ。"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_aisemoer_uniqueskill_001.aac",
+            "text": "勝利の法則はすでに確定した！"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_aisemoer_dead_001.aac",
+            "text": "まだ……時間はあるか……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_aisemoer_greeting_001.aac",
+            "text": "ごきげんよう、局長閣下。自分の囚人を見に来たのか？それなら、コーヒーを頼む。砂糖なしでな。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_aisemoer_talk1_001.aac",
+            "text": "彼らは私を「凡才」と呼び、ここに立つ資格などないと思っている。だが、凡人には凡人なりのやり方があるものだ。彼らは私の手によって次々と転落していった。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_aisemoer_talk1_002.aac",
+            "text": "共に徹夜することなど、ロマンチックでも何でもない。君のクマはひどいものだ……身体には気をつけて、早く休むといい。私か？この計画書を読み終えたら行こう。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_aisemoer_talk1_003.aac",
+            "text": "私は多くの天才を見てきた。彼らは聡明で鋭いが、その分、傷つきやすくもある。だが君は、そうではないだろう？ふふ、見下しているわけではない。ただ、君のこれからの道が、少しでも順調なものになるよう願っているだけだ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_aisemoer_talk2_001.aac",
+            "text": "管理局はリング研究所よりずっと「綺麗」だな。君も相当努力したことだろう。時間があれば、管理方法についてじっくり聞かせてくれ。"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_aisemoer_talk2_002.aac",
+            "text": "最近、新しいレシピを研究しているんだ。食材と調味料の組み合わせで面白い味になった。局長、試してみるか？ん？君を取り込もうとしているだと？さて……それで、君は来てくれるのか？"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_aisemoer_talk2_003.aac",
+            "text": "局長にその気があるなら、せっかくだ。普段話さない無駄話でもしよう。君の過去、趣味、望んでいるもの、それとも理想……ああ、今回は取引ではない。ただ、もう少し君を知りたいだけだ。私も「学者」だからな？"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_aisemoer_obeyfull_001.aac",
+            "text": "私もかつては万物の原理を探究することに夢中になっていたが、結局別の道を選んだ……だが君から、再び無限の可能性を感じている。君はまるであの蝶のように、軽やかに舞いながら、未来に前代未聞の嵐を巻き起こすことだろう。私は君を助ける。だから、真の未来を見せてくれ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_aisemoer_idle_001.aac",
+            "text": "疲れたのか？それなら机に突っ伏していないで、ベッドで休むことだ。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_aisemoer_clicking_001.aac",
+            "text": "質問があるなら喜んで答えよう。だが、執務室で軽率な接触は控えてもらおうか。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_aisemoer_specialattention_001.aac",
+            "text": "ただ私を見ているだけだと？何か話したり……したりするつもりはないのか？"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_aisemoer_dispatch_001.aac",
+            "text": "優れた指示だ。"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_aisemoer_dispatch2_001.aac",
+            "text": "署名確認をしてもらえれば十分。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_aisemoer_levelup_002.aac",
+            "text": "良い経験になった。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_aisemoer_head_001.aac",
+            "text": "人はいつも言う。人類はいずれ狂瞳病に勝ち、新たな明日を迎えると……ふっ、君もそれを信じているのか？"
+        }
+    ]
+}

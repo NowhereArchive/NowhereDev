@@ -115,5 +115,47 @@
             "filename": "File:vo_rust_head_001.aac",
             "text": "헤어스타일은 신사에게 가장 중요한 장비입니다, 눈으로만 보시고 손대지는 마세요."
         }
+    ],
+    "night_in_exile": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_rust_gujinchangye_cacha_001.aac",
+            "text": "일족 전체가 세상 끝으로 숨어들어도, 탐욕스러운 시선은 그림자처럼 따라붙는군요. 인간 모험가여, 당신이 말한 대로 정말 용의 피와 뿔을 노리고 온 게 아니라면… 머물러도 좋습니다. 저와 함께 혹독한 겨울을 보내보시죠."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_rust_gujinchangye_levelup_001.aac",
+            "text": "붉은 달이 뜨니, 피가 끓어오르는군요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_rust_gujinchangye_greeting_001.aac",
+            "text": "몇 번씩이나 물자를 가져다주실 줄은 정말 몰랐습니다. 하하, 인간과 용의 피가 섞인 괴물과 용족을 동정하는 인간 별종이라… 끝없는 추위 속에서 서로를 의지하며 온기를 나누기엔 제법 어울리는 조합이군요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_rust_gujinchangye_body_001.aac",
+            "text": "피가 섞인 자는 인간이라 할 수 없는데, 용은 여전히 용으로 남더군요. 이제 어느 싸움에서 제 '인간'으로서의 부분을 잃어버렸는지조차 알 수 없습니다. 오직 이 공허함만이, 제가 더 이상 완전하지 않다는 사실을 일깨워줄 뿐이에요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_rust_gujinchangye_body_002.aac",
+            "text": "인간의 피는 제게 지배를 혐오하는 이성을 주었고, 용의 피는 족쇄를 끊어내라며 밤낮없이 울부짖고 있습니다. 그런데 의외로… 이 녀석들, 당신 말은 꽤 잘 듣더군요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_rust_gujinchangye_idle_001.aac",
+            "text": "용은 독점욕이 무척 강한 생물입니다. 하지만 당신이 좋은 꿈을 꾸고 있는 거라면… 잠시 정도는 그 꿈에 양보하도록 하죠."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_rust_gujinchangye_clicking_001.aac",
+            "text": "걱정 마시죠. 탈피하다 생긴 오래된 흔적일 뿐이니까요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_rust_gujinchangye_specialattention_001.aac",
+            "text": "인간들에게 용이란 그저 막대한 재물일 뿐이지만, 당신은 갈 곳 잃은 영혼을 보셨군요… 제겐 당신의 그 '차별 없는' 시선이야말로 진정한 보물입니다."
+        }
     ]
 }

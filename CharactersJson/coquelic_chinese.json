@@ -199,5 +199,117 @@
             "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
             "text": "……我喜欢你现在的眼神，直白、坦率，充斥着生存、胜利或是征服的欲望……外面的世界有太多自以为是的规则，但密林深处可没有这种束缚。你若想跳一支舞，就不必等音乐响起。"
         }
+    ],
+    "awaken_from_crimson_night": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",
+            "text": "哈啊……这里好久没这么热闹过了……又是哪位不要命的人类，想要一睹血族最古老原初的真容？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_coquelicot_feiyechuxing_levelup_001.aac",
+            "text": "嗯……锁链相互碰撞的声音，真悦耳。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_coquelicot_feiyechuxing_greeting_001.aac",
+            "text": "时间还很早，我想我们还可以再睡一会儿。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_coquelicot_feiyechuxing_head_001.aac",
+            "text": "古堡里阳光照不到的角落，总有些东西比日光更贪婪。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_001.aac",
+            "text": "这座古堡迎接过无数客人。圣徒、猎人、女巫……他们在这里随心所欲，而我只是坐在画中，看着他们慢慢淹没于历史的尘埃。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_002.aac",
+            "text": "一千年很长吗？于我而言，不过是打了个盹，做了个关于鲜红与玫瑰的梦。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_coquelicot_feiyechuxing_lefthand_001.aac",
+            "text": "传言属实，镜子的确无法映出血族的倒影……不过没关系，我可以从你的眼睛里清清楚楚地看见我自己，这样不是更好么？"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_coquelicot_feiyechuxing_righthand_001.aac",
+            "text": "大多数访客只敢远远瞻仰传说，或带着武器来“终结”传说。 但你不一样，你眼中有着近乎愚蠢的纯粹。在永恒的黑暗中，你能让这份光亮维持多久呢？"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_coquelicot_feiyechuxing_idle_001.aac",
+            "text": "漫长的寂静，对我来说不过是常态。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_coquelicot_feiyechuxing_clicking_001.aac",
+            "text": "皮囊之下没有温度，也没有脉搏和心跳，但积攒了很多……对“血液”的饥饿……呵呵，你害怕了？"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_coquelicot_feiyechuxing_specialattention_001.aac",
+            "text": "我时常也会回忆，城堡外的阳光，是否和你的眼神一样炽热……但我能肯定的是，比起阳光，我更喜欢你看我的眼神。"
+        },
+        {
+            "title": "关卡开始",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlebegin_001.aac",
+            "text": "夜幕已经张开，该入场了。"
+        },
+        {
+            "title": "战斗胜利",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlewin_001.aac",
+            "text": "饱餐之后，总是需要一点余兴节目。"
+        },
+        {
+            "title": "战斗失败",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlelose_001.aac",
+            "text": "呵，就先到这里吧。我可不习惯把乐趣一次耗尽。"
+        },
+        {
+            "title": "必杀技",
+            "filename": "File:bt_coquelicot_feiyechuxing_uniqueskill_001.aac",
+            "text": "你当恐惧黑夜，恐惧我。"
+        },
+        {
+            "title": "战斗中死亡",
+            "filename": "File:bt_coquelicot_feiyechuxing_dead_001.aac",
+            "text": "哈……这便是……末路……"
+        },
+        {
+            "title": "互动1",
+            "filename": "File:vo_coquelicot_feiyechuxing_drag_001.aac",
+            "text": "想要接近我的人有很多，而你……是胆子最大的一个。"
+        },
+        {
+            "title": "互动2",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragback_001.aac",
+            "text": "你最想要的，最渴望见到的存在，不是正在你的面前吗？还想往什么地方去呢？"
+        },
+        {
+            "title": "互动3",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragbody_001.aac",
+            "text": "这红色的花明明象征平和，却是以最热烈，最猩红的色彩绽放。"
+        },
+        {
+            "title": "互动4",
+            "filename": "File:vo_coquelicot_feiyechuxing_draghand_001.aac",
+            "text": "阳光温暖，足以驱散一切阴霾……世上的生命总是追逐着它。"
+        },
+        {
+            "title": "互动5",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragleg_001.aac",
+            "text": "献出你的生命，拥有我的力量……"
+        },
+        {
+            "title": "退出互动",
+            "filename": "File:vo_coquelicot_dragreturn_001.aac",
+            "text": "黑暗的赠礼已经完成……完美盛放的眷属啊，你将会永远忠诚于我。"
+        }
     ]
 }

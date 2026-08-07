@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_aisemoer_cacha_001.aac",
+            "text": "Hello, Chief of MBCC. You may call me Isomer. I'm ready to proceed with our collaboration when you are."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_aisemoer_promotion_001.aac",
+            "text": "Thank you. This is exactly what I needed."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_aisemoer_promotion2_001.aac",
+            "text": "This is the world's truth. Chaos and the unknown, in its purest form."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_aisemoer_battlebegin_001.aac",
+            "text": "Now then, let's put the theory to the test."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_aisemoer_battlewin_001.aac",
+            "text": "Right time, right place, right result."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_aisemoer_battlelose_001.aac",
+            "text": "We need more viable approaches."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_aisemoer_uniqueskill_001.aac",
+            "text": "The formula for victory has been determined!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_aisemoer_dead_001.aac",
+            "text": "Is there...still... time..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_aisemoer_greeting_001.aac",
+            "text": "Hello, Chief. Here to check on your prisoner? I'll have a cup of coffee then. No sugar, please."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_aisemoer_talk1_001.aac",
+            "text": "They dismissed me as mediocre, unworthy of this position. A miscalculation on their part. Mediocrities have their own methods. And one by one, they fell."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_aisemoer_talk1_002.aac",
+            "text": "Staying up together isn't some romantic gesture. Your dark circles say enough... You should get some proper rest... Me? I'll go after I finish reviewing this proposal."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_aisemoer_talk1_003.aac",
+            "text": "I've seen plenty of geniuses. Sharp minds, quick to perceive, but also quick to shatter. You won't end up like them, will you? Heh. Don't misunderstand. I'm simply hoping your journey proves less painful."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_aisemoer_talk2_001.aac",
+            "text": "This Bureau is remarkably \"cleaner\" than the Ring Research Institute. Maintaining order like this takes work. I'd like to learn more about your management methods when you're available."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_aisemoer_talk2_002.aac",
+            "text": "I've been experimenting with a recipe. This combination of ingredients and seasonings yielded a rather unique flavor profile. Care to sample it, Chief? Oh, you think I'm trying to win you over? Then... will you take the invitation?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_aisemoer_talk2_003.aac",
+            "text": "Since you're in an unusual mood, Chief, let's indulge in idle conversation for a change. Tell me about your past, your hobbies, what you desire, or... your ideals. Oh, it's not about business this time. I simply want to know you better. I am a \"scholar\" after all, aren't I?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_aisemoer_obeyfull_001.aac",
+            "text": "I was once obsessed with uncovering the laws governing all things. But I walked away from that path... Then I saw you, and those infinite possibilities returned. You're that butterfly. Passing through lightly now, but you'll bring a storm unlike any before. I'll help, and all I expect is to witness the true future."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_aisemoer_idle_001.aac",
+            "text": "Tired? Then don't slump over your desk. Go rest in bed."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_aisemoer_clicking_001.aac",
+            "text": "If you have questions, I'm happy to answer them. But let's maintain professional boundaries in the office."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_aisemoer_specialattention_001.aac",
+            "text": "You're just going to stare? Don't you have something to say... or do?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_aisemoer_dispatch_001.aac",
+            "text": "An efficient allocation."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_aisemoer_dispatch2_001.aac",
+            "text": "A signature will seal it."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_aisemoer_levelup_002.aac",
+            "text": "The experience was worthwhile."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_aisemoer_head_001.aac",
+            "text": "They always say humanity will defeat Mania, and usher in a bright new tomorrow... Heh, do you believe that as well?"
+        }
+    ]
+}

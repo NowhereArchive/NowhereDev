@@ -199,5 +199,117 @@
             "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
             "text": "Hm... I like the look in your eyes. Raw, honest, brimming with the desire to survive, to triumph, to conquer... The outside world has so many conceited rules, but here in the depths of the dense forest, there are no such constraints. If you wish to dance, then dance."
         }
+    ],
+    "awaken_from_crimson_night": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",
+            "text": "It's been ages since this place has seen any visitors... Which foolish mortal seeks to behold the eldest of all vampires this time?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelicot_feiyechuxing_levelup_001.aac",
+            "text": "Mmm... the sound of chains clinking together... It is truly something delightful."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelicot_feiyechuxing_greeting_001.aac",
+            "text": "It's still early. I'd say we can sleep a little longer."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_coquelicot_feiyechuxing_head_001.aac",
+            "text": "In the corners of this castle, where sunlight cannot reach, there lurk things far more ravenous than the light itself."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_001.aac",
+            "text": "This castle has welcomed countless visitors. Saints, hunters, witches... They all did as they pleased here, while I merely sat within my portrait, watching as they slowly faded into the pages of history."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_002.aac",
+            "text": "Is a thousand years truly so long? To me, that is no longer than a brief slumber, or a dream of crimson and roses."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_coquelicot_feiyechuxing_lefthand_001.aac",
+            "text": "The legends are true. Mirrors cannot capture a vampire's reflection... But that hardly matters. I can see myself perfectly clear in your eyes. Isn't that far better?"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_coquelicot_feiyechuxing_righthand_001.aac",
+            "text": "Most visitors only dare gaze upon legends from afar, or come armed to end one. You, however, are different. There's a purity in your eyes that borders on foolishness. How long can you keep that light burning within this eternal darkness, I wonder?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelicot_feiyechuxing_idle_001.aac",
+            "text": "Endless silence is merely the norm for me."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelicot_feiyechuxing_clicking_001.aac",
+            "text": "Beneath this skin, there is no warmth, no pulse, no heartbeat... There is, however... an insatiable hunger for blood—one accumulated over eons. Heh, did I frighten you?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelicot_feiyechuxing_specialattention_001.aac",
+            "text": "I often wonder if the sun above burns as intensely as your gaze upon me... But I know with certainty that I prefer the way you look at me far more than the light of any sun."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlebegin_001.aac",
+            "text": "The curtain of the night has risen. It is time to make my entrance."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlewin_001.aac",
+            "text": "After a hearty feast, one always needs a bit of entertainment."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlelose_001.aac",
+            "text": "Heh, let's leave it at that for now. I'm not one to exhaust all the fun in a single go."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_coquelicot_feiyechuxing_uniqueskill_001.aac",
+            "text": "You shall fear the night, and fear me."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_coquelicot_feiyechuxing_dead_001.aac",
+            "text": "Hah... so this is... my end..."
+        },
+        {
+            "title": "Interaction 1",
+            "filename": "File:vo_coquelicot_feiyechuxing_drag_001.aac",
+            "text": "Many have sought to approach me, but you... you are the boldest of them all."
+        },
+        {
+            "title": "Interaction 2",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragback_001.aac",
+            "text": "The one you desire most, the one you long to see... isn’t she right before your eyes? Where else could you possibly want to go?"
+        },
+        {
+            "title": "Interaction 3",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragbody_001.aac",
+            "text": "This red flower symbolizes peace, yet it blossoms in the most passionate, crimson hue."
+        },
+        {
+            "title": "Interaction 4",
+            "filename": "File:vo_coquelicot_feiyechuxing_draghand_001.aac",
+            "text": "The sun’s rays are warm, capable of dispelling all darkness... Every living soul in this world chases after them."
+        },
+        {
+            "title": "Interaction 5",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragleg_001.aac",
+            "text": "Surrender your life, and claim my power..."
+        },
+        {
+            "title": "Exit Interaction",
+            "filename": "File:vo_coquelicot_dragreturn_001.aac",
+            "text": "You've been blessed by the darkness... Bloom, my beautiful kin. You shall be eternally... loyal to me."
+        }
     ]
 }

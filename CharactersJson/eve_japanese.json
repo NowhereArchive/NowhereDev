@@ -209,5 +209,47 @@
             "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
             "text": "パーティーはまだ終わっていませんし、私も簡単には立ち去らないつもりです。ですが次の春には、誰かがこの忘れ去られた雪と氷の世界から私を連れ出してくれるかもしれません。"
         }
+    ],
+    "void_workshop": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_eve_xvjuangongfang_cacha_001.aac",
+            "text": "親愛なるお客様、イヴのお店へようこそ。ここは、壊れてしまった人のための場所です……それで、何をお求めですか？友達……両親……それとも、恋人？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_eve_xvjuangongfang_levelup_001.aac",
+            "text": "あなたは何一つ欠けていないのに、どうしてイヴに力を与えるんですか？"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_eve_xvjuangongfang_greeting_001.aac",
+            "text": "ペルが鳴った瞬間……あなただと分かりました。今日も不足しているものはないんですか？……それなら、それでいいです。どうぞ座ってください。お茶を淹れてきますから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_001.aac",
+            "text": "話を聞く相手が必要ですか？この「子」には口がありません。だから、どんな秘密でもその陶器の小さなお腹に注ぎ込めます。彼女はちゃんと守ってくれますよ。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_002.aac",
+            "text": "外の風が強すぎますね。扉を閉めましょう。「明日」という名の埃が入り込まないように。外で舞っているものは、ここのものではありません……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_eve_xvjuangongfang_idle_001.aac",
+            "text": "小熊ちゃん、小熊ちゃん……親愛なるお客様は何が欲しいのかな？"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_eve_xvjuangongfang_clicking_001.aac",
+            "text": "えっと……お客様？あなたの家族になれるのは、棚に並んだ「子」たちだけです。イヴはひび割れが多すぎるので……イヴは……ダメです。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_eve_xvjuangongfang_specialattention_001.aac",
+            "text": "もう少し近づきたい？……どうぞ。私たちには永遠の時間があります。ここの扉は、もう二度と開きませんから。"
+        }
     ]
 }

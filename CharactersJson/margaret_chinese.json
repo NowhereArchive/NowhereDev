@@ -115,5 +115,57 @@
             "filename": "File:vo_margaret_head_001.aac",
             "text": "局长，您想从我这里获得温柔的安慰，还是……更有效的解决方案？"
         }
+    ],
+    "ode_to_peace": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_margaret_ninghesongshi_cacha_001.aac",
+            "text": "时序流转，将我带到你身边……你不必害怕，在我的羽翼下，伤痛会被抚平，荒芜也将重获生机。这就是我为你许下的，和平的诺言。"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_margaret_ninghesongshi_levelup_001.aac",
+            "text": "听……这是生命扎根、抽枝的声响。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_margaret_ninghesongshi_greeting_001.aac",
+            "text": "愿你安好，我的同行者。我带来的不止是问候，还有自光辉之巅采撷的、一缕让心灵安宁的晨光。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_margaret_ninghesongshi_head_001.aac",
+            "text": "……凡人总是渴望从神明处寻求抚慰。也好，如果这样能够为你带来片刻的慰籍，我可以允准这份小小的僭越。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_margaret_ninghesongshi_body_001.aac",
+            "text": "你瞧，当万物都安守在自己的韵律里，纷争便失了土壤。让每一种生命都在恰当的秩序中盛放——这欣欣向荣的图景，正是我所期盼的和平。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_margaret_ninghesongshi_body_002.aac",
+            "text": "你见过战争后的土地吗？焦黑、死寂。而我所做的，是让第一株绿芽冲破灰烬，让清泉再次流淌。破坏只需一瞬，但重建与孕育，却需要无比的耐心与爱。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_margaret_ninghesongshi_hand_001.aac",
+            "text": "秩序在生长，丰饶在蔓延。我能感受到祈愿和平的力量正融入世界的脉络……这是你与我共同播下的种子，我热切地盼望着，它能够结出甜美的果实。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_margaret_ninghesongshi_background_001.aac",
+            "text": "雨后泥土的芬芳、新酿蜜酒的气息，与熟透果实的甜香——这就是“和平”的味道。和平并非空无一物，而是生命在丰足之时，自然洋溢的喜悦。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_margaret_ninghesongshi_idle_001.aac",
+            "text": "人们安睡时沉稳的呼吸……就是我存在的意义。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_margaret_ninghesongshi_specialattention_001.aac",
+            "text": "你的目光，如同赞颂和平的诗歌一样令人心生希望，也让“和平”从一个缥缈的神谕，变成了能被看见的使命……真好啊，请你就这样一直注视着我吧。"
+        }
     ]
 }

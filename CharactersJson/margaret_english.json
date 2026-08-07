@@ -115,5 +115,57 @@
             "filename": "File:vo_margaret_head_001.aac",
             "text": "Chief, do you need a sympathetic ear, or would a more... permanent solution be more effective?"
         }
+    ],
+    "ode_to_peace": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_margaret_ninghesongshi_cacha_001.aac",
+            "text": "Time's river has carried me to you... Fear nothing. Beneath my wings, all hurt is soothed, and barren lands bloom again. This is my vow of peace, sworn to you."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_margaret_ninghesongshi_levelup_001.aac",
+            "text": "Do you hear it? This is the sound of life taking root and sprouting."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_margaret_ninghesongshi_greeting_001.aac",
+            "text": "Peace be with you, my companion on this path. I bring not only my greeting, but a thread of morning light, harvested from the shining heights, that grants the spirit rest."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_margaret_ninghesongshi_head_001.aac",
+            "text": "...Mortals ever yearn for comfort from their gods. Very well, if it grants you a moment of solace, I shall allow this small, audacious act."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_margaret_ninghesongshi_body_001.aac",
+            "text": "You see, when all things abide by their own rhythm, conflict finds no ground to take root. That thriving vision, where every life flourishes in its rightful order, is the very peace I strive for."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_margaret_ninghesongshi_body_002.aac",
+            "text": "Have you ever walked the land after war? A blackened, hollow quiet. My purpose is to coax out that very first green sprout, to let the spring water run clear once more. To destroy is the work of a single, terrible moment. But to rebuild and to truly nurture life back... that demands a patience born of love."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_margaret_ninghesongshi_hand_001.aac",
+            "text": "Order takes root, and abundance unfurls. I feel the prayers for peace weaving themselves into the very fabric of the world... This is the seed you and I have sown together, and I wait with eager hope for the sweet fruit it shall bear."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_margaret_ninghesongshi_background_001.aac",
+            "text": "Petrichor, fresh mead, sun-warmed fruit—that is what \"peace\" smells like. It isn't something hollow. It's the joy that overflows when life knows only plenty."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_margaret_ninghesongshi_idle_001.aac",
+            "text": "The quiet breath of those who sleep without fear... that is what gives my life meaning."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_margaret_ninghesongshi_specialattention_001.aac",
+            "text": "Your gaze... it is like a verse in praise of peace. It fills me with hope, and turns \"peace\" from a distant prophecy into a mission I can truly see... How wonderful. Please, don't ever look away."
+        }
     ]
 }

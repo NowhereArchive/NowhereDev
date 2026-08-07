@@ -199,5 +199,117 @@
             "filename": "File:vo_coquelicot_feisemilin_specialattention_001.aac",
             "text": "하… 난 지금 네 눈빛이 좋아. 꾸밈없고 솔직하면서도, 생존과 승리, 그리고 정복에 대한 욕망으로 가득 차 있어… 바깥세상에는 제멋대로인 규칙이 수없이 많지만, 밀림 속에선 그런 속박이 존재하지 않아. 네가 만약 춤을 추고 싶다면, 음악이 나오길 기다릴 필요도 없어."
         }
+    ],
+    "awaken_from_crimson_night": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",
+            "text": "하암… 여기가 이렇게 시끌벅적한 건 정말 오랜만이네… 또 어느 죽고 싶어 안달 난 인간이 태초 혈족의 모습을 보려는 거지?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_coquelicot_feiyechuxing_levelup_001.aac",
+            "text": "음… 쇠사슬이 부딪치는 소리는 참 듣기 좋아."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_coquelicot_feiyechuxing_greeting_001.aac",
+            "text": "아직 이른 시간이니까, 우리 조금만 더 자자."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_coquelicot_feiyechuxing_head_001.aac",
+            "text": "고성 안, 햇빛이 닿지 않는 구석에는 언제나 햇빛보다 더 탐욕스러운 것들이 숨어 있지."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_001.aac",
+            "text": "이 고성엔 수많은 손님이 다녀갔어. 신도, 사냥꾼, 마녀… 모두 제멋대로 행동했지. 난 그림 속에 앉아, 그들이 먼지처럼 사라지는 것을 지켜봤을 뿐이야."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_coquelicot_feiyechuxing_talk_002.aac",
+            "text": "천 년이 길다고 생각해? 잠깐 졸다가, 붉은빛과 장미가 나오는 꿈을 꾸면 금방이던데."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_coquelicot_feiyechuxing_lefthand_001.aac",
+            "text": "소문이 사실이었어. 거울엔 정말로 혈족의 모습이 비치치 않네… 하지만 괜찮아, 네 눈에 내가 또렷하게 비치고 있잖아. 이편이 더 좋은 것 같은데?"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_coquelicot_feiyechuxing_righthand_001.aac",
+            "text": "대부분의 손님은 그저 전설을 보려 하거나 '끝장'내려 하는데, 넌 다르더라. 어리석을 정도로 순수한 눈빛을 하고 있지. 영원한 어둠 속에서 그 빛은 언제까지 반짝일 수 있을까?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_coquelicot_feiyechuxing_idle_001.aac",
+            "text": "기나긴 정적은 내게 일상일 뿐이야."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_coquelicot_feiyechuxing_clicking_001.aac",
+            "text": "가죽 아래엔 온기도, 맥박도, 심장 박동도 없지만, '피'에 대한 갈증만큼은… 꽤나 쌓여있지… 후훗, 겁먹었어?"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_coquelicot_feiyechuxing_specialattention_001.aac",
+            "text": "가끔은 성 밖의 햇빛이 생각이 나. 네 눈빛만큼 뜨거웠었나… 하지만 확실한 건, 햇빛보다 날 바라보는 네 눈빛이 더 좋아."
+        },
+        {
+            "title": "스테이지 시작",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlebegin_001.aac",
+            "text": "밤의 장막이 펼쳐졌으니, 이제 입장할 시간이야."
+        },
+        {
+            "title": "전투 승리",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlewin_001.aac",
+            "text": "배불리 먹은 뒤엔 가벼운 여흥 정도는 즐겨 줘야지."
+        },
+        {
+            "title": "전투 패배",
+            "filename": "File:vo_coquelicot_feiyechuxing_battlelose_001.aac",
+            "text": "훗, 오늘은 여기까지 하지. 즐거움을 한 번에 다 맛보는 건 내 취향이 아니거든."
+        },
+        {
+            "title": "필살기",
+            "filename": "File:bt_coquelicot_feiyechuxing_uniqueskill_001.aac",
+            "text": "밤을, 그리고 나를 두려워해라."
+        },
+        {
+            "title": "전투 중 사망",
+            "filename": "File:bt_coquelicot_feiyechuxing_dead_001.aac",
+            "text": "하아… 이게… 끝인가…"
+        },
+        {
+            "title": "상호 작용1",
+            "filename": "File:vo_coquelicot_feiyechuxing_drag_001.aac",
+            "text": "내게 다가오려는 사람은 많아. 근데 넌… 그중에서도 제일 대담해."
+        },
+        {
+            "title": "상호 작용2",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragback_001.aac",
+            "text": "가장 원하고, 만나고 싶었던 존재가 네 눈앞에 있잖아? 또 어딜 가려고?"
+        },
+        {
+            "title": "상호 작용3",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragbody_001.aac",
+            "text": "이 붉은 꽃은 평화의 상징이면서도, 가장 선명한 붉은빛으로 피어나지."
+        },
+        {
+            "title": "상호 작용4",
+            "filename": "File:vo_coquelicot_feiyechuxing_draghand_001.aac",
+            "text": "햇살은 늘 어둠을 몰아내고… 생명은 본능적으로 그것을 갈망하지."
+        },
+        {
+            "title": "상호 작용5",
+            "filename": "File:vo_coquelicot_feiyechuxing_dragleg_001.aac",
+            "text": "네 목숨을 바치고, 내 힘을 가지는 거야…"
+        },
+        {
+            "title": "상호 작용 나가기",
+            "filename": "File:vo_coquelicot_dragreturn_001.aac",
+            "text": "어둠의 선물이 완성됐어… 완벽하게 피어난 나의 권속이여, 넌 내게 영원한 충성을 바치게 될 거야."
+        }
     ]
 }

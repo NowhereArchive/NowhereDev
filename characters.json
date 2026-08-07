@@ -42,6 +42,10 @@
                 {
                     "name": "auspicious_prancer",
                     "displayName": "Auspicious Prancer"
+                },
+                {
+                    "name": "16021182828547468_not_found",
+                    "displayName": "16021182828547468 not found"
                 }
             ],
             "note": "The KFC collab voicelines are taken from the game aswell. They seem a little off perhaps because they are meant to be placeholders.",
@@ -142,6 +146,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "night_in_exile",
+                    "displayName": "Night in Exile"
                 }
             ],
             "slug": "rust"
@@ -157,6 +165,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "160211821563914240_not_found",
+                    "displayName": "160211821563914240 not found"
                 }
             ],
             "slug": "lichen"
@@ -352,6 +364,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "160211822533780576_not_found",
+                    "displayName": "160211822533780576 not found"
                 }
             ],
             "slug": "xiaofeng"
@@ -472,6 +488,10 @@
                 {
                     "name": "woodland_wanderer",
                     "displayName": "Woodland Wanderer"
+                },
+                {
+                    "name": "160211823502520032_not_found",
+                    "displayName": "160211823502520032 not found"
                 }
             ],
             "slug": "adela"
@@ -518,6 +538,10 @@
                 {
                     "name": "thunder_beat",
                     "displayName": "Thunder Beat"
+                },
+                {
+                    "name": "160211822941682144_not_found",
+                    "displayName": "160211822941682144 not found"
                 }
             ],
             "slug": "angell"
@@ -541,6 +565,10 @@
                 {
                     "name": "amped_frenzy",
                     "displayName": "Amped Frenzy"
+                },
+                {
+                    "name": "160211821544312352_not_found",
+                    "displayName": "160211821544312352 not found"
                 }
             ],
             "slug": "000"
@@ -570,7 +598,7 @@
         },
         {
             "name": "hellasp",
-            "displayName": "Necresta Hella",
+            "displayName": "Necresta·Hella",
             "rank": "S",
             "libram": "FAMINE",
             "tendency": "Umbra",
@@ -583,6 +611,10 @@
                 {
                     "name": "starlit_odyssey",
                     "displayName": "Starlit Odyssey"
+                },
+                {
+                    "name": "16021182105521386_not_found",
+                    "displayName": "16021182105521386 not found"
                 }
             ],
             "slug": "necrestahella"
@@ -626,6 +658,29 @@
             "slug": "hitomi"
         },
         {
+            "name": "faluer",
+            "displayName": "937823311426672128 not found",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "160211822072126368_not_found",
+                    "displayName": "160211822072126368 not found"
+                },
+                {
+                    "name": "160211821485663712_not_found",
+                    "displayName": "160211821485663712 not found"
+                }
+            ],
+            "slug": "937823311426672128_not_found"
+        },
+        {
             "name": "xiayin",
             "displayName": "Summer",
             "rank": "S",
@@ -644,6 +699,10 @@
                 {
                     "name": "luminous_night",
                     "displayName": "Luminous Night"
+                },
+                {
+                    "name": "16021182212375522_not_found",
+                    "displayName": "16021182212375522 not found"
                 }
             ],
             "slug": "summer"
@@ -790,6 +849,10 @@
                 {
                     "name": "bouncing_toccata",
                     "displayName": "Bouncing Toccata"
+                },
+                {
+                    "name": "160211822425201600_not_found",
+                    "displayName": "160211822425201600 not found"
                 }
             ],
             "slug": "bianca"
@@ -869,6 +932,29 @@
                 }
             ],
             "slug": "clementine"
+        },
+        {
+            "name": "chengxiao",
+            "displayName": "937823311241682304 not found",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "16021182505531562_not_found",
+                    "displayName": "16021182505531562 not found"
+                },
+                {
+                    "name": "16021182607418804_not_found",
+                    "displayName": "16021182607418804 not found"
+                }
+            ],
+            "slug": "937823311241682304_not_found"
         },
         {
             "name": "heli",
@@ -1058,6 +1144,10 @@
                 {
                     "name": "fluttered_heartstrings",
                     "displayName": "Fluttered Heartstrings"
+                },
+                {
+                    "name": "160211821963779264_not_found",
+                    "displayName": "160211821963779264 not found"
                 }
             ],
             "slug": "yingying"
@@ -1077,6 +1167,10 @@
                 {
                     "name": "timeless_silhouette",
                     "displayName": "Timeless Silhouette"
+                },
+                {
+                    "name": "160211823378643360_not_found",
+                    "displayName": "160211823378643360 not found"
                 }
             ],
             "slug": "milly"
@@ -1120,6 +1214,44 @@
             "slug": "rui"
         },
         {
+            "name": "aisemoer",
+            "displayName": "Isomer",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "isomer"
+        },
+        {
+            "name": "likuian",
+            "displayName": "937823312280819968 not found",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "160211821696776000_not_found",
+                    "displayName": "160211821696776000 not found"
+                },
+                {
+                    "name": "160211822743488224_not_found",
+                    "displayName": "160211822743488224 not found"
+                }
+            ],
+            "slug": "937823312280819968_not_found"
+        },
+        {
             "name": "hameier",
             "displayName": "Hamel",
             "rank": "S",
@@ -1142,6 +1274,10 @@
                 {
                     "name": "azure_waltz_in_solace",
                     "displayName": "Azure Waltz in Solace"
+                },
+                {
+                    "name": "16021182371623120_not_found",
+                    "displayName": "16021182371623120 not found"
                 }
             ],
             "slug": "hamel"
@@ -1215,6 +1351,10 @@
                 {
                     "name": "crimson_hunt",
                     "displayName": "Crimson Hunt"
+                },
+                {
+                    "name": "awaken_from_crimson_night",
+                    "displayName": "Awaken from Crimson Night"
                 }
             ],
             "slug": "coquelic"
@@ -1238,6 +1378,10 @@
                 {
                     "name": "frostling_whisper",
                     "displayName": "Frostling Whisper"
+                },
+                {
+                    "name": "void_workshop",
+                    "displayName": "Void Workshop"
                 }
             ],
             "slug": "eve"
@@ -1326,6 +1470,10 @@
                 {
                     "name": "salon_rosé",
                     "displayName": "Salon Rosé"
+                },
+                {
+                    "name": "160211821397814816_not_found",
+                    "displayName": "160211821397814816 not found"
                 }
             ],
             "slug": "parfait"
@@ -1379,6 +1527,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "ode_to_peace",
+                    "displayName": "Ode to Peace"
                 }
             ],
             "slug": "margaret"
@@ -1394,9 +1546,51 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "16021182694930908_not_found",
+                    "displayName": "16021182694930908 not found"
                 }
             ],
             "slug": "jichuan"
+        },
+        {
+            "name": "xining",
+            "displayName": "Celine",
+            "rank": "S",
+            "libram": "PESTILENCE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "celine"
+        },
+        {
+            "name": "yilinnasp",
+            "displayName": "937823311646252160 not found",
+            "rank": "S",
+            "libram": "FAMINE",
+            "tendency": "Catalyst",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "160211823141486432_not_found",
+                    "displayName": "160211823141486432 not found"
+                },
+                {
+                    "name": "160211823737941440_not_found",
+                    "displayName": "160211823737941440 not found"
+                }
+            ],
+            "slug": "937823311646252160_not_found"
         },
         {
             "name": "fupo",
@@ -1617,6 +1811,29 @@
                 }
             ],
             "slug": "ayiguo"
+        },
+        {
+            "name": "haili",
+            "displayName": "937823312304339456 not found",
+            "rank": "A",
+            "libram": "SLOTH",
+            "tendency": "Endura",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "160211822036294400_not_found",
+                    "displayName": "160211822036294400 not found"
+                },
+                {
+                    "name": "160211821098614048_not_found",
+                    "displayName": "160211821098614048 not found"
+                }
+            ],
+            "slug": "937823312304339456_not_found"
         },
         {
             "name": "jiushijiu",
@@ -2192,6 +2409,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "the_hedgehog's_eye",
+                    "displayName": "The Hedgehog's Eye"
                 }
             ],
             "slug": "pine"
@@ -2225,6 +2446,21 @@
                 }
             ],
             "slug": "helga"
+        },
+        {
+            "name": "pikesaier",
+            "displayName": "Pixel",
+            "rank": "A",
+            "libram": "PESTILENCE",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "pixel"
         },
         {
             "name": "bai",
@@ -2412,6 +2648,29 @@
                 }
             ],
             "slug": "thani"
+        },
+        {
+            "name": "yiwei",
+            "displayName": "937823311247335424 not found",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                },
+                {
+                    "name": "160211822830470560_not_found",
+                    "displayName": "160211822830470560 not found"
+                },
+                {
+                    "name": "160211824214381792_not_found",
+                    "displayName": "160211824214381792 not found"
+                }
+            ],
+            "slug": "937823311247335424_not_found"
         },
         {
             "name": "airuier",
@@ -2607,6 +2866,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "160211823081614304_not_found",
+                    "displayName": "160211823081614304 not found"
                 }
             ],
             "slug": "cassian"
@@ -2798,6 +3061,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "160211822395188640_not_found",
+                    "displayName": "160211822395188640 not found"
                 }
             ],
             "slug": "gekkabijin"

@@ -110,5 +110,47 @@
             "filename": "File:vo_pine_levelup_002.aac",
             "text": "Leak received."
         }
+    ],
+    "the_hedgehog's_eye": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_pine_citanzhezhiyan_cacha_001.aac",
+            "text": "Huh. Looks like I \"accidentally\" connected the line to you. Alright then, Chief. Got any breaking news lately? I'm more than happy to leak, investigate, or spread whatever you need."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pine_citanzhezhiyan_levelup_002.aac",
+            "text": "Connection's stable. I'll definitely dig up some juicy intel tonight!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pine_citanzhezhiyan_greeting_001.aac",
+            "text": "You came all the way here to find me? Perfect timing then. I just intercepted an interesting call about the target you're visiting tomorrow. Wanna hear it?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_pine_citanzhezhiyan_body_001.aac",
+            "text": "Don't underestimate surveillance work—juicy gossip is often hidden in the details of every voice message. My job is to see through unspoken pauses and correct twisted lies."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_pine_citanzhezhiyan_body_002.aac",
+            "text": "Getting information to flow your way is quite simple if you just make good use of certain tools. Street cameras, handheld devices, even that \"moon\" overhead... they're always watching, and they're all my informants."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pine_citanzhezhiyan_idle_001.aac",
+            "text": "Those guys whose secrets I've exposed always end up calling me. They either warn me to keep quiet, or they'd try to fish for my sources... but not a single one of them ever reflects on themselves. Ha! All I can say is they reaped what they sowed."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pine_citanzhezhiyan_clicking_001.aac",
+            "text": "Tch, do you really not know what the word \"focus\" means? Go away and wait until I finish listening to this."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pine_citanzhezhiyan_specialattention_001.aac",
+            "text": "You want to try some surveillance work yourself? Hehe... alright then. Welcome to my world."
+        }
     ]
 }

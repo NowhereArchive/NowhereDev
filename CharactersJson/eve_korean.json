@@ -209,5 +209,47 @@
             "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
             "text": "연회가 아직 끝나지 않아서 이곳을 함부로 떠날 수 없어요. 어쩌면 다음 봄이 오면 누군가가 저를 데리고 이 얼음과 눈으로 뒤덮인 세상에서 벗어나게 해줄지도 모르죠."
         }
+    ],
+    "void_workshop": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_eve_xvjuangongfang_cacha_001.aac",
+            "text": "어서 오세요 손님, 이브의 가게에 오신 걸 환영해요. 이곳은 상처받은 분들을 위해 마련된 곳이랍니다… 무엇을 원하시나요? 친구…? 부모님…? 아니면 연인?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_eve_xvjuangongfang_levelup_001.aac",
+            "text": "손님은 부족한 게 없어 보이는데, 왜 이브에게 힘을 주시나요?"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_eve_xvjuangongfang_greeting_001.aac",
+            "text": "방울 소리가 들리자마자… 당신인 줄 알았어요. 오늘도 필요한 건 없으신가요? …괜찮아요. 앉아 계세요, 이브가 차 한 잔 드릴게요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_001.aac",
+            "text": "얘길 들어줄 사람이 필요하신가요? 이 '아이'는 입이 없어서, 모든 비밀을 도자기 배 속에 털어놓으면, 당신 대신 잘 지켜 줄 거예요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_002.aac",
+            "text": "바람이 너무 세네요, 문을 닫아주세요. '내일'이라는 이름의 먼지가 들어오지 않게요. 문밖에 휘날리는 것들은 여기에 어울리지 않아요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_eve_xvjuangongfang_idle_001.aac",
+            "text": "곰돌아, 곰돌아… 우리 소중한 손님께서 원하시는 게 뭘까?"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_eve_xvjuangongfang_clicking_001.aac",
+            "text": "저… 손님? 진열대에 있는 '아이들'만이 당신의 가족이 될 수 있어요. 이브는 상처가 너무 많아서… 이브는… 안 돼요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_eve_xvjuangongfang_specialattention_001.aac",
+            "text": "조금 더 가까이 오고 싶으신가요? …이리 오세요. 우리에겐 영원한 시간이 남았고, 이곳의 문은 다시는 열리지 않을 테니까요."
+        }
     ]
 }

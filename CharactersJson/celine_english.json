@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_xining_cacha_001.aac",
+            "text": "If it's not too much trouble... I'd like a quiet room, nothing elaborate, just enough space for my books. Would that be all right, Chief?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_xining_promotion_001.aac",
+            "text": "I'm grateful for your help. Let's see what the next chapter brings."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_xining_promotion2_001.aac",
+            "text": "We must hold history close, if we ever hope to see where the future lies."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_xining_battlebegin_001.aac",
+            "text": "I'll be taking down... absolutely everything."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_xining_battlewin_001.aac",
+            "text": "A brilliant engagement. When future eyes fall upon this page, they will surely be moved."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_xining_battlelose_001.aac",
+            "text": "Heh... Even defeats teach, don't they?"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_xining_uniqueskill_001.aac",
+            "text": "All wisdom now serves my will."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_xining_dead_001.aac",
+            "text": "I would've liked... to finish my work..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_xining_greeting_001.aac",
+            "text": "Hmm? Caught you. You've been peeking around quite a bit lately... Looking for a particular book? Or... did you just want to see me?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_xining_talk1_001.aac",
+            "text": "The tides of history surge ever forward, and each of us is mere duckweed adrift. Swept away, forgotten. Only a scattered few leave a trace... That is the cruelty of it all."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_xining_talk1_002.aac",
+            "text": "At the College of Humanities, we turn enormous stacks of research into paper-thin certificates, and then collect a paycheck even thinner than that... But we do have compensation: the lofty prestige of the scholar. So on balance, we're still in the black... right?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_xining_talk1_003.aac",
+            "text": "I've heard the MBCC Chief has quite the extensive network. From Syndicate to Fraser, from the upper echelons to the streets, every door seems to open for you. Might I trouble you to make a few introductions? I'd love to conduct some in-depth interviews."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_xining_talk2_001.aac",
+            "text": "There's never a shortage of people who want me to immortalize them. For a fee, of course... But really, they're missing the point. A little honest sweat, the way you do, and the ink practically writes itself. I won't ever let a story like yours slip away."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_xining_talk2_002.aac",
+            "text": "The only lesson humanity ever learns from history is that it learns nothing at all. We keep wading into the same waters, making the same mistakes. So I wonder... will you be the one who walks against the tide?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_xining_talk2_003.aac",
+            "text": "I was born with Mania. Once I see something, it stays forever. Some pity me for it, calling it a curse. But I've always thought of it as a gift... After all, it means I'll never forget you."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_xining_obeyfull_001.aac",
+            "text": "I'm compiling a new book. It's about the history we've witnessed together. The pain, the darkness... but also the defiance, the unyielding fight. Long, long from now, when those who come after us turn these pages, they'll see that there were people in this era who gave everything they had. So, will you walk this path with me, to the very end?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_xining_idle_001.aac",
+            "text": "Rest easy now... I'm right here. I won't go anywhere."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_xining_clicking_001.aac",
+            "text": "Shh, settle down now. I'm right at the best part."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_xining_specialattention_001.aac",
+            "text": "Go back and change a published work? Oh, I don't think so. Once it's in print, it's out of my hands."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_xining_dispatch_001.aac",
+            "text": "Fieldwork is just as important as the archives."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_xining_dispatch2_001.aac",
+            "text": "A fruitful trip."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_xining_levelup_002.aac",
+            "text": "As you wish."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_xining_head_001.aac",
+            "text": "I'm writing down your story. If you'd like to see... come, sit with me. We can go through it together, page by page."
+        }
+    ]
+}

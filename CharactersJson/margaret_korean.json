@@ -115,5 +115,57 @@
             "filename": "File:vo_margaret_head_001.aac",
             "text": "국장님, 제게서 온화한 위로를 받고 싶으신가요, 아니면… 더 효과적인 해결책을 원하시나요?"
         }
+    ],
+    "ode_to_peace": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_margaret_ninghesongshi_cacha_001.aac",
+            "text": "시간의 흐름이 저를 당신 곁으로 이끌었군요… 두려워하지 말아요. 제 날개 아래에서는 상처가 아물고, 황무지도 생기를 되찾으니까요. 이건 제가 당신께 드리는 평화의 약속이에요."
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_margaret_ninghesongshi_levelup_001.aac",
+            "text": "들어보세요… 생명이 뿌리를 내리고 가지가 뻗어가는 소리예요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_margaret_ninghesongshi_greeting_001.aac",
+            "text": "평안을 빕니다, 저의 동행자님. 전 안부 인사만 전하러 온 게 아니에요. 빛의 정점에서 가져온, 마음의 평안을 가져다줄 한 줄기 아침 햇살도 함께 있답니다."
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_margaret_ninghesongshi_head_001.aac",
+            "text": "…인간들은 늘 신에게서 위안을 구하려 하죠. 좋아요. 그게 당신에게 잠시나마 위로가 된다면, 이 작은 무례쯤은 눈감아 드리죠."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_margaret_ninghesongshi_body_001.aac",
+            "text": "보세요, 만물이 각자의 질서 속에 머물 때, 분쟁은 설 자리를 잃게 돼요. 모든 생명이 질서에 맞게 피어나는 활기찬 풍경, 그게 제가 바라는 평화예요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_margaret_ninghesongshi_body_002.aac",
+            "text": "전쟁이 휩쓸고 간 땅을 본 적 있으신가요? 새까맣게 그을리고, 죽음의 침묵만이 남아 있죠. 제가 하는 일은 잿더미를 뚫고 첫 새싹을 틔우며, 맑은 샘물이 다시 흐르게 하는 거예요. 무너뜨리는 건 한순간이지만, 다시 세우고 길러내려면 끝없는 인내와 사랑이 필요하죠."
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_margaret_ninghesongshi_hand_001.aac",
+            "text": "질서가 자라나고, 풍요가 번져가네요. 평화를 바라는 힘이 세상의 흐름 속으로 스며드는 게 느껴져요… 이건 당신과 제가 함께 뿌린 씨앗입니다. 그 씨앗이 달콤한 열매를 맺기를, 저 또한 간절히 바라고 있어요."
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_margaret_ninghesongshi_background_001.aac",
+            "text": "비 온 뒤의 흙 내음, 갓 빚은 꿀술의 향, 잘 익은 열매의 달콤한 향기… 이런 게 바로 '평화'의 향기죠. 평화란 공허한 게 아니라, 삶이 충만할 때 자연스럽게 넘쳐나는 기쁨이에요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_margaret_ninghesongshi_idle_001.aac",
+            "text": "편히 잠든 사람들이 새근새근 내뱉는 숨소리… 이게 제 존재의 이유예요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_margaret_ninghesongshi_specialattention_001.aac",
+            "text": "당신의 눈빛은 평화를 노래하는 시처럼 희망을 품게 하고, 모호한 신탁 같았던 '평화'를 눈에 보이는 사명으로 바꿔주었어요… 참 좋네요. 부디 지금처럼, 한결같이 저를 바라봐 주시겠어요?"
+        }
     ]
 }

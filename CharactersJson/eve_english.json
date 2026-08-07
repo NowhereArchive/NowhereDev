@@ -209,5 +209,47 @@
             "filename": "File:vo_eve_cangjimilin_specialattention_001.aac",
             "text": "The feast is not yet over, and I shall not depart so easily. But perhaps next spring, someone will take my hand and lead me out of this timeworn blanket of ice and snow."
         }
+    ],
+    "void_workshop": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_eve_xvjuangongfang_cacha_001.aac",
+            "text": "Honored guest, welcome to Eve's little shop. We serve the broken specifically... What would you like to buy today? Friends... parents... or perhaps a lover?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eve_xvjuangongfang_levelup_001.aac",
+            "text": "You clearly need nothing, so why would you give me power?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eve_xvjuangongfang_greeting_001.aac",
+            "text": "Once I heard the bell... I knew it was you. Do you need nothing today either? Very well... Please, have a seat. I'll brew you some tea."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_001.aac",
+            "text": "Do you need someone to lend an ear? This \"child\" has no mouth. You can pour all your secrets into her ceramic belly, and she'll guard them well for you."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eve_xvjuangongfang_talk1_002.aac",
+            "text": "The wind outside is too strong. Please, close the door. Don't let that dust called \"tomorrow\" drift in. What flies beyond the door doesn't belong here..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eve_xvjuangongfang_idle_001.aac",
+            "text": "Little bear... what do you think our honored guest needs?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eve_xvjuangongfang_clicking_001.aac",
+            "text": "Um... honored guest? Only the \"children\" on the shelves can become your family. Eve has too many scars... Eve... won't do."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eve_xvjuangongfang_specialattention_001.aac",
+            "text": "Would you like to come closer? Very well. We have an eternity to ourselves anyway—the door here will never open again."
+        }
     ]
 }

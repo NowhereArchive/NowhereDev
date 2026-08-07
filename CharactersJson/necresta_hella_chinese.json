@@ -167,5 +167,47 @@
             "filename": "File:vo_hellasp_xingmengxixing_specialattention_001.aac",
             "text": "啊，你发现我啦？不错嘛，周围这么多漂亮的星星，你一眼就看到最漂亮的一颗啦！哼哼，这也算是你为数不多的优点吧！"
         }
+    ],
+    "16021182105521386_not_found": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_hellasp_xingchipokong_cacha_001.aac",
+            "text": "锵锵~乐队队长兼帅气鼓手，海拉大人闪亮登场！我的演出服很漂亮吧，发型也是新设计的！还有后面这套鼓——呃，虽然我之前没用过鼓棒……不过应该也跟敲水管差不多吧？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_hellasp_xingchipokong_levelup_001.aac",
+            "text": "这鼓敲起来真带劲！"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_hellasp_xingchipokong_greeting_001.aac",
+            "text": "哼哼，既然来了，就准备好被海拉大人的帅气身姿迷晕吧！"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_hellasp_xingchipokong_body_001.aac",
+            "text": "这次的……这个什么，livehouse，可是我的回归演出，怎么还能厚脸皮收门票钱呢？但……嘿嘿，要是局长想给可爱又厉害的鼓手一点额外“赞助”的话，我也是很欢迎的啦~"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_hellasp_xingchipokong_body_002.aac",
+            "text": "看到了吗看到了吗！刚才下台之后大家都抢着跟我合照，哇，我不会真的要变成大明星了吧？咳咳，要是有人想找我要签名可要趁早点，以后再想要可就没这么容易了~"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_hellasp_xingchipokong_idle_001.aac",
+            "text": "这谱子上写的都是啥啊，跟蝌蚪似的，弯弯绕绕一点都看不懂…….啊，你先自己呆一会儿啦，等下我再陪你玩。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_hellasp_xingchipokong_clicking_001.aac",
+            "text": "喂喂，那边的观众不要随便跟大明星套近乎！噗，逗你的，趁演出还没正式开始，你也来上台一起玩吧！"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_hellasp_xingchipokong_specialattention_001.aac",
+            "text": "前排后排一楼二楼看台舞池贵宾席的乐迷们——全狄斯最劲爆炸裂的演出即将开始，准备好，跟着我的节奏一起嗨起来吧！"
+        }
     ]
 }
