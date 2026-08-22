@@ -115,57 +115,5 @@
             "filename": "File:vo_xiaofeng_head_001.aac",
             "text": "对，就这块，再挠挠——嗯，舒坦~"
         }
-    ],
-    "160211822533780576_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_xiaofeng_lieriqingyang_cacha_001.aac",
-            "text": "哟~小灰毛，还在加班干活吗？来瞅瞅我这儿蓝天白云大海的，羡慕吗？还不快出来一起耍耍？"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_xiaofeng_lieriqingyang_levelup_001.aac",
-            "text": "嗯~不错，好味儿！"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_xiaofeng_lieriqingyang_greeting_001.aac",
-            "text": "蓝天碧海沙滩，西瓜烤鱼肉串，搁这儿一躺，由着太阳晒背滚烫，唉呀，这才是生活啊……喂，那边的小二，再给我来杯冰的！"
-        },
-        {
-            "title": "摸头",
-            "filename": "File:vo_xiaofeng_lieriqingyang_head_001.aac",
-            "text": "噢？再使劲点儿？这边，对，再往上点儿——真乖。"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_xiaofeng_lieriqingyang_body_001.aac",
-            "text": "难得出来一趟，快把你那会响的破砖头块扔了，老是低头像什么话，今天你就在这儿给我好好玩，天塌了也有我帮你顶着。"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_xiaofeng_lieriqingyang_body_002.aac",
-            "text": "你问我会不会游泳？笑话，真的龙潭虎穴我都闯过，还能怕小小狄斯的一片人造海？在这儿等着，我这就下去给你捞几个海货上来尝尝鲜！"
-        },
-        {
-            "title": "普通触摸3",
-            "filename": "File:vo_xiaofeng_lieriqingyang_hand_001.aac",
-            "text": "刚才那几个小家伙喊我去堆沙堡，我可不去，我一出手那不妥妥第一名嘛，唉呀，还是留在这儿陪你划算，来，把你手上的串儿给我尝尝，啊——"
-        },
-        {
-            "title": "普通触摸4",
-            "filename": "File:vo_xiaofeng_lieriqingyang_background_001.aac",
-            "text": "人呐就是麻烦，我在山里玩水都不用穿那么多，下次带你回山中潭里去游个痛快……哎呀，怎么脸红了，得咧，你说要穿就穿呗，那你说说，我这身衣裳怎么样？满意吗？"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_xiaofeng_lieriqingyang_idle_001.aac",
-            "text": "走不动了就休息，来呀，这边躺下，我给你身上擦点儿防晒油。"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_xiaofeng_lieriqingyang_specialattention_001.aac",
-            "text": "要拍下来做纪念吧，我懂，来，朝着儿，多拍几张！"
-        }
     ]
 }

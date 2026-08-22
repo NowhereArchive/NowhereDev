@@ -115,47 +115,5 @@
             "filename": "File:vo_lichen_head_001.aac",
             "text": "这便是……爱人抚我顶，可否……共永生？"
         }
-    ],
-    "160211821563914240_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_lichen_lirenguimeng_cacha_001_01.aac",
-            "text": "松影横斜，清风浮动，我正愁一个人享受这美景佳酿有些寂寞呢~小师弟，来得正好啊！"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_lichen_lirenguimeng_levelup_001.aac",
-            "text": "哎~你可比师姐小时候要勤奋多了~"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_lichen_lirenguimeng_greeting_001_01.aac",
-            "text": "小师弟，久违了。难得清静，不如与我共饮一杯？这葫芦里装的可是好东西…...师弟一尝就知！"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_lichen_lirenguimeng_body_001.aac",
-            "text": "轩窗疏影，霁空月明，只是如今世间这样的好光景总是不多，若是能再长留些便好了。"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_lichen_lirenguimeng_body_002_01.aac",
-            "text": "师弟可不要告诉别人我功课没做完就在这里偷闲，要是被师父知道，她又要唠叨我了。就把此处当作是只有你我知晓的“蓬莱仙居”，怎么样？"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_lichen_lirenguimeng_idle_001_01.aac",
-            "text": "看来师弟是累了？那就在这里睡下吧。我来给你讲个故事：从前有座山，山里有座观，观里有个小童子......"
-        },
-        {
-            "title": "烦躁",
-            "filename": "File:vo_lichen_lirenguimeng_clicking_001_01.aac",
-            "text": "嗯？小师弟也会有这样撒娇的时候呀。"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_lichen_lirenguimeng_specialattention_001.aac",
-            "text": "总这么黏着师姐、盯着师姐可不行呀……好吧，真拿你没办法，一会儿的早课我陪你一起上。"
-        }
     ]
 }

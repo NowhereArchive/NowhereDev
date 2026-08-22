@@ -209,57 +209,5 @@
             "filename": "File:vo_angel_chenxiang_specialattention_001.aac",
             "text": "我很少这么直接暴露在灯光之下——但我知道，你就在观众席上看着我，所以我能冷静下来，完成演出，以回应你的期待。"
         }
-    ],
-    "160211822941682144_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_angel_yesewenrou_cacha_001.aac",
-            "text": "没想到会在这里遇见你，今天这个委托接得好像有点亏，这样……就不能陪你多聊会儿了。"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_angel_yesewenrou_levelup_001.aac",
-            "text": "夜色正好。"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_angel_yesewenrou_greeting_001.aac",
-            "text": "别紧张，我的委托目标不是你，但要麻烦你在这里待一会儿。不会很久，到下一支曲子响起前……"
-        },
-        {
-            "title": "摸头",
-            "filename": "File:vo_angel_yesewenrou_head_001.aac",
-            "text": "面具会遮挡视线，不利于行动，所以我挑选了这个头饰……只是我不理解为什么人们会觉得，装扮成猫的模样就很安全，轻易地放松了警惕……因为很可爱？"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_angel_yesewenrou_talk1_001.aac",
-            "text": "为了这次的任务我做了不少准备，比如花了两个月时间速成了钢琴，虽说不够专业，但作为伪装，足够了。"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_angel_yesewenrou_talk1_002.aac",
-            "text": "不用好奇我把武器藏在了哪里，它们都在该在的地方，放心吧，我不会砸了自己的招牌，保证万无一失。"
-        },
-        {
-            "title": "普通触摸3",
-            "filename": "File:vo_angel_yesewenrou_body_001.aac",
-            "text": "穿上这种礼服多少是有些不方便，但，也能用来瓦解敌人的防备心，然后一击毙命。"
-        },
-        {
-            "title": "普通触摸4",
-            "filename": "File:vo_angel_yesewenrou_leg_001.aac",
-            "text": "高跟鞋看似纤细脆弱，但只要找准地方用力，就能轻易穿透头骨或心脏——这也是一种武器。"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_angel_yesewenrou_idle_001.aac",
-            "text": "你在这里会很安全，等着我，我过会儿回来。"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_angel_yesewenrou_specialattention_001.aac",
-            "text": "先完成任务吧，总有机会再继续看的。"
-        }
     ]
 }

@@ -331,47 +331,5 @@
             "filename": "File:vo_hameier_dragreturn_001.aac",
             "text": "休息好了吗？那……我们下次见。"
         }
-    ],
-    "16021182371623120_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_hameier_xingqionghuanxiang_cacha_001.aac",
-            "text": "请听这指尖按下的每一次涟漪吧……它们正载着整片深蓝色的梦，与我的呼吸共舞，链接梦境与现实。"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_hameier_xingqionghuanxiang_levelup_001.aac",
-            "text": "我听到……潮汐与音乐的共鸣……"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_hameier_xingqionghuanxiang_greeting_001.aac",
-            "text": "你的脚步声，打破了星空穹顶下的沉寂……也为今晚的序曲，定下第一声节拍。"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_hameier_xingqionghuanxiang_body_001.aac",
-            "text": "有些奇迹就像这朵玫瑰，只有在玻璃的庇佑和禁锢下才能长存。对我来说……舞蹈与音乐就是这层屏障，而你……是能穿透屏障的星光。"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_hameier_xingqionghuanxiang_body_002.aac",
-            "text": "当星空下的帘幕拉开，我不再是这架琴后的孤影。我能听见鼓点的重音、听见弦乐的诉说，还有清冽的歌谣……这些声音在穹顶下拼凑出了完整的世界。这……就是乐队吗？"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_hameier_xingqionghuanxiang_idle_001.aac",
-            "text": "嘘……安心睡吧。我会一直守在这里，与涌动的水面和琴键的低语共舞，一起温柔地将你包裹，编织一段甜美的安眠……"
-        },
-        {
-            "title": "烦躁",
-            "filename": "File:vo_hameier_xingqionghuanxiang_clicking_001.aac",
-            "text": "你也有想要诉说的吗？那就和我一起演奏吧……让你的温度融入我的音符里，让这首曲子，从此有了你的痕迹。"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_hameier_xingqionghuanxiang_specialattention_001.aac",
-            "text": "你的目光就像是只属于我的聚光灯，琴键上沉睡的舞步都会被你唤醒……就让我们在琴音中共舞一曲吧……"
-        }
     ]
 }

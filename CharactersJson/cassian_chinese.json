@@ -110,47 +110,5 @@
             "filename": "File:vo_cassian_levelup_002.aac",
             "text": "我确实需要力量，谢谢您。"
         }
-    ],
-    "160211823081614304_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_cassian_xunranhaifeng_cacha_001.aac",
-            "text": "这里和我透过船舱天花板想象的大海都不一样……视野开阔，景色优美，即便知道它是被“创造”出来的，也同样让人安宁放松——或许也因为此刻和我共享静谧的人是您吧。"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_cassian_xunranhaifeng_levelup_001.aac",
-            "text": "即便只是与您闲聊片刻，也能受益良多。"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_cassian_xunranhaifeng_greeting_001.aac",
-            "text": "局长是来休憩片刻的吗？如果您今晚已无其他工作…...我可以为您做一杯特调。"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_cassian_xunranhaifeng_body_001.aac",
-            "text": "这样的风景，确实很适合小酌两杯。……“龙舌兰日出”与“蓝色玛格丽特”，您觉得哪一杯与此刻的氛围更相配呢？"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_cassian_xunranhaifeng_body_002.aac",
-            "text": "我曾经也参加过贵族们的海边晚宴，但大多数人只是想炫耀他们造价昂贵的虚拟海罢了。那时我只当海是那些人的附庸，从未认真看过。……但现在和您在一起，即使是虚假的大海，似乎也有了值得欣赏之处。"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_cassian_xunranhaifeng_idle_001.aac",
-            "text": "…….和您在一起的时候，总能感到难得的平静。"
-        },
-        {
-            "title": "烦躁",
-            "filename": "File:vo_cassian_xunranhaifeng_clicking_001.aac",
-            "text": "我想您是希望我陪您去更远些的浅滩走走，才这样动来动去的，是吗？"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_cassian_xunranhaifeng_specialattention_001.aac",
-            "text": "希望我坐在这儿，不会打扰到您观赏风景……嗯？因为有我，才能看到更美的景色吗？"
-        }
     ]
 }

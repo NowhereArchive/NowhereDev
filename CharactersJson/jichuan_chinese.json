@@ -115,57 +115,5 @@
             "filename": "File:vo_jichuan_head_001.aac",
             "text": "此举有失风度，下不为例哦~"
         }
-    ],
-    "16021182694930908_not_found": [
-        {
-            "title": "获得装束",
-            "filename": "File:vo_jichuan_fuquqingzhou_cacha_001.aac",
-            "text": "万仞孤巅的冷冽见多了，这江南的暑气反倒有几分可爱了。阁下遍访名川，不似我困于这一方亭影，何不先饮一杯凉茶，再与我好好聊聊，那外头的江湖？"
-        },
-        {
-            "title": "升级",
-            "filename": "File:vo_jichuan_fuquqingzhou_levelup_001.aac",
-            "text": "这别苑真是养人呐……"
-        },
-        {
-            "title": "问候",
-            "filename": "File:vo_jichuan_fuquqingzhou_greeting_001.aac",
-            "text": "栈桥曲折，正好兜住这一阵穿堂而过的荷风。不知阁下可是也贪恋这份清凉，才循着风声，一路寻到了这别苑深处？"
-        },
-        {
-            "title": "摸头",
-            "filename": "File:vo_jichuan_fuquqingzhou_head_001.aac",
-            "text": "怎么，是瞧见叽甲叽乙听话，便也将我当成小雀儿来抚摩了？我可比它们难讨好得多，阁下可要考量清楚。"
-        },
-        {
-            "title": "普通触摸1",
-            "filename": "File:vo_jichuan_fuquqingzhou_body_001.aac",
-            "text": "朱栏照水，碧叶摇风，倒衬得避暑之人多了一分急躁。这“凭栏借凉”的雅趣，岂不比那些消暑药汤要灵验得多？"
-        },
-        {
-            "title": "普通触摸2",
-            "filename": "File:vo_jichuan_fuquqingzhou_body_002.aac",
-            "text": "乞巧节令，众人皆求指尖灵动，我却想讨个“懒”字，与君听风弄花，当一回只顾看云、不问归途的画中人。"
-        },
-        {
-            "title": "普通触摸3",
-            "filename": "File:vo_jichuan_fuquqingzhou_hand_001.aac",
-            "text": "本想用这荷叶裁一盏碧筒杯来小酌消夏，如今被你占住了手，倒教我这清茶也平白酿出了几分微醺的醉意。"
-        },
-        {
-            "title": "普通触摸4",
-            "filename": "File:vo_jichuan_fuquqingzhou_background_001.aac",
-            "text": "江南水网纵横相通，这儿的菡萏能应季而开，说明水利得宜，外头的良田也是一派丰年气象，万物各得其养。我这手边的茶果，也算承了这几分太平滋味。"
-        },
-        {
-            "title": "闲置",
-            "filename": "File:vo_jichuan_fuquqingzhou_idle_001.aac",
-            "text": "风定新荷，良辰难得。若非我这身子不争气，真想趁你睡着时，偷偷划船带你去湖心，待你起来，唬你一跳。"
-        },
-        {
-            "title": "特别关注",
-            "filename": "File:vo_jichuan_fuquqingzhou_specialattention_001.aac",
-            "text": "这一池红莲正是鼎盛时，阁下却只盯着我看。若是它们有了灵性，今晚怕是要恼得闭了花苞，怪你厚此薄彼了。"
-        }
     ]
 }
