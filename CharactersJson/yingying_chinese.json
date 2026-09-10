@@ -116,7 +116,7 @@
             "text": "只是摸摸头发丝儿就够了吗？来，我闭上眼，送你几秒钟，还想碰哪里？睫毛？鼻子？还是……想碰碰我的嘴唇呢？"
         }
     ],
-    "fluttered_heartstrings": [
+    "小弦初上": [
         {
             "title": "获得装束",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "特别关注",
             "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
             "text": "我的这身打扮是照着古画里的样式来的，可还入得小郎君的眼？嗯？怎么光顾着看都不说话？莫不是被我迷了魂，连夸一句都忘了？若真是这样，可得盯紧我些，不然我说不定就回到画里去啦！"
+        }
+    ],
+    "清涧照影": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_yingying_qingjianzhaoying_cacha_001.aac",
+            "text": "我追着山涧里的溪水跑呀跑，就跑进你梦里来啦，惊不惊喜？怎么呆愣愣的，是没见过戏水的花仙……还是没见过这么好看的花仙呀？"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_yingying_qingjianzhaoying_levelup_001.aac",
+            "text": "感觉身子爽快了许多，可以陪伴你更久了呢。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_yingying_qingjianzhaoying_greeting_001_01.aac",
+            "text": "小郎君，你也被这叮叮咚咚的水声引来啦？来，坐这儿歇歇脚，水凉凉的，正好解暑。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_yingying_qingjianzhaoying_head_001.aac",
+            "text": "嗯……我头发还滴着水呢，也不嫌湿呀？那……再多摸一会儿也没关系。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_001.aac",
+            "text": "你看那条小鱼，一直在我脚边转，就像是在亲吻我的倒影似的。你说……它是不是把我当成水里的花儿了？"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_002.aac",
+            "text": "我之前想啊，要是水干了，花儿也谢了，我是不是就该消失了？后来想通啦，只要你醒来后还记得我，我就赖在你心里，不走了。"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_yingying_qingjianzhaoying_hand_001.aac",
+            "text": "山里的老人家说，这溪水是山顶的雪融化形成的，在这水里泡过，皮肤会变得又滑又嫩……不信？来，手给我，试试看是不是当真如此。"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_yingying_qingjianzhaoying_background_001.aac",
+            "text": "阳光从叶缝漏下来，像在水面撒了碎金，山风一吹，花瓣和光斑就一起晃啊晃……真美。这幽谷的每一处，我都想和你一起看，看多久都不会腻。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_yingying_qingjianzhaoying_idle_001.aac",
+            "text": "哎呀，水里的倒影只有一人，也太孤单了~喂——别光发呆啦，来陪我玩玩嘛。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_yingying_qingjianzhaoying_specialattention_001.aac",
+            "text": "一直盯着我看，是我脸上沾了花瓣，还是这幽谷里的花仙太好看了，让你舍不得移开眼睛呀？"
         }
     ]
 }

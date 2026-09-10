@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "コンビクトを獲得",
+            "filename": "File:vo_chengxiao_cacha_001.aac",
+            "text": "天道……恒常……吾はここでお待ちいたします……貴方だけが……我が卦において……未だ現れぬ変数……果たして……必死の窮地に……一筋の生機を切り開けましょうか……"
+        },
+        {
+            "title": "ランク1にアップ",
+            "filename": "File:vo_chengxiao_promotion_001.aac",
+            "text": "……この恩恵により、卦は一線に成り、微かな光が見えました。"
+        },
+        {
+            "title": "ランク3にアップ",
+            "filename": "File:vo_chengxiao_promotion2_001.aac",
+            "text": "銅銭は定まりました……生でも死でもなく……ただ残るは……天道の反響のみ……"
+        },
+        {
+            "title": "ステージ開始",
+            "filename": "File:vo_chengxiao_battlebegin_001.aac",
+            "text": "卦象はまずまず。歩みつつよく観察されよ。決して急いてはなりませぬ。"
+        },
+        {
+            "title": "戦闘勝利",
+            "filename": "File:vo_chengxiao_battlewin_001.aac",
+            "text": "……一隅を極め尽くせば、推演も誤ることなし。"
+        },
+        {
+            "title": "戦闘失敗",
+            "filename": "File:vo_chengxiao_battlelose_001.aac",
+            "text": "運命には……抗えませぬ……"
+        },
+        {
+            "title": "必殺技",
+            "filename": "File:bt_chengxiao_uniqueskill_001.aac",
+            "text": "天輪傾けば、天地も応ず。"
+        },
+        {
+            "title": "戦闘不能",
+            "filename": "File:bt_chengxiao_dead_001.aac",
+            "text": "あらゆる計算を尽くしても、なお運命からは逃れられぬもの……"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_chengxiao_greeting_001.aac",
+            "text": "……今日は天象に異変が見えます。もし用事がなければ、吾と共に一局占うのはいかがでしょう。"
+        },
+        {
+            "title": "会話1",
+            "filename": "File:vo_chengxiao_talk1_001.aac",
+            "text": "……これは断食ではありませぬ……ただ欲を断っているのみ。身は空であっても……心を乱されてはならぬのです……我が友よ……どうかご案じ召されぬよう。"
+        },
+        {
+            "title": "会話2",
+            "filename": "File:vo_chengxiao_talk1_002.aac",
+            "text": "夢に現れし者は……師匠に似ておりました……ですが、我が師匠にはあらず。深淵が……その姿を借り……吾の心を映し……また……厄運をも映したのです。"
+        },
+        {
+            "title": "会話3",
+            "filename": "File:vo_chengxiao_talk1_003.aac",
+            "text": "門下の者たちは……皆、厄運へと赴きました。吾は運命を算じ尽くし……終局を目にしたのです……ただ吾のみが……卦の外に落ち……どうすることもできませぬ。"
+        },
+        {
+            "title": "特殊会話1",
+            "filename": "File:vo_chengxiao_talk2_001.aac",
+            "text": "銅銭は小さく、軽いものではありますが……警告を与え、目を覚まさせ、変える力があります……友よ、どうか……大切にしまっておかれませ……"
+        },
+        {
+            "title": "特殊会話2",
+            "filename": "File:vo_chengxiao_talk2_002.aac",
+            "text": "この肉体はすでに、邪に堕ちております……残ったのは、ただこの一念のみ……己を縛りつけ……越えては……ならぬもの……"
+        },
+        {
+            "title": "特殊会話3",
+            "filename": "File:vo_chengxiao_talk2_003.aac",
+            "text": "吾は多くの者が……尽きる道へ行くのを目にしてきました……かつては己の……帰る場所を占ったことも。ですが貴方は……この局面を見抜かれた……この歩みそのものに……意味があったのだと。"
+        },
+        {
+            "title": "服従度MAX",
+            "filename": "File:vo_chengxiao_obeyfull_001.aac",
+            "text": "吾は常に天道のみを観察し……人の心は問うてきませんでした。衆生の往来も……ただ一局の推演に過ぎぬと。ですが貴方と歩むうち……ようやく気付いたのです――心の火は微かでも……再び灯り得ることを。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_chengxiao_idle_001.aac",
+            "text": "回転が止まったその刹那……かつての道観を夢に見たようでありました。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_chengxiao_clicking_001.aac",
+            "text": "……これ以上、むやみに動くのはおやめなさい。銅銭の秩序が乱れれば、運命も歪んでしまうでしょう。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_chengxiao_specialattention_001.aac",
+            "text": "吾は傍観することに慣れていました……しかし、貴方が置かれている状況は……放っておくべきではありませぬ。ですから……少しだけ介入させてくだされ。"
+        },
+        {
+            "title": "派遣",
+            "filename": "File:vo_chengxiao_dispatch_001.aac",
+            "text": "命の道を行き……星を観て……卦を問う……"
+        },
+        {
+            "title": "派遣完了",
+            "filename": "File:vo_chengxiao_dispatch2_001.aac",
+            "text": "……卦はすでに収束いたしました。得られたものは後に活かすこともできましょう。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_chengxiao_levelup_002.aac",
+            "text": "余波は尽きず……万象は自ずと成る……"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_chengxiao_head_001.aac",
+            "text": "これは……生者の温もり……なんと久しいこと……"
+        }
+    ]
+}

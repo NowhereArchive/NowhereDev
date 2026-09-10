@@ -116,7 +116,7 @@
             "text": "喜欢我的造型吗？这是新城最流行的款式。如果您也想要同款……那或许要先从蓄发开始。"
         }
     ],
-    "candlelit_turret": [
+    "塔楼烛光": [
         {
             "title": "获得装束",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "您的目光中盛满了诚挚，如果和您一起离开这里是您对我的要求，那我一定会答应的……只是，在那之前，希望您能在这里停留片刻，延缓步调，放松神经。"
         }
     ],
-    "woodland_wanderer": [
+    "林中客": [
         {
             "title": "获得装束",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",
@@ -208,6 +208,48 @@
             "title": "特别关注",
             "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
             "text": "感谢您的盛装出席，在您挽上我的手臂入场之前，请让我最后为您打理一下发型吧。"
+        }
+    ],
+    "涟影沉忆": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_adela_lianyingchenyi_cacha_001.aac",
+            "text": "历经长途跋涉来到这里，是要丢弃哪些烦忧？但请放心，无论如何，我都会让你重新感受到快乐和愉悦……"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_adela_lianyingchenyi_levelup_001.aac",
+            "text": "这一次，您心底的倒影，比从前更清晰了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_adela_lianyingchenyi_greeting_001.aac",
+            "text": "当我感受到思念之苦顺着河水离去时，就知道，是您来到我的身边了。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_adela_lianyingchenyi_body_001.aac",
+            "text": "请走进水流中吧，我会用遗忘之河的水洗去您所有的烦恼，任由它们下沉游走，让您留在我身边时，能永远开心……"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_adela_lianyingchenyi_body_002.aac",
+            "text": "遗忘之河明明清澈，却深不见底。它吞吃着人们的烦恼，在河地铺下一层又一层……有些人贪恋清除烦忧后的欢愉，会不由自主地继续下潜，直到……呵呵，别害怕，我会握紧你的手，不会让你滑下去的……"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_adela_lianyingchenyi_idle_001.aac",
+            "text": "我一直在这里。听水流带走一段又一段的忧愁。"
+        },
+        {
+            "title": "烦躁",
+            "filename": "File:vo_adela_lianyingchenyi_clicking_001.aac",
+            "text": "这样的触碰，是想留下些什么吗？对于我来说，这些接触是令人开心的记忆，它们不会被水冲刷走的。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_adela_lianyingchenyi_specialattention_001.aac",
+            "text": "您目光中的片刻停驻，是想将我记住？还是……也要将我一同留在那段被水流带走的记忆里？"
         }
     ]
 }

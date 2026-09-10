@@ -115,5 +115,47 @@
             "filename": "File:vo_lichen_head_001.aac",
             "text": "이것이 바로… '연인의 손길에 머리를 맡기며, 그대와 함께 영원을 기약한다'라는 것인가?"
         }
+    ],
+    "꿈속의_귀환": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_lichen_lirenguimeng_cacha_001_01.aac",
+            "text": "소나무 그림자가 비스듬히 드리우고, 맑은 바람이 스치는데… 이 아름다운 경치와 좋은 술을 혼자 즐기려니 적적하던 참이었어요~ 사제, 마침 잘 왔어요!"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_lichen_lirenguimeng_levelup_001.aac",
+            "text": "어머~ 제 어릴 적보다 훨씬 부지런하네요~"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_lichen_lirenguimeng_greeting_001_01.aac",
+            "text": "사제, 오랜만이에요. 모처럼 한가한데, 저와 한잔하시겠어요? 이 호리병 안에 꽤 좋은 것이 들어있답니다… 그게 뭔지는, 사제가 마셔보면 알겠지요!"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_lichen_lirenguimeng_body_001.aac",
+            "text": "창가에는 흩어진 그림자가 드리우고, 비 갠 하늘에는 밝은 달이 떠 있군요. 하지만 요즘 세상에서는 이런 아름다운 풍경을 좀처럼 보기 어렵죠. 이대로 조금만 더 오래 이어졌으면 좋겠네요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_lichen_lirenguimeng_body_002_01.aac",
+            "text": "사제, 제가 수행을 다 마치지도 않고 여기서 몰래 쉬고 있다는 건 다른 사람에게 말하면 안 돼요. 사부님께서 알게 되시면 또 잔소리를 늘어놓으실 테니까요. 여긴 우리 둘만 아는 '무릉도원'인 셈이에요, 알겠죠?"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_lichen_lirenguimeng_idle_001_01.aac",
+            "text": "사제, 좀 피곤하죠? 그러면 여기서 눈 좀 붙여요. 제가 이야기를 들려드릴게요. 옛날 옛적에 어느 산속에 도관이 하나 있었는데, 그 도관에는 어린 동자가 살고 있었답니다…"
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_lichen_lirenguimeng_clicking_001_01.aac",
+            "text": "응? 사제도 이렇게 응석 부릴 때가 다 있네요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_lichen_lirenguimeng_specialattention_001.aac",
+            "text": "맨날 이렇게 사저만 바라보면서 졸졸 쫓아다니면 어떡해요… 정말 못 말린다니까. 알겠어요, 이따 아침 수업은 사저가 같이 가 줄게요."
+        }
     ]
 }

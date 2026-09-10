@@ -116,7 +116,7 @@
             "text": "사건 현장에서 똑같은 장면을 찍었어, 용의자가 원한이 있는 사람 목에 손을 얹더니… 뚜두둑! 고화질 영상도 찍었는데 같이 볼래?"
         }
     ],
-    "in-cider_scoop": [
+    "미스_애플의_헤드라인": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "와, 카메라다! 자, 전부 여기 주목, 디스에서 가장 위대한 뉴스 기자 비앙카가 오늘 만찬의 헤드라인을 장식해 드리겠습니다!"
         }
     ],
-    "bouncing_toccata": [
+    "바운싱_토카타": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
@@ -208,6 +208,58 @@
             "title": "특별 주시",
             "filename": "File:vo_bianca_tantiaotuokata_specialattention_001.aac",
             "text": "헤헤, 대단하지? 놀랐지? 나를 다시 보게 됐지? 하지만 너무 놀라지는 마. 앞으로 놀랄 일이 많이 있거든! 나와 '꼬마 라이트닝'은 아직 진짜 실력을 보여주지도 않았다고. 눈 크게 뜰 준비나 해!"
+        }
+    ],
+    "창공의_추락": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_hand_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_specialattention_001.aac",
+            "text": "###"
         }
     ]
 }

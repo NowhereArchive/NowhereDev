@@ -116,7 +116,7 @@
             "text": "センスがいいわね。これは上庭で流行っているヘアスタイルで、誰でもできるわけではないのよ。もしよければ、美容師を紹介しましょうか？"
         }
     ],
-    "salon_rosé": [
+    "ビューティサロン": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "お気に入り",
             "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
             "text": "あら、その眼差し、覚えがあるわ……芸術家が、描きたいものを見つめる時の目ね。今の私を、あなたなりの方法で捉えようとしているなら……もっと優雅なポーズを取った方がいいかしら？"
+        }
+    ],
+    "新世界の夜明け": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_parfait_xinshijieliming_cacha_001.aac",
+            "text": "終末の方舟はすでに座礁し、雲も洪水も引いたわ。さあ、親愛なる友よ、星の会場へ行きましょう。そこで新世界の楽章を聴くのよ～"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_parfait_xinshijieliming_levelup_001.aac",
+            "text": "ますますあなたが気に入ったわ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_parfait_xinshijieliming_greeting_001.aac",
+            "text": "音楽は、ただ安らぎをもたらすだけではないのよ。よく聞いて。この生まれたばかりの旋律は、力強く、騒がしく、煌めくように喧騒に満ちているわ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_parfait_xinshijieliming_head_001.aac",
+            "text": "煩わしい儀礼は全て捨ててしまいましょう。特別な戴冠なんて必要ないわ。この頭上に降り注ぐ暁の光だけが、私にとって最上の冠なのだから。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_parfait_xinshijieliming_body_001.aac",
+            "text": "明けの明星はいつも闇の中で人々を未来へと導く。あなたの魂にも消えない星火が宿っているはずよ。さあ、それを見せてちょうだい。私が導いてあげましょう。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_parfait_xinshijieliming_body_002.aac",
+            "text": "二羽のウサギが駆け去り、二頭の鹿が小川で水を飲み、二羽の鳥が空を旋回しているのを見たわ。さて、ここにいる私たち二人は、何をすべきかしら？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_parfait_xinshijieliming_hand_001.aac",
+            "text": "方舟が岸に着いたわ。順番に降りてちょうだい。足元には気をつけて――もしバランスを崩したら、私の手を掴むのよ～"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_parfait_xinshijieliming_background_001.aac",
+            "text": "かつて人々は、ダイヤモンドを星が落とした欠片だと語ったわ。地球が数億万年かけて刻んだ鼓動と期待の結晶だともね。かつては貴重なものだったけれど、今ではただ一筋の輝きとなって、たまたま私たちの前に降ってきただけだわ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_parfait_xinshijieliming_idle_001.aac",
+            "text": "疲れてしまったかしら？さっきの動物たちが少し騒がしくしすぎたようね。彼らを追い払って、私たちだけの、プ・ラ・イ・ベー・ト・空・間を作りましょうか。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_parfait_xinshijieliming_specialattention_001.aac",
+            "text": "見ていないで、私と一緒にこの旋律の宴へ加わりましょう、親愛なる旅の友よ。"
         }
     ]
 }

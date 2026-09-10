@@ -116,7 +116,7 @@
             "text": "獅子の頭、キレイか？カッコイイか？オーラあるか？触りたいか？フフン……触らせないアルよ！"
         }
     ],
-    "king_of_lion_dance": [
+    "＊": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_owo_wushizhiwang_cacha_001.aac",
@@ -158,7 +158,7 @@
             "text": "＊"
         }
     ],
-    "auspicious_prancer": [
+    "福呼ぶ獅子": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_owo_xishiyingmen_cacha_001.aac",
@@ -198,6 +198,48 @@
             "title": "お気に入り",
             "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
             "text": "これはガオ様が特別に用意した新しい衣装ネ。こっちはガオ様と流民要塞のおじさんおばさんたちが一緒に作った新しい獅子頭アル。（訳：ほらほら、）ディス人、褒めてもいいアルよ～"
+        }
+    ],
+    "白波を跳ねる獅子": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_OwO_shiyuelanghua_cacha_001.aac",
+            "text": "ハァッ！ビーチを守るのはこのワタシ――「ビーチ獅子王」ガオ様アル！ヘヘッ！浅瀬で泳ぐ時もちゃんと気をつけて、瞬きするナ。ガオ様の新しい守護獅子舞が、いよいよ始まるアル！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_OwO_shiyuelanghua_levelup_001.aac",
+            "text": "ジャジャーン！ワタシが作った獅子の砂の彫刻、（訳：超カッコいいよナ～？）"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_OwO_shiyuelanghua_greeting_001.aac",
+            "text": "ほら、早く並ぶアル！ガオ様の獅子が、もうすぐ完成ネ。オマエは一番最初のVIP観客なんだから、開幕式の準備を手伝うアル！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_001.aac",
+            "text": "本番前に、でっかい獅子の砂の城も一緒に作るアルよ！オマエはワタシの最高の相棒だから、（訳：サボらせナイ！）"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_002.aac",
+            "text": "獅子舞は陸上だけなんて誰が決めたアル？ほら、浅瀬で泳いでる子も楽しそうネ。ワタシの獅子舞は、海の怪物を追い払って、みんなが安心して遊べるように祈るためのものアル！"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_OwO_shiyuelanghua_idle_001.aac",
+            "text": "（訳：はいはい～）安心して水に浮かぶといいネ。ガオ様がここから見守ってやるアル！"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_OwO_shiyuelanghua_clicking_001.aac",
+            "text": "うわああ！オマエ、獅子の目をものすごーく大きくしたナ！…………でも、これはこれで威風堂々としてるアル！まあ、仕方ナイ。ガオ様も、オマエの傑作を残しておいてやるネ！"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_OwO_shiyuelanghua_specialattention_001.aac",
+            "text": "何でずっとガオ様を見つめてるアル？そんなに砂の彫刻の進捗が気になるなら……特別に、ワタシ専属の扇ぎ係として横に立つのを許してやるネ！"
         }
     ]
 }

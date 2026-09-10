@@ -115,5 +115,57 @@
             "filename": "File:vo_xiaofeng_head_001.aac",
             "text": "Yeah, right there, scratch me a bit more. Mmm, so good..."
         }
+    ],
+    "blazing_summer": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_xiaofeng_lieriqingyang_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_xiaofeng_lieriqingyang_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_xiaofeng_lieriqingyang_greeting_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_xiaofeng_lieriqingyang_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_xiaofeng_lieriqingyang_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_xiaofeng_lieriqingyang_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_xiaofeng_lieriqingyang_hand_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_xiaofeng_lieriqingyang_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_xiaofeng_lieriqingyang_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_xiaofeng_lieriqingyang_specialattention_001.aac",
+            "text": "###"
+        }
     ]
 }

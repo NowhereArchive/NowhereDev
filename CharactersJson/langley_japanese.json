@@ -116,7 +116,7 @@
             "text": "試してみたいのはこの帽子か？それとも私の弾丸 ?"
         }
     ],
-    "banquet_guest": [
+    "夜宴の賓客": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "全ての情報はここにある。欲しければ……パーティーの後に少し付き合え——もちろん、情報の整理をするんだ。"
         }
     ],
-    "madame_maelstrom": [
+    "イーヴィル・バロネス": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",
@@ -220,7 +220,7 @@
             "text": "おかえり、私の航海士。島の状況はどうだ？何人駐留している？大砲の数は？いい偵察だ。我々の獲物はもうすぐ綻びを見せるらしい。"
         }
     ],
-    "sharpened_radiance": [
+    "鋭刃新光": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",

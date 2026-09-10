@@ -209,5 +209,47 @@
             "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
             "text": "Thank you for coming in such fine attire. Before you take my arm and escort me into the hall, please allow me to make one final adjustment to your hair."
         }
+    ],
+    "ripples_of_oblivion": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_adela_lianyingchenyi_cacha_001.aac",
+            "text": "You would travel so far to reach this place... What troubles do you wish to cast away? Rest assured, no matter what they are, I will help you feel joy and contentment once more..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_lianyingchenyi_levelup_001.aac",
+            "text": "This time, the reflection in your heart has become much clearer."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_lianyingchenyi_greeting_001.aac",
+            "text": "When I felt the ache of longing flow away with the river, I knew... that you had come to my side."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_adela_lianyingchenyi_body_001.aac",
+            "text": "Please, step into the water. The River of Oblivion will take away all your troubles. Just let them sink to the depths below... so that while you are by my side, you can be happy forever..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_adela_lianyingchenyi_body_002.aac",
+            "text": "The River of Oblivion may be clear, but it is bottomless. It devours people's troubles, layering the riverbed with woe upon woe... Some grow addicted to this bliss, and can't help but dive deeper and deeper, until... Hehe, there's no need to be afraid. I'll hold your hand tight. I would never let you slip away..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_lianyingchenyi_idle_001.aac",
+            "text": "I've always been here. Listening as the water carries away sorrow after sorrow."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_adela_lianyingchenyi_clicking_001.aac",
+            "text": "Do you... wish to leave something behind through your touch? For me, these moments are all joyful memories. They will never be washed away by the water."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_lianyingchenyi_specialattention_001.aac",
+            "text": "Your gaze lingers... do you wish to remember me? Or... will you leave me behind as well, along with all those memories carried away by the water?"
+        }
     ]
 }

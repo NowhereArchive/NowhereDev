@@ -116,7 +116,7 @@
             "text": "わたしの髪型がお気に召しました？ニューシティで最も流行っている髪型なんです。同じスタイルにするには……髪を伸ばすところから始めないといけませんね。"
         }
     ],
-    "candlelit_turret": [
+    "高塔の燭光": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "あなたの眼差しは誠実さに満ちています。もし、一緒にここを去ることがあなたの望みなら、わたしは必ずそれに応えます……ただ、その時が来るまでは、ここにしばらく留まって、歩みを緩め、緊張を解きほぐしてください。"
         }
     ],
-    "woodland_wanderer": [
+    "森の来客": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",
@@ -208,6 +208,48 @@
             "title": "お気に入り",
             "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
             "text": "素敵な衣装でのご出席、ありがとうございます。腕を組んで入場する前に、最後にもう一度あなたの髪を整えさせてください。"
+        }
+    ],
+    "波紋に沈む記憶": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_adela_lianyingchenyi_cacha_001.aac",
+            "text": "長い道のりを経てこちらへいらしたのは、どのような悩みを捨て去るためでしょう？ご安心ください。何があっても、あなたがもう一度喜びと楽しさを感じられるようにいたします……"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_adela_lianyingchenyi_levelup_001.aac",
+            "text": "今回、あなたの心に映る影は、以前よりもずっと鮮明ですね。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_adela_lianyingchenyi_greeting_001.aac",
+            "text": "恋しさの苦しみが川の流れに乗って去るのを感じた時、あなたがわたしの傍へ来てくださったのだと分かりました。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_adela_lianyingchenyi_body_001.aac",
+            "text": "さあ、水の中へお入りください。忘却の川の水で、あなたの悩みを全て洗い流し、水底へと沈めましょう。そうすれば、わたしの傍にいる間、あなたはいつまでも幸せでいられますよ……"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_adela_lianyingchenyi_body_002.aac",
+            "text": "忘却の川は、透き通っているのに、底が見えないほど深いのです。それは人々の悩みを飲み込み、川底に幾重にも積み重ねていきます……悩みから解放された心地よさに溺れ、さらに深く沈もうとする方もいますね……その先は……ふふ、怖がらないでください。わたしがしっかりと手を握っていますから、滑り落ちることはありません……"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_adela_lianyingchenyi_idle_001.aac",
+            "text": "わたしはずっとここにいます。流れが一つ、また一つと、悲しみを運び去るのを聞きながら。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_adela_lianyingchenyi_clicking_001.aac",
+            "text": "このように触れるのは、何かを残したいからですか？わたしにとって、こうした触れ合いは幸せな思い出であり、水で洗い流されることはありません。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_adela_lianyingchenyi_specialattention_001.aac",
+            "text": "あなたの視線が一瞬止まったのは、わたしを記憶に留めておきたいからですか？それとも……流れにさらわれていった記憶の中に、わたしも残そうとされているのでしょうか？"
         }
     ]
 }

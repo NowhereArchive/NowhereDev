@@ -167,5 +167,57 @@
             "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
             "text": "Ah, I've seen that gaze before... It's the look an artist has when contemplating something they want to capture. If you're trying to freeze this moment of me in your own way... should I strike a more elegant pose?"
         }
+    ],
+    "a_new_dawn": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_parfait_xinshijieliming_cacha_001.aac",
+            "text": "The ark has run aground, and the dark clouds and floods have receded. Come, my dear friend—let us journey together to the venue among the stars, and listen to the symphony of the new world!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_parfait_xinshijieliming_levelup_001.aac",
+            "text": "I appreciate you even more now."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_parfait_xinshijieliming_greeting_001.aac",
+            "text": "Music doesn't only bring tranquility. Listen to these rhythms of new life! Are they not so very vibrant and boisterous, brilliant and clamorous?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_parfait_xinshijieliming_head_001.aac",
+            "text": "Let's cast aside all those formalities. I don't need a special coronation—I only need the light of dawn upon my head. That will be a crown finer than any."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_parfait_xinshijieliming_body_001.aac",
+            "text": "The morning star always guides people toward the future through darkness. Your soul, too, holds such an unextinguished flame of the stars. Come. Let me see it, and let me guide it."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_parfait_xinshijieliming_body_002.aac",
+            "text": "I saw a pair of rabbits run away, a couple of deer drinking by the stream, and two birds circling in the sky. Now then, what do you suggest the two of us do here?"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_parfait_xinshijieliming_hand_001.aac",
+            "text": "The ark has docked. Please disembark in order and watch your step—and should you lose your balance, do remember to grab my hand!"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_parfait_xinshijieliming_background_001.aac",
+            "text": "People of the past said diamonds were fragments of fallen galaxies. They also claimed they were Earth's heartbeat and crystals of its patience, formed after billions of years. They were once so precious, yet now, they're but a gleam of radiance that happened to fall before us."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_parfait_xinshijieliming_idle_001.aac",
+            "text": "Are you tired? Were those animals just now too rowdy? In that case, I'll make them go away and leave us some private space."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_parfait_xinshijieliming_specialattention_001.aac",
+            "text": "Don't just stand there. Come—join me in this melodic banquet, my dear companion."
+        }
     ]
 }

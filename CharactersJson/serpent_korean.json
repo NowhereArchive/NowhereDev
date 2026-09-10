@@ -116,7 +116,7 @@
             "text": "용사는 사악한 뱀의 정수리를 꿰뚫었지. 정수리가 어디인 줄 알아? 네가 방금 쓰다듬은 곳이야."
         }
     ],
-    "awake_from_slumber": [
+    "겨울_잠": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "아이참, 금방 다 입을 거야! 또 재촉하면… 확 물어버린다!"
         }
     ],
-    "source_of_happiness": [
+    "즐거움의_원천": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
@@ -210,7 +210,7 @@
             "text": "이곳에 이미 온 이상, 이유를 알아차리기 전에, 즐거운 시간을 만끽하자고, 안 그래, 국장?"
         }
     ],
-    "elixir_of_euphoria": [
+    "매직_포션": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",

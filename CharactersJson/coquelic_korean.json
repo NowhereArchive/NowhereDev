@@ -116,7 +116,7 @@
             "text": "이 꽃이 마음에 들어? 아니면… 꽃이 어떻게 붉게 물들었는지 보고 싶은 거야?"
         }
     ],
-    "blossom": [
+    "만개": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
@@ -158,7 +158,7 @@
             "text": "새로 만든 화원에는 디스시티에서도 볼 수 없었던 희귀한 꽃들이 있어. 수련, 불보필룸… 응? 개양귀비만 보고 싶다고? 그럼… 날 많이 봐 둬~"
         }
     ],
-    "crimson_hunt": [
+    "붉은_숲의_비밀": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "하… 난 지금 네 눈빛이 좋아. 꾸밈없고 솔직하면서도, 생존과 승리, 그리고 정복에 대한 욕망으로 가득 차 있어… 바깥세상에는 제멋대로인 규칙이 수없이 많지만, 밀림 속에선 그런 속박이 존재하지 않아. 네가 만약 춤을 추고 싶다면, 음악이 나오길 기다릴 필요도 없어."
         }
     ],
-    "awaken_from_crimson_night": [
+    "붉은_밤의_각성": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",

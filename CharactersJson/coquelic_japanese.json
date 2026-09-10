@@ -116,7 +116,7 @@
             "text": "この花が好きなの？それとも……赤く染まる様子を見たい？"
         }
     ],
-    "blossom": [
+    "満開": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_coquelicot_shengfang_cacha_001.aac",
@@ -158,7 +158,7 @@
             "text": "新しく作った庭には、ディスシティでも見かけないような珍しい花がたくさん咲いているわ。紫色のスイレンにバルボフィラム……え？ヒナゲシだけを見ていたい？それなら……もっと私を見なさ～い。"
         }
     ],
-    "crimson_hunt": [
+    "緋色の迷林": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_coquelicot_feisemilin_cacha_001.aac",
@@ -200,7 +200,7 @@
             "text": "ふふ……その目つき、気に入ったわ。率直で、素直で、生存や勝利、あるいは征服への欲望で満ちている……外の世界には自分勝手なルールが溢れているけれど、この深い森の奥に、そんな縛りはないのよ。踊りたければ、音楽を待つ必要なんてないの。"
         }
     ],
-    "awaken_from_crimson_night": [
+    "緋夜覚醒": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_coquelicot_feiyechuxing_cacha_001.aac",

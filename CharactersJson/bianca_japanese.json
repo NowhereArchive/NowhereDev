@@ -116,7 +116,7 @@
             "text": "この動き、アタシが犯行現場で撮影した時のことを思い出したよ。容疑者は相手の首に手をかけて——ボキッ！高画質動画も保存してあるから一緒に見る？"
         }
     ],
-    "in-cider_scoop": [
+    "ミス・リンゴのトップニュース": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_bianca_pingguoxiaojiedetoutiao_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "わぁ、カメラだ！皆さん、私をご覧ください。ディスで最も偉大な記者・ビアンカが今日の晩餐会のビッグニュースをお届けいたします！"
         }
     ],
-    "bouncing_toccata": [
+    "バウンストッカータ": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_bianca_tantiaotuokata_cacha_001.aac",
@@ -208,6 +208,58 @@
             "title": "お気に入り",
             "filename": "File:vo_bianca_tantiaotuokata_specialattention_001.aac",
             "text": "えへへ、すごいでしょ？驚いたでしょ？アタシのことちょっと見直した？でも驚くのはまだ早いよ。これから目を丸くする瞬間がたくさん待ってるんだから！アタシと「ライトニングホワイトキーボード」は、まだ真の能力を発揮してない——驚く準備をしておいて！"
+        }
+    ],
+    "天穹の墜落地にて": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_cacha_001.aac",
+            "text": "衡量と裁きは、杖を握る者の本分だよ。杖を掲げれば、審判は光年を超えて下される。アタシは神々の王の代弁者として、星を眼とし、全ての人を……監察する！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_levelup_001.aac",
+            "text": "正義は必ず訪れるし、道は星々と共にある！"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_greeting_001.aac",
+            "text": "宇宙はこんなに広いのに、アタシと話せるのはキミだけなの？ふーん……まあ、いっか。宇宙規模の正義の裁きを見届ける覚悟はできた？"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_head_001.aac",
+            "text": "ちょっとちょっと、アタシは神々の王の代弁者だよ、正義の女神の化身だよ？賄賂が通じるなんて思わないで！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_body_001.aac",
+            "text": "昔から、リンゴは「欲望」のレッテルを貼られてきたけど、それは彼らの想像力が乏しすぎるからだよ。ほら、こうやって悪者の後頭部にぶつければ……パンッ！果肉が弾けて、果汁が飛び散る。まるで超新星の爆発みたいじゃない？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_body_002.aac",
+            "text": "アタシの小さな聞き手さん、こんな名言を知ってる？「リンゴの芯には宇宙が宿る」……知らない？まあ当然だよね。今、アタシが作ったんだから！あの巨大惑星の星雲、リンゴの皮みたいじゃない？"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_hand_001.aac",
+            "text": "アタシは天秤の両端に載る星屑を量り、宇宙の争いを裁いてきた。正義の分銅は決して軽くないの。持ち上げるにも下ろすにも力が必要なんだよ。試してみる？"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_background_001.aac",
+            "text": "宇宙は独自の法則で動いていて、正義もその法則に欠かせない要素なんだ。もし正義が裏切られたら、その法則もまた存在しなくなり、宇宙も……きっと滅びるだろうね。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_idle_001.aac",
+            "text": "宇宙って広くて静かで退屈でしょ？でも、そんなのには慣れっこ。正義を守る道はだいたい孤独だからね～"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_bianca_yutianqiongzhuiluochu_specialattention_001.aac",
+            "text": "ん？覗いてたの？どうぞご自由に。正義の女神は、360度どこから見ても完璧だから～"
         }
     ]
 }

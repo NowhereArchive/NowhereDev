@@ -116,7 +116,7 @@
             "text": "勇者用剑穿过蛇的颅顶，斩杀了凶恶的巨蛇，知道颅顶是哪里吗？就是你刚才抚摸的地方。"
         }
     ],
-    "awake_from_slumber": [
+    "酣眠初醒": [
         {
             "title": "获得装束",
             "filename": "File:vo_snake_hanmianchuxing_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "哎呀，我马上就穿戴好了！再催我……我可就咬你了！"
         }
     ],
-    "source_of_happiness": [
+    "快乐之源": [
         {
             "title": "获得装束",
             "filename": "File:vo_snake_kuailezhiyuan_cacha_001.aac",
@@ -210,7 +210,7 @@
             "text": "既然已经来到了这里，在弄清楚原委之前，不如尽情享受欢愉的时间，你说对么，亲爱的局长？"
         }
     ],
-    "elixir_of_euphoria": [
+    "秘制魔药": [
         {
             "title": "获得装束",
             "filename": "File:vo_snake_mizhimoyao_cacha_001.aac",

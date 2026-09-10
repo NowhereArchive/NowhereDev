@@ -116,7 +116,7 @@
             "text": "안목이 좋으시네요. 이건 낙원에서 유행하는 헤어스타일인데, 아무 미용사나 할 수 있는 건 아니에요. 제가 그 분을 소개해 드릴까요?"
         }
     ],
-    "salon_rosé": [
+    "장밋빛_살롱": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "특별 주시",
             "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
             "text": "아… 그 눈빛, 알아요. 예술가가 무언가를 그리기 직전, 그 대상에 온 마음을 쏟을 때만 나오는 표정이죠. 지금 당신만의 방식으로 저를 포착하려는 건가요? 그럼 좀 더 우아한 자세를 잡아야겠네요, 그렇죠?"
+        }
+    ],
+    "신세계의_여명": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_parfait_xinshijieliming_cacha_001.aac",
+            "text": "종말의 방주는 멈춰 섰고, 먹구름과 홍수도 모두 물러갔어요. 자, 저의 소중한 벗이여, 우리 함께 별들의 연회장에서 신세계의 악장을 들어볼까요~?"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_parfait_xinshijieliming_levelup_001.aac",
+            "text": "당신이 더 좋아졌어요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_parfait_xinshijieliming_greeting_001.aac",
+            "text": "음악이 꼭 평온함만을 주진 않아요. 들어보세요, 새롭게 태어난 이 선율들을요. 얼마나 생기 넘치고, 떠들썩하며 찬란한가요?"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_parfait_xinshijieliming_head_001.aac",
+            "text": "번거로운 격식은 전부 내려두세요. 특별한 대관식 따윈 필요 없답니다. 제겐 머리 위로 내려앉은 새벽빛이 바로 가장 아름다운 왕관이니까요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_parfait_xinshijieliming_body_001.aac",
+            "text": "샛별은 언제나 어둠 속에서 사람들을 미래로 인도하죠. 당신의 영혼 속에도 꺼지지 않은 별빛이 남아 있네요. 자, 그 빛을 제게 보여주세요. 제가 길을 이끌어 드릴게요."
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_parfait_xinshijieliming_body_002.aac",
+            "text": "토끼 한 쌍이 달아나고, 사슴 한 쌍이 냇가에서 물을 마시며, 새 두 마리가 하늘을 맴돌고 있네요. 그럼 여기 있는 우리 두 사람은 뭘 해야 할까요?"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_parfait_xinshijieliming_hand_001.aac",
+            "text": "방주가 해안가에 도착했으니, 차례대로 내려주세요. 발밑 조심하시고요. 중심을 잃었을 땐, 제 손을 꼭 잡아 주세요~"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_parfait_xinshijieliming_background_001.aac",
+            "text": "옛날 사람들은 다이아몬드를 은하수에서 떨어진 파편이자, 지구가 수억 년 동안 품어온 심장 박동과 기다림이라고 불렀죠. 한때는 그토록 귀했지만, 지금은 그저 우리 앞에 우연히 떨어진 반짝이는 한 줄기 빛일 뿐이네요."
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_parfait_xinshijieliming_idle_001.aac",
+            "text": "피곤하세요? 방금 저 동물들이 너무 시끄럽게 굴었죠? 제가 물러가게 할 테니, 우리만의 사.적.인 공간을 가지도록 해요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_parfait_xinshijieliming_specialattention_001.aac",
+            "text": "그렇게 바라만 보지 말고, 저와 함께 이 선율의 향연에 참여해 주세요. 저의 소중한 동행자여."
         }
     ]
 }

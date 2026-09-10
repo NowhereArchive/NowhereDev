@@ -116,7 +116,7 @@
             "text": "有眼光，这是上庭都在流行的发型款式，可不是人人都会做的。要不我把那位理发师介绍给您？"
         }
     ],
-    "salon_rosé": [
+    "瑰艺沙龙": [
         {
             "title": "获得装束",
             "filename": "File:vo_parfait_guiyishalong_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "特别关注",
             "filename": "File:vo_parfait_guiyishalong_specialattention_001.aac",
             "text": "啊，这种注视我见过……是艺术家凝视一件他想描绘的事物时才有的神情。如果你是在尝试用自己的方法定格我此刻的样子……我该摆个更优雅的姿势吗？"
+        }
+    ],
+    "新世界黎明": [
+        {
+            "title": "获得装束",
+            "filename": "File:vo_parfait_xinshijieliming_cacha_001.aac",
+            "text": "末日的方舟已经搁浅，阴云与洪水都已褪去，来吧，我亲爱的朋友，让我们一同前往星间的会场，聆听新世界的乐章~"
+        },
+        {
+            "title": "升级",
+            "filename": "File:vo_parfait_xinshijieliming_levelup_001.aac",
+            "text": "我更加欣赏你了。"
+        },
+        {
+            "title": "问候",
+            "filename": "File:vo_parfait_xinshijieliming_greeting_001.aac",
+            "text": "音乐并不只会带来安宁，听呀，这些新生的韵律，是那样蓬勃吵闹、灿烂喧嚣。"
+        },
+        {
+            "title": "摸头",
+            "filename": "File:vo_parfait_xinshijieliming_head_001.aac",
+            "text": "把那些繁文缛节都丢掉吧，我不需要特殊的加冕，只需破晓的光落在头上，那就是我最好的头冠。"
+        },
+        {
+            "title": "普通触摸1",
+            "filename": "File:vo_parfait_xinshijieliming_body_001.aac",
+            "text": "晨星总在黑暗中引导人们走向未来，你的灵魂里也有未熄灭的星火，来，让我看见它，让我引领它。"
+        },
+        {
+            "title": "普通触摸2",
+            "filename": "File:vo_parfait_xinshijieliming_body_002.aac",
+            "text": "我看到一对兔子跑开了，一双鹿在溪边喝水，两只鸟儿在空中盘旋，那你说说，我们这儿两个人，要做些什么呢？"
+        },
+        {
+            "title": "普通触摸3",
+            "filename": "File:vo_parfait_xinshijieliming_hand_001.aac",
+            "text": "方舟已经靠岸，请按顺序下船，小心脚下——失去平衡的时候，记得抓住我的手～"
+        },
+        {
+            "title": "普通触摸4",
+            "filename": "File:vo_parfait_xinshijieliming_background_001.aac",
+            "text": "过去的人们说钻石是星河坠落的碎片，也是地球亿万年的心跳与等待，它曾经很珍贵，现在不过是一抹闪耀的光辉，恰好落在我们面前。"
+        },
+        {
+            "title": "闲置",
+            "filename": "File:vo_parfait_xinshijieliming_idle_001.aac",
+            "text": "你累了吗？是不是刚刚这些动物太闹腾了？我让它们走开，给我们留出一些只有你我的私·人·空·间吧。"
+        },
+        {
+            "title": "特别关注",
+            "filename": "File:vo_parfait_xinshijieliming_specialattention_001.aac",
+            "text": "别光在那看着，来与我一同加入这场旋律的盛宴吧，我亲爱的同路人。"
         }
     ]
 }

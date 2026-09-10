@@ -115,5 +115,47 @@
             "filename": "File:vo_lichen_head_001.aac",
             "text": "これが……「想う者に頭を撫でられると……共に永劫の生を迎える」ということか？"
         }
+    ],
+    "離人帰夢": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_lichen_lirenguimeng_cacha_001_01.aac",
+            "text": "松の影が斜めに差し、清風が揺らぐ。この美景と佳酒を一人で愉しむのは少々寂しいと思うておったところじゃ。弟弟子よ、良いところに来てくれたのう！"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_lichen_lirenguimeng_levelup_001.aac",
+            "text": "ふむ……そなたは、この姉弟子が幼き頃よりも、遥かに勤勉じゃな～"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_lichen_lirenguimeng_greeting_001_01.aac",
+            "text": "弟弟子よ、久しいのう。せっかくの穏やかなひとときじゃ、我と一杯交わさぬか？このひょうたんの中には良いものが入っておる……弟弟子も一口飲めばすぐに分かるであろう！"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_lichen_lirenguimeng_body_001.aac",
+            "text": "軒窓に映る疎らな影、雨上がりの空に輝く月……されど、今の世にこのような佳き光景はそう多くは残されておらぬ。もう少し長く留まってくれればよいのじゃが。"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_lichen_lirenguimeng_body_002_01.aac",
+            "text": "弟弟子よ、我が稽古も終わらぬうちにここで息抜きしておることは、他言無用じゃ。もしお師匠様に知られれば、また小言を言われてしまうからのう。ここをそなたと我の二人だけが知る「蓬莱仙居」とするのはどうであろう？"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_lichen_lirenguimeng_idle_001_01.aac",
+            "text": "弟弟子は疲れ果ててしまったようじゃな？ならば、ここで眠るが良い。我が話を聞かせてやろう。昔々、あるところに山があり、山の中には道観があり、その道観には一人の幼き童子がおった……"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_lichen_lirenguimeng_clicking_001_01.aac",
+            "text": "ふむ？弟弟子も、そのように甘えることがあるのじゃな。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_lichen_lirenguimeng_specialattention_001.aac",
+            "text": "そうして常に姉弟子にまとわりつき、見つめてばかりおっては困るのう……ふむ、仕方のない奴じゃ。この後の朝課は、我も共に受けてやろう。"
+        }
     ]
 }

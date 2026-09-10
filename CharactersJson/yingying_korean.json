@@ -116,7 +116,7 @@
             "text": "머리카락을 쓰다듬는 걸로 충분한 거야? 눈 감고 있을 테니, 몇 초 동안 허락해 줄게. 어디를 만지고 싶어? 눈썹? 코? 아니면… 입술을 만지고 싶은 거야?"
         }
     ],
-    "fluttered_heartstrings": [
+    "초연의_선율": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "특별 주시",
             "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
             "text": "내 스타일링은 옛 그림 속 모습을 따라 한 건데, 자기 눈에는 어때? 응? 왜 쳐다보기만 하고 말을 안 해? 혹시 나한테 홀려서 말을 잃었어? 정말 그런 거라면, 나를 잘 지켜봐야겠네. 안 그러면 그림 속으로 돌아가 버릴지도 몰라!"
+        }
+    ],
+    "계곡의_그림자": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_yingying_qingjianzhaoying_cacha_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_yingying_qingjianzhaoying_levelup_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_yingying_qingjianzhaoying_greeting_001_01.aac",
+            "text": "###"
+        },
+        {
+            "title": "머리 쓰다듬기",
+            "filename": "File:vo_yingying_qingjianzhaoying_head_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_002.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치3",
+            "filename": "File:vo_yingying_qingjianzhaoying_hand_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "일반 터치4",
+            "filename": "File:vo_yingying_qingjianzhaoying_background_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_yingying_qingjianzhaoying_idle_001.aac",
+            "text": "###"
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_yingying_qingjianzhaoying_specialattention_001.aac",
+            "text": "###"
         }
     ]
 }

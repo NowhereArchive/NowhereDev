@@ -116,7 +116,7 @@
             "text": "이 모자를 써 보고 싶은 거야, 아니면 내 총알을 맛보고 싶은 거야?"
         }
     ],
-    "banquet_guest": [
+    "파티의_승자": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lanli_yeyanlaike_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "모든 정보는 이곳에 모여 있어. 원한다면… 파티가 끝난 후에 나랑 조금 더 있어 주겠나? 물론 정보를 정리하기 위해서 말이야."
         }
     ],
-    "madame_maelstrom": [
+    "오션_데몬": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lanli_ehainvjue_cacha_001.aac",
@@ -220,7 +220,7 @@
             "text": "나의 일등 항해사, 돌아온 걸 환영해. 저 섬의 상황은 어때? 몇 명이나 주둔 중이지? 화포 개수는? 정찰 업무를 훌륭하게 해냈군. 머지않아 우리의 사냥감이 약점을 드러내겠어."
         }
     ],
-    "sharpened_radiance": [
+    "시련의_서광": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_lanli_lifengxinhui_cacha_001.aac",

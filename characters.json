@@ -42,6 +42,10 @@
                 {
                     "name": "auspicious_prancer",
                     "displayName": "Auspicious Prancer"
+                },
+                {
+                    "name": "pouncing_on_the_surf",
+                    "displayName": "Pouncing on the Surf"
                 }
             ],
             "note": "The KFC collab voicelines are taken from the game aswell. They seem a little off perhaps because they are meant to be placeholders.",
@@ -161,6 +165,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "dream_of_reunion",
+                    "displayName": "Dream of Reunion"
                 }
             ],
             "slug": "lichen"
@@ -356,6 +364,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "blazing_summer",
+                    "displayName": "Blazing Summer"
                 }
             ],
             "slug": "xiaofeng"
@@ -476,6 +488,10 @@
                 {
                     "name": "woodland_wanderer",
                     "displayName": "Woodland Wanderer"
+                },
+                {
+                    "name": "ripples_of_oblivion",
+                    "displayName": "Ripples of Oblivion"
                 }
             ],
             "slug": "adela"
@@ -574,7 +590,7 @@
         },
         {
             "name": "hellasp",
-            "displayName": "Necresta Hella",
+            "displayName": "Necresta·Hella",
             "rank": "S",
             "libram": "FAMINE",
             "tendency": "Umbra",
@@ -628,6 +644,21 @@
                 }
             ],
             "slug": "hitomi"
+        },
+        {
+            "name": "faluer",
+            "displayName": "Phanuel",
+            "rank": "S",
+            "libram": "DEATH",
+            "tendency": "Umbra",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "phanuel"
         },
         {
             "name": "xiayin",
@@ -794,6 +825,10 @@
                 {
                     "name": "bouncing_toccata",
                     "displayName": "Bouncing Toccata"
+                },
+                {
+                    "name": "where_the_sky_falls",
+                    "displayName": "Where the Sky Falls"
                 }
             ],
             "slug": "bianca"
@@ -873,6 +908,21 @@
                 }
             ],
             "slug": "clementine"
+        },
+        {
+            "name": "chengxiao",
+            "displayName": "Chengxiao",
+            "rank": "S",
+            "libram": "IMMORTAL",
+            "tendency": "Reticle",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "chengxiao"
         },
         {
             "name": "heli",
@@ -1062,6 +1112,10 @@
                 {
                     "name": "fluttered_heartstrings",
                     "displayName": "Fluttered Heartstrings"
+                },
+                {
+                    "name": "bloom_by_the_brook",
+                    "displayName": "Bloom by the Brook"
                 }
             ],
             "slug": "yingying"
@@ -1353,6 +1407,10 @@
                 {
                     "name": "salon_rosé",
                     "displayName": "Salon Rosé"
+                },
+                {
+                    "name": "a_new_dawn",
+                    "displayName": "A New Dawn"
                 }
             ],
             "slug": "parfait"
@@ -2479,6 +2537,21 @@
             "slug": "thani"
         },
         {
+            "name": "yiwei",
+            "displayName": "Evie",
+            "rank": "A",
+            "libram": "LOVE",
+            "tendency": "Arcane",
+            "category": "Sinners",
+            "attires": [
+                {
+                    "name": "default",
+                    "displayName": "Default"
+                }
+            ],
+            "slug": "evie"
+        },
+        {
             "name": "airuier",
             "displayName": "Ariel",
             "rank": "A",
@@ -2672,6 +2745,10 @@
                 {
                     "name": "default",
                     "displayName": "Default"
+                },
+                {
+                    "name": "seabreeze_afterglow",
+                    "displayName": "Seabreeze Afterglow"
                 }
             ],
             "slug": "cassian"

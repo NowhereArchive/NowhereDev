@@ -199,5 +199,47 @@
             "filename": "File:vo_owo_xishiyingmen_specialattention_001.aac",
             "text": "This, is the new custome OwO prepared for the show; and this, is the new lion head the folks at Drifter Camp made with me. There, there, Dis-pal, you can flatter me now~"
         }
+    ],
+    "pouncing_on_the_surf": [
+        {
+            "title": "Attire Obtained",
+            "filename": "File:vo_OwO_shiyuelanghua_cacha_001.aac",
+            "text": "Behold! I am the guardian of this beach, the one and only Beach Lion Queen OwO! Safety first, even when splashing around, so eyes on me! My brand-new protective lion dance is starting!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_OwO_shiyuelanghua_levelup_001.aac",
+            "text": "Ta-daaa! Check out my lion sand sculpture! <i>Isn't it just the coolest?</i>"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_OwO_shiyuelanghua_greeting_001.aac",
+            "text": "You there! Come stand right here! My majestic lion sand sculpture is almost done, and since you're the very first VIP guest, you have to help me with the grand unveiling ceremony!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_001.aac",
+            "text": "Before the show begins, let's build the biggest lion sandcastle together! You're my best partner, <i>so no slacking off, got it?</i>"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_OwO_shiyuelanghua_talk_002.aac",
+            "text": "Who says lion dancing is just for land? See those kids splashing in the shallows? My lion dance is here to wish the sea monsters a nice big detour, so everyone stays safe and sound!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_OwO_shiyuelanghua_idle_001.aac",
+            "text": "<i>There we go</i>, just relax and float! Your guardian lion queen won't take her eyes off you for a second!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_OwO_shiyuelanghua_clicking_001.aac",
+            "text": "Ahhh, you made the lion sand sculpture's eyes way bigger! ..Hmm? Actually, that looks kind of majestic! Fine, fine, I'll reluctantly accept your masterpiece!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_OwO_shiyuelanghua_specialattention_001.aac",
+            "text": "What's this? You can't take your eyes off this great queen? Since you care so much about my sandcastle progress... I'll grant you the grand honor of being my royal fan-bearer!"
+        }
     ]
 }

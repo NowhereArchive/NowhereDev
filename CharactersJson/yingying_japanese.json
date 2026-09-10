@@ -116,7 +116,7 @@
             "text": "ただ髪の毛に触れるだけでいいのかい？よし、あたいは目を閉じてちょっと時間をあげよう。他に触れたいところは？まつ毛？鼻？それとも……唇かい？"
         }
     ],
-    "fluttered_heartstrings": [
+    "初鳴きの弦": [
         {
             "title": "衣装獲得",
             "filename": "File:vo_yingying_xiaoxianchushang_cacha_001.aac",
@@ -166,6 +166,58 @@
             "title": "お気に入り",
             "filename": "File:vo_yingying_xiaoxianchushang_specialattention_001.aac",
             "text": "この衣装は、昔の絵を真似したものさ。坊ちゃんは気に入ってくれたかい？ん？なんでじっと見つめたまま、何も言わないんだい？もしかして、あたいに見惚れて褒め言葉も忘れたのかねぇ。本当にそうなら、目を離さないでおくれ。でないと、また絵の中に戻るかもしれないよ！"
+        }
+    ],
+    "清流に映る影": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_yingying_qingjianzhaoying_cacha_001.aac",
+            "text": "山あいの小川を追いかけて走っていたら、お前様の夢まで来ちゃったみたいだねぇ。驚いたかい？どうしてそんなにぼーっとしているんだい？水遊びする花の精を見たことがないのか、それとも……こんなに綺麗な花の精を見たことがないのかねぇ？"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_yingying_qingjianzhaoying_levelup_001.aac",
+            "text": "ずいぶんすっきりしたから、もっと長く傍にいられそうだよ。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_yingying_qingjianzhaoying_greeting_001_01.aac",
+            "text": "坊ちゃんも、このせせらぎに誘われて来たのかい？ほら、こっちに座って少し休んでいっておくれ。水がひんやりしていて、暑さも和らぐよ。"
+        },
+        {
+            "title": "頭をなでる",
+            "filename": "File:vo_yingying_qingjianzhaoying_head_001.aac",
+            "text": "ん……まだ髪から水が滴っているのに、気にならないのかい？それなら……もう少し触るといいさ。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_001.aac",
+            "text": "ほらあの小魚、ずっとあたいの足元をくるくる回っているだろう。まるで水に映るあたいに口づけしているみたいだ。もしかして……あの子は、あたいを水の中の花だと思っているのかねぇ？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_yingying_qingjianzhaoying_body_002.aac",
+            "text": "昔はね、水が枯れて、花も散ってしまったら、あたいも消えるんじゃないかって思っていたんだよ。でも今は違う。お前様が目を覚ました後もあたいを覚えていてくれたら、その心に居座って、どこにも行かないからね。"
+        },
+        {
+            "title": "タッチ3",
+            "filename": "File:vo_yingying_qingjianzhaoying_hand_001.aac",
+            "text": "山奥のお年寄りが言うには、この川は山頂の雪解け水でできていて、浸かれば肌がつるつるすべすべになるらしいよ……信じられないかい？ほら、手を出して。触ってみれば分かるはずさ。"
+        },
+        {
+            "title": "タッチ4",
+            "filename": "File:vo_yingying_qingjianzhaoying_background_001.aac",
+            "text": "葉の間から差し込む木漏れ日は、まるで水面に金粉をまいたみたいだねぇ。山風が吹くと花びらと光がゆらゆら揺れて……本当に綺麗だ。この谷の全てを、お前様と一緒に見ていたい。どれだけ見ても、きっと飽きないだろうさ。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_yingying_qingjianzhaoying_idle_001.aac",
+            "text": "ああ、水面に映る影が一つだけなんて寂しいね～ほらほら、ぼんやりしていないで、こっちで一緒に遊んでおくれ。"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_yingying_qingjianzhaoying_specialattention_001.aac",
+            "text": "あたいの顔に花びらでもついているから、そんなに見つめるのかい？それとも、この谷の花の精があまりにも美しいから、目が離せないのかねぇ？"
         }
     ]
 }

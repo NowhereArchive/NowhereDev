@@ -110,5 +110,47 @@
             "filename": "File:vo_cassian_levelup_002.aac",
             "text": "確かに力が必要だ。ありがとう。"
         }
+    ],
+    "ほろ酔いの潮風": [
+        {
+            "title": "衣装獲得",
+            "filename": "File:vo_cassian_xunranhaifeng_cacha_001.aac",
+            "text": "ここは、船室の天井越しに想像していた海とは全く違う……視界が開けているし、景色も美しい。「創られた」ものだと分かっていても、心が安らぎ、落ち着く――今この静けさを共有しているのが、貴方だからかもしれないが。"
+        },
+        {
+            "title": "レベルアップ",
+            "filename": "File:vo_cassian_xunranhaifeng_levelup_001.aac",
+            "text": "貴方と少し話すだけでも、多くのことを学べた。"
+        },
+        {
+            "title": "挨拶",
+            "filename": "File:vo_cassian_xunranhaifeng_greeting_001.aac",
+            "text": "局長も休憩に来たのか？もし今夜、他に仕事がないなら……特製の一杯を作ろう。"
+        },
+        {
+            "title": "タッチ1",
+            "filename": "File:vo_cassian_xunranhaifeng_body_001.aac",
+            "text": "こういった景色は、軽く一杯飲むのにふさわしい……「テキーラサンライズ」と「ブルーマルガリータ」、今の雰囲気にはどちらが合うだろうか？"
+        },
+        {
+            "title": "タッチ2",
+            "filename": "File:vo_cassian_xunranhaifeng_body_002.aac",
+            "text": "僕も以前、貴族たちのビーチパーティーに参加したことがある。だが、ほとんどの奴が高価な仮想の海を見せびらかしたいだけだった。あの頃の僕は、海を彼らの引き立て役としか思っていなかったから、真面目に見たことはなかったな……でも今、貴方と一緒に見ていると、たとえ偽りの海でも、眺める価値があるように思える。"
+        },
+        {
+            "title": "放置",
+            "filename": "File:vo_cassian_xunranhaifeng_idle_001.aac",
+            "text": "……貴方と一緒にいると、いつもめったにない安らぎを感じる。"
+        },
+        {
+            "title": "苛立つ",
+            "filename": "File:vo_cassian_xunranhaifeng_clicking_001.aac",
+            "text": "もっと遠くの浅瀬まで一緒に歩きたいから、そんな風に動いているのか？"
+        },
+        {
+            "title": "お気に入り",
+            "filename": "File:vo_cassian_xunranhaifeng_specialattention_001.aac",
+            "text": "僕がここに座っていることで、貴方が景色を楽しむ邪魔になっていないといいんだが……ん？僕がいるからこそ、もっと美しい景色が見られるだって？"
+        }
     ]
 }

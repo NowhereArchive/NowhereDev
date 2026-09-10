@@ -116,7 +116,7 @@
             "text": "제 스타일이 맘에 드시나요? 요즘 신성에서 가장 유행하는 스타일이랍니다. 똑같은 스타일을 원한다면… 머리부터 길러야겠네요."
         }
     ],
-    "candlelit_turret": [
+    "탑의_촛불": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.aac",
@@ -168,7 +168,7 @@
             "text": "당신의 눈빛엔 진심이 가득하네요. 제가 당신과 함께 떠나길 바라는 거라면, 함께 할게요… 다만 그 전에, 당신이 잠시 여기 머물며 발걸음을 늦추고 마음을 진정시켰으면 좋겠어요."
         }
     ],
-    "woodland_wanderer": [
+    "숲속의_손님": [
         {
             "title": "스킨 획득",
             "filename": "File:vo_adela_linzhongke_cacha_001.aac",
@@ -208,6 +208,48 @@
             "title": "특별 주시",
             "filename": "File:vo_adela_linzhongke_specialattention_001.aac",
             "text": "파티에 참석해 주셔서 감사해요. 제 손을 잡고 들어가기 전에 마지막으로 한 번만 더 머리를 정리해 드릴게요."
+        }
+    ],
+    "물결에_잠긴_기억": [
+        {
+            "title": "스킨 획득",
+            "filename": "File:vo_adela_lianyingchenyi_cacha_001.aac",
+            "text": "먼 길을 거쳐 이곳까지 오신 건, 어떤 근심을 내려놓기 위해서인가요? 안심하세요, 제가 어떻게든 기쁨과 즐거움을 다시 느낄 수 있게 해드릴게요…"
+        },
+        {
+            "title": "레벨업",
+            "filename": "File:vo_adela_lianyingchenyi_levelup_001.aac",
+            "text": "이번에는, 당신 마음속에 비친 그림자가 전보다 훨씬 선명해졌네요."
+        },
+        {
+            "title": "안부",
+            "filename": "File:vo_adela_lianyingchenyi_greeting_001.aac",
+            "text": "그리움의 고통이 강물을 따라 멀어지는 것을 느꼈을 때, 저는 알았답니다. 당신이 제 곁으로 다가왔다는걸요."
+        },
+        {
+            "title": "일반 터치1",
+            "filename": "File:vo_adela_lianyingchenyi_body_001.aac",
+            "text": "물속으로 들어오세요. 망각의 강물에 모든 근심을 씻어내고, 가라앉은 고민들은 흘려보내 드릴게요. 제 곁에 머무는 동안은 영원히 행복할 거예요…"
+        },
+        {
+            "title": "일반 터치2",
+            "filename": "File:vo_adela_lianyingchenyi_body_002.aac",
+            "text": "망각의 강은 맑고 투명하지만, 너무 깊어서 바닥이 보이지 않아요. 그것은 사람들의 근심을 삼켜 강바닥 아래 차곡차곡 쌓아놓죠… 어떤 사람은 근심이 사라진 뒤의 홀가분함에 취해, 자신도 모르게 계속해서 깊이 내려간답니다. 그러다 결국… 후훗, 무서워하지 마세요. 제가 손을 꼭 붙잡고 있을 테니, 당신이 미끄러져 내려가게 두지 않을게요…"
+        },
+        {
+            "title": "방치",
+            "filename": "File:vo_adela_lianyingchenyi_idle_001.aac",
+            "text": "전 늘 여기 있어요. 물결이 슬픔을 하나씩 내려보내는 소리를 들으면서요."
+        },
+        {
+            "title": "초조",
+            "filename": "File:vo_adela_lianyingchenyi_clicking_001.aac",
+            "text": "이 손길은, 무언가를 남기고 싶어서인가요? 제게 이런 손길은 행복한 기억이라, 물에 씻겨 내려가지 않을 거예요."
+        },
+        {
+            "title": "특별 주시",
+            "filename": "File:vo_adela_lianyingchenyi_specialattention_001.aac",
+            "text": "시선이 잠시 머문 건, 저를 기억하고 싶어서인가요? 아니면… 저에 관한 기억을 물결에 씻겨 내려가게 하려는 건가요?"
         }
     ]
 }
