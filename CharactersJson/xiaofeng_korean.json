@@ -120,52 +120,52 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_xiaofeng_lieriqingyang_cacha_001.aac",
-            "text": "###"
+            "text": "어이~ 회색 털 뭉치, 아직도 일하고 있어? 여기는 파란 하늘에 흰 구름, 바다까지 다 있다고. 부럽지? 얼른 와서 같이 놀자!"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_xiaofeng_lieriqingyang_levelup_001.aac",
-            "text": "###"
+            "text": "좋아, 바로 이 맛이지!"
         },
         {
             "title": "안부",
             "filename": "File:vo_xiaofeng_lieriqingyang_greeting_001.aac",
-            "text": "###"
+            "text": "맑은 하늘에 푸른 바다, 수박에 생선구이까지. 여기 누워서 일광욕을 즐기는 것, 이게 바로 인생이지… 어이 거기! 시원한 걸로 한 잔 더!"
         },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_xiaofeng_lieriqingyang_head_001.aac",
-            "text": "###"
+            "text": "아, 좀 더 세게, 이쪽으로, 그래. 조금만 더 위로… 옳지."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_xiaofeng_lieriqingyang_body_001.aac",
-            "text": "###"
+            "text": "모처럼의 외출인데, 그 시끄러운 벽돌 덩어리 좀 내려놓지 그래? 허구한 날 고개 처박고 뭐 하는 짓이야? 오늘은 여기서 실컷 놀기나 하라고. 하늘이 무너져도 내가 받쳐 줄 테니까."
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_xiaofeng_lieriqingyang_body_002.aac",
-            "text": "###"
+            "text": "수영할 줄 아냐고? 장난해? 산전수전 다 겪은 내가 고작 디스의 인공 바다 따위를 무서워할 줄 알아? 기다리고 있어, 내가 당장 들어가서 해산물 몇 개 낚아올 테니까!"
         },
         {
             "title": "일반 터치3",
             "filename": "File:vo_xiaofeng_lieriqingyang_hand_001.aac",
-            "text": "###"
+            "text": "아까 꼬맹이들이 모래성 만들자고 불렀는데, 안 갔어. 내가 나서면 1등일 게 뻔하잖아. 여기서 너랑 노는 게 훨씬 낫지. 네 손에 든 꼬치 나 한 입만 줘, 아~"
         },
         {
             "title": "일반 터치4",
             "filename": "File:vo_xiaofeng_lieriqingyang_background_001.aac",
-            "text": "###"
+            "text": "인간들은 참 피곤해. 산에서 물놀이할 땐 이렇게 거추장스럽게 껴입을 필요 없는데 말이야. 다음엔 산속 연못에 데려가서 실컷 헤엄치게 해줄게… 어라, 얼굴이 왜 빨개졌어? 알았어, 알았다고. 네가 입으라면 입어야지 뭐. 그래서 이 옷 어때? 마음에 들어?"
         },
         {
             "title": "방치",
             "filename": "File:vo_xiaofeng_lieriqingyang_idle_001.aac",
-            "text": "###"
+            "text": "못 걷겠으면 좀 쉬어. 이리 와서 누워봐. 내가 선크림 발라줄게."
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_xiaofeng_lieriqingyang_specialattention_001.aac",
-            "text": "###"
+            "text": "기념사진 찍으려는 거지? 그래그래. 자, 이쪽으로 서서 많이 찍어봐!"
         }
     ]
 }

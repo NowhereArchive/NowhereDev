@@ -172,52 +172,52 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_yingying_qingjianzhaoying_cacha_001.aac",
-            "text": "###"
+            "text": "산골짜기 계곡물을 따라 달리다 보니, 어느새 네 꿈속까지 들어와 버렸지 뭐야. 깜짝 놀랐지? 뭘 그렇게 멍하니 있어? 물놀이하는 꽃 선녀는 처음 봐서 그래…? 아니면, 이렇게 예쁜 꽃 선녀는 처음 봐?"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_yingying_qingjianzhaoying_levelup_001.aac",
-            "text": "###"
+            "text": "몸이 한결 개운해졌어. 이제 더 오래 곁에 있을 수 있겠는걸?"
         },
         {
             "title": "안부",
             "filename": "File:vo_yingying_qingjianzhaoying_greeting_001_01.aac",
-            "text": "###"
+            "text": "자기도 졸졸 흐르는 물소리에 이끌려 온 거야? 이리 와, 앉아서 좀 쉬어. 물이 시원해서 더위 식히기 딱 좋아."
         },
         {
             "title": "머리 쓰다듬기",
             "filename": "File:vo_yingying_qingjianzhaoying_head_001.aac",
-            "text": "###"
+            "text": "흠… 머리에 아직 물기가 있는데, 축축해도 상관없어? 그럼… 조금 더 만져도 좋아."
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_yingying_qingjianzhaoying_body_001.aac",
-            "text": "###"
+            "text": "저 작은 물고기 좀 봐. 계속 내 발만 맴돌고 있어. 내 그림자에 입을 맞추는 것 같은데. 혹시… 얘가 날 물속에 핀 꽃이라고 생각하는 걸까?"
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_yingying_qingjianzhaoying_body_002.aac",
-            "text": "###"
+            "text": "예전에 이런 생각을 한 적이 있어. 만약 물이 마르고 꽃이 시들어버리면, 나도 이대로 사라져 버리는 걸까 하고 말이야. 그러다 문득 깨달았지. 네가 깨어난 뒤에도 날 기억해 준다면, 난 너의 마음에 눌러앉아서 절대 떠나지 않을 거라고."
         },
         {
             "title": "일반 터치3",
             "filename": "File:vo_yingying_qingjianzhaoying_hand_001.aac",
-            "text": "###"
+            "text": "산속 어르신들 말로는, 이 시냇물은 꼭대기에 있던 눈이 녹아 만들어진 거래. 이 물로 씻으면 피부가 매끄럽고 보들보들해진다나… 못 믿겠어? 손 한번 내밀어 봐. 정말 그런지 직접 확인해 보는 거야."
         },
         {
             "title": "일반 터치4",
             "filename": "File:vo_yingying_qingjianzhaoying_background_001.aac",
-            "text": "###"
+            "text": "나뭇잎 사이로 스며든 햇빛이 수면에 뿌려놓은 금가루 같아. 산바람이 불어오니 꽃잎과 빛무리가 함께 흔들거려… 진짜 예쁘거든. 이 골짜기의 모든 풍경을 너와 함께 보고 싶어. 아무리 오래 봐도 질리지 않을 거야."
         },
         {
             "title": "방치",
             "filename": "File:vo_yingying_qingjianzhaoying_idle_001.aac",
-            "text": "###"
+            "text": "이런, 물에 비친 그림자가 하나라 너무 외롭잖아~ 자기야, 그렇게 멍하니 있지만 말고 이리 와서 나랑 같이 놀자."
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_yingying_qingjianzhaoying_specialattention_001.aac",
-            "text": "###"
+            "text": "그렇게 계속 날 빤히 보고 있는 건, 내 얼굴에 꽃잎이라도 묻어서야? 아니면 이 골짜기의 꽃 선녀가 너무 예뻐서 도저히 눈을 뗄 수 없는 거야?"
         }
     ]
 }

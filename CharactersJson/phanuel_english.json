@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_faluer_cacha_001.aac",
+            "text": "Hi everyone~! I'm Phanuel, your angel idol who brings love and happiness to all! Are you ready to become my most devoted Cherubs?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_faluer_promotion_001.aac",
+            "text": "I'll stand on an even bigger stage, so that more people can see Phanuel's smile!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_faluer_promotion2_001.aac",
+            "text": "Welcome to Phanuel's concert! Offer your breath, your heartbeat, and your very soul to me! Phanuel will take you to the most blissful paradise! It's a promise! ♥"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_faluer_battlebegin_001.aac",
+            "text": "Mask, sunglasses, hat... perfect! With this camouflage, no way the paparazzi will recognize me. Let's go."
+        },
+        {
+            "title": "Victory",
+            "filename": "File:vo_faluer_battlewin_001.aac",
+            "text": "I wouldn't be here without my devoted Cherubs! Thank you all so much!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_faluer_battlelose_001.aac",
+            "text": "I sincerely apologize for this performance. I will become more perfect and return. Thank you for your support. I sincerely apologize for this performance..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_faluer_uniqueskill_001.aac",
+            "text": "Offer your all to Phanuel!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_faluer_dead_001.aac",
+            "text": "No...Don't look away... Keep looking at Phanuel... Keep your eyes on me..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_faluer_greeting_001.aac",
+            "text": "Let's give it our all today too! Phanuel will always be by your side. When you really can't go on anymore, I'll chase every last bit of your weariness away with my super-duper healing smile!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_faluer_talk1_001.aac",
+            "text": "It's cheer time! Do you remember the spell that brings happiness to all my Cherubs? Say it with me—\"Rumble tumble, smiles aglow! Ding-dong ding-dong, hearts overflow~!\""
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_faluer_talk1_002.aac",
+            "text": "Phanuel's favorite season is spring, favorite color is pink, favorite foods are strawberry milk and cotton candy—buuut! Most importantly! Phanuel's favorite person is you, right there in the audience."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_faluer_talk1_003.aac",
+            "text": "\"We made a promise—everyone would stay by my side. You'll never leave me, never...\" No, this won't do. The new song is supposed to be a sweet little love song. Lemme give it another shot!"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_faluer_talk2_001.aac",
+            "text": "Even though I'm at the Bureau, my fans can still visit my official website and see me anytime. They're sooo lucky, don't you think? Of course, the content is for premium members only, but for my devoted Cherubs... that much should be nothing, right?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_faluer_talk2_002.aac",
+            "text": "Don't say things like you can't live without Phanuel... If anything, it's Phanuel who can't live without you, my Cherub. An angel without her wings... without a stage, without your eyes on her, without your love... is nothing. You wouldn't let that happen to Phanuel, would you?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_faluer_talk2_003.aac",
+            "text": "Which of Phanuel's stage looks do you like best? The sweet one? The cool one? Or something a little more... mature? You want to know what Phanuel looked like before debut? Oopsie, I guess I forgot~ But that's okay. It doesn't matter. The Phanuel you love right now is the real Phanuel, after all!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_faluer_obeyfull_001.aac",
+            "text": "Even someone as capable as you would have worries, right? You can tell Phanuel everything. Lean on Phanuel a little, won't you? I'll take you somewhere under the spotlight for a sweet dream. Somewhere without the tiresome reality. Somewhere with only flowers, ribbons, cheers, and the two of us... You'll only have eyes for me, and only think about me... You'll offer everything... to me..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_faluer_idle_001.aac",
+            "text": "My schedule is empty... That's okay! Phanuel can just find something to do! Like... like... I don't know. Phanuel's schedule is empty...."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_faluer_clicking_001.aac",
+            "text": "Hah? Phanuel has never done something like this before... Since you're the one requesting it... Then... let's keep it between us, okay? Don't let the other Cherubs find out~"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_faluer_specialattention_001.aac",
+            "text": "It's not every day I get to be this close to my Cherubs! Let's take a photo together to remember this moment, okay? You're not allowed to say no! Three, two, one... heart~"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_faluer_dispatch_001.aac",
+            "text": "A new booking? Wonderful. Phanuel will give her all for her devoted Cherubs! Just wait for the good news!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_faluer_dispatch2_001.aac",
+            "text": "Here! Heart-shaped cookies, baked by Phanuel herself. It's a little reward for my dearest fans who waited so long for me. Now then, open wide, say ahh—"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_faluer_levelup_002.aac",
+            "text": "Your support is the magic that fills Phanuel's heart with happiness."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_faluer_head_001.aac",
+            "text": "Are you patting my head... because you like me? Then I have to return the favor! Here, a biiig hug, just for you!"
+        }
+    ]
+}

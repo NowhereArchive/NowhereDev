@@ -204,42 +204,42 @@
         {
             "title": "스킨 획득",
             "filename": "File:vo_OwO_shiyuelanghua_cacha_001.aac",
-            "text": "###"
+            "text": "에헴! 이 해변의 지킴이는 바로 나, '해변의 사자왕' 어흥 님이시다! 헤헤, 얕은 곳에서 수영할 때도 조심해야 해. 모두 한눈팔지 마, 어흥 님께서 새로 만든 수호의 사자춤 공연이 곧 시작한다구!"
         },
         {
             "title": "레벨업",
             "filename": "File:vo_OwO_shiyuelanghua_levelup_001.aac",
-            "text": "###"
+            "text": "짜잔! 내가 만든 사자상 좀 봐, 완전 대박이지~!"
         },
         {
             "title": "안부",
             "filename": "File:vo_OwO_shiyuelanghua_greeting_001.aac",
-            "text": "###"
+            "text": "얼른 와서 서 있어! 이 어흥 님이 만든 사자상이 곧 완성될 거란 말이야. 신입 스크립터가 첫 번째 VIP 관객이니까 제막식 준비 좀 도와줘!"
         },
         {
             "title": "일반 터치1",
             "filename": "File:vo_OwO_shiyuelanghua_talk_001.aac",
-            "text": "###"
+            "text": "공연 시작 전에 우리 함께 가장 큰 사자상을 만들어 볼까? 넌 내 최고의 파트너니까, 게으름 피우면 안 돼!"
         },
         {
             "title": "일반 터치2",
             "filename": "File:vo_OwO_shiyuelanghua_talk_002.aac",
-            "text": "###"
+            "text": "사자춤은 땅에서만 공연할 수 있다고 누가 그래? 저기 물가에서 신나게 수영하는 꼬마들 좀 봐. 내 사자춤 공연은 바다 괴물도 기겁하고 도망가게 하거든. 그래야 다들 맘 편히 놀 수 있지 않겠어!"
         },
         {
             "title": "방치",
             "filename": "File:vo_OwO_shiyuelanghua_idle_001.aac",
-            "text": "###"
+            "text": "자자, 걱정 말고 물 위에 떠 있으라고. 어흥 님이 여기서 지켜보고 있을 테니까!"
         },
         {
             "title": "초조",
             "filename": "File:vo_OwO_shiyuelanghua_clicking_001.aac",
-            "text": "###"
+            "text": "으아아악, 사자상의 눈을 너무 크게 파버렸잖아! …근데 의외로 꽤 위엄 있어 보이네! 그, 그럼 어흥 님이 특별히 네 작품을 남겨 두도록 할게!"
         },
         {
             "title": "특별 주시",
             "filename": "File:vo_OwO_shiyuelanghua_specialattention_001.aac",
-            "text": "###"
+            "text": "왜 어흥이를 그렇게 빤히 보고 있는 거야? 사자상이 어떤지 신경 쓰인다면… 특별히 내 전속 부채질 담당을 하게 해 줄게!"
         }
     ]
 }
